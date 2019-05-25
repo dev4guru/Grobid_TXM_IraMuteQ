@@ -1,0 +1,13 @@
+{	 "idArt" : "186",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2013",
+	 "place" : "Toulouse",
+	 "location" : { "lat" :  43.604652, 
+		 "lon" : 1.444209 }, 
+	 "title" : "Modèle de Recherche d'Information Sociale Centré Utilisateur",
+	 "abstract" : "L'émergence des réseaux sociaux a révolutionné leWeb en permettant notamment aux individus de prolonger leur connexion virtuelle en une relation plus réelle et de partager leurs connaissances. Ce nouveau contexte de diffusion de l'information sur le Web peut constituer un moyen efficace pour cerner les besoins en information des utilisateurs du Web, et permettre à la recherche d'information (RI) de mieux répondre à ces besoins en adaptant les modèles d'indexation et d'interrogation. L'exploitation des réseaux sociaux confronte la RI à plusieurs défis dont les plus importants concernent la représentation de l'information dans ce modèle social de RI et son évaluation, en l'absence de collections de test et de compétitions dédiées. Dans cet article, nous présentons un modèle de RI sociale dans lequel nous proposons de modéliser et d'exploiter le contexte social de l'utilisateur. Nous avons évalué notre modèle à l'aide d'une collection de test de RI sociale construite à partir des annotations du réseau social de bookmarking collaboratif Delicious.",
+	 "authors" : ["Chahrazed Bouhini","Mathias Géry","Christine Largeron"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1001846" 
+} 
+ 

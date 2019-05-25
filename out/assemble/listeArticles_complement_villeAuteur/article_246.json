@@ -1,0 +1,9 @@
+{	 "idArt" : "246",
+	 "placeAut" : [ 
+		{ "place" : "Clermont-Ferrand",
+		 "country" : "France",
+		 "location" : { "lat" :  45.77722199999999, 
+			 "lon" : 3.0870250000000397 } }
+	 ]
+} 
+ 

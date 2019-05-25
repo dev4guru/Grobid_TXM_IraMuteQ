@@ -1,0 +1,14 @@
+{	 "idArt" : "991",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2005",
+	 "place" : "Paris",
+	 "location" : { "lat" :  48.856614, 
+		 "lon" : 2.3522219 }, 
+	 "title" : "Modélisation d'un agent émotionnel en UML et RDF",
+	 "abstract" : "Pouvoir extraire de la connaissance à partir d'une plate-forme de simulation est aujourd'hui envisageable en conjuguant les avancées obtenues en Intelligence Artificielle autour des systèmes multi-agents et les méthodes de formalisation et d'extraction des connaissances. C'est donc dans un cadre général de gestion des connaissances que nous proposons de modéliser un agent artificiel doté de connaissances et d'émotions. Pour cela, une expertise psychologique a été recueillie et formalisée de manière à être stockée dans une base de connaissances sous forme de règles et de classes en UML et RDF. L'implémentation du modèle permet d'entrevoir les perspectives d'une telle simulation : enrichissement par des données issues de simulations, découverte de nouvelles connaissances par l'application de processus d'ECD.",
+	 "authors" : ["Hélène Desmier","Fabrice Guillet","Adina Magda Florea","Henri Briand","Vincent Philippé"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1000406" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1000406" 
+} 
+ 

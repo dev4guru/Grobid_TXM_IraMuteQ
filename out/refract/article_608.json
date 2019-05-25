@@ -1,0 +1,22 @@
+{
+"year": "2008",
+"metaSession": "0",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1000550",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1000550",
+"abstract": "As the Internet continues to change the way we live, find information, communicate, and do business, it has also been taking on a dramatically increasing role in marketing and advertising. Unlike any prior mass medium, the Internet is a unique medium when it comes to interactivity and offers ability to target and program messaging at the individual level. Coupled with its uniqueness in the richness of the data that is available for measurability, in the variety of ways to utilize the data, and in the great dependence of effective marketing on applications that are heavily data-driven, makes data mining and statistical data analysis, modeling, and reporting an essential mission-critical part of running the on-line business. However, because of its novelty and the scale of data sets involved, few companies have figured out how to properly make use of this data. In this talk, I will review some of the challenges and opportunities in the utilization of data to drive this new generation of marketing systems. I will provide several examples of how data is utilized in critical ways to drive some of these capabilities. The discussion will be framed with theMore general framework of Grand Challenges for data mining : pragmatic and technical. I will conclude this presentation with a consideration of the larger issues surrounding the Internet as a technology that is ubiquitous in our lives, yet one where very little is understood, at the scientific level, in defining and understanding many of the basics the Internet enables : Community, Personalization, and the new Microeconomics of the web. This leads to an overview of the new Yahoo ! Research organization and its aims : inventing the new sciences underlying what we do on the Internet, focusing on areas that have received little attention in the traditional academic circles. Some illustrative examples will be reviewed to make the ultimate goals more concrete.",
+"title": "From Mining the Web to Inventing the New Sciences Underlying the Internet",
+"placeAut":[{
+"place":"Sunnyvale",
+"country":"USA",
+"location":{
+	"lat":"37.36883",
+	"lon":"-122.0363496"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 43.6163539, u'lon': 7.0552218}",
+"place": "Sophia Antipolis",
+"booktitle": "EGC ",
+"idArt": "608",
+"authors": "Usama M. Fayyad"
+}

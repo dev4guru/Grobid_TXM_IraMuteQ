@@ -1,0 +1,15 @@
+{
+"idArt": "1235",
+"series": "Revue des Nouvelles Technologies de l'Information",
+"booktitle": "EGC",
+"year": "2017",
+"title": "Prévision à court terme des flux de voyageurs du réseau ferré urbain : une approche par les réseaux bayésiens dynamiques",
+"abstract": "Nous proposons une approche de prévision à court terme des flux devoyageurs du réseau ferré d'Île-de-France basée sur les réseaux bayésiens dy-namiques. La structure du modèle repose sur les relations de causalité entre lesflux adjacents et permet d'intégrer l'offre de transport. En présence de donnéesmanquantes, l'apprentissage est réalisé via l'algorithme espérance-maximisation(EM) structurel. En appliquant notre approche sur une ligne de métro, les résul-tats obtenus sont globalement supérieurs à ceux des autres méthodes testées.",
+"authors": "Jérémy Roos, Stéphane Bonnevay, Gérald Gavin",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1002291",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1002291",
+"metaSession": "Pr�visions�",
+"place": "Grenoble",
+"Latitude": " 45.188576 ",
+"Longitude": "5.724571"
+}

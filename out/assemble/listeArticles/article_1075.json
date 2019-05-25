@@ -1,0 +1,14 @@
+{	 "idArt" : "1075",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2004",
+	 "place" : "Clermont-Ferrand",
+	 "location" : { "lat" :  45.77722199999999, 
+		 "lon" : 3.087025 }, 
+	 "title" : "OpAC : Opérateur d'analyse en ligne basé sur une technique de fouilles de données",
+	 "abstract" : "L'analyse en ligne OLAP (On-Line Analysis Processing) et la fouille de données (Data Mining) sont deux champs de recherche qui ont connu, depuis quelques années, des évolutions parallèles et indépendantes. De récentes études ont montré l'importance et l'intérêt de l'association entre ces deux domaines scientifiques. A l'heure actuelle, on assiste à l'accroissement du besoin d'une analyse en ligne plus élaborée. Nous pensons que le couplage entre OLAP et la fouille de données pourra apporter des réponses à ce besoin. Dans cet article, nous proposons d'adopter ce couplage en vue de créer un nouvel opérateur, baptisé OpAC (Opérateur d'Agrégation par Classification), d'analyse en ligne des données multidimensionnelles. OpAC consiste particulièrement en l'agrégation sémantique des modalités d'une dimension d'un cube de données en se basant sur la technique de la classification ascendante hiérarchique.",
+	 "authors" : ["Riadh Ben Messaoud","Sabine Rabaseda","Omar Boussaid","Fadila Bentayeb"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1000889" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1000889" 
+} 
+ 

@@ -1,0 +1,22 @@
+{
+"year": "2013",
+"metaSession": "5",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1001865",
+"pdfarticle": "",
+"abstract": "Nous proposons dans cet article de présenter une application d'analyse d'une base de données de grande taille issue du secteur des télécommunications. Le problème consiste à segmenter un territoire et caractériser les zones ainsi définies grâce au comportement des habitants en terme de téléphonie mobile. Nous disposons pour cela d'un réseau d'appels inter-antennes construit pendant une période de cinq mois sur l'ensemble de la France. Nous proposons une analyse en deux phases. La première couple les antennes émettrices dont les appels sont similairement distribués sur les antennes réceptrices et vice versa. Une projection de ces groupes d'antennes sur une carte de France permet une visualisation des corrélations entre la géographie du territoire et le comportement de ses habitants en terme de téléphonie. La seconde phase découpe l'année en périodes entre lesquelles on observe un changement de distributions d'appels sortant des groupes d'antennes. On peut ainsi caractériser l'évolution temporelle du comportement des usagers de mobiles dans chacune des zones du pays.",
+"title": "Étude des corrélations spatio-temporelles des appels mobiles en France",
+"placeAut":[{
+"place":"Lannion",
+"country":"France",
+"location":{
+	"lat":"48.732084",
+	"lon":"-3.459144"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 43.604652, u'lon': 1.444209}",
+"place": "Toulouse",
+"booktitle": "EGC",
+"idArt": "173",
+"authors": "['Romain Guigourès','Marc Boullé','Fabrice Rossi']"
+}

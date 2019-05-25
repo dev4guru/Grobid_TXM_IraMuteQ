@@ -1,0 +1,14 @@
+{	 "idArt" : "932",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2005",
+	 "place" : "Paris",
+	 "location" : { "lat" :  48.856614, 
+		 "lon" : 2.3522219 }, 
+	 "title" : "ACKA : Une approche d'acquisition coopérative de connaissances pour la construction d'un modèle de simulation multi-agents",
+	 "abstract" : "Cet article présente une approche (ACKA an Approach for Cooperative Knowledge Acquisition) participative et coopérative d'acquisition de connaissances nécessaires pour la construction d'un modèle de simulation basé sur des agents. Elle est basée sur le principe de jeu de rôles dans une réunion d'entreprise. Nous proposons de construire un modèle multi-acteurs, représentant un modèle initial du système multi-agents. Dans cette étude, Nous appliquons ACKA pour construire un modèle multi-acteurs pour la compréhension des processus de décision dans les ?rmes de la ?liere avicole. En particulier, nous cherchons à comprendre les impacts des comportements individuels sur la gestion de l'utilisation des matières premières agricoles.",
+	 "authors" : ["Athmane Hamel","Suzanne Pinson"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1000403" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1000403" 
+} 
+ 

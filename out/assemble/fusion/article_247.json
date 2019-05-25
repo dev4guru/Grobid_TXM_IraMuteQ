@@ -1,0 +1,22 @@
+{
+"year": "2012",
+"metaSession": "",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1001128",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1001128",
+"abstract": "Advanced biotechnologies have rendered feasible high-throughput data collecting in human and other model organisms. The availability of such data holds promise for dissecting complex biological processes. Making sense of the flood of biological data poses great statistical and computational challenges. I will discuss the problem of mining gene-gene interactions in high-throughput genetic data. Finding genetic interactions is an important biological problem since many common diseases are caused by joint effects of genes. Previously, it was considered intractable to find genetic interactions in the whole-genome scale due to the enormous search space. The problem was commonly addressed using heuristics which do not guarantee the optimality of the solution. I will show that by utilizing the upper bound of the test statistic and effectively indexing the data, we can dramatically prune the search space and reduce computational burden. Moreover, our algorithms guarantee to find the optimal solution. In addition to handling specific statistical tests, our algorithms can be applied to a wide range of study types by utilizing convexity, a common property of many commonly used statistics.",
+"title": "Mining Genetic Interactions in Genome-Wide Association Study",
+"placeAut":[{
+"place":"Los Angeles",
+"country":"USA",
+"location":{
+	"lat":"34.0522342",
+	"lon":"-118.2436849"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 44.837789, u'lon': -0.57918}",
+"place": "Bordeaux",
+"booktitle": "EGC",
+"idArt": "247",
+"authors": "Wei Wang    "
+}

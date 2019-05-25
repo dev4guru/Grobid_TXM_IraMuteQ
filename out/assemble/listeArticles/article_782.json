@@ -1,0 +1,14 @@
+{	 "idArt" : "782",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2006",
+	 "place" : "Lille",
+	 "location" : { "lat" :  50.62925, 
+		 "lon" : 3.057256 }, 
+	 "title" : "Carte auto-organisatrice probabiliste sur données binaires",
+	 "abstract" : "Lesméthodes factorielles d'analyse exploratoire statistique définissentdes directions orthogonales informatives à partir d'un ensemble de données.Elles conduisent par exemple à expliquer les proximités entre individus à l'aided'un groupe de variables caractéristiques.Dans le contexte du datamining lorsqueles tableaux de données sont de grande taille, une méthode de cartographie synthétiques'avère intéressante. Ainsi une carte auto-organisatrice (SOM) est uneméthode de partitionnement munie d'une structure de graphe de voisinage -surles classes- le plus souvent planaire. Des travaux récents sont développés pourétendre le SOM probabiliste Generative Topographic Mapping (GTM) aux modèlesde mélanges classiques pour données discrètes. Dans ce papier nous présentonset étudions un modèle génératif symétrique de carte auto-organisatricepour données binaires que nous appelons Bernoulli Aspect Topological Model(BATM). Nous introduisons un nouveau lissage et accélérons la convergence del'estimation par une initialisation originale des probabilités en jeu.",
+	 "authors" : ["Mohamed Nadif","Rodolphe Priam"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1000386" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1000386" 
+} 
+ 

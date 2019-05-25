@@ -1,0 +1,13 @@
+{	 "idArt" : "170",
+	 "placeAut" : [ 
+		{ "place" : "Tunis",
+		 "country" : "Tunisia",
+		 "location" : { "lat" :  36.8064948, 
+			 "lon" : 10.181531599999971 } },
+		{ "place" : "Saint-Étienne",
+		 "country" : "France",
+		 "location" : { "lat" :  45.439695, 
+			 "lon" : 4.387177899999983 } }
+	 ]
+} 
+ 

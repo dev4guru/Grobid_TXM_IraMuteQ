@@ -1,0 +1,22 @@
+{
+"year": "2007",
+"metaSession": "8",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1001288",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1001288",
+"abstract": "Le problème de choix d'architecture d'un réseau de neurones multicouches reste toujours très difficile à résoudre dans un processus de fouille de données. Ce papier recense quelques algorithmes de recherche d'architectures d'un réseau de neurones pour les tâches de classification. Il présente également une analyse théorique et expérimentale de ces algorithmes. Ce travail confirme les difficultés de choix des paramètres d'apprentissage (modèle, nombre de couches, nombre de neurones par couches, taux d'apprentissage, algorithme d'apprentissage,...) communs à tout processus de construction de réseaux de neurones et les difficultés de choix de paramètres propres à certains algorithmes.",
+"title": "Une étude des algorithmes de construction d'architecture des réseaux de neurones multicouches",
+"placeAut":[{
+"place":"Lens",
+"country":"France",
+"location":{
+	"lat":"50.42893",
+	"lon":"2.83183"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 50.4673883, u'lon': 4.8719854}",
+"place": "Namur",
+"booktitle": "EGC",
+"idArt": "750",
+"authors": "['Norbert Tsopzé','Engelbert Mephu Nguifo','Gilbert Tindo']"
+}

@@ -1,0 +1,22 @@
+{
+"year": "2015",
+"metaSession": "3",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1002092",
+"pdfarticle": "",
+"abstract": "Dans les systèmes d'apprentissage supervisé par construction de règles de classification floues, un nombre élevé d'attributs descriptifs conduit à une explosion du nombre de règles générées et peut affecter la précision des algorithmes d'apprentissage. Afin de remédier à ce problème, une solution est de traiter séparément des sous-groupes d'attributs. Cela permet de décomposer le problème d'apprentissage en des sous-problèmes de complexité inférieure, et d'obtenir des règles plus intelligibles car de taille réduite. Nous proposons une nouvelle méthode de regroupement des attributs qui se base sur le concept des règles d'association. Ces règles découvrent des relations intéressantes entre des intervalles de valeurs des attributs. Ces liaisons locales sont ensuite agrégées au niveau des attributs mêmes en fonction du nombre de liaisons trouvées et de leur importance. Notre approche, testée sur différentes bases d'apprentissage et comparée à l'approche classique, permet d'améliorer la précision tout en garantissant une réduction du nombre de règles.",
+"title": "Regroupement d'attributs par règles d'association dans les systèmes d'inférence floue",
+"placeAut":[{
+"place":"Tunis",
+"country":"Tunisie",
+"location":{
+	"lat":"36.8064948",
+	"lon":"10.1815316"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 49.815273, u'lon': 6.129582999999999}",
+"place": "Luxembourg",
+"booktitle": "EGC",
+"idArt": "49",
+"authors": "['Ilef Ben Slima','Amel Borgi']"
+}

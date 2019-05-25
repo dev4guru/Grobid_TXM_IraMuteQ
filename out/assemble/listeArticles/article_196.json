@@ -1,0 +1,13 @@
+{	 "idArt" : "196",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2013",
+	 "place" : "Toulouse",
+	 "location" : { "lat" :  43.604652, 
+		 "lon" : 1.444209 }, 
+	 "title" : "Technique de factorisation multi-biais pour des recommandations dynamiques",
+	 "abstract" : "La factorisation de matrices offre une grande qualité de prédiction pour les systèmes de recommandation. Mais sa nature statique empêche de tenir compte des nouvelles notes que les utilisateurs produisent en continu. Ainsi, la qualité des prédictions décroît entre deux factorisations lorsque de nombreuses notes ne sont pas prises en compte. La quantité de notes écartées est d'autant plus grande que la période entre deux factorisation est longue, ce qui accentue la baisse de qualité.Nos travaux visent à améliorer la qualité des recommandations. Nous proposons une factorisation de matrices utilisant des groupes de produits et intégrant en ligne les nouvelles notes des utilisateurs. Nous attribuons à chaque utilisateur un biais pour chaque groupe de produits similaires que nous mettons à jour. Ainsi, nous améliorons significativement les prédictions entre deux factorisations. Nos expérimentations sur des jeux de données réels montrent l'efficacité de notre approche.",
+	 "authors" : ["Modou Gueye","Talel Abdesssalem","Hubert Naacke"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1001856" 
+} 
+ 

@@ -1,0 +1,9 @@
+{	 "idArt" : "486",
+	 "placeAut" : [ 
+		{ "place" : "Vandoeuvre Lès-Nancy",
+		 "country" : "France",
+		 "location" : { "lat" :  48.66111799999999, 
+			 "lon" : 6.173760000000016 } }
+	 ]
+} 
+ 

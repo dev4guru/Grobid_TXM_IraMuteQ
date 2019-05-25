@@ -1,0 +1,13 @@
+{	 "idArt" : "195",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2013",
+	 "place" : "Toulouse",
+	 "location" : { "lat" :  43.604652, 
+		 "lon" : 1.444209 }, 
+	 "title" : "SNOW, un algorithme exploratoire pour le subspace clustering",
+	 "abstract" : "Cet article propose un nouvel algorithme pour le problème de subspace clustering dénommé SNOW. Contrairement aux approches descendantes classiques, il ne repose pas sur l'hypothèse de localité et permet l'affectation d'une donnée à plusieurs clusters dans des sous-espaces différents. Les expérimentations préliminaires montrent que notre approche obtient de meilleurs résultats que l'algorithme COPAC sur une base de référence et a été appliquée sur une base de données réelles.",
+	 "authors" : ["Sylvain Dormieu","Nicolas Labroche"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1001868" 
+} 
+ 

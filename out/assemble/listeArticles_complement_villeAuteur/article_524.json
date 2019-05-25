@@ -1,0 +1,17 @@
+{	 "idArt" : "524",
+	 "placeAut" : [ 
+		{ "place" : "Tunis",
+		 "country" : "Tunisie",
+		 "location" : { "lat" :  36.8064948, 
+			 "lon" : 10.181531599999971 } },
+		{ "place" : "Le Chesnay",
+		 "country" : "France",
+		 "location" : { "lat" :  48.82541500000001, 
+			 "lon" : 2.1305439999999862 } },
+		{ "place" : "Paris",
+		 "country" : "France",
+		 "location" : { "lat" :  48.856614, 
+			 "lon" : 2.3522219000000177 } }
+	 ]
+} 
+ 

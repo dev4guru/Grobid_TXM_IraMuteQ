@@ -1,0 +1,14 @@
+{	 "idArt" : "558",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2009",
+	 "place" : "Strasbourg",
+	 "location" : { "lat" :  48.5734053, 
+		 "lon" : 7.752111299999999 }, 
+	 "title" : "SVM incrémental et parallèle sur GPU",
+	 "abstract" : "Nous présentons un nouvel algorithme incrémental et parallèle deSéparateur à Vaste Marge (SVM ou Support Vector Machine) pour laclassification de très grands ensembles de données en utilisant le processeur dela carte graphique (GPUs, Graphics Processing Units). Les SVMs et lesméthodes de noyaux permettent de construire des modèles avec une bonneprécision mais ils nécessitent habituellement la résolution d'un programmequadratique ce qui requiert une grande quantité de mémoire et un long tempsd'exécution pour les ensembles de données de taille importante. Nousprésentons une extension de l'algorithme de Least Squares SVM (LS-SVM)proposé par Suykens et Vandewalle pour obtenir un algorithme incrémental etparallèle. Le nouvel algorithme est exécuté sur le processeur graphique pourobtenir une bonne performance à faible coût. Les résultats numériques sur lesensembles de données de l'UCI et Delve montrent que notre algorithmeincrémental et parallèle est environ 70 fois plus rapide sur GPU que sur CPUet significativement plus rapide (plus de 1000 fois) que les algorithmesstandards tels que LibSVM, SVM-perf et CB-SVM.",
+	 "authors" : ["François Poulet","Thanh-Nghi Do","Van-Hoa Nguyen"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1000743" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1000743" 
+} 
+ 

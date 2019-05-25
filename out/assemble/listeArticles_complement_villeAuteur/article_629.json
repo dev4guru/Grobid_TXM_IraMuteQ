@@ -1,0 +1,13 @@
+{	 "idArt" : "629",
+	 "placeAut" : [ 
+		{ "place" : "Rennes",
+		 "country" : "France",
+		 "location" : { "lat" :  48.117266, 
+			 "lon" : -1.6777925999999752 } },
+		{ "place" : "Cantho",
+		 "country" : "Vietnam",
+		 "location" : { "lat" :  10.0451618, 
+			 "lon" : 105.74685350000004 } }
+	 ]
+} 
+ 

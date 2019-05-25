@@ -1,0 +1,14 @@
+{	 "idArt" : "639",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC ",
+	 "year" : "2008",
+	 "place" : "Sophia Antipolis",
+	 "location" : { "lat" :  43.6163539, 
+		 "lon" : 7.0552218 }, 
+	 "title" : "Recherche adaptative de structures de régulation génétique",
+	 "abstract" : "Nous avons proposé un algorithme original de Fouille de Données, LICORN, afin d'inférer des relations de régulation coopérative à partir de données d'expression. LICORN donne de bons résultats s'il est appliqué à des données de levure, mais le passage à l'échelle sur des données plus complexes (e.g., humaines) est difficile. Dans cet article, nous proposons une extension de LICORN afin qu'il puisse gérer une contrainte de co-régulation adaptative. Une évaluation préliminaire sur des données de transcriptome de tumeurs de vessie montre que les réseaux significatifs sont obtenus à l'aide d'une contrainte de corégulation adaptative de manière beaucoup plus efficace, et qu'ils ont des performances de prédiction équivalentes voire meilleures que celles obtenues par LICORN.",
+	 "authors" : ["Mohamed Elati","Céline Rouveirol"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1000631" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1000631" 
+} 
+ 

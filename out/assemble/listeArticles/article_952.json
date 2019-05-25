@@ -1,0 +1,14 @@
+{	 "idArt" : "952",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2005",
+	 "place" : "Paris",
+	 "location" : { "lat" :  48.856614, 
+		 "lon" : 2.3522219 }, 
+	 "title" : "Classification non supervisée et visualisation 3D de documents",
+	 "abstract" : "Le nombre de documents issus d'une requête sur le Web devient de plus en plus important. Cela nous amène à chercher des solutions pour aider l'utilisateur qui est confronté à cette masse de données. Une alternative possible à un affichage linéaire non triée selon un critère, consiste à effectuer une classification des résultats. C'est dans ce but que l'on s'intéresse aux cartes auto-organisatrices de Kohonen qui sont issues d'un d'algorithme de classification non supervisée. Cependant, il faut ajouter des contraintes à cet algorithme afin qu'il soit adapté à la classification des résultats d'une requête. Par exemple, il doit être déterministe. De plus la classification obtenue dépend fortement de la distance utilisée pour comparer deux documents. On évalue alors l'impact de différentes distances ou dissimilarités, afin de trouver la plus adaptée à notre problème. Un compromis doit également être trouvé entre le temps d'exécution de l'algorithme et la qualité de la classification obtenue. Pour cela, l'utilisation d'un échantillonnage est envisagée. Enfin, ces travaux sont intégrés dans un prototype qui permet de visualiser les résultats en trois dimensions et d'interagir avec eux.",
+	 "authors" : ["Nicolas Bonnel","Annie Morin","Alexandre Cotarmanac'h"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1000379" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1000379" 
+} 
+ 

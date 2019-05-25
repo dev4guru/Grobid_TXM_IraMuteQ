@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/josuah/Bureau/grobid/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="fr">
+		<encodingDesc>
+			<appInfo>
+				<application version="0.5.5-SNAPSHOT" ident="GROBID" when="2019-04-04T12:42+0000">
+					<ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Une méthode de découverte de motifs contextualisés dans les traces de mobilité d&apos;une personne</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Aimene</forename><surname>Belfodil</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Mehdi</forename><surname>Kaytoue</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Céline</forename><surname>Robardet</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Marc</forename><surname>Plantevit</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Julien</forename><surname>Zarka</surname></persName>
+						</author>
+						<author>
+							<affiliation key="aff0">
+								<orgName type="institution" key="instit1">Université de Lyon</orgName>
+								<orgName type="institution" key="instit2">CNRS</orgName>
+								<orgName type="institution" key="instit3">INSA-Lyon</orgName>
+								<address>
+									<addrLine>LIRIS UMR5205</addrLine>
+									<postCode>F-69621</postCode>
+									<settlement>Lyon</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff1">
+								<orgName type="institution" key="instit1">Université de Lyon</orgName>
+								<orgName type="institution" key="instit2">CNRS</orgName>
+								<orgName type="institution" key="instit3">Univ</orgName>
+								<address>
+									<addrLine>Lyon 1</addrLine>
+									<postCode>LIRIS UMR5205, F-69622</postCode>
+									<settlement>Lyon</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff2">
+								<orgName type="department">Mobile Devices</orgName>
+								<address>
+									<addrLine>100 Avenue de Stalingrad</addrLine>
+									<postCode>F-94800</postCode>
+									<settlement>Villejuif</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Une méthode de découverte de motifs contextualisés dans les traces de mobilité d&apos;une personne</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<abstract>
+				<p>Les traces de mobilité générées par les divers capteurs qui nous en-tourent peuvent être analysées à des fins prédictives et explicatives pour répondre à divers problèmes du quotidien. Si de nombreuses méthodes ont été propo-sées pour décrire le comportement d&apos;un individu de manière globale à partir des transitions entre ses différents points d&apos;intérêts (par exemple via un modèle de Markov), peu de travaux cherchent à l&apos;expliquer de manière locale. Nous pro-posons dans cet article une méthode qui permet d&apos;extraire pour un individu dont on a une trace de mobilité conséquente des motifs de mobilité dits contextuali-sés. Chaque motif est composé d&apos;une description sur l&apos;ensemble des visites aux différents points d&apos;intérêt de l&apos;individu qui maximise une ou plusieurs mesures avec une sémantique particulière (le motif décrit une phase sédentaire ou excep-tionnel de la mobilité de l&apos;individu). Une expérimentation a été menée à partir de traces de mobilité de véhicules et donne des résultats encourageants.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="fr">
+	</text>
+</TEI>

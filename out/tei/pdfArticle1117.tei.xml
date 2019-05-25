@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/josuah/Bureau/grobid/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="fr">
+		<encodingDesc>
+			<appInfo>
+				<application version="0.5.5-SNAPSHOT" ident="GROBID" when="2019-04-04T12:42+0000">
+					<ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Clustering visuel semi-interactif</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Lydia</forename><surname>Boudjeloud-Assala</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">LIST-Luxembourg Institute of Science and Technology</orgName>
+								<orgName type="laboratory">Laboratoire d&apos;Informatique Théorique et Appliquée</orgName>
+								<orgName type="institution" key="instit1">LITA</orgName>
+								<orgName type="institution" key="instit2">Université de Lorraine</orgName>
+								<address>
+									<postCode>3097, F-57045</postCode>
+									<settlement>Metz, Esch-Sur-Alzette</settlement>
+									<region>EA</region>
+									<country>France, Luxembourg</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Philippe</forename><surname>Pinheiro</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">LIST-Luxembourg Institute of Science and Technology</orgName>
+								<orgName type="laboratory">Laboratoire d&apos;Informatique Théorique et Appliquée</orgName>
+								<orgName type="institution" key="instit1">LITA</orgName>
+								<orgName type="institution" key="instit2">Université de Lorraine</orgName>
+								<address>
+									<postCode>3097, F-57045</postCode>
+									<settlement>Metz, Esch-Sur-Alzette</settlement>
+									<region>EA</region>
+									<country>France, Luxembourg</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Alexandre</forename><surname>Blansché</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">LIST-Luxembourg Institute of Science and Technology</orgName>
+								<orgName type="laboratory">Laboratoire d&apos;Informatique Théorique et Appliquée</orgName>
+								<orgName type="institution" key="instit1">LITA</orgName>
+								<orgName type="institution" key="instit2">Université de Lorraine</orgName>
+								<address>
+									<postCode>3097, F-57045</postCode>
+									<settlement>Metz, Esch-Sur-Alzette</settlement>
+									<region>EA</region>
+									<country>France, Luxembourg</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Thomas</forename><surname>Tamisier</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">LIST-Luxembourg Institute of Science and Technology</orgName>
+								<orgName type="laboratory">Laboratoire d&apos;Informatique Théorique et Appliquée</orgName>
+								<orgName type="institution" key="instit1">LITA</orgName>
+								<orgName type="institution" key="instit2">Université de Lorraine</orgName>
+								<address>
+									<postCode>3097, F-57045</postCode>
+									<settlement>Metz, Esch-Sur-Alzette</settlement>
+									<region>EA</region>
+									<country>France, Luxembourg</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Benoît</forename><surname>Otjacques</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">LIST-Luxembourg Institute of Science and Technology</orgName>
+								<orgName type="laboratory">Laboratoire d&apos;Informatique Théorique et Appliquée</orgName>
+								<orgName type="institution" key="instit1">LITA</orgName>
+								<orgName type="institution" key="instit2">Université de Lorraine</orgName>
+								<address>
+									<postCode>3097, F-57045</postCode>
+									<settlement>Metz, Esch-Sur-Alzette</settlement>
+									<region>EA</region>
+									<country>France, Luxembourg</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Clustering visuel semi-interactif</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="DOI">10.1177/1473871615571951)</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<abstract>
+				<p>Nous proposons dans cet article une approche de clustering visuel semi-interactif. L&apos;approche proposée utilise la perception visuelle pour guider l&apos;utilisateur dans le processus interactif. Les clusters sont extraits de manière successive et itérative, puis évalués selon leur ordre d&apos;extraction. Pour l&apos;utilisa-teur, l&apos;approche semi-interactive permet non seulement d&apos;évaluer les classes en fonction d&apos;un critère déterminé mais aussi d&apos;évaluer l&apos;influence de l&apos;extraction d&apos;un cluster sur ceux précédemment extraits. Un protocole de test est présenté afin de comparer cette approche avec les approches purement automatiques et purement interactives. Cet article est un résumé d&apos;un papier accepté 1 pour un journal international.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="fr">
+	</text>
+</TEI>

@@ -1,0 +1,15 @@
+{
+"idArt": "1277",
+"series": "Revue des Nouvelles Technologies de l'Information",
+"booktitle": "EGC",
+"year": "2018",
+"title": "Contextualisation de Singularités en Temps-Réel par Extraction de Connaissances du Web des Données",
+"abstract": "L'émergence de l'IoT et du traitement en temps-réel oblige les entreprises à considérer la détection d'anomalies comme un élément clé de leur activité. Afin de garantir une haute précision dans le processus de détection, des métadonnées fournissant un contexte spatio-temporel sur les mesures des capteurs sont nécessaires. Dans cet article, nous présentons un système générique qui aide à capturer, analyser, qualifier et stocker les informations contextuelles d'un domaine d'application donné. L'approche proposée est basée sur des méthodes sémantiques qui exploitent des ontologies pour évaluer la pertinence de l'information contextuelle. Après une description des composants principaux de l'architecture, la performance et la pertinence du système sont démontrées par une évaluation sur des ensembles de données du monde réel.",
+"authors": "Badre Belabbess, Jérémy Lhez, Musab Bairat, Olivier Curé",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1002369",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1002369",
+"metaSession": "1",
+"place": "Paris",
+"Latitude": " 48.8551 ",
+"Longitude": "2.3505"
+}

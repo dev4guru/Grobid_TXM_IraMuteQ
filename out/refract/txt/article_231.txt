@@ -1,0 +1,1 @@
+The most common fitness evaluation for Bayesian networks in the presence of data is the Cooper-Herskovitz criterion. This technique involves massive amounts of data and, therefore, expansive computations. We propose a cheaper alternative evaluation method using simplified ssumptions which produces evaluations that are strongly correlated with the Cooper-Herskovitz criterion.

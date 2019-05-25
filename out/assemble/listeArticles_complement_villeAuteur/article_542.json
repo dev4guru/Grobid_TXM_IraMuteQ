@@ -1,0 +1,9 @@
+{	 "idArt" : "542",
+	 "placeAut" : [ 
+		{ "place" : "Paris",
+		 "country" : "France",
+		 "location" : { "lat" :  48.856614, 
+			 "lon" : 2.3522219000000177 } }
+	 ]
+} 
+ 

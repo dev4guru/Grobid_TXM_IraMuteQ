@@ -1,0 +1,14 @@
+{	 "idArt" : "895",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "AEGC",
+	 "year" : "2005",
+	 "place" : "Paris",
+	 "location" : { "lat" :  48.856614, 
+		 "lon" : 2.3522219 }, 
+	 "title" : "Fusion de classifieurs pour la classification d'images sonar",
+	 "abstract" : "Nous présentons dans ce papier des approches de fusion d'informationshaut niveau applicables pour des données numériques ou des données symboliques.Nous étudions l'intérêt des telles approches particulièrement pour lafusion de classifieurs. Une étude comparative est présentée dans le cadre de lacaractérisation des fonds marins à partir d'images sonar. Reconnaître le type desédiments sur des images sonar est un problème difficile en soi en partie à causede la complexité des données. Nous comparons les approches de fusion d'informationshaut niveau et montrons le gain obtenu.",
+	 "authors" : ["Arnaud Martin"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1000271" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1000271" 
+} 
+ 

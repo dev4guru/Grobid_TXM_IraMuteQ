@@ -1,0 +1,13 @@
+{	 "idArt" : "181",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2013",
+	 "place" : "Toulouse",
+	 "location" : { "lat" :  43.604652, 
+		 "lon" : 1.444209 }, 
+	 "title" : "Grille bivariée pour la détection de changement dans un flux étiqueté",
+	 "abstract" : "Nous présentons une méthode en-ligne de détection de changement de concept dans un flux étiqueté. Notre méthode de détection est basée sur un critère supervisé bivarié qui permet d'identifier si les données de deux fenêtres proviennent ou non de la même distribution. Notre méthode a l'intérêt de n'avoir aucun a priori sur la distribution des données, ni sur le type de changement et est capable de détecter des changements de différentes natures (changement dans la moyenne, dans la variance...). Les expérimentations montrent que notre méthode est plus performante et robuste que les méthodes de l'état de l'art testées. De plus, à part la taille des fenêtres, elle ne requiert aucun paramètre utilisateur.",
+	 "authors" : ["Christophe Salperwyck","Marc Boullé","Vincent Lemaire"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1001859" 
+} 
+ 

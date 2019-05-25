@@ -1,0 +1,13 @@
+{	 "idArt" : "1103",
+	 "placeAut" : [ 
+		{ "place" : "Lyon",
+		 "country" : "France",
+		 "location" : { "lat" :  45.764043, 
+			 "lon" : 4.835658999999964 } },
+		{ "place" : "Caluire",
+		 "country" : "France",
+		 "location" : { "lat" :  46.12446, 
+			 "lon" : 4.952500999999984 } }
+	 ]
+} 
+ 

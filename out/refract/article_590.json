@@ -1,0 +1,22 @@
+{
+"year": "2008",
+"metaSession": "3",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1000580",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1000580",
+"abstract": "Dans le contexte de la gestion de flux de données, les données entrent dans le système à leur rythme. Des mécanismes de délestage sont à mettre en place pour qu'un tel système puisse faire face aux situations où le débit des données dépasse ses capacités de traitement. Le lien entre réduction de la charge et dégradation de la qualité des résultats doit alors être quantifié. Dans cet article, nous nous plaçons dans le cas où le système est un cube de données, dont la structure est connue a priori, alimenté par un flux de données. Nous proposons un mécanisme de délestage pour les situations de surcharge et quantifions la dégradation de la qualité des résultats dans les cellules du cube. Nous exploitons l'inégalité de Hoeffding pour obtenir une borne probabiliste sur l'écart entre la valeur attendue et la valeur estimée.",
+"title": "Délestage pour l'analyse multidimensionnelle de flux de données",
+"placeAut":[{
+"place":"Paris",
+"country":"France",
+"location":{
+	"lat":"48.856614",
+	"lon":"2.3522219"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 43.6163539, u'lon': 7.0552218}",
+"place": "Sophia Antipolis",
+"booktitle": "EGC ",
+"idArt": "590",
+"authors": "['Sylvain Ferrandiz','Georges Hébrail']"
+}

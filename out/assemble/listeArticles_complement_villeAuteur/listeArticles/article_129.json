@@ -1,0 +1,13 @@
+{	 "idArt" : "129",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2014",
+	 "place" : "Rennes",
+	 "location" : { "lat" :  48.117266, 
+		 "lon" : -1.6777926 }, 
+	 "title" : "Réconciliation des profils dans les réseaux sociaux",
+	 "abstract" : "It is not uncommon that individuals create multiple profiles across several SNSs, eachcontaining partially overlapping sets of personal information. As a result, the creation of aglobal profile that gives an holistic view of the information of an individual requires methodsthat automatically match, or reconciliates, profiles across SNSs. In this paper, we focus on theproblem of identifying, or matching, the profiles of any individual across social networks.",
+	 "authors" : ["Nacéra Bennacer","Coriane Nana Jipmo","Antonio Penta","Gianluca Quercini"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1001915" 
+} 
+ 

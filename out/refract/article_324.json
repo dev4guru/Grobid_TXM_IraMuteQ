@@ -1,0 +1,22 @@
+{
+"year": "2011",
+"metaSession": "",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1000975",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1000975",
+"abstract": "",
+"title": "Introduction de l'ingénierie ontologique dans la méthodologie de développement des progiciels de gestion des collectivités territoriales",
+"placeAut":[{
+"place":"Vannes",
+"country":"France",
+"location":{
+	"lat":"47.658236",
+	"lon":"-2.760847"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 48.390394, u'lon': -4.486076}",
+"place": "Brest",
+"booktitle": "EGC",
+"idArt": "324",
+"authors": "['Wilfried Despagne','Thomas Burger']"
+}

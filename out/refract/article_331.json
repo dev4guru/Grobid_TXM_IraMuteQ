@@ -1,0 +1,22 @@
+{
+"year": "2011",
+"metaSession": "",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1000920",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1000920",
+"abstract": "The technologies of mobile communications and ubiquitous computing pervade our society, and wireless networks sense the movement of people and vehicles, generating large volumes of mobility data, such as mobile phone call records and GPS tracks. This is a scenario of great opportunities and risks : on one side, mining this data can produce useful knowledge, supporting sustainable mobility and intelligent transportation systems ; on the other side, individual privacy is at risk, as the mobility data contain sensitive personal information. A new multidisciplinary research area is emerging at this crossroads of mobility, data mining, and privacy. The talk assesses this research frontier from a data mining perspective, and illustrates the results of a European-wide research project called GeoPKDD, Geographic Privacy-Aware Knowledge Discovery and Delivery. GeoPKDD has created an integrated platform named MATLAS for complex analysis of mobility data, which combines spatio-temporal querying capabilities with data mining, visual analytics and semantic technologies, thus providing a full support for the Mobility Knowledge Discovery process. In this talk, we focus on the key data mining models : trajectory patterns and trajectory clustering, and illustrate the analytical power of our system in unvealing the complexity of urban mobility in a large metropolitan area by means of a large scale experiment, based on a massive real life GPS dataset, obtained from 17,000 vehicles with on-board GPS receivers, tracked during one week of ordinary mobile activity in the urban area of the city of Milan, Italy.",
+"title": "Mobility, Data Mining and Privacy: Mining Human Movement Patterns from Trajectory Data",
+"placeAut":[{
+"place":"Pisa",
+"country":"Italie",
+"location":{
+	"lat":"43.7228386",
+	"lon":"10.4016888"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 48.390394, u'lon': -4.486076}",
+"place": "Brest",
+"booktitle": "EGC",
+"idArt": "331",
+"authors": "Fosca Giannotti"
+}

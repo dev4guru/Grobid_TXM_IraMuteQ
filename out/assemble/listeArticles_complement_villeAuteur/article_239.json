@@ -1,0 +1,13 @@
+{	 "idArt" : "239",
+	 "placeAut" : [ 
+		{ "place" : "Nîmes",
+		 "country" : "France",
+		 "location" : { "lat" :  43.836699, 
+			 "lon" : 4.360053999999991 } },
+		{ "place" : "Montpellier",
+		 "country" : "France",
+		 "location" : { "lat" :  43.610769, 
+			 "lon" : 3.8767159999999876 } }
+	 ]
+} 
+ 

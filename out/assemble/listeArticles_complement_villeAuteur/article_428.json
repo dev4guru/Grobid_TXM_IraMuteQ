@@ -1,0 +1,13 @@
+{	 "idArt" : "428",
+	 "placeAut" : [ 
+		{ "place" : "Tunis",
+		 "country" : "Tunisie",
+		 "location" : { "lat" :  36.8064948, 
+			 "lon" : 10.181531599999971 } },
+		{ "place" : "Vandoeuvre Lès-Nancy",
+		 "country" : "France",
+		 "location" : { "lat" :  48.66111799999999, 
+			 "lon" : 6.173760000000016 } }
+	 ]
+} 
+ 

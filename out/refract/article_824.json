@@ -1,0 +1,22 @@
+{
+"year": "2006",
+"metaSession": "1",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1000325",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1000325",
+"abstract": "Intégrer le traitement de requêtes de recherche d'information dans unmédiateur XML est un problème difficile. Ceci est notamment dû au fait quecertaines sources de données ne permettent pas de recherche sur mot-clefs etdistance ni de classer les résultats suivant leur pertinence. Dans cet article nousabordons l'intégration des fonctionnalités principales du standard XQuery Textdans XLive, un médiateur XML/XQuery. Pour cela nous avons choisid'indexer des vues virtuelles de documents. Les documents virtuelssélectionnés sont transformés en objets des sources. L'opérateur de sélectiondu médiateur est étendu pour supporter des recherches d'information sur lesdocuments de la vue. La recherche sur mots-clefs et le classement de résultatsont ainsi supportés. Notre formule de classement de résultats est adaptée auformat de données semi-structurées, basé sur le nombre de mots-clefs dans lesdifférents éléments et la distance entre les éléments d'un résultat.",
+"title": "Indexation de vues virtuelles dans un médiateur XML pour le traitement de XQuery Text",
+"placeAut":[{
+"place":"Versailles",
+"country":"France",
+"location":{
+	"lat":"48.801408",
+	"lon":"2.130122"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 50.62925, u'lon': 3.057256}",
+"place": "Lille",
+"booktitle": "EGC",
+"idArt": "824",
+"authors": "['Clément Jamard','Georges Gardarin']"
+}

@@ -1,0 +1,1 @@
+La détermination du niveau de consommation chez les clients est essentielle pour tout objectif de segmentation stratégique et de churn. Nous présentons sur un cas réel l'utilisation de la théorie des ensembles flous pour la définition d'une fonction d'appartenance permettant d'évaluer, de manière précise, le niveau de consommation, des abonnés en téléphonie mobile.

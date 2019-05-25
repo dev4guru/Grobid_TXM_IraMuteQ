@@ -1,0 +1,14 @@
+{	 "idArt" : "540",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2009",
+	 "place" : "Strasbourg",
+	 "location" : { "lat" :  48.5734053, 
+		 "lon" : 7.752111299999999 }, 
+	 "title" : "La « créativité calculatoire » et les heuristiques créatives en synthèse de prédicats multiples",
+	 "abstract" : "Nous présentons une approche à ce que nous appelons la « créativitécalculatoire », c'est-à-dire les procédés par lesquels une machine peut fairemontre d'une certaine créativité. Dans cet article, nous montronsessentiellement que la synthèse de prédicats multiples en programmationlogique inductive (ILP) et la synthèse de programmes à partir de spécificationsformelles (SPSF), deux domaines de l'informatique qui s'attaquent à desproblèmes où la notion de créativité est centrale, ont été amenés à ajouter àleur formalisme de base (l'ILP pour l'un, les tableaux de Beth pour l'autre)toute une série d'heuristiques. Cet article présente une collectiond'heuristiques qui sont destinées à fournir au programme une forme decréativité calculatoire. Dans cette présentation, l'accent est plutôt mis sur lesheuristiques de l'ILP mais lorsque cela était possible sans de trop longsdéveloppements, nous avons aussi présenté quelques heuristiques de la SPSF.L'outil indispensable de la créativité calculatoire est ce que nous appelons un'générateur d'atouts' dont une spécification (forcément informelle commenous le verrons) est fournie comme première conclusion aux exemples décritsdans le corps de l'article.",
+	 "authors" : ["Marta Franová","Yves Kodratoff"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1000747" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1000747" 
+} 
+ 

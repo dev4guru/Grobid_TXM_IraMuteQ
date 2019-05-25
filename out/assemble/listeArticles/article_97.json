@@ -1,0 +1,13 @@
+{	 "idArt" : "97",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2014",
+	 "place" : "Rennes",
+	 "location" : { "lat" :  48.117266, 
+		 "lon" : -1.6777926 }, 
+	 "title" : "Détection d'opinions dans des tweets",
+	 "abstract" : "Twitter est à l'heure actuelle un des réseau sociaux les plus utilisé aumonde et analyser les opinions qui y sont contenues permet de fournir de précieusesinformations notamment aux entreprises commerciales. Dans cet article,nous décrivons une méthode permettant de déterminer l'opinion d'un tweet endétectant dans un premier temps sa subjectivité, puis sa polarité.",
+	 "authors" : ["Caroline Collet","Alexandre Pauchet","Laurent Vercouter","Khaled Khelif"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1001964" 
+} 
+ 

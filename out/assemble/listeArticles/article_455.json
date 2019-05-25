@@ -1,0 +1,14 @@
+{	 "idArt" : "455",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2010",
+	 "place" : "Hammamet",
+	 "location" : { "lat" :  36.4, 
+		 "lon" : 10.616667 }, 
+	 "title" : "Protein Graph Repository",
+	 "abstract" : "Protein Graph Repository (PGR) est i, outil bioinformatique sur le web permettant d'obtenir une nouvelle representation de protéines sous la forme de graphes d'acides aminés, une représentation plus simple et plus facile à étudier par les moyens informatiques et statistiques dédiés aux graphes. La génération des graphes est faite à partir d'un parseur appliqué sur des fichiers des protéines PDB extraits de la base Protein Data Bank et en precisant les parametres et la methode a utiliser. Les graphes generes sont ensuite enregistres dans un entrepot doté de moyens de recherche, de filtrage et de telechargement. PGR peut etre provisoirement consulte à l'adresse http://www.enode-edition.com/pgr/, il est spécialement dédié aux recherches intéressées à l'étude de données protéiques sous la forme de graphes et permettra donc de fournir des échantillons pour des travaux expérimentaux.",
+	 "authors" : ["Wajdi Dhifli","Rabie Saidi"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1001403" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1001403" 
+} 
+ 

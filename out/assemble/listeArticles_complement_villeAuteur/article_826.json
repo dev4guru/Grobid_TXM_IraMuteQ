@@ -1,0 +1,13 @@
+{	 "idArt" : "826",
+	 "placeAut" : [ 
+		{ "place" : "Vanduvre-lès-Nancy",
+		 "country" : "France",
+		 "location" : { "lat" :  48.66111799999999, 
+			 "lon" : 6.173760000000016 } },
+		{ "place" : "Metz",
+		 "country" : "France",
+		 "location" : { "lat" :  49.1193089, 
+			 "lon" : 6.1757155999999895 } }
+	 ]
+} 
+ 

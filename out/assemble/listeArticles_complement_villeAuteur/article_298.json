@@ -1,0 +1,9 @@
+{	 "idArt" : "298",
+	 "placeAut" : [ 
+		{ "place" : "Bagneux",
+		 "country" : "France",
+		 "location" : { "lat" :  48.796696, 
+			 "lon" : 2.3100200000000086 } }
+	 ]
+} 
+ 

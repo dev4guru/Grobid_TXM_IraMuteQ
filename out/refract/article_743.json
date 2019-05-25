@@ -1,0 +1,22 @@
+{
+"year": "2007",
+"metaSession": "4",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1001452",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1001452",
+"abstract": "La construction d'ontologies à partir de textes reste une tâche coûteuse en temps qui justifie l'émergence de l'Ontology Learning. Notre système, Dynamo, s'inscrit dans cette mouvance, en apportant une approche originale basée sur une architecture multi-agent adaptative. En particulier, l'article présente le coeur de notre approche, un algorithme distribué de classification hiérarchique qui s'applique sur les résultats d'un analyseur syntaxique. Cet algorithme est évalué et comparé à un algorithme centralisé plus conventionnel. Forts de ces résultats, nous discutons ses limites et dressons en perspective les aménagements à effectuer pour aller vers une solution complète de construction d'ontologies.",
+"title": "Un algorithme multi-agent de classification pour la construction d'ontologies dynamiques",
+"placeAut":[{
+"place":"Toulouse",
+"country":"France",
+"location":{
+	"lat":"43.604652",
+	"lon":"1.444209"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 50.4673883, u'lon': 4.8719854}",
+"place": "Namur",
+"booktitle": "EGC",
+"idArt": "743",
+"authors": "['Kévin Ottens','Nathalie Aussenac-Gilles']"
+}

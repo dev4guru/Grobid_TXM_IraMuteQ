@@ -1,0 +1,22 @@
+{
+"year": "2009",
+"metaSession": "4",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1000737",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1000737",
+"abstract": "Dans cet article, nous proposons une nouvelle approche de classifi- cation et de pondération des variables durant un processus d'apprentissage non supervisé. Cette approche est basée sur le modèle des cartes auto-organisatrices. L'apprentissage de ces cartes topologiques est combiné à un mécanisme d'esti- mation de pertinences des différentes variables sous forme de poids d'influence sur la qualité de la classification. Nous proposons deux types de pondérations adaptatives : une pondération des observations et une pondération des distances entre observations. L'apprentissage simultané des pondérations et des prototypes utilisés pour la partition des observations permet d'obtenir une classification op- timisée des données. Un test statistique est ensuite utilisé sur ces pondérations pour élaguer les variables non pertinentes. Ce processus de sélection de variables permet enfin, grâce à la localité des pondérations, d'exhiber un sous ensemble de variables propre à chaque groupe (cluster) offrant ainsi sa caractérisation. L'approche proposée a été validé sur plusieurs bases de données et les résultats expérimentaux ont montré des performances très prometteuses.",
+"title": "Caractérisation automatique des classes découvertes en classification non supervisée",
+"placeAut":[{
+"place":"Villetaneuse",
+"country":"France",
+"location":{
+	"lat":"48.963476",
+	"lon":"2.347354"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 48.5734053, u'lon': 7.752111299999999}",
+"place": "Strasbourg",
+"booktitle": "EGC",
+"idArt": "504",
+"authors": "['Nistor Grozavu','Younès Bennani','Mustapha Lebbah']"
+}

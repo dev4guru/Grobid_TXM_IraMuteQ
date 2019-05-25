@@ -1,0 +1,9 @@
+{	 "idArt" : "296",
+	 "placeAut" : [ 
+		{ "place" : "Santander",
+		 "country" : "Spain",
+		 "location" : { "lat" :  43.46230569999999, 
+			 "lon" : -3.8099803000000065 } }
+	 ]
+} 
+ 

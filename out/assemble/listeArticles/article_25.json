@@ -1,0 +1,13 @@
+{	 "idArt" : "25",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2015",
+	 "place" : "Luxembourg",
+	 "location" : { "lat" :  49.815273, 
+		 "lon" : 6.129582999999999 }, 
+	 "title" : "Échantillonnage de flux de données sémantiques : Une approche orientée graphe",
+	 "abstract" : "Nowadays, processing online massive data streams with special techniques like load shedding is an unavoidable alternative to optimize system resources use. In this paper, we propose a graph-oriented approach for load shedding semantic data streams. Our approach, unlike the RDF triple based one, preserves the semantic level of the data streams, which improves the responses quality of the RDF data stream processing systems.",
+	 "authors" : ["Fethi Belghaouti","Amel Bouzeghoub","Zakia Kazi-aoul","Raja Chiky"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1002120" 
+} 
+ 

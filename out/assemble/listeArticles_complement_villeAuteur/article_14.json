@@ -1,0 +1,9 @@
+{	 "idArt" : "14",
+	 "placeAut" : [ 
+		{ "place" : "Dijon",
+		 "country" : "France",
+		 "location" : { "lat" :  47.322047, 
+			 "lon" : 5.041479999999979 } }
+	 ]
+} 
+ 

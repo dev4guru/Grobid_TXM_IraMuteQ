@@ -1,0 +1,22 @@
+{
+"year": "2007",
+"metaSession": "1",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1001444",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1001444",
+"abstract": "Ce papier présente une approche automatique pour aligner des ressources sémantiques. L'alignement se traduit par la mise en correspondance des entités (termes, concepts, rôles) appartenant à des ressources d'un même domaine qui peuvent avoir des niveaux de formalisation différents. Les entités correspondantes sont de même nature et un coefficient caractérise leur degré de ressemblance.L'approche proposée est fondée sur des règles d'appariement entre les entités des deux ressources. Dans une première phase, ces règles d'appariement sont identifiées empiriquement. Des algorithmes combinant les différentes règles identifiées sont ensuite définis afin d'établir des correspondances entre les entités des ressources considérées.Ce papier présente un ensemble de règles d'appariement exploitant des éléments situés à différents niveaux conceptuels. Cet ensemble constitue un cadre pour l'alignement automatique des ressources sémantiques. Les résultats d'une première expérimentation qui a porté sur l'alignement de deux ressources du domaine de l'accidentologie sont également présentés.",
+"title": "Alignement de ressources sémantiques à partir de règles",
+"placeAut":[{
+"place":"Paris",
+"country":"France",
+"location":{
+	"lat":"48.856614",
+	"lon":"2.3522219"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 50.4673883, u'lon': 4.8719854}",
+"place": "Namur",
+"booktitle": "EGC",
+"idArt": "675",
+"authors": "['Valentina Ceausu','Sylvie Desprès']"
+}

@@ -1,0 +1,13 @@
+{	 "idArt" : "155",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2013",
+	 "place" : "Toulouse",
+	 "location" : { "lat" :  43.604652, 
+		 "lon" : 1.444209 }, 
+	 "title" : "20 ans de découverte de motifs : une étude bibliographique quantitative",
+	 "abstract" : "Depuis deux décennies, la découverte de motifs a été l'un des champs de recherche les plus actifs de l'exploration de données. Cet article en établit une étude bibliographique quantitative en nous appuyant sur 1030 publications issues de 5 conférences internationales majeures : KDD, PKDD, PAKDD, ICDM et SDM. Nous avons d'abord mesuré depuis 2005 un sévère ralentissement de l'activité de recherche dédiée à la découverte de motifs. Puis, nous avons quantifié les principales contributions en terme de langages, de contraintes et de représentations condensées de sorte à comprendre ce ralentissement et à esquisser les directions actuelles.",
+	 "authors" : ["Arnaud Giacometti","Dominique Haoyuan Li","Arnaud Soulet"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1001830" 
+} 
+ 

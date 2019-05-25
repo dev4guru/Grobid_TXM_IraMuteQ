@@ -1,0 +1,14 @@
+{	 "idArt" : "704",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2007",
+	 "place" : "Namur",
+	 "location" : { "lat" :  50.4673883, 
+		 "lon" : 4.8719854 }, 
+	 "title" : "Evaluation supervisée de métrique : application à la préparation de données séquentielles",
+	 "abstract" : "De nos jours, le statisticien n'a plus nécessairement le contrôle sur la récolte des données. Le besoin d'une analyse statistique vient dans un second temps, une fois les données récoltées. Par conséquent, un travail est à fournir lors de la phase de préparation des données afin de passer d'une représentation informatique à une représentation statistique adaptée au problème considéré. Dans cet article, nous étudions un procédé de sélection d'une bonne représentation en nous basant sur des travaux antérieurs. Nous proposons un protocole d'évaluation de la pertinence d'une représentation par l'intermédiaire d'une métrique, dans le cas de la classification supervisée. Ce protocole exploite une méthode de classification non paramétrique régularisée, garantissant l'automaticité et la fiabilité de l'évaluation. Nous illustrons le fonctionnement et les apports de ce protocole par un problème réel de préparation de données de consommation téléphonique. Nous montrons également la fiabilité et l'interprétabilité des décisions qui en résultent.",
+	 "authors" : ["Sylvain Ferrandiz","Marc Boullé"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1001392" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1001392" 
+} 
+ 

@@ -1,0 +1,13 @@
+{	 "idArt" : "1087",
+	 "placeAut" : [ 
+		{ "place" : "Paris",
+		 "country" : "France",
+		 "location" : { "lat" :  48.856614, 
+			 "lon" : 2.3522219000000177 } },
+		{ "place" : "Athens",
+		 "country" : "USA",
+		 "location" : { "lat" :  33.9519347, 
+			 "lon" : -83.35756700000002 } }
+	 ]
+} 
+ 

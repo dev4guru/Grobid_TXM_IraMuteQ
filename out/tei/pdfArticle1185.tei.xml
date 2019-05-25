@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/josuah/Bureau/grobid/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="fr">
+		<encodingDesc>
+			<appInfo>
+				<application version="0.5.5-SNAPSHOT" ident="GROBID" when="2019-04-04T12:42+0000">
+					<ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Une méthode supervisée pour initialiser les centres des K-moyennes</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Oumaima</forename><forename type="middle">Alaoui</forename><surname>Ismaili</surname></persName>
+							<email>oumaima.alaouiismaili@orange.com</email>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Vincent</forename><surname>Lemaire</surname></persName>
+							<email>vincent.lemaire@orange.com</email>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Antoine</forename><surname>Cornuèjols</surname></persName>
+							<email>antoine.cornuejols@agroparistech.fr</email>
+						</author>
+						<author>
+							<affiliation key="aff0">
+								<address>
+									<postCode>22307</postCode>
+									<settlement>Orange Labs, Lannion cedex France</settlement>
+									<region>AV. Pierre Marzin</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff1">
+								<address>
+									<addrLine>AgroParisTech 16, rue Claude Bernard</addrLine>
+									<postCode>75005</postCode>
+									<settlement>Paris</settlement>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Une méthode supervisée pour initialiser les centres des K-moyennes</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<abstract>
+				<p>Au cours des dernières années, la classification à base de clustering s&apos;est imposée comme un sujet de recherche important. Cette approche vise à décrire et à prédire un concept cible d&apos;une manière simultanée. Partant du fait que le choix des centres pour l&apos;algorithme des K-moyennes standard a un impact direct sur la qualité des résultats obtenus, cet article vise alors à tester à quel point une méthode d&apos;initialisation supervisée pourrait aider l&apos;algorithme des K-moyennes standard à remplir la tâche de la classification à base des K-moyennes.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="fr">
+	</text>
+</TEI>

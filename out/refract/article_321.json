@@ -1,0 +1,22 @@
+{
+"year": "2011",
+"metaSession": "5",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1001026",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1001026",
+"abstract": "Cet article a pour cadre un environnement informatique pour l'apprentissage humain (EIAH) dédié à la chirurgie orthopédique, et plus précisément sur le diagnostic des connaissances des apprenants. Pour ce faire, un réseau bayésien infère à partir d'exercices que les étudiants réalisent sur un simulateur avec bras articulé. Ce réseau résulte d'une approche centrée expert du domaine, comme très souvent dans les EIAH. Pourtant, dans un domaine comme la chirurgie où les connaissances sont tacites, le geste de l'apprenant semble intéressant à considérer. Le but de nos travaux est donc d'adopter une démarche plus centrée sur les données en incorporant au réseau bayésien les données haptiques continues issues du simulateur. Divers problèmes se posent néanmoins, d'une part sur le besoin d'étudier la nature des données pour conserver la généricité du système, et d'autre part pour trouver des méthodes de validation pertinentes concernant leur traitement",
+"title": "Intégration de données haptiques brutes dans des systèmes experts de diagnostic des connaissances",
+"placeAut":[{
+"place":"Grenoble",
+"country":"France",
+"location":{
+	"lat":"45.188529",
+	"lon":"5.724524"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 48.390394, u'lon': -4.486076}",
+"place": "Brest",
+"booktitle": "EGC",
+"idArt": "321",
+"authors": "['Sébastien Lallé','Vanda Luengo']"
+}

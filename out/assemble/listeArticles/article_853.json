@@ -1,0 +1,14 @@
+{	 "idArt" : "853",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2006",
+	 "place" : "Lille",
+	 "location" : { "lat" :  50.62925, 
+		 "lon" : 3.057256 }, 
+	 "title" : "Un automate pour évaluer la nature des textes",
+	 "abstract" : "On ne peut s'intéresser aux textes sans s'intéresser à leur nature. La nature des textes permet de distinguer les textes d'un point de vue primaire. Elle est utilisée pour identifier les textes artificiels, pour la reconnaissance de la langue, afin d'identifier les SPAMS... En ce sens, la méthode la plus connue reste encore la méthode de Zipf. Cet article propose une nouvelle méthode basée sur un automate. L'automate construit un signal pour chaque texte. L'automate est présenté en détail et des expérimentations montrent son utilité dans les domaines aussi divers que ceux cités précédemment/",
+	 "authors" : ["Hubert Marteau","Nicole Vincent"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1000355" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1000355" 
+} 
+ 

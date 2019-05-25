@@ -1,0 +1,17 @@
+{	 "idArt" : "467",
+	 "placeAut" : [ 
+		{ "place" : "Dublin",
+		 "country" : "Ireland",
+		 "location" : { "lat" :  53.3498053, 
+			 "lon" : -6.260309699999993 } },
+		{ "place" : "Lille",
+		 "country" : "France",
+		 "location" : { "lat" :  50.62925, 
+			 "lon" : 3.057256000000052 } },
+		{ "place" : "Béthune",
+		 "country" : "France",
+		 "location" : { "lat" :  50.531036, 
+			 "lon" : 2.6392600000000357 } }
+	 ]
+} 
+ 

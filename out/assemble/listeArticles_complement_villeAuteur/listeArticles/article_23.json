@@ -1,0 +1,13 @@
+{	 "idArt" : "23",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2015",
+	 "place" : "Luxembourg",
+	 "location" : { "lat" :  49.815273, 
+		 "lon" : 6.129582999999999 }, 
+	 "title" : "Détection et regroupement automatique de style d'écriture dans un texte",
+	 "abstract" : "La détection de plagiat extrinsèque devient vite inefficace lorsque l'on n'a pas accès aux documents potentiellement sources du plagiat ou lorsque l'on se confronte à un espace aussi vaste que leWeb, ce qui est souvent le cas dans les logiciels anti-plagiat actuels. Dès lors la détection intrinsèque devient nettement plus efficace. Dans cet article, nous traitons justement de la détection automatique d'auteurs qui permet de savoir si un passage d'un texte n'appartient pas au même auteur que le reste du texte et donc en théorie de repérer les passages plagiés d'un document. Nous expliquons notre contribution aux procédures déjà existantes et évaluons les limites de notre approche. L'objectif est de permettre la détection et le regroupement de passages d'un document par auteur.",
+	 "authors" : ["Jérémy Ferrero","Alain Simac-Lejeune"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1002060" 
+} 
+ 

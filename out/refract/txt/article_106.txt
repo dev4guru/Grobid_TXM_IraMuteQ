@@ -1,0 +1,1 @@
+Nous présentons ici la plate-forme KD-Ariane, un déploiement d'outilspour la fouille de données dans l'environnement de programmation visuelleAriane. Ce déploiement facilite la conception de chaînes structurées de traitementspour l'extraction de connaissance dans les données

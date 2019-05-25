@@ -1,0 +1,21 @@
+{	 "idArt" : "183",
+	 "placeAut" : [ 
+		{ "place" : "Nouzilly",
+		 "country" : "France",
+		 "location" : { "lat" :  47.543367, 
+			 "lon" : 0.7441549999999779 } },
+		{ "place" : "Tours",
+		 "country" : "France",
+		 "location" : { "lat" :  47.394144, 
+			 "lon" : 0.6848400000000083 } },
+		{ "place" : "Barcelona",
+		 "country" : "Spain",
+		 "location" : { "lat" :  41.297445, 
+			 "lon" : 2.083294099999989 } },
+		{ "place" : "Orsay",
+		 "country" : "France",
+		 "location" : { "lat" :  48.697161, 
+			 "lon" : 2.1896169999999984 } }
+	 ]
+} 
+ 

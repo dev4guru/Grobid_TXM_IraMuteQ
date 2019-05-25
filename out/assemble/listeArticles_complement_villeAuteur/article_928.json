@@ -1,0 +1,13 @@
+{	 "idArt" : "928",
+	 "placeAut" : [ 
+		{ "place" : "Valenciennes",
+		 "country" : "France",
+		 "location" : { "lat" :  50.357113, 
+			 "lon" : 3.5183319999999867 } },
+		{ "place" : "Lille",
+		 "country" : "France",
+		 "location" : { "lat" :  50.62925, 
+			 "lon" : 3.057256000000052 } }
+	 ]
+} 
+ 

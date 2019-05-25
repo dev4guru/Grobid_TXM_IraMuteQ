@@ -1,0 +1,22 @@
+{
+"year": "2010",
+"metaSession": "",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1001408",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1001408",
+"abstract": "",
+"title": "Exploration de dépendances fonctionnelles et de règles d'association avec OLAP",
+"placeAut":[{
+"place":"Rennes",
+"country":"France",
+"location":{
+	"lat":"48.117266",
+	"lon":"-1.6777926"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 36.4, u'lon': 10.616667}",
+"place": "Hammamet",
+"booktitle": "EGC",
+"idArt": "424",
+"authors": "['Pierre Allard','Sébastien Ferré']"
+}

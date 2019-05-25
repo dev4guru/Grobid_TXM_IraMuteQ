@@ -1,0 +1,13 @@
+{	 "idArt" : "979",
+	 "placeAut" : [ 
+		{ "place" : "Mons",
+		 "country" : "Belgique",
+		 "location" : { "lat" :  50.4542408, 
+			 "lon" : 3.956658999999945 } },
+		{ "place" : "Montréal",
+		 "country" : "Canada",
+		 "location" : { "lat" :  45.5016889, 
+			 "lon" : -73.56725599999999 } }
+	 ]
+} 
+ 

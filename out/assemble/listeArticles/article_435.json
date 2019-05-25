@@ -1,0 +1,14 @@
+{	 "idArt" : "435",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2010",
+	 "place" : "Hammamet",
+	 "location" : { "lat" :  36.4, 
+		 "lon" : 10.616667 }, 
+	 "title" : "Indice de complexité pour le tri et la comparaison de séquences catégorielles",
+	 "abstract" : "Cet article1 propose un nouvel indice de la complexité de séquencescatégorielles. Bien que conçu pour des séquences représentant des trajectoiresbiographiques telles que celles rencontrées dans les sciences sociales, il s'appliqueà tous types de listes ordonnées d'états. L'indice prend en compte deuxaspects distincts, soit la complexité induite par l'ordonnancement des états successifsqui est mesurée par le nombre de transitions (changements d'état) et lacomplexité liée à la distribution des états dont rend compte l'entropie",
+	 "authors" : ["Alexis Gabadinho","Gilbert Ritschard","Matthias Studer","Nicolas S. Müller"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1001267" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1001267" 
+} 
+ 

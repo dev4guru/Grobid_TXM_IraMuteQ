@@ -1,0 +1,22 @@
+{
+"year": "2005",
+"metaSession": "5",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1000421",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1000421",
+"abstract": "La compréhension de textes de spécialité nécessite un étiquetage morpho-syntaxique de bonne qualité. Or, lorsque les textes étudiés sont issus de domaines spécifiques et peu usités, il est rare de disposer de dictionnaires et autres ressources lexicales fiables. Le logiciel que nous proposons permet d'utiliser un étiquetage réalisé par un étiqueteur généraliste, puis d'améliorer cet étiquetage en intégrant des connaissances d'experts du domaine étudié. Grâce au logiciel développé, il est relativement aisé pour un expert du domaine de détecter des erreurs d'étiquetage et de mettre en place des règles de ré-étiquetage. Ces règles peuvent être obtenues de deux manières différentes : (1) soit en utilisant un langage de programmation permettant d'exprimer des règles complexes de ré-étiquetage, (2) soit par apprentissage automatique des règles à partir d'exemples corrigés au moyen d'une interface dédiée. Cet apprentissage propose de nouvelles règles à l'expert, acquises automatiquement.",
+"title": "Logiciel d'aide à l'étiquetage morpho-syntaxique de  textes de spécialité",
+"placeAut":[{
+"place":"Orsay",
+"country":"France",
+"location":{
+	"lat":"48.697161",
+	"lon":"2.189617"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 48.856614, u'lon': 2.3522219}",
+"place": "Paris",
+"booktitle": "EGC",
+"idArt": "981",
+"authors": "['Ahmed Amrani','Jérôme Azé','Yves Kodratoff']"
+}

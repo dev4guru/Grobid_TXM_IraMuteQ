@@ -1,0 +1,22 @@
+{
+"year": "2005",
+"metaSession": "",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1000308",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1000308",
+"abstract": "Dans le cadre d'une validation d'expertise textuelle contenue dans un test de compétences comportementales informatisé, nous proposons un méthode visant à extraire des sous ensembles de termes caractéristiques utilisés pour décrire des caractères psychologiques. Notre approche consiste, après l'extraction de termes, à évaluer les associations possibles entre termes et caractères psychologiques qui structurent le corpus en s'appuyant sur la théorie de l'implication statistique.",
+"title": "Validation d'une expertise textuelle par une méthode de classification basée sur l'intensité d'implication",
+"placeAut":[{
+"place":"Carquefou",
+"country":"France",
+"location":{
+	"lat":"47.296241",
+	"lon":"-1.486812"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 48.856614, u'lon': 2.3522219}",
+"place": "Paris",
+"booktitle": "AEGC",
+"idArt": "930",
+"authors": "['Jérôme David','Fabrice Guillet','Vincent Philippé','Henri Briand','Régis Gras']"
+}

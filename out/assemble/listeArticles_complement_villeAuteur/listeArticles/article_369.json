@@ -1,0 +1,14 @@
+{	 "idArt" : "369",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2011",
+	 "place" : "Brest",
+	 "location" : { "lat" :  48.390394, 
+		 "lon" : -4.486076 }, 
+	 "title" : "Une nouvelle approche pour l'extraction non supervisée de critères",
+	 "abstract" : "Récemment de nouvelles techniques regroupées sous le vocable de détection automatique d'opinions (opinion mining) ont fait leur apparition et proposent une évaluation globale d'un document. Ainsi, elles ne permettent pas de mettre en avant le fait que les personnes expriment une opinion très positive du scénario d'un film alors qu'elles trouvent que les acteurs sont médiocres. Dans cet article, nous proposons de caractériser automatiquement les segments de textes relevant d'un critère donné sur un corpus de critiques.",
+	 "authors" : ["Benjamin Duthil","François Trousset","Mathieu Roche","Michel Plantié","Gérard Dray","Jacky Montmain"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1000981" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1000981" 
+} 
+ 

@@ -1,0 +1,13 @@
+{	 "idArt" : "745",
+	 "placeAut" : [ 
+		{ "place" : "Aubière",
+		 "country" : "France",
+		 "location" : { "lat" :  45.751175, 
+			 "lon" : 3.110678000000007 } },
+		{ "place" : "Villeurbanne",
+		 "country" : "France",
+		 "location" : { "lat" :  45.771944, 
+			 "lon" : 4.89017089999993 } }
+	 ]
+} 
+ 

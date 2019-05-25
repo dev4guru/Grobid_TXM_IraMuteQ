@@ -1,0 +1,14 @@
+{	 "idArt" : "314",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2011",
+	 "place" : "Brest",
+	 "location" : { "lat" :  48.390394, 
+		 "lon" : -4.486076 }, 
+	 "title" : "Evaluation des outils d'extraction terminologique Quezao et Acabit",
+	 "abstract" : "L'article décrit l'évaluation de deux outils d'extraction terminologique Acabit et Quezao. Si acabit est plus connu car librement disponible, Quezao est issu des travaux d'Orange Labs sur la recherche d'informations. Après une comparaison sur les approches théoriques des deux systèmes, une évaluation concrète va porter sur un corpus d'actualité (2424Actu) pour l'aspect qualitatif et sur un corpus de presse pour l'aspect quantitatif",
+	 "authors" : ["Edmond Lassalle","Prem Kumar Casimir","Emilie Guimier De Neef"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1000938" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1000938" 
+} 
+ 

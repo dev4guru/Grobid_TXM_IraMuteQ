@@ -1,0 +1,22 @@
+{
+"year": "2005",
+"metaSession": "2",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1000218",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1000218",
+"abstract": "Cet article aborde le problème de la sélection de variables dans le cadre de la classification supervisée. Les méthodes de sélection reposent sur un algorithme de recherche et un critère d'évaluation pour mesurer la pertinence des sous-ensembles potentiels de variables. Nous présentons un nouveau critère d'évaluation fondé sur une mesure d'ambigüité. Cette mesure est fondée sur une combinaison d'étiquettes représentant le degré de spécificité ou d'appartenance aux classes en présence. Les tests menés sur de nombreux jeux de données réels et artificiels montrent que notre méthode est capable de sélectionner les variables pertinentes et d'augmenter dans la plupart des cas les taux de bon classement.",
+"title": "Un critère d'évaluation pour la sélection de variables",
+"placeAut":[{
+"place":"La-Rochelle",
+"country":"France",
+"location":{
+	"lat":"46.160329",
+	"lon":"-1.151139"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 48.856614, u'lon': 2.3522219}",
+"place": "Paris",
+"booktitle": "EGC",
+"idArt": "1013",
+"authors": "['Dahbia Semani','Carl Frélicot','Pierre Courtellemont']"
+}

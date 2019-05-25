@@ -1,0 +1,17 @@
+{	 "idArt" : "108",
+	 "placeAut" : [ 
+		{ "place" : "Tunis",
+		 "country" : "Tunisie",
+		 "location" : { "lat" :  36.8064948, 
+			 "lon" : 10.181531599999971 } },
+		{ "place" : "Orléans",
+		 "country" : "France",
+		 "location" : { "lat" :  47.902964, 
+			 "lon" : 1.9092510000000402 } },
+		{ "place" : "Caen",
+		 "country" : "France",
+		 "location" : { "lat" :  49.182863, 
+			 "lon" : -0.37067899999999554 } }
+	 ]
+} 
+ 

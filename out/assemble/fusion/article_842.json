@@ -1,0 +1,22 @@
+{
+"year": "2006",
+"metaSession": "1",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1000333",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1000333",
+"abstract": "Ce papier présente la version adaptative d'un algorithmed'extraction d'épisodes temporels développé précédemment. Les trois paramè-tres de réglages de l'algorithme ne sont plus fixes. Ils sont modifiés en ligne enfonction de la variance estimée du signal que l'on veut décomposer en épiso-des temporels. La version adaptative de l'algorithme a été utilisée pour recon-naître automatiquement des aspirations trachéales à partir de plusieures varia-bles physiologiques enregistrés sur des patients hospitalisés en réanimation.Des résultats préliminaires sont présentés dans ce papier.",
+"title": "Reconnaissance automatique d'évènements survenant sur patients en réanimation à l'aide d'une méthode adaptative d'extraction en ligne d'épisodes temporels",
+"placeAut":[{
+"place":"Saint-Martin-dHères",
+"country":"France",
+"location":{
+	"lat":"45.165133",
+	"lon":"5.767761"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 50.62925, u'lon': 3.057256}",
+"place": "Lille",
+"booktitle": "EGC",
+"idArt": "842",
+"authors": "Sylvie Charbonnier"
+}

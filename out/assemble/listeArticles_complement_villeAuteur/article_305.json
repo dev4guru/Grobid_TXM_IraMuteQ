@@ -1,0 +1,13 @@
+{	 "idArt" : "305",
+	 "placeAut" : [ 
+		{ "place" : "Lannion",
+		 "country" : "France",
+		 "location" : { "lat" :  48.732084, 
+			 "lon" : -3.4591440000000375 } },
+		{ "place" : "Clamart",
+		 "country" : "France",
+		 "location" : { "lat" :  48.799815, 
+			 "lon" : 2.2572890000000143 } }
+	 ]
+} 
+ 

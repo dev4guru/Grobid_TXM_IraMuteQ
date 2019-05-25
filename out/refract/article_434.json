@@ -1,0 +1,22 @@
+{
+"year": "2010",
+"metaSession": "6",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1001281",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1001281",
+"abstract": "Nous présentons un nouvel algorithme incrémental et parallèled'analyse factorielle des correspondances (AFC) pour la recherche d'images àgrande échelle en utilisant le processeur de la carte graphique (GPU). L'AFCest adaptée à la recherche d'images par le contenu en utilisant des descripteurslocaux des images (SIFT). L'AFC permet de réduire le nombre de dimensionset de découvrir des thèmes qui permettent de diminuer le nombre d'images àparcourir et donc le temps de réponse d'une requête. Pour traiter de trèsgrandes bases d'images, nous présentons une version incrémentale et parallèled'AFC, puis nous utilisons ses indicateurs pour construire des fichiers inverséspour retrouver les images contenant les mêmes thèmes que l'image requête.Cette étape est elle aussi parallélisée sur GPU pour obtenir des réponsesrapides. Les résultats numériques sur la base de données d'images Nistér-Stewénius plongée dans 1 million d'images de FlickR montrent que notrealgorithme incrémental et parallèle est très significativement plus rapide que saversion standard",
+"title": "Indexation et recherche d'images à très grande échelle avec une AFC incrémentale et parallèle sur GPU",
+"placeAut":[{
+"place":"Rennes",
+"country":"France",
+"location":{
+	"lat":"48.117266",
+	"lon":"-1.6777926"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 36.4, u'lon': 10.616667}",
+"place": "Hammamet",
+"booktitle": "EGC",
+"idArt": "434",
+"authors": "['Nguyen-Khang Pham','François Poulet','Annie Morin','Patrick Gros']"
+}

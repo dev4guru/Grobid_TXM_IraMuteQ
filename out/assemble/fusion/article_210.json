@@ -1,0 +1,22 @@
+{
+"year": "2013",
+"metaSession": "6",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1001834",
+"pdfarticle": "",
+"abstract": "Dans cet article, nous proposons une parallélisation sur CPU et GPU d'une méthode de visualisation radiale à base de points d'intérêt. Nous montrons que cette approche peut visualiser avec des temps très courts des millions de données sur des dizaines de dimensions, et nous étudions l'efficacité de la parallélisation dans différentes configurations.",
+"title": "Visualisation radiale : approche parallèle entre CPU et GPU",
+"placeAut":[{
+"place":"Tours",
+"country":"France",
+"location":{
+	"lat":"47.394144",
+	"lon":"0.68484"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 43.604652, u'lon': 1.444209}",
+"place": "Toulouse",
+"booktitle": "EGC",
+"idArt": "210",
+"authors": "['Tianyang Liu','Fatma Bouali','Gilles Venturini']"
+}

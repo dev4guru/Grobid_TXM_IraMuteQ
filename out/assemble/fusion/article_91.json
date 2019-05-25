@@ -1,0 +1,22 @@
+{
+"year": "2014",
+"metaSession": "3",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1001954",
+"pdfarticle": "",
+"abstract": "L'utilisation de préférences suscite un intérêt croissant pour personnaliserdes réponses et effectuer des recommandations. En amont, l'étape essentielleest l'élicitation des préférences qui consiste à construire un profil depréférences en sollicitant le moins possible l'utilisateur. Dans cet article, nousprésentons une méthode basée sur l'extraction de motifs séquentiels afin de générerdes règles de préférences contextuelles à partir d'une base de paires detransactions. À partir de ces règles générées, qui ont une expressivité plus richeque celle des approches existantes, nous montrons comment construire et utiliserun profil modélisant les préférences de l'utilisateur. De plus, notre approchea l'avantage de bénéficier des nombreux algorithmes efficaces d'extraction deséquences fréquentes. L'évaluation de notre méthode sur des données réellesmontre que les modèles de préférences construits permettent d'effectuer des recommandationsjustes à un utilisateur.",
+"title": "Construction de profils de préférences contextuelles basée sur l'extraction de motifs séquentiels",
+"placeAut":[{
+"place":"Blois",
+"country":"France",
+"location":{
+	"lat":"47.5860921",
+	"lon":"1.3359475"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 48.117266, u'lon': -1.6777926}",
+"place": "Rennes",
+"booktitle": "EGC",
+"idArt": "91",
+"authors": "['Arnaud Giacometti','Dominique Haoyuan Li','Arnaud Soulet']"
+}

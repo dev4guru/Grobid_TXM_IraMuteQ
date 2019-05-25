@@ -1,0 +1,22 @@
+{
+"year": "2006",
+"metaSession": "3",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1000417",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1000417",
+"abstract": "Récemment la communauté Extraction de Connaissances s'est intéressée à de nouveaux modèles où les données arrivent séquentiellement sous la forme d'un flot rapide et continu, i.e. les data streams. L'une des particularités importantes de ces flots est que seule une quantité d'information partielle est disponible au cours du temps. Ainsi après différentes mises à jour successives, il devient indispensable de considérer l'incertitude inhérente à l'information retenue. Dans cet article, nous introduisons une nouvelle approche statistique en biaisant les valeurs supports pour les motifs fréquents. Cette dernière a l'avantage de maximiser l'un des deux paramètres (précision ou rappel) déterminés par l'utilisateur tout en limitant la dégradation sur le paramètre non choisi. Pour cela, nous définissons les notions de bordures statistiques. Celles-ci constituent les ensembles de motifs candidats qui s'avèrent très pertinents à utiliser dans le cas de la mise à jour incrémentale des streams. Les différentes expérimentations effectuées dans le cadre de recherche de motifs séquentiels ont montré l'intérêt de l'approche et le potentiel des techniques utilisées.",
+"title": "Bordures statistiques pour la fouille incrémentale de données dans les Data Streams",
+"placeAut":[{
+"place":"Schoelcher",
+"country":"France",
+"location":{
+	"lat":"14.62",
+	"lon":"-61.1"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 50.62925, u'lon': 3.057256}",
+"place": "Lille",
+"booktitle": "EGC",
+"idArt": "781",
+"authors": "['Jean-Emile Symphor','Pierre-Alain Laur']"
+}

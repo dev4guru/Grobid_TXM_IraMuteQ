@@ -1,0 +1,13 @@
+{	 "idArt" : "901",
+	 "placeAut" : [ 
+		{ "place" : "Orléans",
+		 "country" : "France",
+		 "location" : { "lat" :  47.902964, 
+			 "lon" : 1.9092510000000402 } },
+		{ "place" : "Rennes",
+		 "country" : "France",
+		 "location" : { "lat" :  48.117266, 
+			 "lon" : -1.6777925999999752 } }
+	 ]
+} 
+ 

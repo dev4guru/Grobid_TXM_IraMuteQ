@@ -1,0 +1,14 @@
+{	 "idArt" : "503",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2009",
+	 "place" : "Strasbourg",
+	 "location" : { "lat" :  48.5734053, 
+		 "lon" : 7.752111299999999 }, 
+	 "title" : "Binary Sequences and Association Graphs for Fast Detection of Sequential Patterns",
+	 "abstract" : "We develop an efficient algorithm for detecting frequent patterns thatoccur in sequence databases under certain constraints. By combining the useof bit vector representations of sequence databases with association graphs weachieve superior time and low memory usage based on a considerable reductionof the number of candidate patterns.",
+	 "authors" : ["Dan A. Simovici","Selim Mimaroglu"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1000781" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1000781" 
+} 
+ 

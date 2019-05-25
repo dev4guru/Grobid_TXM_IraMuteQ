@@ -1,0 +1,22 @@
+{
+"year": "2009",
+"metaSession": "5",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1000820",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1000820",
+"abstract": "RDBToOnto1 est un logiciel extensible qui permet d'élaborer des on-tologies précises à partir de bases de données relationnelles. Le processus sup-porté est largement automatisé, de l'extraction des données à la génération dumodèle de l'ontologie et son instanciation. Pour affiner le résultat, le processuspeut être orienté par des contraintes locales définies interactivement. C'est aussiun cadre facilitant la mise en oeuvre de nouvelles méthodes d'apprentissage.",
+"title": "RDBToOnto : un logiciel dédié à l'apprentissage d'ontologies à partir de bases de données relationnelles",
+"placeAut":[{
+"place":"Paris",
+"country":"France",
+"location":{
+	"lat":"48.856614",
+	"lon":"2.3522219"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 48.5734053, u'lon': 7.752111299999999}",
+"place": "Strasbourg",
+"booktitle": "EGC",
+"idArt": "553",
+"authors": "Farid Cerbah"
+}

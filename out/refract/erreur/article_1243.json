@@ -1,0 +1,15 @@
+{
+"idArt": "1243",
+"series": "Revue des Nouvelles Technologies de l'Information",
+"booktitle": "EGC",
+"year": "2017",
+"title": "Support uniforme de types de données personnalisés dans RDF et SPARQL",
+"abstract": "Les littéraux sont les noeuds terminaux du modèle de données RDF, etpermettent d'encoder des données telles que des nombres ("12.5"xsd:decimal),des dates ("2017-01-26T23:57:15"xsd:dateTime), ou tout autre type d'information("vert pomme"ex:couleur). Les moteurs RDF/SPARQL savent tester l'égalité oucomparer les littéraux RDF dont le type de données leur est connu (ce qui estle cas de xsd:decimal et xsd:dateTime). Mais lorsqu'un type de données est inconnud'un moteur RDF/SPARQL (comme ex:couleur), il n'a à priori aucun moyen d'en« découvrir » la sémantique. Dans cet article, nous attaquons ce problème et étu-dions comment permettre: (i) aux éditeurs de données de publier la définition detypes de données personnalisés sur leWeb, et (ii) aux moteurs RDF/SPARQL dedécouvrir à la volée ces types de données personnalisés, et de les utiliser de ma-nière uniforme. Nous discutons de différentes solutions possibles qui tirent partiedes principes du Web des données, et détaillons une solution concrète basée surle déréférencement et le langage JavaScript, suffisemment générique pour êtreutilisée pour des types de données personnalisés arbitrairement complexes.",
+"authors": "Maxime Lefrançois, Antoine Zimmermann",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1002292",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1002292",
+"metaSession": "1",
+"place": "Grenoble",
+"Latitude": " 45.188584 ",
+"Longitude": "5.724579"
+}

@@ -1,0 +1,14 @@
+{	 "idArt" : "1052",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2004",
+	 "place" : "Clermont-Ferrand",
+	 "location" : { "lat" :  45.77722199999999, 
+		 "lon" : 3.087025 }, 
+	 "title" : "Fonctionnement d'un Système Informatique d'Aide à la Décision (SIAD)",
+	 "abstract" : "Cet article présente le fonctionnement d'un SIAD : alimentation, traitement des données qui l'alimentent, production des résultats, outils de consultation mis à la disposition des utilisateurs, exploitation éditoriale.",
+	 "authors" : ["Michel Volle"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1000886" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1000886" 
+} 
+ 

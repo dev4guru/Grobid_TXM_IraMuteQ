@@ -1,0 +1,14 @@
+{	 "idArt" : "633",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC ",
+	 "year" : "2008",
+	 "place" : "Sophia Antipolis",
+	 "location" : { "lat" :  43.6163539, 
+		 "lon" : 7.0552218 }, 
+	 "title" : "Pondération locale des variables en apprentissage numérique non-supervisé",
+	 "abstract" : "Dans cet article, nous proposons une nouvelle approche de pondérations des variables durant un processus d'apprentissage non supervisé. Cette méthode se base sur l'algorithme « batch » des cartes auto-organisatrices. L'estimation des coefficients de pondération se fait en parallèle avec la classification automatique. Ces pondérations sont locales et associées à chaque référent de la carte auto-organisatrice. Elles reflètent l'importance locale de chaque variable pour la classification. Les pondérations locales sont utilisées pour la segmentation de la carte topologique permettant ainsi un découpage plus riche tenant compte des pertinences des variables. Les résultats de l'évaluation montrent que l'approche proposée, comparée à d'autres méthodes de classification, offre une segmentation plus fine de la carte et de meilleure qualité.",
+	 "authors" : ["Nistor Grozavu","Younès Bennani","Mustapha Lebbah"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1000619" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1000619" 
+} 
+ 

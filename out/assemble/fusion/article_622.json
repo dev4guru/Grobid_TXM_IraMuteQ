@@ -1,0 +1,22 @@
+{
+"year": "2008",
+"metaSession": "6",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1000560",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1000560",
+"abstract": "Une carte cognitive fournit une représentation graphique d'un réseau d'influence entre des concepts. Les cartes cognitives de dimensions importantes ont l'inconvénient d'être difficiles à appréhender, interpréter et exploiter. Cet article présente un modèle de cartes cognitives hiérarchiques permettant au concepteur d'effectuer des regroupements de concepts qui sont ensuite utilisés dans un mécanisme permettant à l'utilisateur d'obtenir des vues partielles et synthétiques d'une carte.",
+"title": "Les cartes cognitives hiérarchiques",
+"placeAut":[{
+"place":"Angers",
+"country":"France",
+"location":{
+	"lat":"47.478419",
+	"lon":"-0.563166"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 43.6163539, u'lon': 7.0552218}",
+"place": "Sophia Antipolis",
+"booktitle": "EGC ",
+"idArt": "622",
+"authors": "['Lionel Chauvin','David Genest','Stéphane Loiseau']"
+}

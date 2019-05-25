@@ -1,0 +1,14 @@
+{	 "idArt" : "278",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2011",
+	 "place" : "Brest",
+	 "location" : { "lat" :  48.390394, 
+		 "lon" : -4.486076 }, 
+	 "title" : "Acquisition de structures lexico-sémantiques à partir de textes : un nouveau cadre de travail fondé sur une structuration prétopologique",
+	 "abstract" : "Les structures lexico-sémantiques jouent un rôle essentiel dans les processus de fouille de textes. En codant les relations sémantiques entre concepts du discours elles apportent une connaissance stratégiques pour enrichir les capacités de raisonnement. Le développement de telles structures étant fortement limité du fait des efforts nécessaires à leur construction, nous proposons un nouveau formalisme d'acquisition automatique d'ontologies terminologiques à partir de textes. Nous utilisons pour cela une formalisation prétopologique de l'espace des termes sur laquelle s'appuie un modèle générique de structuration. Nous présentons une étude empirique préliminaire rendant compte du potentiel de ce modèle en terme d'extraction de connaissances.",
+	 "authors" : ["Guillaume Cleuziou","Gaël Dias","Vincent Levorato"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1000936" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1000936" 
+} 
+ 

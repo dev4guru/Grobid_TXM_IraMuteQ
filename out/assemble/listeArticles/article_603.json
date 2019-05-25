@@ -1,0 +1,14 @@
+{	 "idArt" : "603",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2008",
+	 "place" : "Sophia Antipolis",
+	 "location" : { "lat" :  43.6163539, 
+		 "lon" : 7.0552218 }, 
+	 "title" : "Extraction d'un modèle numérique de terrain à partir de photographies par drone",
+	 "abstract" : "Dans le suivi et la modélisation de l'érosion en montagne, lareprésentation fine du relief est une composante importante. En effet, laconnaissance des zones de concentration des eaux, notamment à traversl'apparition de rigoles élémentaires, est fondamentale pour bien décrire lesconnectivités entre les zones de mobilisation des sédiments sur le versant et leréseau hydrographique stabilisé. La résolution au sol permise par lesphotographies aériennes classiques ne permet pas d'accéder à unereprésentation 3D suffisamment fine des ravines élémentaires. Nous testonsl'utilisation de photographies stéréoscopiques à résolution centimétrique prisesà basse altitude par un drone pour obtenir un MNT précis. La question majeureconcerne les règles à suivre pour un meilleur compromis entre précision etfacilité d'élaboration, et l'évaluation de l'importance relative de chaque étapesur la qualité finale de la restitution. La zone d'étude est située dans lesBadlands de Draix (Alpes de Haute Provence).",
+	 "authors" : ["Andres Jacome","Christian Puech","Damien Raclot","Jean-Stéphane Bailly","Bruno Roux"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1001233" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1001233" 
+} 
+ 

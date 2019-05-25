@@ -1,0 +1,22 @@
+{
+"year": "2015",
+"metaSession": "7",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1002098",
+"pdfarticle": "",
+"abstract": "Les modèles de propagation d'informations, d'influence et d'actions dans les réseaux sociaux sont nombreux et diversifiés rendant le choix de celui approprié à une situation donnée potentiellement difficile. La sélection d'un modèle pertinent pour une situation exige de pouvoir les comparer. Cette comparaison n'est possible qu'au prix d'une traduction des modèles dans un formalisme commun et indépendant de ceux-ci. Nous proposons l'utilisation de la réécriture de graphes afin d'exprimer les mécanismes de propagation sous la forme d'un ensemble de règles de transformation locales appliquées selon une stratégie donnée. Cette démarche prend tout son sens lorsque les modèles ainsi traduits sont étudiés et simulés à partir d'une plate-forme de visualisation analytique dédiée à la réécriture de graphe. Après avoir décrit les modèles et effectué différentes simulations, nous exhibons comment la plate-forme permet d'interagir avec ces formalismes, et comparer interactivement les traces d'exécution de chaque modèle grâce à diverses mesures soulignant leurs différences.",
+"title": "Une approche de visualisation analytique pour comparer les modèles de propagation dans les réseaux sociaux",
+"placeAut":[{
+"place":"Villetaneuse",
+"country":"France",
+"location":{
+	"lat":"48.963476",
+	"lon":"2.347354"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 49.815273, u'lon': 6.129582999999999}",
+"place": "Luxembourg",
+"booktitle": "EGC",
+"idArt": "59",
+"authors": "['Jason Vallet','Bruno Pinaud','Guy Melançon']"
+}

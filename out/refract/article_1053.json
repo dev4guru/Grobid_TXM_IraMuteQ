@@ -1,0 +1,22 @@
+{
+"year": "2004",
+"metaSession": "8",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1000891",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1000891",
+"abstract": "Les entrepôts de données stockent des quantités de données de plus en plus massives, en particulier du fait de la constitution d'historiques. Nous proposons ici une solution pour éviter la saturation des entrepôts de données. Nous définissons un langage de spécifications de fonctions d'oubli des données les plus anciennes, permettant de déterminer ce qui doit être présent dans l'entrepôt de données à chaque instant. Ces spécifications de fonctions d'oubli se traduisent par des opérations de résumé par agrégation, et par des opérations de suppression des données anciennes réalisées de façon mécanique à chaque pas de mise à jour. La communication présente tout d'abord une description syntaxique du langage de spécifications des fonctions d'oubli. Les contraintes à vérifier pour assurer la cohérence du langage sont ensuite décrites. Enfin, nous proposons des structures de données adaptées au stockage des données nécessaires à la gestion des fonctions d'oubli.",
+"title": "Fonctions d'oubli dans les entrpôts de données",
+"placeAut":[{
+"place":"Paris",
+"country":"France",
+"location":{
+	"lat":"48.856614",
+	"lon":"2.3522219"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 45.77722199999999, u'lon': 3.087025}",
+"place": "Clermont-Ferrand",
+"booktitle": "EGC",
+"idArt": "1053",
+"authors": "['Aliou Boly','Georges Hébrail','Marie-Luce Picard']"
+}

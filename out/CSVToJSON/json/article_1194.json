@@ -1,0 +1,15 @@
+{
+"idArt": "1194",
+"series": "Revue des Nouvelles Technologies de l'Information",
+"booktitle": "EGC",
+"year": "2017",
+"title": "Apprentissage d'espaces prétopologiques dans un cadre multi-instance pour la structuration de données",
+"abstract": "Nous présentons dans cet article une méthode supervisée de structu-ration (en DAG) d'un ensemble d'éléments. Étant donnés une structure cible etun ensemble de relations sur ces éléments, il s'agit d'apprendre un modèle destructuration par combinaison des relations initiales. Nous formalisons ce pro-blème dans le cadre de la théorie de la prétopologie qui permet d'atteindre desmodèles de structuration complexes.Nous montrons que la non-idempotence de la fonction d'adhérence rentre dansle cadre du formalisme de l'apprentissage (supervisé) multi-instance et nous pro-posons un algorithme d'apprentissage reposant sur le dénombrement des «sacs»positifs et négatifs plutôt que sur un ensemble d'apprentissage standard.Une première expérimentation de cette méthode est présentée dans un cadreapplicatif de fouille de textes, consistant à apprendre un modèle de structurationtaxonomique d'un ensemble de termes.",
+"authors": "Gaëtan Caillaut, Guillaume Cleuziou",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1002300",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1002300",
+"metaSession": "2",
+"place": "Grenoble",
+"Latitude": " 45.188535 ",
+"Longitude": "5.724530"
+}

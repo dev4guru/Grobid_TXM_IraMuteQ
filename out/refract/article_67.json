@@ -1,0 +1,22 @@
+{
+"year": "2015",
+"metaSession": "",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1002117",
+"pdfarticle": "",
+"abstract": "The Competitive Intelligence System Xplor EveryWhere helps searching, visualizing, and sharing useful data. In this paper, we will intorduce Xplor EveryWhere and its newest feature called XEWGraph, which is dedicated to the analysis of massive data and visualization of hypergraphs.",
+"title": "XEWGraph : Outil de Visualisation et Analyse des Hypergraphes pour un Système d'Intelligence Economique",
+"placeAut":[{
+"place":"Brest",
+"country":"France",
+"location":{
+	"lat":"48.390394",
+	"lon":"-4.486076"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 49.815273, u'lon': 6.129582999999999}",
+"place": "Luxembourg",
+"booktitle": "EGC",
+"idArt": "67",
+"authors": "['Zakaria Boulouard','Amine El Haddadi','Anass El Haddadi','Lahcen Koutti','Abdelhadi Fennan']"
+}

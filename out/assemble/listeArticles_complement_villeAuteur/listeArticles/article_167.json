@@ -1,0 +1,13 @@
+{	 "idArt" : "167",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2013",
+	 "place" : "Toulouse",
+	 "location" : { "lat" :  43.604652, 
+		 "lon" : 1.444209 }, 
+	 "title" : "Construction de descripteurs à partir du coclustering pour la classification supervisée de séries temporelles",
+	 "abstract" : "Nous présentons un processus de construction de descripteurs pour la classification supervisée de séries temporelles. Ce processus est libre de tout paramétrage utilisateur et se décompose en trois étapes : (i) à partir des données originales, nous générons de multiples nouvelles représentations simples ; (ii) sur chacune de ces représentations, nous appliquons un algorithme de coclustering ; (iii) à partir des résultats de co-clustering, nous construisons de nouveaux descripteurs pour les séries temporelles. Nous obtenons une nouvelle base de données objets-attributs dont les objets (identifiant les séries temporelles) sont décrits par des attributs issus des diverses représentations générées. Nous utilisons un classifieur Bayésien sur cette nouvelle base de données. Nous montrons expérimentalement que ce processus offre de très bonnes performances prédictives comparées à l'état de l'art.",
+	 "authors" : ["Dominique Gay","Marc Boullé"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1001855" 
+} 
+ 

@@ -1,0 +1,22 @@
+{
+"year": "2007",
+"metaSession": "8",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1001404",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1001404",
+"abstract": "Les données vidéo ont la particularité d'être très volumineuses alors qu'elles contiennent peu d'information sémantique. Pour les analyser, il faut réduire la quantité d'information dans l'espace de recherche. Les données vidéo sont souvent considérées comme l'ensemble des pixels d'une succession d'images analysées séquentiellement. Dans cet article, nous proposons d'utiliser une analyse en composantes principales (ACP) pour réduire la dimensionnalité des informations sans perdre la nature tridimensionnelle des données initiales. Nous commençons par considérer des sous-séquences, dont le nombre de trames est le nombre de dimensions dans l'espace de représentation. Nous appliquons une ACP pour obtenir un espace de faible dimension où les points similaires sémantiquement sont proches. La sous-séquence est ensuite divisée en blocs tridimensionnels dont on projette l'ellipsoïde d'inertie dans le premier plan factoriel. Nous déduisons enfin le mouvement présent dans les blocs à partir des ellipses ainsi obtenues. Nous présenterons les résultats obtenus pour un problème de vidéosurveillance.",
+"title": "Réduction de dimension pour l'analyse de données vidéo",
+"placeAut":[{
+"place":"Paris",
+"country":"France",
+"location":{
+	"lat":"48.856614",
+	"lon":"2.3522219"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 50.4673883, u'lon': 4.8719854}",
+"place": "Namur",
+"booktitle": "EGC",
+"idArt": "734",
+"authors": "['Nicolas Verbeke','Nicole Vincent']"
+}

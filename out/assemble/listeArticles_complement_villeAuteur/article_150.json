@@ -1,0 +1,13 @@
+{	 "idArt" : "150",
+	 "placeAut" : [ 
+		{ "place" : "Paris",
+		 "country" : "France",
+		 "location" : { "lat" :  48.856614, 
+			 "lon" : 2.3522219000000177 } },
+		{ "place" : "Stanford",
+		 "country" : "USA",
+		 "location" : { "lat" :  37.42410599999999, 
+			 "lon" : -122.1660756 } }
+	 ]
+} 
+ 

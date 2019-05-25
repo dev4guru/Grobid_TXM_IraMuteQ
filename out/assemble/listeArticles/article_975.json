@@ -1,0 +1,14 @@
+{	 "idArt" : "975",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2005",
+	 "place" : "Paris",
+	 "location" : { "lat" :  48.856614, 
+		 "lon" : 2.3522219 }, 
+	 "title" : "Hiérarchisation des règles d'association en fouille de textes",
+	 "abstract" : "L'extraction de règles d'association est souvent exploitée comme méthode de fouille de données. Cependant, une des limites de cette approche vient du très grand nombre de règles extraites et de la difficulté pour l'analyste à appréhender la totalité de ces règles. Nous proposons donc de pallier ce problème en structurant l'ensemble des règles d'association en hiérarchies. La structuration des règles se fait à deux niveaux. Un niveau global qui a pour objectif de construire une hiérarchie structurant les règles extraites des données. Nous définissons donc un premier type de subsomption entre règles issue de la subsomption dans les treillis de Galois. Le second niveau correspond à une analyse locale des règles et génère pour une règle donnée une hiérarchie de généralisation de cette règle qui repose sur des connaissances complémentaires exprimées dans un modèle terminologique. Ce niveau fait appel à un second type de subsomption inspiré de la subsomption en programmation logique inductive. Nous définissons ces deux types de subsomptions, développons un exemple montrant l'intérêt de l'approche pour l'analyste et étudions les propriétés formelles des hiérarchies ainsi proposées.",
+	 "authors" : ["Rokia Bendaoud","Yannick Toussaint","Amedeo Napoli"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1000268" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1000268" 
+} 
+ 

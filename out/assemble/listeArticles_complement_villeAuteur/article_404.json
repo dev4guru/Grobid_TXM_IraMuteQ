@@ -1,0 +1,33 @@
+{	 "idArt" : "404",
+	 "placeAut" : [ 
+		{ "place" : "Courbevoie",
+		 "country" : "France",
+		 "location" : { "lat" :  48.900552, 
+			 "lon" : 2.2592899999999645 } },
+		{ "place" : "Tunis",
+		 "country" : "Tunisie",
+		 "location" : { "lat" :  36.8064948, 
+			 "lon" : 10.181531599999971 } },
+		{ "place" : "Carthage",
+		 "country" : "Tunisie",
+		 "location" : { "lat" :  36.8529199, 
+			 "lon" : 10.32172449999996 } },
+		{ "place" : "Paris",
+		 "country" : "France",
+		 "location" : { "lat" :  48.856614, 
+			 "lon" : 2.3522219000000177 } },
+		{ "place" : "Villejuif",
+		 "country" : "France",
+		 "location" : { "lat" :  48.792716, 
+			 "lon" : 2.359279000000015 } },
+		{ "place" : "Besançon",
+		 "country" : "France",
+		 "location" : { "lat" :  47.237829, 
+			 "lon" : 6.024053900000013 } },
+		{ "place" : "Vandoeuvre Lès-Nancy",
+		 "country" : "France",
+		 "location" : { "lat" :  48.66111799999999, 
+			 "lon" : 6.173760000000016 } }
+	 ]
+} 
+ 

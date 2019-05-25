@@ -1,0 +1,9 @@
+{	 "idArt" : "269",
+	 "placeAut" : [ 
+		{ "place" : "Glasgow",
+		 "country" : "Royaume-Uni",
+		 "location" : { "lat" :  55.864237, 
+			 "lon" : -4.251805999999988 } }
+	 ]
+} 
+ 

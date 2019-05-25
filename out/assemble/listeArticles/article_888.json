@@ -1,0 +1,14 @@
+{	 "idArt" : "888",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "AEGC",
+	 "year" : "2005",
+	 "place" : "Paris",
+	 "location" : { "lat" :  48.856614, 
+		 "lon" : 2.3522219 }, 
+	 "title" : "Extraction de motifs temporels pour la détection dynamique de conflits ethno-politiques",
+	 "abstract" : "Nous présentons une réalisation en cours sur l'extraction de motifstemporels à partir de séquences d'événements dans le cadre de la détection dynamiquedes conflits ethno-politiques. Notre contexte d'application présenteplusieurs difficultés : le phénomène que l'on cherche à modéliser est fortementvariable et les données sont bruitées. Mais nous disposons d'une connaissancea priori du domaine qui peut être exploitée pour guider l'apprentissage encontraignant l'espace de recherche des motifs. Nous proposons une méthodesupervisée d'apprentissage de scénarios dont l'originalité est d'utiliser une mesurede pertinence qualitative par opposition aux mesures basées sur la fréquence.Cette méthode intègre des concepts de logique floue.",
+	 "authors" : ["Laure Mouillet","Bernadette Bouchon-Meunier","Emmanuel Collain"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1000266" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1000266" 
+} 
+ 

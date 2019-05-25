@@ -1,0 +1,22 @@
+{
+"year": "2011",
+"metaSession": "5",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1001012",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1001012",
+"abstract": "Dans le présent travail, nous proposons un outil d'aide à la reconnaissance de cibles radar basé sur la signature de forme et de la pose de la cible. La tâche principale dans le cadre de cet article consiste à établir la fonction de recherche d'images ISAR par l'exemple en exploitant l'information de pose estimée depuis les images ISAR. L'objectif est d'introduire l'information de pose dans l'indexation des images, notamment dans la phase de sélection des images candidates. Nous proposons une nouvelle méthode d'estimation de la pose basée sur l'axe le plus symétrique de la cible. La méthode proposée est ensuite comparée avec d'autres techniques connues telles que la transformée de Hough et la transformée en ondelette. Enfin, la tâche de classification est réalisée en utilisant les k-plus proches voisins incluant l'information de la pose.",
+"title": "Classification des aéronefs par estimation de la pose",
+"placeAut":[{
+"place":"Rabat",
+"country":"Maroc",
+"location":{
+	"lat":"33.9715904",
+	"lon":"-6.8498129"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 48.390394, u'lon': -4.486076}",
+"place": "Brest",
+"booktitle": "EGC",
+"idArt": "295",
+"authors": "['Mohamed Nabil Saidi','Abdelmalek Toumi','Ali Khenchaf','Driss Aboutajdine']"
+}

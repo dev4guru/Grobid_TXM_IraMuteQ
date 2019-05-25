@@ -1,0 +1,22 @@
+{
+"year": "2014",
+"metaSession": "",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1001906",
+"pdfarticle": "",
+"abstract": "La notion d'incertitude a été longtemps un sujet de controverses. En particulier la prééminencede la théorie des probabilités dans les sciences tend à gommer les différences présentesdans les premières tentatives de formalisation, remontant au 17ème siècle, entre l'incertitudedue à la variabilité des phénomènes répétables et l'incertitude due au manque d'information(dite épistémique). L'école Bayésienne affirme que quelle que soit l'origine de l'incertitude,celle-ci peut être modélisée par une distribution de probabilité unique. Cette affirmation a étébeaucoup remise en cause dans les trente dernières années. En effet l'emploi systématiqued'une distribution unique en cas d'information partielle mène à des utilisations paradoxales dela théorie des probabilités.Dans de nombreux domaines, il est crucial de distinguer entre l'incertitude due à la variabilitéd'observations et l'incertitude due à l'ignorance partielle. Cette dernière peut être réduitepar l'obtention de nouvelles informations, mais pas la première, dont on ne se prémunit quepar des actions concrètes. Dans le cas des bases de données, il est souvent supposé qu'ellessont précises, et l'incertitude correspondante est souvent négligée. Quant elle est abordée onreste souvent dans une approche probabiliste orthodoxe.Néanmoins, les statisticiens ont développé des outils qui ne relèvent pas de la théorie deKolmogorov pour pallier le manque de données (intervalles de confiance, principe de maximumde vraisemblance...).De nouvelles théories de l'incertain ont émergé, qui offrent la possibilité de représenter lesincertitudes épistémiques et aléatoires de façon distincte, notamment l'incertitude épistémique,en remplaçant la distribution de probabilité unique par une famille de distributions possibles,cette famille étant d'autant plus grande que l'information est absente. Cette représentationcomplexe possède des cas particuliers plus simples à utiliser en pratique, comme les ensemblesaléatoires (théorie des fonctions de croyance), les distributions de possibilité (représentant desensembles flous de valeurs possibles) et les p-boxes, notamment.Le but de cet exposé est de susciter l'intérêt pour ces nouvelles théories de l'incertain,d'en donner les bases formelles, d'en discuter la philosophie sous-jacente, de faire le lien aveccertaines notions en statistique, et de les illustrer sur des exemples.",
+"title": "Les nouvelles théories de l'incertain",
+"placeAut":[{
+"place":"Toulouse",
+"country":"France",
+"location":{
+	"lat":"43.604652",
+	"lon":"1.444209"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 48.117266, u'lon': -1.6777926}",
+"place": "Rennes",
+"booktitle": "EGC",
+"idArt": "118",
+"authors": "Didier Dubois"
+}

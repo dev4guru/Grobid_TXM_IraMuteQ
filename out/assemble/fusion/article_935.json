@@ -1,0 +1,22 @@
+{
+"year": "2005",
+"metaSession": "8",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1000278",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1000278",
+"abstract": "",
+"title": "Amélioration de la performance de l'Analyse de la Sémantique Latente pour des corpus de petite taille",
+"placeAut":[{
+"place":"Meknes",
+"country":"Maroc",
+"location":{
+	"lat":"33.895",
+	"lon":"-5.554722"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 48.856614, u'lon': 2.3522219}",
+"place": "Paris",
+"booktitle": "EGC",
+"idArt": "935",
+"authors": "['Fadoua Ataa-Allah','Abderrahim El Qadi','Siham Boulaknadel','Driss Aboutajdine']"
+}

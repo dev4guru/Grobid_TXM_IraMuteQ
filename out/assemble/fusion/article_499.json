@@ -1,0 +1,22 @@
+{
+"year": "2009",
+"metaSession": "0",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1000735",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1000735",
+"abstract": "Les activités de négoce de matériaux sont un marché extrêmementcompétitif. Pour les acteurs de ce marché, les méthodes de fouille de donnéespeuvent s'avérer intéressantes en permettant de dégager des gains de rentabilitéimportants. Dans cet article, nous présenterons le retour d'expérience du projetde fouille de données mené chez VM Matériaux pour améliorer le retour surinvestissement d'opérations commerciales. La synergie des informaticiens, dumarketing et des experts métier a permis d'améliorer l'extraction des connais-sances à partir des données de manière à aboutir à la connaissance actionnable laplus pertinente possible et ainsi aider les experts métier à prendre des décisions.",
+"title": "Analyse et application de modèles de régression pour optimiser le retour sur investissement d'opérations commerciales",
+"placeAut":[{
+"place":"L'Herbergement",
+"country":"France",
+"location":{
+	"lat":"46.9086659",
+	"lon":"-1.377686"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 48.5734053, u'lon': 7.752111299999999}",
+"place": "Strasbourg",
+"booktitle": "EGC",
+"idArt": "499",
+"authors": "['Thomas Piton','Julien Blanchard','Henri Briand','Laurent Tessier','Gaëtan Blain']"
+}

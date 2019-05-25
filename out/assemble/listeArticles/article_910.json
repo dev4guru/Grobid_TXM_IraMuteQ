@@ -1,0 +1,14 @@
+{	 "idArt" : "910",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "AEGC",
+	 "year" : "2005",
+	 "place" : "Paris",
+	 "location" : { "lat" :  48.856614, 
+		 "lon" : 2.3522219 }, 
+	 "title" : "Modélisation Sémantique de l'Utilisateur",
+	 "abstract" : "Notre approche « sémantique de l'utilisabilité », basée sur lacatégorisation, correspond à un mode de représentation des connaissances,sous la forme d'un treillis de Galois qui permet de modéliser et simuler lesprocédures utilisateurs sur un dispositif technique. Cette approche, qui diffèrede celles qu'on trouve avec SOAR ou ACT, associe les actions et lesprocédures aux catégories d'objets, comme propriétés de ces catégories(Poitrenaud, Richard & Tijus, sous presse). L'accès aux actions et procédures alieu à partir des catégories d'objets. Dans le cadre de cette approche, leserreurs relèvent de méprises catégorielles et l'analogie relève des processus dereconnaissance qui ont lieu lors de la catégorisation. La modélisation et lasimulation dans le cadre de cette approche se réalisent avec les formalismesdéveloppés par Poitrenaud (1995): ProcOpe et STONE.",
+	 "authors" : ["Charles Tijus","Sebastien Poitrenaud","Jean-François Richard"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1000232" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1000232" 
+} 
+ 

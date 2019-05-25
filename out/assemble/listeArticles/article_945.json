@@ -1,0 +1,14 @@
+{	 "idArt" : "945",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2005",
+	 "place" : "Paris",
+	 "location" : { "lat" :  48.856614, 
+		 "lon" : 2.3522219 }, 
+	 "title" : "Apprentissage non supervisé de séries temporelles à l'aide des k-Means et d'une nouvelle méthode d'agrégation de séries",
+	 "abstract" : "L'utilisation d'un algorithme d'apprentissage non supervisé de type k-Means sur un jeu de séries temporelles amène à se poser deux questions : Celle du choix d'une mesure de similarité et celle du choix d'une méthode effectuant l'agrégation de plusieurs séries afin d'en estimer le centre (i.e. calculer les k moyennes). Afin de répondre à la première question, nous présentons dans cet article les principales mesures de similarité existantes puis nous expliquons pourquoi l'une d'entre elles (appelée Dynamic Time Warping) nous paraît la plus adaptée à l'apprentissage non supervisé. La deuxième question pose alors problème car nous avons besoin d'une méthode d'agrégation respectant les caractéristiques bien particulières du Dynamic Time Warping. Nous pensons que l'association de cette mesure de similarité avec l'agrégation Euclidienne peut générer une perte d'informations importante dans le cadre d'un apprentissage sur la forme des séries. Nous proposons donc une méthode originale d'agrégation de séries temporelles, compatible avec le Dynamic Time Warping, qui améliore ainsi les résultats obtenus à l'aide de l'algorithme des k-Means.",
+	 "authors" : ["Nicolas Nicoloyannis","Rémi Gaudin"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1000250" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1000250" 
+} 
+ 

@@ -1,0 +1,14 @@
+{	 "idArt" : "841",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2006",
+	 "place" : "Lille",
+	 "location" : { "lat" :  50.62925, 
+		 "lon" : 3.057256 }, 
+	 "title" : "Reconnaissance automatique de concepts à partir d'une ontologie",
+	 "abstract" : "Ce papier présente une approche qui s'appuie sur une ontologie pourreconnaître automatiquement des concepts spécifiques à un domaine dans uncorpus en langue naturelle. La solution proposée est non-supervisée et peuts'appliquer à tout domaine pour lequel une ontologie a été déjà construite. Uncorpus du domaine est utilisé dans lequel les concepts seront reconnus. Dansune première phase, des connaissances sont extraites de ce corpus en faisantappel à des fouilles de textes. Une ontologie du domaine est utilisée pour étiqueterces connaissance. Le papier donne un aperçu des techniques de fouillesemployées et décrit le processus d 'étiquetage. Les résultats d'une premièreexpérimentation dans le domaine de l'accidentologie sont aussi présentés",
+	 "authors" : ["Valentina Ceausu","Sylvie Desprès"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1000351" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1000351" 
+} 
+ 

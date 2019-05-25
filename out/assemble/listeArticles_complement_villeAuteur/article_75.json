@@ -1,0 +1,17 @@
+{	 "idArt" : "75",
+	 "placeAut" : [ 
+		{ "place" : "Caen",
+		 "country" : "France",
+		 "location" : { "lat" :  49.182863, 
+			 "lon" : -0.37067899999999554 } },
+		{ "place" : "Orléans",
+		 "country" : "France",
+		 "location" : { "lat" :  47.902964, 
+			 "lon" : 1.9092510000000402 } },
+		{ "place" : "Lannion",
+		 "country" : "France",
+		 "location" : { "lat" :  48.732084, 
+			 "lon" : -3.4591440000000375 } }
+	 ]
+} 
+ 

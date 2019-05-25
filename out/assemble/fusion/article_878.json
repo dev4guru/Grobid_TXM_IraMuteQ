@@ -1,0 +1,22 @@
+{
+"year": "2005",
+"metaSession": "",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1000206",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1000206",
+"abstract": "Le modèle des cartes cognitives offre une représentation graphiqued'un réseau d'influences entre différentes notions. Nous proposons un nouveaumodèle de cartes cognitives qui intègre la partie représentation desconnaissances et l'opération de projection du modèle des graphes conceptuels",
+"title": "Cartes cognitives de graphes conceptuels",
+"placeAut":[{
+"place":"Angers",
+"country":"France",
+"location":{
+	"lat":"47.478419",
+	"lon":"-0.563166"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 48.856614, u'lon': 2.3522219}",
+"place": "Paris",
+"booktitle": "AEGC",
+"idArt": "878",
+"authors": "['Stéphane Loiseau','David Genest']"
+}

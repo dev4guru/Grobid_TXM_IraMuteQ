@@ -1,0 +1,9 @@
+{	 "idArt" : "63",
+	 "placeAut" : [ 
+		{ "place" : "Blida",
+		 "country" : "Algérie",
+		 "location" : { "lat" :  36.4798683, 
+			 "lon" : 2.800567699999988 } }
+	 ]
+} 
+ 

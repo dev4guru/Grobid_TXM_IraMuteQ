@@ -1,0 +1,14 @@
+{	 "idArt" : "378",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2010",
+	 "place" : "Hammamet",
+	 "location" : { "lat" :  36.4, 
+		 "lon" : 10.616667 }, 
+	 "title" : "Affichage de publicités sur des portails web",
+	 "abstract" : "Nous nous intéressons au problème de l'affichage de publicités surle web. De plus en plus d'annonceurs souhaitent maintenant payer uniquementlorsque quelqu'un clique sur leurs publicités. Dans ce modèle, l'opérateur duportail a intérêt à identifier les publicités les plus cliquées, selon ses catégoriesde visiteurs. Comme les probabilités de clic sont inconnues a priori, il s'agit d'undilemme exploration/exploitation. Ce problème a souvent été traité en ne tenantpas compte de contraintes provenant du monde réel : les campagnes de publicitésont une durée de vie et possèdent un nombre de clics à assurer et ne pas dépasser.Pour cela, nous introduisons une approche hybride (MAB+LP) entre la programmationlinéaire et les bandits. Nos algorithmes sont testés sur des modèles créésavec un important acteur du web commercial. Ces expériences montrent que cesapproches atteignent une performance très proche de l'optimum et mettent enévidence des aspects clés du problème.",
+	 "authors" : ["Victor Gabillon","Jérémie Mary","Philippe Preux"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1001268" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1001268" 
+} 
+ 

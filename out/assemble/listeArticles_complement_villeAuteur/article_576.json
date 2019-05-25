@@ -1,0 +1,13 @@
+{	 "idArt" : "576",
+	 "placeAut" : [ 
+		{ "place" : "Carthage",
+		 "country" : "Tunisie",
+		 "location" : { "lat" :  36.8529199, 
+			 "lon" : 10.32172449999996 } },
+		{ "place" : "Le Bardo",
+		 "country" : "Tunisie",
+		 "location" : { "lat" :  36.8139834, 
+			 "lon" : 10.140916999999945 } }
+	 ]
+} 
+ 

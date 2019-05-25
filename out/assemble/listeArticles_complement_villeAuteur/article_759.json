@@ -1,0 +1,13 @@
+{	 "idArt" : "759",
+	 "placeAut" : [ 
+		{ "place" : "Caen",
+		 "country" : "France",
+		 "location" : { "lat" :  49.182863, 
+			 "lon" : -0.37067899999999554 } },
+		{ "place" : "Le-Havre",
+		 "country" : "France",
+		 "location" : { "lat" :  49.49437, 
+			 "lon" : 0.10792900000001282 } }
+	 ]
+} 
+ 

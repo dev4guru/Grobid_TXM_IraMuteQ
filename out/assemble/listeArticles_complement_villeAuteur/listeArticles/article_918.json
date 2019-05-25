@@ -1,0 +1,14 @@
+{	 "idArt" : "918",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "AEGC",
+	 "year" : "2005",
+	 "place" : "Paris",
+	 "location" : { "lat" :  48.856614, 
+		 "lon" : 2.3522219 }, 
+	 "title" : "Réseaux Bayésiens de Niveau Deux et D-Séparation",
+	 "abstract" : "Étant donné une famille de variables aléatoires (Xi)i&#8712;I , munie de la structure de réseau bayésien et un sous-ensemble S de I, nous considérons le problème de calcul de la loi de la sous-famille (Xa)a&#8712;S (resp. la loi de (Xb)b&#8712; ¯ S, où ¯ S = I &#8722; S, conditionnellement à (Xa)a&#8712;S).Nous mettons en évidence la possibilité de décomposer cette tâche en plusieurs calculs parallèles dont chacun est associé à une partie de S (resp. de ¯ S) ; ces résultats partiels sont ensuite regroupés dans un produit. Dans le cas du calcul de (Xa)a&#8712;S, ceci revient à la mise en place sur S d'une structure de réseau bayésien de niveau deux.",
+	 "authors" : ["Linda Smail","Jean-Pierre Raoult"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1000228" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1000228" 
+} 
+ 

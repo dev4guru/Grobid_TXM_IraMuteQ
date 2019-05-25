@@ -1,0 +1,22 @@
+{
+"year": "2009",
+"metaSession": "0",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1000803",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1000803",
+"abstract": "Prometteuses en terme de prévention, de dépistage, de diagnostic etd'actions thérapeutiques, les puces à ADN mesurent l'intensité des expressionsde plusieurs milliers de gènes. Dans cet article, nous proposons une nouvelleapproche appelée DEMON, pour extraire des motifs séquentiels à partir de don-nées issues des puces ADN et qui utilise des connaissances du domaine.",
+"title": "DEMON : Découverte de motifs séquentiels pour les puces adn",
+"placeAut":[{
+"place":"Montpellier",
+"country":"France",
+"location":{
+	"lat":"43.610769",
+	"lon":"3.876716"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 48.5734053, u'lon': 7.752111299999999}",
+"place": "Strasbourg",
+"booktitle": "EGC",
+"idArt": "518",
+"authors": "['Paola Salle','Sandra Bringay','Maguelonne Teisseire']"
+}

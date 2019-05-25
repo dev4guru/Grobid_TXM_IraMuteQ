@@ -1,0 +1,22 @@
+{
+"year": "2005",
+"metaSession": "5",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1000416",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1000416",
+"abstract": "L'inférence de signatures de facteurs de transcription à partir des données puces à ADN a déjà été étudié dans la communauté bioinformatique. La principale difficulté à résoudre est de trouver un ensemble d'heuristiques pertinentes, afin de contrôler la complexité de résolution de ce problème NP-difficile. Nous proposons dans cet article une solution heuristique alternative à celles utilisées dans les approches bayésiennes, fondée sur la recherche de motifs fréquents maximaux dans une matrice discrétisée issue des données numériques de puces ADN. Notre méthode est appliquée sur des données de cancer de vessie de l'Institut Curie et de l'Hôpital Henri Mondor de Créteil.",
+"title": "Apprentissage de signatures de facteurs de transcription à partir de données d'expression",
+"placeAut":[{
+"place":"Orsay",
+"country":"France",
+"location":{
+	"lat":"48.697161",
+	"lon":"2.189617"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 48.856614, u'lon': 2.3522219}",
+"place": "Paris",
+"booktitle": "EGC",
+"idArt": "943",
+"authors": "['Mohamed Elati','Céline Rouveirol','François Radvanyi']"
+}

@@ -1,0 +1,15 @@
+{
+"idArt": "1184",
+"series": "Revue des Nouvelles Technologies de l'Information",
+"booktitle": "EGC",
+"year": "2016",
+"title": "Une méthode de découverte de motifs contextualisés dans les traces de mobilité d'une personne",
+"abstract": "Les traces de mobilité générées par les divers capteurs qui nous entourentpeuvent être analysées à des fins prédictives et explicatives pour répondreà divers problèmes du quotidien. Si de nombreuses méthodes ont été proposéespour décrire le comportement d'un individu de manière globale à partir destransitions entre ses différents points d'intérêts (par exemple via un modèle deMarkov), peu de travaux cherchent à l'expliquer de manière locale. Nous proposonsdans cet article une méthode qui permet d'extraire pour un individu donton a une trace de mobilité conséquente des motifs de mobilité dits contextualisés.Chaque motif est composé d'une description sur l'ensemble des visites auxdifférents points d'intérêt de l'individu qui maximise une ou plusieurs mesuresavec une sémantique particulière (le motif décrit une phase sédentaire ou exceptionnelde la mobilité de l'individu). Une expérimentation a été menée à partirde traces de mobilité de véhicules et donne des résultats encourageants.",
+"authors": "Aimene Belfodil, Mehdi Kaytoue, Celine Robardet, Marc Plantevit, Julien Zarka",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1002156",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1002156",
+"metaSession": "3",
+"place": "Reims",
+"Latitude": " 49.258409 ",
+"Longitude": "4.031776"
+}

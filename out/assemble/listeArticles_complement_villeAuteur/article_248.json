@@ -1,0 +1,13 @@
+{	 "idArt" : "248",
+	 "placeAut" : [ 
+		{ "place" : "Lorient",
+		 "country" : "France",
+		 "location" : { "lat" :  47.7482524, 
+			 "lon" : -3.3702448999999888 } },
+		{ "place" : "Blois",
+		 "country" : "France",
+		 "location" : { "lat" :  47.58609209999999, 
+			 "lon" : 1.3359474999999748 } }
+	 ]
+} 
+ 

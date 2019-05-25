@@ -1,0 +1,22 @@
+{
+"year": "2007",
+"metaSession": "5",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1001341",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1001341",
+"abstract": "RAS (Reference Annotation System) est un outil d'annotation de documents. Cet outil est le résultat de l'implémentation de notre approche d'annotation basée sur le contexte de citation. L'approche est indépendante du contenu et utilise un regroupement thématique des références construit à partir d'une classification floue non-supervisée. L'outil présenté dans cet article a été expérimentée et évaluée avec la base de documents scientifiques Citeseer.",
+"title": "RAS : Un outil pour l'annotation de documents basée sur les liens de citation",
+"placeAut":[{
+"place":"Montpellier",
+"country":"France",
+"location":{
+	"lat":"43.610769",
+	"lon":"3.876716"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 50.4673883, u'lon': 4.8719854}",
+"place": "Namur",
+"booktitle": "EGC",
+"idArt": "732",
+"authors": "['Lylia Abrouk','Danièle Hérin']"
+}

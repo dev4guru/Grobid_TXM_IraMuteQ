@@ -1,0 +1,14 @@
+{	 "idArt" : "1012",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2005",
+	 "place" : "Paris",
+	 "location" : { "lat" :  48.856614, 
+		 "lon" : 2.3522219 }, 
+	 "title" : "Un automate pour la génération complète ou partielle des concepts du treillis de Galois",
+	 "abstract" : "Cet article se situe dans le domaine de l'analyse formelle de concepts et du treillis de concepts (treillis de Galois) lequel est un cadre théorique intéressant pour le regroupement conceptuel des données et la génération des règles d'association. Puisque la prospection de données (data mining) est utilisée comme support à la prise de décision par des analystes rarement intéressés par la liste exhaustive (souvent très longue) des concepts et des règles, l'élaboration d'une solution approximative sera dans la plupart des cas un compromis satisfaisant et relativement moins coûteux qu'une solution exhaustive. Dans cet article, on propose une approche appelée CIGA (Closed Itemset Generation using an Automata) de génération partielle ou complète de concepts par la construction et le parcours d'un automate à états finis. La génération des concepts permet l'identification des itemsets fermés fréquents, étape cruciale pour l'extraction des règles d'association.",
+	 "authors" : ["Ganaël Jatteau","Rokia Missaoui","Madenda Sarifuddin"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1000229" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1000229" 
+} 
+ 

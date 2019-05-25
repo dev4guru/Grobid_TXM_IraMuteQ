@@ -1,0 +1,22 @@
+{
+"year": "2006",
+"metaSession": "3",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1000409",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1000409",
+"abstract": "L'extraction de règles d'association génère souvent un grand nombrede règles. Pour les classer et les valider, de nombreuses mesures statistiquesont été proposées ; elles permettent de mettre en avant telles ou telles caractéristiquesdes règles extraites. Elles ont pour point commun d'être fonctioncroissante du nombre de transactions et aboutissent bien souvent àl'acceptation de toutes les règles lorsque la base de données est de grandetaille. Dans cet article, nous proposons une mesure inspirée de la notion de valeur-test. Elle présente comme principale caractéristique d'être insensible à lataille de la base, évitant ainsi l'écueil des règles fallacieusement significatives.Elle permet également de mettre sur un même pied, et donc de les comparer,des règles qui auront été extraites de bases de données différentes. Elle permetenfin de gérer différents seuils de signification des règles. Le comportement dela mesure est détaillé sur un exemple.",
+"title": "Critère VT100 de sélection des règles d'association",
+"placeAut":[{
+"place":"Paris",
+"country":"France",
+"location":{
+	"lat":"48.856614",
+	"lon":"2.3522219"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 50.62925, u'lon': 3.057256}",
+"place": "Lille",
+"booktitle": "EGC",
+"idArt": "799",
+"authors": "['Alain Morineau','Ricco Rakotomalala']"
+}

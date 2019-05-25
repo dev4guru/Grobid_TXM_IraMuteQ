@@ -1,0 +1,9 @@
+{	 "idArt" : "37",
+	 "placeAut" : [ 
+		{ "place" : "Rabat",
+		 "country" : "Maroc",
+		 "location" : { "lat" :  33.9715904, 
+			 "lon" : -6.849812899999961 } }
+	 ]
+} 
+ 

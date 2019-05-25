@@ -1,0 +1,22 @@
+{
+"year": "2008",
+"metaSession": "0",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1000590",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1000590",
+"abstract": "Les relations sémantiques généralement reconnues par les méthodes d'extraction sont portées par des structures de type prédicats-arguments. Or, l'information recherchée est souvent répartie sur plusieurs phrases. Pour détecter ces relations dites complexes, nous proposons un modèle de représentation des connaissances basé sur les graphes conceptuels.",
+"title": "Une proposition pour l'extraction de relations non prédicatives",
+"placeAut":[{
+"place":"Toulouse",
+"country":"France",
+"location":{
+	"lat":"43.604652",
+	"lon":"1.444209"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 43.6163539, u'lon': 7.0552218}",
+"place": "Sophia Antipolis",
+"booktitle": "EGC ",
+"idArt": "666",
+"authors": "Mouna Kamel"
+}

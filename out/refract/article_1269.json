@@ -1,0 +1,15 @@
+{
+"idArt": "1269",
+"series": "Revue des Nouvelles Technologies de l'Information",
+"booktitle": "EGC",
+"year": "2018",
+"title": "Approche contextuelle par régression pour les tests A/B",
+"abstract": "Les tests A/B sont des procédures utilisées par les entreprises du webet de la santé entre autres, pour mesurer l'impact d'un changement de versiond'une variable par rapport à un objectif. Bien qu'un nombre de plus en plusimportant de données soit disponible, la mise en place concrète d'un tel testpeut impliquer un coût important relatif à l'observation et à l'évaluation d'unevariation lorsque celle-ci n'est pas optimale.Dans ce papier, nous présentons une nouvelle approche intégrant le principed'un bandit contextuel prenant en compte ces variables via une procédure destratification.",
+"authors": "Emmanuelle Claeys, Pierre Gançarski, Myriam Maumy-Bertrand",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1002387",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1002387",
+"metaSession": "2",
+"place": "Paris",
+"Latitude": " 48.8543 ",
+"Longitude": "2.3497"
+}

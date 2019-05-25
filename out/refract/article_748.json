@@ -1,0 +1,22 @@
+{
+"year": "2007",
+"metaSession": "5",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1001317",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1001317",
+"abstract": "Nous nous intéressons à l'estimation de la distribution des rangs d'une variable cible numérique conditionnellement à un ensemble de prédicteurs numériques. Pour cela, nous proposons une nouvelle approche non paramétrique Bayesienne pour effectuer une partition rectangulaire optimale de chaque couple (cible, prédicteur) uniquement à partir des rangs des individus. Nous montrons ensuite comment les effectifs de ces grilles nous permettent de construire un estimateur univarié de la densité conditionnelle sur les rangs et un estimateur multivarié utilisant l'hypothèse Bayesienne naïve. Ces estimateurs sont comparés aux meilleures méthodes évaluées lors d'un récent Challenge sur l'estimation d'une densité prédictive. Si l'estimateur Bayésien naïf utilisant l'ensemble des prédicteurs se révèle peu performant, l'estimateur univarié et l'estimateur combinant deux prédicteurs donne de très bons résultats malgré leur simplicité.",
+"title": "Une approche non paramétrique Bayésienne pour l'estimation de densité conditionnelle sur les rangs",
+"placeAut":[{
+"place":"Lannion",
+"country":"France",
+"location":{
+	"lat":"48.732084",
+	"lon":"-3.459144"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 50.4673883, u'lon': 4.8719854}",
+"place": "Namur",
+"booktitle": "EGC",
+"idArt": "748",
+"authors": "['Marc Boullé','Carine Hue']"
+}

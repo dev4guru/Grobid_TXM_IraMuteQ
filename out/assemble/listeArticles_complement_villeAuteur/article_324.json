@@ -1,0 +1,9 @@
+{	 "idArt" : "324",
+	 "placeAut" : [ 
+		{ "place" : "Vannes",
+		 "country" : "France",
+		 "location" : { "lat" :  47.658236, 
+			 "lon" : -2.7608470000000125 } }
+	 ]
+} 
+ 

@@ -1,0 +1,22 @@
+{
+"year": "2012",
+"metaSession": "2",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1001197",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1001197",
+"abstract": "Les technologies de l'information et le succès des services associés(e.g., blogs, forums,...) ont ouvert la voie à un mode d'expression massive d'opinionssur les sujets les plus variés. Récemment, de nouvelles techniques de détectionautomatique d'opinions (opinion mining) ont fait leur apparition et viades analyses statistiques des avis exprimés, tendent à dégager une tendance globaledes opinions exprimées par les internautes. Néanmoins une analyse plusfine de celle-ci montre que les arguments avancés par les internautes relèvent decritères de jugement distincts. Ici, un film sera décrié pour un scénario décousu,là il sera encensé pour une bande son époustouflante. Dans cet article, nous proposons,après avoir caractérisé automatiquement des critères dans un document,d'en extraire l'opinion relative. A partir d'un ensemble restreint de mots clésd'opinions, notre approche construit automatiquement une base d'apprentissagede documents issus du web et en déduit un lexique de mots ou d'expressionsd'opinions spécifiques au domaine d'application. Des expériences menées surdes jeux de données réelles illustrent l'efficacité de l'approche.",
+"title": "Extraction d'opinions appliquée à des critères",
+"placeAut":[{
+"place":"Nîmes",
+"country":"France",
+"location":{
+	"lat":"43.836699",
+	"lon":"4.360054"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 44.837789, u'lon': -0.57918}",
+"place": "Bordeaux",
+"booktitle": "EGC",
+"idArt": "239",
+"authors": "['Benjamin Duthil','François Trousset','Gérard Dray','Pascal Poncelet','Jacky Montmain']"
+}

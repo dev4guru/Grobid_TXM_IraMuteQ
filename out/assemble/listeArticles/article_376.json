@@ -1,0 +1,14 @@
+{	 "idArt" : "376",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2010",
+	 "place" : "Hammamet",
+	 "location" : { "lat" :  36.4, 
+		 "lon" : 10.616667 }, 
+	 "title" : "AbsTop-K &#945;: un algorithme d'extraction de paires abstraites hautement corrélées pour mieux recommander dans la longue traine",
+	 "abstract" : "De nombreux systèmes de recommandation se focalisent sur les articles(que nous appellerons items) les plus populaires et ignorent souventla longue traîne des produits qui le sont moins. Nous proposons l'algorithmeAbsTop-k&#945; qui améliore les recommandations en se basant sur la combinaison(pondérée par &#945;) de paires hautement corrélées entre des abstractions d'items etentre des paires d'items concrets classiquement recherchées.",
+	 "authors" : ["Minh Thu Tran Nguyen","François Sempé","Jean-Daniel Zucker"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1001439" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1001439" 
+} 
+ 

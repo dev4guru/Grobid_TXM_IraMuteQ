@@ -1,0 +1,22 @@
+{
+"year": "2015",
+"metaSession": "4",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1002069",
+"pdfarticle": "",
+"abstract": "Les résultats de toute opération de classification ou de classement d'objets dépendent fortement de la mesure de proximité choisie. L'utilisateur est amené à choisir une mesure parmi les nombreuses mesures de proximité existantes. Or, selon la notion d'équivalence topologique choisie, certaines sont plus ou moins équivalentes. Dans cet article, nous proposons une nouvelle approche de comparaison et de classement de mesures de proximité, dans une structure topologique et dans un objectif de discrimination. Le concept d'équivalence topologique fait appel à la structure de voisinage local.Nous proposons alors de définir l'équivalence topologique entre deux mesures de proximité à travers la structure topologique induite par chaque mesure dans un contexte de discrimination. Nous proposons également un critère pour choisir la meilleure mesure adaptée aux données considérées, parmi quelques mesures de proximité les plus utilisées dans le cadre de données quantitatives. Le choix de la meilleure mesure de proximité discriminante peut être vérifié a posteriori par une méthode d'apprentissage supervisée de type SVM, analyse discriminante ou encore régression Logistique, appliquée dans un contexte topologique.Le principe de l'approche proposée est illustré à partir d'un exemple de données quantitatives réelles avec huit mesures de proximité classiques de la littérature. Des expérimentations ont permis d'évaluer la performance de cette approche topologique de discrimination en terme de taille et/ou de dimension des données considérées et de sélection de la meilleur mesure de proximité discriminante.",
+"title": "Choix d'une mesure de proximité discriminante dans un contexte topologique",
+"placeAut":[{
+"place":"Bron",
+"country":"France",
+"location":{
+	"lat":"45.733316",
+	"lon":"4.911927"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 49.815273, u'lon': 6.129582999999999}",
+"place": "Luxembourg",
+"booktitle": "EGC",
+"idArt": "12",
+"authors": "['Fatima-Zahra Aazi','Rafik Abdesselam']"
+}

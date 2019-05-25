@@ -1,0 +1,17 @@
+{	 "idArt" : "764",
+	 "placeAut" : [ 
+		{ "place" : "Talence",
+		 "country" : "France",
+		 "location" : { "lat" :  44.802614, 
+			 "lon" : -0.5880540000000565 } },
+		{ "place" : "Chicoutimi",
+		 "country" : "Canada",
+		 "location" : { "lat" :  48.3516735, 
+			 "lon" : -71.13851360000001 } },
+		{ "place" : "Montpellier",
+		 "country" : "France",
+		 "location" : { "lat" :  43.610769, 
+			 "lon" : 3.8767159999999876 } }
+	 ]
+} 
+ 

@@ -1,0 +1,14 @@
+{	 "idArt" : "546",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2009",
+	 "place" : "Strasbourg",
+	 "location" : { "lat" :  48.5734053, 
+		 "lon" : 7.752111299999999 }, 
+	 "title" : "Modèle de préférences contextuelles pour les analyses OLAP",
+	 "abstract" : "Cet article présente un environnement pour la personnalisation desanalyses OLAP afin de réduire la charge de navigation de l'utilisateur. Nousproposons un modèle de préférences contextuelles qui permet de restituer lesdonnées en fonction des préférences de l'utilisateur et de son contexted'analyse.",
+	 "authors" : ["Houssem Jerbi","Franck Ravat","Olivier Teste","Gilles Zurfluh"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1000769" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1000769" 
+} 
+ 

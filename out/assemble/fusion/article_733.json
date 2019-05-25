@@ -1,0 +1,22 @@
+{
+"year": "2007",
+"metaSession": "10",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1001461",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1001461",
+"abstract": "Notre objectif est de transformer les documents Web vers un schéma médiateur XML défini a priori. C'est une étape nécessaire pour de nombreuses tâches de recherche d'information concernant le Web Sémantique, les documents semi-structurés, le traitement de sources hétérogènes, etc. Elle permet d'associer une structure sémantiquement riche à des documents dont le formats ne contient que des informations de présentation. Nous proposons de traiter ce problème comme un problème d'apprentissage structuré en le formalisant comme une transformation d'arbre en arbre.Notre méthode de transformation comporte deux étapes. Dans une première étape, une grammaire hors-contexte probabiliste permet de générer un ensemble de solutions candidates. Dans une deuxième étape, ces solutions candidates sont ordonnées grâce à un algorithme de ré-ordonnancement à base de perceptron à noyau. Cette étape d'ordonnancement nous permet d'utiliser de manière efficace des caractéristiques complexes définies à partir du document d'entrée et de la solution candidate.",
+"title": "Ré-ordonnancement pour l'apprentissage de transformations de documents HTML",
+"placeAut":[{
+"place":"Paris",
+"country":"France",
+"location":{
+	"lat":"48.856614",
+	"lon":"2.3522219"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 50.4673883, u'lon': 4.8719854}",
+"place": "Namur",
+"booktitle": "EGC",
+"idArt": "733",
+"authors": "['Guillaume Wisniewski','Patrick Gallinari']"
+}

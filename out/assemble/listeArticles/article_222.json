@@ -1,0 +1,14 @@
+{	 "idArt" : "222",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2012",
+	 "place" : "Bordeaux",
+	 "location" : { "lat" :  44.837789, 
+		 "lon" : -0.57918 }, 
+	 "title" : "Clustering hiérarchique non paramétrique de données fonctionnelles",
+	 "abstract" : "Dans cet article, il est question de clustering de courbes. Nous proposonsune méthode non paramétrique qui segmente les courbes en clusters etdiscrétise en intervalles les variables continues décrivant les points de la courbe.Le produit cartésien de ces partitions forme une grille de données qui est inféréeen utilisant une approche Bayésienne de sélection de modèle ne faisant aucunehypothèse concernant les courbes. Enfin, une technique de post-traitement, visantà réduire le nombre de clusters dans le but d'améliorer l'interprétabilitédes clusters, est proposée. Elle consiste à fusionner successivement et de façonoptimale les clusters, ce qui revient à réaliser une classification hiérarchique ascendantedont la mesure de dissimilarité correspond à la variation du critère.De manière intéressante, cette mesure est en fait une somme pondérée de divergencesde Kullback-Leibler entre les distributions des clusters avant et aprèsfusions. L'intérêt de l'approche dans le cadre de l'analyse exploratoire de donnéesfonctionnelles est illustré par un jeu de données artificiel et réel.",
+	 "authors" : ["Marc Boullé","Romain Guigourès","Fabrice Rossi"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1001137" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1001137" 
+} 
+ 

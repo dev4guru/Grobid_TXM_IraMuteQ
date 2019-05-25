@@ -1,0 +1,22 @@
+{
+"year": "2005",
+"metaSession": "2",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1000224",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1000224",
+"abstract": "",
+"title": "Apprentissage de scénarios à partir de séries temporelles multivariées",
+"placeAut":[{
+"place":"Grenoble",
+"country":"France",
+"location":{
+	"lat":"45.188529",
+	"lon":"5.724524"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 48.856614, u'lon': 2.3522219}",
+"place": "Paris",
+"booktitle": "EGC",
+"idArt": "942",
+"authors": "['Thomas Guyet','Catherine Garbay','Michel Dojat']"
+}

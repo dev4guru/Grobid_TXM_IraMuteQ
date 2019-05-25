@@ -1,0 +1,14 @@
+{	 "idArt" : "335",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2011",
+	 "place" : "Brest",
+	 "location" : { "lat" :  48.390394, 
+		 "lon" : -4.486076 }, 
+	 "title" : "Modélisation d'une ressource termino-ontologique de domaine pour l'annotation sémantique de tableaux",
+	 "abstract" : "Nous proposons dans cet article une modélisation d'une ressource termino-ontologique (RTO) de domaine, guidée par la tâche d'annotation sémantique de tableaux. L'annotation d'un tableau consiste à annoter ses cellules, pour pouvoir ensuite identifier les concepts représentés par ses colonnes et enfin identifier la ou les relations n-aires qu'il représente. La RTO proposée permet d'une part de modéliser dans sa composante lexicale les termes utilisés pour l'annotation des cellules en intégrant la gestion des synonymes et du multilingue, et, d'autre part, de modéliser dans sa composante conceptuelle les concepts symboliques, les concepts numériques et les relations n-aires, qui sont propres au domaine étudié.",
+	 "authors" : ["Patrice Buche","Juliette Dibie-Barthélemy","Liliana Ibanescu","Abir Saïd"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1001021" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1001021" 
+} 
+ 

@@ -1,0 +1,14 @@
+{	 "idArt" : "1028",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2004",
+	 "place" : "Clermont-Ferrand",
+	 "location" : { "lat" :  45.77722199999999, 
+		 "lon" : 3.087025 }, 
+	 "title" : "Annotation automatique de documents XML",
+	 "abstract" : "Nous proposons dans cet article un mécanisme automatique d'annotation de documents. Ce mécanisme s'appuie sur une opération de composition permettant de créer de nouveaux documents à partir de documents existants et sur un algorithme permettant d'inférer l'annotation d'un document composé à partir d'annotation de ses parties. Notre modèle est illustré par une étude de cas consacrée à la mise en commun de documents pédagogiques au format XML, dans un environnement coopératif d'enseignement à distance. Nous décrivons un prototype permettant d'annoter ces documents, et d'engendrer une description RDF contenant les annotations.",
+	 "authors" : ["Birahim Gueye","Philippe Rigaux","Nicolas Spyratos"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1001138" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1001138" 
+} 
+ 

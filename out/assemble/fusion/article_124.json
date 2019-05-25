@@ -1,0 +1,22 @@
+{
+"year": "2014",
+"metaSession": "3",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1001956",
+"pdfarticle": "",
+"abstract": "Nous proposons une méthode originale pour extraire un résumé compact,représentatif et intelligible des motifs fréquents dans des données transactionnellesou séquentielles. Notre approche consiste à extraire un nouveau typede motifs que nous appelons motifs récursifs, i.e. des motifs de motifs, à l'aided'un algorithme hiérarchique agglomératif nommé RepaMiner. Nous généronsnon pas un simple ensemble de motifs mais une véritable structure dérivée dedendrogrammes, le RPgraph.",
+"title": "Motifs récursifs : extraction ascendante hiérarchique d'ensembles d'items ou d'évènements pour le résumé de données transactionnelles ou séquentielles",
+"placeAut":[{
+"place":"Nantes",
+"country":"France",
+"location":{
+	"lat":"47.218371",
+	"lon":"-1.553621"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 48.117266, u'lon': -1.6777926}",
+"place": "Rennes",
+"booktitle": "EGC",
+"idArt": "124",
+"authors": "Julien Blanchard"
+}

@@ -1,0 +1,22 @@
+{
+"year": "2015",
+"metaSession": "3",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1002062",
+"pdfarticle": "",
+"abstract": "Etant donné un ensemble de documents rédigés par un même auteur, le problème d'authentification d'auteurs consiste à décider si un nouveau texte a été rédigé ou non par cet auteur. Pour résoudre ce problème, nous avons proposé et implémenté différentes approches : comptage de similarité, techniques de vote et apprentissage supervisé qui exploitent différents modèles de représentation des documents. Les expérimentations réalisées à partir des collections de la compétition PAN-CLEF 2013 et 2014 ont confirmé l'intérêt de nos approches et leur performance en termes de temps de traitement.",
+"title": "Identification d'auteurs par apprentissage automatique",
+"placeAut":[{
+"place":"Saint-Etienne",
+"country":"France",
+"location":{
+	"lat":"45.439695",
+	"lon":"4.3871779"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 49.815273, u'lon': 6.129582999999999}",
+"place": "Luxembourg",
+"booktitle": "EGC",
+"idArt": "34",
+"authors": "['Jordan Frery','Christine Largeron','Mihaela Juganaru-Mathieu']"
+}

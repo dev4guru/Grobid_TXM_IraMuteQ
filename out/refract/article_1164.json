@@ -1,0 +1,15 @@
+{
+"idArt": "1164",
+"series": "Revue des Nouvelles Technologies de l'Information",
+"booktitle": "EGC",
+"year": "2016",
+"title": "SAFFIET : un système d'extraction de règles d'associations spatiales et fonctionnelles dans les séries de données géographiques",
+"abstract": "Nous partons de l'hypothèse que les dynamiques spatiales et l'évolutiondes usages des objets géographiques peuvent en partie être explicitées(voire anticipées) par leurs différentes évolutions précédentes et les configurationsspatiales dans lesquelles ils se situent. Aussi afin d'analyser et comprendreles changements de fonction des objets géographiques au cours du temps, et endéduire un modèle prospectif et puis prédictif, nous proposons l'outil SAFFIETqui exploite la recherche des motifs fréquents et des règles d'associations, pourextraire des règles d'évolution régissant les dynamiques spatiales.",
+"authors": "Asma Gharbi, Cyril de Runz, Sami Faiz, Herman Akdag",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1002202",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1002202",
+"metaSession": "11",
+"place": "Reims",
+"Latitude": " 49.258389 ",
+"Longitude": "4.031756"
+}

@@ -1,0 +1,13 @@
+{	 "idArt" : "196",
+	 "placeAut" : [ 
+		{ "place" : "Dakar-Fann",
+		 "country" : "Sénégal",
+		 "location" : { "lat" :  14.69115, 
+			 "lon" : -17.47064380000006 } },
+		{ "place" : "Paris",
+		 "country" : "France",
+		 "location" : { "lat" :  48.856614, 
+			 "lon" : 2.3522219000000177 } }
+	 ]
+} 
+ 

@@ -1,0 +1,14 @@
+{	 "idArt" : "438",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2010",
+	 "place" : "Hammamet",
+	 "location" : { "lat" :  36.4, 
+		 "lon" : 10.616667 }, 
+	 "title" : "Intégration interactive de contraintes pour la réduction de dimensions et la visualisation",
+	 "abstract" : "Il existe aujourd'hui de nombreuses méthodes de réduction de dimensions,que ce soit dans un cadre supervisé ou non supervisé. L'un des intérêts deces méthodes est de pouvoir visualiser les données, avec pour objectif que lesobjets qui apparaissent visuellement proches soient similaires, dans un sensqui correspond aux connaissances d'un expert du domaine ou qui soit conformeaux informations de supervision. Nous nous plaçons ici dans un contexte semisuperviséoù des connaissances sont ajoutées de façon interactive : ces informationsseront apportées sous forme de contraintes exprimant les écarts entrela représentation observée et les connaissances d'un expert. Nous pourrons parexemple spécifier que deux objets proches dans l'espace d'observation sont enfait peu similaires, ou inversement. La méthode utilisée ici dérive de l'analyseen composantes principales (ACP), à laquelle nous proposons d'intégrer deuxtypes de contraintes. Nous présentons une méthode de résolution qui a été implémentéedans un logiciel offrant une représentation 3D des données et grâceauquel l'utilisateur peut ajouter des contraintes de manière interactive, puis visualiserles modifications induites par ces contraintes. Deux types d'expérimentationsont présentés, reposant respectivement sur un jeu de données synthétiqueet sur des jeux standards : ces tests montrent qu'une représentation de bonnequalité peut être obtenue avec un nombre limité de contraintes ajoutées.",
+	 "authors" : ["Guillaume Cleuziou","Frédéric Moal","Lionel Martin","Matthieu Exbrayat"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1001320" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1001320" 
+} 
+ 

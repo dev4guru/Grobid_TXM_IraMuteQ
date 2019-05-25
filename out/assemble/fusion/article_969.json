@@ -1,0 +1,22 @@
+{
+"year": "2005",
+"metaSession": "1",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1000394",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1000394",
+"abstract": "",
+"title": "Extraction des connaissances pour l'enrichissement des bases  de données géographiques",
+"placeAut":[{
+"place":"Tunis",
+"country":"Tunisie",
+"location":{
+	"lat":"36.8064948",
+	"lon":"10.1815316"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 48.856614, u'lon': 2.3522219}",
+"place": "Paris",
+"booktitle": "EGC",
+"idArt": "969",
+"authors": "['Sami Faiz','Khaoula Mahmoudi']"
+}

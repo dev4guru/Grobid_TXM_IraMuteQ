@@ -1,0 +1,1 @@
+WebdocEnrich est une approche d'enrichissement sémantique automatique de documents HTML hétérogènes qui exploite une description du domaine pour enrichir le contenu des documents et les représenter en XML.

@@ -1,0 +1,22 @@
+{
+"year": "2015",
+"metaSession": "1",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1002090",
+"pdfarticle": "",
+"abstract": "L'objectif de nos travaux est de proposer une méthode d'analyse automatique du comportement des utilisateurs à des fins de prédiction de leur propension à réaliser une action suggérée. Nous proposons dans cet article une nouvelle méthode de Web Usage Mining basée sur une étude sémiotique des styles perceptifs, considérant l'expérience de l'utilisateur comme élément déterminant de sa réaction à une sollicitation. L'étude de ces styles nous a amené à définir de nouveaux indicateurs (des descripteurs sémiotiques) introduisant un niveau supplémentaire à l'approche sémantique d'annotation des sites. Nous proposons ensuite un modèle neuronal adapté au traitement de ces nouveaux indicateurs. Nous expliquerons en quoi le modèle proposé est le plus pertinent pour traiter ces informations.",
+"title": "Une nouvelle méthode de Web Usage Mining basée sur une analyse sémiotique du comportement de navigation",
+"placeAut":[{
+"place":"Mulhouse",
+"country":"France",
+"location":{
+	"lat":"47.750839",
+	"lon":"7.335888"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 49.815273, u'lon': 6.129582999999999}",
+"place": "Luxembourg",
+"booktitle": "EGC",
+"idArt": "61",
+"authors": "['Sandra Mellot','Tony Bourdier','Moez Baccouche']"
+}

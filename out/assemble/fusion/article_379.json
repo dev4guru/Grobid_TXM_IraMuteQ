@@ -1,0 +1,22 @@
+{
+"year": "2010",
+"metaSession": "",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1001469",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1001469",
+"abstract": "",
+"title": "Agrégation de systèmes de fermetures: cas des hiérarchies, topologies et géométries convexes",
+"placeAut":[{
+"place":"Nicosie",
+"country":"Chypre",
+"location":{
+	"lat":"35.166667",
+	"lon":"33.366667"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 36.4, u'lon': 10.616667}",
+"place": "Hammamet",
+"booktitle": "EGC",
+"idArt": "379",
+"authors": "Florent Domenach"
+}

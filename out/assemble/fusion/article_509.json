@@ -1,0 +1,22 @@
+{
+"year": "2009",
+"metaSession": "3",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1000749",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1000749",
+"abstract": "Nous présentons dans cet article des approches visant à valider desrelations syntaxiques induites de type Verbe-Objet. Ainsi, nous proposons d'u-tiliser dans un premier temps une approche s'appuyant sur des vecteurs séman-tiques déterminés à l'aide d'un thésaurus. La seconde approche emploie unevalidation Web. Nous effectuons des requêtes sur un moteur de recherche asso-ciées à des mesures statistiques afin de déterminer la pertinence d'une relationsyntaxique. Nous proposons enfin de combiner ces deux méthodes. La qualitéde nos approches de validation de relations syntaxiques a été évaluée en utilisantdes courbes ROC.",
+"title": "Comment valider automatiquement des relations syntaxiques induites",
+"placeAut":[{
+"place":"Montpellier",
+"country":"France",
+"location":{
+	"lat":"43.610769",
+	"lon":"3.876716"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 48.5734053, u'lon': 7.752111299999999}",
+"place": "Strasbourg",
+"booktitle": "EGC",
+"idArt": "509",
+"authors": "['Nicolas Béchet','Mathieu Roche','Jacques Chauché']"
+}

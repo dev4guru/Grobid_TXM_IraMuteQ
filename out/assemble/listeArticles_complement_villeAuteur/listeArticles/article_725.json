@@ -1,0 +1,14 @@
+{	 "idArt" : "725",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2007",
+	 "place" : "Namur",
+	 "location" : { "lat" :  50.4673883, 
+		 "lon" : 4.8719854 }, 
+	 "title" : "Navigation et appariement d'objets géographiques dans une ontologie",
+	 "abstract" : "L'ACI FoDoMuSt se propose d'élaborer un processus de fouille de données multi-stratégies pour la reconnaissance automatique d'objets géographiques sur des images satellitaires ou aériennes. Ces dernières sont segmentées afin d'isoler des polygones définis par un ensemble de descripteurs de bas niveaux. Afin de leur affecter une sémantique, on applique dans un premier temps une classification. Si aucun objet géographique n'est identifié, on tente alors un appariement du polygone avec les concepts d'une ontologie d'objets géographiques. Un algorithme de navigation dans l'ontologie et une mesure de comparaison sémantique ont ainsi été développés, paramétrables selon le contexte d'appariement. Cette mesure évalue la pertinence d'un appariement et comprend une composante locale (comparaison au niveau du concept) et une composante globale (combinaison linéaire de mesures locales). La méthode proposée a été développée en JAVA et intégrée à la plate-forme FoDoMuSt. Les premières expérimentations et évaluations humaines sont très encourageantes.",
+	 "authors" : ["Rémy Brisson","Omar Boussaid","Pierre Gançarski","Anne Puissant","Nicolas Durand"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1001402" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1001402" 
+} 
+ 

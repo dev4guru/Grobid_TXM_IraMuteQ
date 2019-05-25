@@ -1,0 +1,22 @@
+{
+"year": "2010",
+"metaSession": "7",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1001289",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1001289",
+"abstract": "Dans cet article, nous valorisons et défendons l'idée que les modèles génératifs sont une approche prometteuse pour l'identification de structure de communautés (ISC). Nous proposons un nouveau modèle probabiliste pour l'idenditification de structures de communautés qui utilise le lissage afin de pallier le petit nombre de liens entre les noeuds. Notre modèle étant très sensible aux paramètres de lissage, nous proposons également une méthode basée sur la modularité pour leur estimation. Les résultats expérimentaux obtenus sur 3 jeux de données montrent que notre modèle SPCE est largement meilleur que le modèle PHITS",
+"title": "Une approche probabiliste pour l'identification de structures de communautés",
+"placeAut":[{
+"place":"Toulouse",
+"country":"France",
+"location":{
+	"lat":"43.604652",
+	"lon":"1.444209"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 36.4, u'lon': 10.616667}",
+"place": "Hammamet",
+"booktitle": "EGC",
+"idArt": "480",
+"authors": "['Nacim Fateh Chikhi','Bernard Rothenburger','Nathalie Aussenac-Gilles']"
+}

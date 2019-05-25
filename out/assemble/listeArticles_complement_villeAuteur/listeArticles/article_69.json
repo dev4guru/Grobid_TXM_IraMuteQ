@@ -1,0 +1,13 @@
+{	 "idArt" : "69",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2014",
+	 "place" : "Rennes",
+	 "location" : { "lat" :  48.117266, 
+		 "lon" : -1.6777926 }, 
+	 "title" : "Agrégation de sac-de-sacs-de-mots pour la recherche d'information par modèles vectoriels",
+	 "abstract" : "Cet article étudie l'intérêt de représenter les documents textuels nonplus comme des sacs-de-mots, mais comme des sacs-de-sacs-de-mots. Au coeurde l'utilisation de cette représentation, le calcul de similarité entre deux objetsnécessite alors d'agréger toutes les similarités entre sacs de chacun des objets.Nous évaluons cette représentation dans un cadre de recherche d'information,et étudions les propriétés attendues de ces fonctions d'agrégation. Les expériencesrapportées montrent l'intérêt de cette représentation lorsque les opérateursd'agrégation respectent certaines propriétés, avec des gains très importantspar rapport aux représentations standard.",
+	 "authors" : ["Vincent Claveau"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1001925" 
+} 
+ 

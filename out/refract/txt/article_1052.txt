@@ -1,0 +1,1 @@
+Cet article présente le fonctionnement d'un SIAD : alimentation, traitement des données qui l'alimentent, production des résultats, outils de consultation mis à la disposition des utilisateurs, exploitation éditoriale.

@@ -1,0 +1,14 @@
+{	 "idArt" : "728",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2007",
+	 "place" : "Namur",
+	 "location" : { "lat" :  50.4673883, 
+		 "lon" : 4.8719854 }, 
+	 "title" : "Optimal histogram representation of large data sets: Fisher vs piecewise linear approximation",
+	 "abstract" : "Histogram representation of a large set of data is a good way to summarize and visualize data and is frequently performed in order to optimize query estimation in DBMS. In this paper, we show the performance and the properties of two strategies for an optimal construction of histograms on a single real valued descriptor on the base of a prior choice of the number of buckets. The first one is based on the Fisher algorithm, while the second one is based on a geometrical procedure for the interpolation of the empirical distribution function by a piecewise linear function. The goodness of fit is computed using the Wasserstein metric between distributions. We compare the proposed method performances against some existing ones on artificial and real datasets.",
+	 "authors" : ["Antonio Irpino","Elvira Romano"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1001314" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1001314" 
+} 
+ 

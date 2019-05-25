@@ -1,0 +1,13 @@
+{	 "idArt" : "715",
+	 "placeAut" : [ 
+		{ "place" : "Avignon",
+		 "country" : "France",
+		 "location" : { "lat" :  43.94931700000001, 
+			 "lon" : 4.805527999999981 } },
+		{ "place" : "Gémenos",
+		 "country" : "France",
+		 "location" : { "lat" :  43.295388, 
+			 "lon" : 5.628111999999987 } }
+	 ]
+} 
+ 

@@ -1,0 +1,15 @@
+{
+"idArt": "1255",
+"series": "Revue des Nouvelles Technologies de l'Information",
+"booktitle": "EGC",
+"year": "2017",
+"title": "Veille d'Information sur le Web avec Re-Watch",
+"abstract": "Les algorithmes d'apprentissage automatique peuvent être utilisés pourcréer des outils de recommandation qui permettent de prédire la pertinence d'undocument pour une thématique de veille donnée en se basant sur les précédentsjugements de pertinence donnés pour cette thématique pour d'autres documents.Ces outils de recommandation permettent de filtrer dans un flux entrant de do-cuments ceux qui sont susceptibles d'être pertinents sans que l'utilisateur aitbesoin de déterminer lui-même les mots clefs marquant l'adéquation d'un do-cument pour un sujet de la veille. Bien que cette problématique de rechercheait été abondamment abordée, les outils de veille d'information pour le web in-tégrant un apprentissage en sont encore à leur balbutiements. Nous présentonsici l'application web Re-Watch permettant la définition d'un thème de veille, lasélection de sources d'information sur le web relatives à ce thème et l'adaptationdes scores de pertinence des documents aux retours de l'utilisateur. L'applicationpermet aussi, pour chaque thème, une auto-évaluation de la qualité du filtrage etune interrogation du moteur de recherche Google. Cette application encore encours de développement est néanmoins actuellement fonctionnelle et accessiblesur le web à l'url suivante : http://www.specific search.com.",
+"authors": "Christophe Brouard, Christian Pomot",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1002331",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1002331",
+"metaSession": "11",
+"place": "Grenoble",
+"Latitude": " 45.188596 ",
+"Longitude": "5.724591"
+}

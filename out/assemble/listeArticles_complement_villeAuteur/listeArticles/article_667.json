@@ -1,0 +1,14 @@
+{	 "idArt" : "667",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC ",
+	 "year" : "2008",
+	 "place" : "Sophia Antipolis",
+	 "location" : { "lat" :  43.6163539, 
+		 "lon" : 7.0552218 }, 
+	 "title" : "Utilisation du Web Sémantique pour la gestion d'une liste de diffusion d'une CoP",
+	 "abstract" : "Cet article décrit une approche de création semi-automatique d'ontologies et d'annotations sémantiques à partir de messages électroniques échangés dans une liste de diffusion dédiée au support informatique. Les ressources sémantiques générées permettront d'identifier les questions fréquemment posées (FAQ) à travers une recherche guidée par cette ontologie.",
+	 "authors" : ["Bassem Makni","Khaled Khelif","Rose Dieng-Kuntz","Hacène Cherfi"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1000553" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1000553" 
+} 
+ 

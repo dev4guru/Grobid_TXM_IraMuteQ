@@ -1,0 +1,14 @@
+{	 "idArt" : "426",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2010",
+	 "place" : "Hammamet",
+	 "location" : { "lat" :  36.4, 
+		 "lon" : 10.616667 }, 
+	 "title" : "Extraction de motifs graduels clos",
+	 "abstract" : "La découverte automatique de règles et motifs graduels (plus l'âged'une personne est élevé, plus son salaire est élevé) trouve de très nombreusesapplications sur des bases de données réelles (e.g. biologie, flots de données decapteurs). Si des algorithmes de plus en plus efficaces sont proposés dans desarticles récents, il n'en reste pas moins que ces méthodes génèrent un nombrede motifs tellement important que les experts peinent à les exploiter. Dans cetarticle, nous proposons donc une représentation condensée des motifs graduelsen introduisant les concepts théoriques associés aux opérateurs de fermeture surde tels motifs.",
+	 "authors" : ["Sarra Ayouni","Sadok Ben Yahia","Anne Laurent","Pascal Poncelet"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1001293" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1001293" 
+} 
+ 

@@ -1,0 +1,22 @@
+{
+"year": "2010",
+"metaSession": "1",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1001340",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1001340",
+"abstract": "Dans cet article nous proposons une approche de la gestion des droitsd'accès pour les systèmes de gestion de contenu qui reposent sur les modèles ettechniques du web sémantique. Nous présentons l'ontologie AMO qui consiste(1) en un ensemble de classes et propriétés permettant d'annoter les ressourcesdont il s'agit de contrôler l'accès et (2) en une base de règles d'inférence modélisantla stratégie de gestion des droits à mettre en oeuvre. Appliquées sur la based'annotations des ressources, ces règles permettent de gérer les ressources selonune stratégie donnée. Cette modélisation garantit ainsi l'adaptabilité de l'ontologieà différentes stratégies de gestion des droits d'accès. Nous illustrons l'utilisationde l'ontologie AMO sur les documents du projet ANR ISICIL produitspar le wiki sémantique SweetWiki. Nous montrons comment les documents sontannotés avec AMO, quelles règles sont mises en oeuvre et quelles requêtes permettentle contrôle de l'accès aux documents.",
+"title": "Gestion sémantique des droits d'accès au contenu: l'ontologie AMO",
+"placeAut":[{
+"place":"Sophia Antipolis",
+"country":"France",
+"location":{
+	"lat":"43.6163539",
+	"lon":"7.0552218"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 36.4, u'lon': 10.616667}",
+"place": "Hammamet",
+"booktitle": "EGC",
+"idArt": "431",
+"authors": "['Michel Buffa','Catherine Faron-Zucker','Anna Kolomoyskaya']"
+}

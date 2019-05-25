@@ -1,0 +1,14 @@
+{	 "idArt" : "501",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2009",
+	 "place" : "Strasbourg",
+	 "location" : { "lat" :  48.5734053, 
+		 "lon" : 7.752111299999999 }, 
+	 "title" : "Analyse sémantique spatio-temporelle pour les ontologies OWL-DL",
+	 "abstract" : "L'analyse sémantique est un nouveau paradigmed'interrogation du Web Sémantique qui a pour objectif d'identifier lesassociations sémantiques reliant des individus décrits dans desontologies OWL-DL. Pour déduire davantage d'associationssémantiques et augmenter la précision de l'analyse, l'informationspatio-temporelle attachée aux ressources doit être prise en compte. Aces fins - et pour combler l'absence actuelle de raisonneurs spatiotemporeldéfini pour les ontologies RDF(S) et OWL-, nous proposonsle système de représentation et d'interrogation d'ontologies spatiotemporellesONTOAST, compatible avec le langage OWL-DL. Nousprésentons les principes de base de l'algorithme de découverted'associations sémantiques entre individus intégré dans ONTOAST.Cet algorithme utilise deux contextes, l'un spatial et l'autre temporelqui permettent d'affiner la recherche. Nous décrivons enfin l'approchemise en oeuvre pour la déduction de connexions spatiales entreindividus.",
+	 "authors" : ["Alina Dia Miron","Jérôme Gensel","Marlène Villanova-Oliver"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1000784" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1000784" 
+} 
+ 

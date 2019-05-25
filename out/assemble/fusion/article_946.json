@@ -1,0 +1,22 @@
+{
+"year": "2005",
+"metaSession": "8",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1000343",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1000343",
+"abstract": "Un problème important de la production automatique de règles de classification concerne la durée de génération de ces règles ; en effet, les algorithmes mis en oeuvre produisent souvent des règles pendant un certain temps assez long. Nous proposons une nouvelle méthode de classification à partir d'une base de données images. Cette méthode se situe à la jonction de deux techniques : l'algèbre de P-tree et l'arbre de décision en vue d'accélérer le processus de classification et de recherche dans de grandes bases d'images. La modélisation que nous proposons se base, d'une part, sur les descripteurs visuels tels que la couleur, la forme et la texture dans le but d'indexer les images et, d'autre part, sur la génération automatique des règles de classification à l'aide d'un nouvel algorithme C4.5(P-tree). Pour valider notre méthode, nous avons développé un système baptisé C.I.A.D.P-tree qui a été implémenté et confronté à une application réelle dans le domaine du traitement d'images. Les résultats expérimentaux montrent que cette méthode réduit efficacement le temps de classification.",
+"title": "Apprentissage supervisé pour la classification des images basé sur la structure P-tree",
+"placeAut":[{
+"place":"Tunis",
+"country":"Tunisie",
+"location":{
+	"lat":"36.8064948",
+	"lon":"10.1815316"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 48.856614, u'lon': 2.3522219}",
+"place": "Paris",
+"booktitle": "EGC",
+"idArt": "946",
+"authors": "['Rim Faiz','Najeh Naffakhi','Khaled Mellouli']"
+}

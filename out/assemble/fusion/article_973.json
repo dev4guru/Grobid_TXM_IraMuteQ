@@ -1,0 +1,22 @@
+{
+"year": "2005",
+"metaSession": "8",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1000341",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1000341",
+"abstract": "Cet article présente une méthode permettant la découverte non supervisée de motifs fréquents représentatifs de symboles sur des images de documents. Les symboles sont considérés comme des entités graphiques porteurs d'information et les images de document sont représentées par des graphes relationnels attribués. Dans un premier temps, la méthode réalise la découverte de sous-graphes disjoints fréquents et fait correspondre pour chacun d'eux un symbole différent. Une recherche des règles d'association entre ces symboles permet alors d'accéder à une partie des connaissances du domaine décrit par ces symboles. L'objectif à terme est d'utiliser les symboles découverts pour la classification ou la recherche d'images dans un flux hétérogène de document là ou une approche supervisée n'est pas envisageable.",
+"title": "Fouille de graphes et découverte de règles d'association : application à l'analyse d'images de document",
+"placeAut":[{
+"place":"Mont-Saint-Aignan",
+"country":"France",
+"location":{
+	"lat":"49.459778",
+	"lon":"1.079798"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 48.856614, u'lon': 2.3522219}",
+"place": "Paris",
+"booktitle": "EGC",
+"idArt": "973",
+"authors": "['Eugen Barbu','Pierre Héroux','Sébastien Adam','Éric Trupin']"
+}

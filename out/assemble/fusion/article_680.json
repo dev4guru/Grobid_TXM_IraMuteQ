@@ -1,0 +1,22 @@
+{
+"year": "2007",
+"metaSession": "8",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1001428",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1001428",
+"abstract": "La prise en compte des émotions dans les interactions Homme-machine permet de concevoir des systèmes intelligents, capables de s'adapter aux utilisateurs. Les techniques de redirection d'appels dans les centres téléphoniques automatisés se basent sur la détection des émotions dans la parole. Les principales difficultés pour mettre en oeuvre de tels systèmes sont l'acquisition et l'étiquetage des données d'apprentissage. Cet article propose l'application de deux stratégies d'apprentissage actif à la détection d'émotions dans des dialogues en interaction homme-machine. L'étude porte sur des données réelles issues de l'utilisation d'un serveur vocal et propose des outils adaptés à la conception de systèmes automatisés de redirection d'appels.",
+"title": "Apprentissage actif d'émotions dans les dialogues Homme-Machine",
+"placeAut":[{
+"place":"Lannion",
+"country":"France",
+"location":{
+	"lat":"48.732084",
+	"lon":"-3.459144"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 50.4673883, u'lon': 4.8719854}",
+"place": "Namur",
+"booktitle": "EGC",
+"idArt": "680",
+"authors": "['Alexis Bondu','Vincent Lemaire','Barbara Poulain']"
+}

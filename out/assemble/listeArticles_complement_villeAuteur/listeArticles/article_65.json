@@ -1,0 +1,13 @@
+{	 "idArt" : "65",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2015",
+	 "place" : "Luxembourg",
+	 "location" : { "lat" :  49.815273, 
+		 "lon" : 6.129582999999999 }, 
+	 "title" : "Vers la découverte de modèles exceptionnels locaux : des règles descriptives liant les molécules à leurs odeurs",
+	 "abstract" : "Issue d'un phénomène complexe partant d'une molécule odorante jusqu'à la perception dans le cerveau, l'olfaction reste le sens le plus difficile à appréhender par les neuroscientifiques. L'enjeu principal est d'établir des règles sur les propriétés physicochimiques des molécules (poids, nombre d'atomes, etc.) afin de caractériser spécifiquement un sous-ensemble de qualités olfactives (fruité, boisé, etc.). On peut trouver de telles règles descriptives grâce à la découverte de sous-groupes (subgroup discovery). Cependant les méthodes existantes permettent de caractériser soit une seule qualité olfactive ; soit toutes les qualités olfactives à la fois (exceptional model mining) mais pas un sousensemble. Nous proposons alors une approche de découverte de sous-groupes caractéristiques de seulement certains labels, par une nouvelle technique d'énumération, issue de la fouille de redescriptions. Nous avons expérimenté notre méthode sur une base de données d'olfaction fournie par des neuroscientifiques et pu exhiber des premiers sous-groupes intelligibles et réalistes.",
+	 "authors" : ["Guillaume Bosc","Mehdi Kaytoue","Marc Plantevit","Fabien De Marchi","Moustafa Bensafi","Jean-François Boulicaut"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1002091" 
+} 
+ 

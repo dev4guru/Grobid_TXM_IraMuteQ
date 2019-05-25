@@ -1,0 +1,13 @@
+{	 "idArt" : "420",
+	 "placeAut" : [ 
+		{ "place" : "Tunis",
+		 "country" : "Tunisie",
+		 "location" : { "lat" :  36.8064948, 
+			 "lon" : 10.181531599999971 } },
+		{ "place" : "Carthage",
+		 "country" : "Tunisie",
+		 "location" : { "lat" :  36.8529199, 
+			 "lon" : 10.32172449999996 } }
+	 ]
+} 
+ 

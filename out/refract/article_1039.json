@@ -1,0 +1,22 @@
+{
+"year": "2004",
+"metaSession": "7",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1001146",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1001146",
+"abstract": "L'analyse du comportement des utilisateurs d'un site Web est un domaine riche et complexe. Le grand nombre de méthodes d'extraction de connaissances appliquées aux logs Web, ainsi que la diversité du type de ces méthodes en est une preuve. Cependant, compte tenu de cette complexité, nous posons dans cet article la question suivante : Est-il possible de combiner des méthodes existantes pour proposer une analyse qui tire profit des résultats de plusieurs spécialités et extraire par exemple des comportements fréquents minoritaires ?Notre étude à donc porté sur une nouvelle approche hybride (issue de la classification neuronale et de la recherche de motifs séquentiels) visant à classer les navigations des utilisateurs d'un site (à l'aide de leurs résumés sémantiques) puis, pour chaque classe de navigations, d'en extraire les comportements fréquents. Notre objectif est 1) de pallier les limites de l'extraction de motifs fréquents par rapport à la quantité de données à traiter et aussi par rapport à la qualité des résultats et 2) de pallier les limites d'une première méthode d'analyse du comportement appelée Diviser pour Découvrir, que nous avons proposé en 2003. Nous avons mené des expérimentations sur les logs HTTP des sites INRIA. Les résultats obtenus confirment le bien fondé de notre approche vis à vis de l'état de l'art.",
+"title": "Classer pour découvrir : une nouvelle méthode d'analyse du comportement de tous les utilisateurs d'un site Web",
+"placeAut":[{
+"place":"Sophia-Antipolis",
+"country":"France",
+"location":{
+	"lat":"43.6163539",
+	"lon":"7.0552218"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 45.77722199999999, u'lon': 3.087025}",
+"place": "Clermont-Ferrand",
+"booktitle": "EGC",
+"idArt": "1039",
+"authors": "['Doru Tanasa','Brigitte Trousse','Florent Masseglia']"
+}

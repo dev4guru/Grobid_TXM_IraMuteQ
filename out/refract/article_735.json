@@ -1,0 +1,22 @@
+{
+"year": "2007",
+"metaSession": "4",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1001295",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1001295",
+"abstract": "La classification des images sonar est d'une grande importance par exemple pour la navigation sous-marine ou pour la cartographie des fonds marins. En effet, le sonar offre des capacités d'imagerie plus performantes que les capteurs optiques en milieu sous-marin. La classification de ce type de données rencontre plusieurs difficultés en raison des imprécisions et incertitudes liées au capteur et au milieu. De nombreuses approches ont été proposées sans donner de bons résultats, celles-ci ne tenant pas compte des imperfections des données. Pour modéliser ce type de données, il est judicieux d'utiliser les théories de l'incertain comme la théorie des sous-ensembles flous ou la théorie des fonctions de croyance. Les machines à vecteurs de supports sont de plus en plus utilisées pour la classification automatique aux vues leur simplicité et leurs capacités de généralisation. Il est ainsi possible de proposer une approche qui tient compte de ces imprécisions et de ces incertitudes au coeur même de l'algorithme de classification. L'approche de la régression par SVM que nous avons introduite permet cette modélisation des imperfections. Nous proposons ici une application de cette nouvelle approche sur des données réelles particulièrement complexes, dans le cadre de la classification des images sonar.",
+"title": "Régression floue et crédibiliste par SVM pour la classification des images sonar",
+"placeAut":[{
+"place":"Brest",
+"country":"France",
+"location":{
+	"lat":"48.390394",
+	"lon":"-4.486076"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 50.4673883, u'lon': 4.8719854}",
+"place": "Namur",
+"booktitle": "EGC",
+"idArt": "735",
+"authors": "['Hicham Laanaya','Arnaud Martin','Driss Aboutajdine','Ali Khenchaf']"
+}

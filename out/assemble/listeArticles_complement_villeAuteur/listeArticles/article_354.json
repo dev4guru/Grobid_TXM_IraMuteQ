@@ -1,0 +1,14 @@
+{	 "idArt" : "354",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2011",
+	 "place" : "Brest",
+	 "location" : { "lat" :  48.390394, 
+		 "lon" : -4.486076 }, 
+	 "title" : "Sélection des variables informatives pour l'apprentissage supervisé multi-tables",
+	 "abstract" : "Dans la fouille de données multi-tables, les données sont représentées sous un format relationnel dans lequel les individus de la table cible sont potentiellement associés à plusieurs enregistrements dans des tables secondaires en relation un-à-plusieurs. La plupart des approches existantes opèrent en transformant la représentation multi-tables, notamment par mise à plat. Par conséquent, on perd la représentation initiale naturellement compacte mais également on risque d'introduire des biais statistiques. Notre approche a pour objectif d'évaluer l'informativité des variables explicatives originelles par rapport à la variable cible dans le contexte des relations un-à-plusieurs. Elle consiste à résumer l'information contenue dans chaque variable par un tuple d'attributs représentant les effectifs des modalités de celle-ci. Des modèles en grilles multivariées sont alors employés pour qualifier l'information apportée conjointement par les nouveaux attributs, ce qui revient à une estimation de densité conditionnelle de la variable cible connaissant la variable explicative en relation un-à-plusieurs. Les premières expérimentations sur des bases de données artificielles et réelles montrent qu'on arrive à identifier les variables explicatives potentiellement pertinentes sur tout le domaine relationnel.",
+	 "authors" : ["Dhafer Lahbib","Marc Boullé","Dominique Laurent"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1000995" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1000995" 
+} 
+ 

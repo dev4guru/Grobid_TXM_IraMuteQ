@@ -1,0 +1,17 @@
+{	 "idArt" : "692",
+	 "placeAut" : [ 
+		{ "place" : "Jendouba",
+		 "country" : "Tunisie",
+		 "location" : { "lat" :  36.5, 
+			 "lon" : 8.78333299999997 } },
+		{ "place" : "Tunis",
+		 "country" : "Tunisie",
+		 "location" : { "lat" :  36.8064948, 
+			 "lon" : 10.181531599999971 } },
+		{ "place" : "Lens",
+		 "country" : "France",
+		 "location" : { "lat" :  50.42893000000001, 
+			 "lon" : 2.831829999999968 } }
+	 ]
+} 
+ 

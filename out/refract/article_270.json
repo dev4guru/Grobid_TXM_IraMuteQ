@@ -1,0 +1,22 @@
+{
+"year": "2012",
+"metaSession": "3",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1001170",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1001170",
+"abstract": "Les services de personnalisation du Web 2.0 reposent sur l'exploitationde modèles utilisateurs. Schématiquement, plus la quantité d'informationssur les utilisateurs est grande, meilleures sont la modélisation et la qualité du service.En pratique, nombre de services rencontrent un problème de manque d'informationssur les utilisateurs. Dans cet article, nous y répondons par médiationinter-domaines de modèles utilisateurs, c'est-à-dire la complétion de modèles enexploitant des données d'un autre domaine. La médiation que nous proposonsrepose sur un transfert d'informations inter-domaines. Ce transfert consiste enl'utilisation de couples invariants ou très corrélés pouvant être des couples deressources ou de descripteurs sémantiques, identifiés après enrichissement sémantiquedes modèles. Nous montrons que le transfert sous forme de couple deressources permet une complétion de qualité et que l'exploitation de descripteurssémantiques augmente la couverture à qualité égale. Enrichir sémantiquementest donc bénéfique pour le transfert inter-domaines.",
+"title": "Utilisation d'invariants pour une médiation inter-domaines de modèles utilisateurs : ressources invariantes et invariants sémantiques",
+"placeAut":[{
+"place":"Vandoeuvre-lès-Nancy",
+"country":"France",
+"location":{
+	"lat":"48.661118",
+	"lon":"6.17376"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 44.837789, u'lon': -0.57918}",
+"place": "Bordeaux",
+"booktitle": "EGC",
+"idArt": "270",
+"authors": "['Emilien Perrin','Armelle Brun','Anne Boyer']"
+}

@@ -1,0 +1,22 @@
+{
+"year": "2013",
+"metaSession": "1",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1001862",
+"pdfarticle": "",
+"abstract": "Nous nous intéressons dans cet article à la problématique d'évolution d'une ontologie permettant de représenter des relations n-aires. Nous présentons la représentation formelle des changements applicables à notre ontologie permettant de modifier sa structure tout en maintenant sa cohérence structurelle. Nous illustrerons nos propos sur une ontologie dédiée à la représentation de relations n-aires entre des données expérimentales quantitatives.",
+"title": "Évolution d'une ontologie dédiée à la représentation de relations n-aires",
+"placeAut":[{
+"place":"Montpellier",
+"country":"France",
+"location":{
+	"lat":"43.610769",
+	"lon":"3.876716"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 43.604652, u'lon': 1.444209}",
+"place": "Toulouse",
+"booktitle": "EGC",
+"idArt": "175",
+"authors": "['Rim Touhami','Patrice Buche','Juliette Dibie-Barthélemy','Liliana Ibanescu']"
+}

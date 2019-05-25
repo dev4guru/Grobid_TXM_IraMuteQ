@@ -1,0 +1,22 @@
+{
+"year": "2005",
+"metaSession": "2",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1000169",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1000169",
+"abstract": "Nous proposons une méthode d'apprentissage automatique pour la sélection de passages susceptibles de contenir la réponse à une question dans les systèmes de Question-Réponse (QR). Les systèmes de RI ad hoc ne sont pas adaptés à cette tâche car les passages recherchés ne doivent pas uniquement traiter du même sujet que la question mais en plus contenir sa réponse. Pour traiter ce problème les systèmes actuels ré-ordonnent les passages renvoyés par un moteur de recherche en considérant des critères sous forme d'une somme pondérée de fonctions de scores. Nous proposons d'apprendre automatiquement les poids de cette combinaison, grâce à un algorithme de réordonnancement défini dans le cadre du Boosting, qui sont habituellement déterminés manuellement. En plus du cadre d'apprentissage proposé, l'originalité de notre approche réside dans la définition des fonctions allouant des scores de pertinence aux passages. Nous validons notre travail sur la base de questions et de réponses de l'évaluation TREC-11 des systèmes de QR. Les résultats obtenus montrent une amélioration significative des performances en terme de rappel et de précision par rapport à un moteur de recherche standard et à une méthode d'apprentissage issue du cadre de la classification.",
+"title": "Combinaison de fonctions de préférence par Boosting pour la recherche de passages dans les systèmes de question/réponse",
+"placeAut":[{
+"place":"Paris",
+"country":"France",
+"location":{
+	"lat":"48.856614",
+	"lon":"2.3522219"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 48.856614, u'lon': 2.3522219}",
+"place": "Paris",
+"booktitle": "EGC",
+"idArt": "954",
+"authors": "['Nicolas Usunier','Massih-Reza Amini','Patrick Gallinari']"
+}

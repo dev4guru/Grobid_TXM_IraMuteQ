@@ -1,0 +1,22 @@
+{
+"year": "2006",
+"metaSession": "5",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1000454",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1000454",
+"abstract": "",
+"title": "Un logiciel permettant d'apprendre des règles et leurs exceptions : Area",
+"placeAut":[{
+"place":"Lens",
+"country":"France",
+"location":{
+	"lat":"50.42893",
+	"lon":"2.83183"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 50.62925, u'lon': 3.057256}",
+"place": "Lille",
+"booktitle": "EGC",
+"idArt": "854",
+"authors": "['Sylvain Lagrue','Jérémie Lussiez','Julien Rossit']"
+}

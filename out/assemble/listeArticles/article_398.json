@@ -1,0 +1,13 @@
+{	 "idArt" : "398",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2010",
+	 "place" : "Hammamet",
+	 "location" : { "lat" :  36.4, 
+		 "lon" : 10.616667 }, 
+	 "title" : "ChorML : Résumés visuels de bases des données géographiques",
+	 "authors" : ["Ibtissem Cherni","Karla Lopez","Robert Laurini","Sami Faiz"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1001443" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1001443" 
+} 
+ 

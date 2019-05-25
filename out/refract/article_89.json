@@ -1,0 +1,22 @@
+{
+"year": "2014",
+"metaSession": "",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1001984",
+"pdfarticle": "",
+"abstract": "Sur les sites Web communautaires, les utilisateurs échangent des connaissances,en étant à la fois auteurs et lecteurs. Nous présentons une méthodepour construire notre propre compréhension de la sémantique de la communauté,sans recours à une base de connaissances externe. Nous effectuons une extractionde la connaissance présente dans les contributions analysées. Nous proposonsune évaluation de la confiance imputable à cette compréhension déduite,afin d'évaluer la qualité du contenu, avec application à un site Web de partagede recettes de cuisine.",
+"title": "Compréhension de recettes de cuisine utilisateurs par extraction de connaissances intrinsèques",
+"placeAut":[{
+"place":"Le Chesnay",
+"country":"France",
+"location":{
+	"lat":"48.825415",
+	"lon":"2.130544"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 48.117266, u'lon': -1.6777926}",
+"place": "Rennes",
+"booktitle": "EGC",
+"idArt": "89",
+"authors": "['Damien Leprovost','Thierry Despeyroux','Yves Lechevallier']"
+}

@@ -1,0 +1,14 @@
+{	 "idArt" : "968",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2005",
+	 "place" : "Paris",
+	 "location" : { "lat" :  48.856614, 
+		 "lon" : 2.3522219 }, 
+	 "title" : "Extraction de termes centrée autour de l'expert",
+	 "abstract" : "Nous développons un logiciel, Exit, capable d'aider un expert à extraire des termes qu'il trouve pertinents dans des textes de spécialité. Tout est mis en place pour faciliter le travail de l'expert afin qu'il puisse consacrer son temps à la seule reconnaissance des termes pertinents. Pour cela, différentes mesures statistiques et de nombreuses options d'extraction sont disponibles dans Exit. Afin d'utiliser au mieux les connaissances de l'expert, notre approche est semi-automatique. De plus, l'expert construit des termes pouvant inclure des termes précédemment extraits ce qui rend itératif et constructif notre processus de formation des termes. Enfin, l'ergonomie du logiciel a profité des enseignements tirés lors de son utilisation pour une compétition internationale d'extraction de connaissances.",
+	 "authors" : ["Thomas Heitz","Mathieu Roche","Yves Kodratoff"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1000425" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1000425" 
+} 
+ 

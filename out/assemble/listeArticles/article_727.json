@@ -1,0 +1,14 @@
+{	 "idArt" : "727",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2007",
+	 "place" : "Namur",
+	 "location" : { "lat" :  50.4673883, 
+		 "lon" : 4.8719854 }, 
+	 "title" : "OKM : une extension des k-moyennes pour la recherche de classes recouvrantes",
+	 "abstract" : "Dans cet article nous abordons le problème de la classification (ou clustering) dans le but de découvrir des classes avec recouvrements. Malgré quelques avancées récentes dans ce domaines, motivées par des besoins applicatifs importants (traitements des données multimédia par exemple), nous constatons l'absence de solutions théoriques à ce problème. Notre étude consiste alors à proposer une nouvelle formulation du problème de classification par partitionnement, adaptée à la recherche d'un recouvrement des données en classes d'objets similaires. Cette approche se fonde sur la définition d'un critère objectif de qualité d'un recouvrement et d'une solution algorithmique visant à optimiser ce critère. Nous proposons deux évaluations de ce travail permettant d'une part d'appréhender le fonctionnement global de l'algorithme sur des données simples (vitesse de convergence, visualisation des résultats) et d'autre part d'évaluer quantitativement le bénéfice d'une telle approche sur une application de classification de documents textuels.",
+	 "authors" : ["Guillaume Cleuziou"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1001458" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1001458" 
+} 
+ 

@@ -1,0 +1,14 @@
+{	 "idArt" : "601",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC ",
+	 "year" : "2008",
+	 "place" : "Sophia Antipolis",
+	 "location" : { "lat" :  43.6163539, 
+		 "lon" : 7.0552218 }, 
+	 "title" : "Extraction d'itemsets compacts",
+	 "abstract" : "L'extraction d'itemsets fréquents est un sujet majeur de l'ECD et son but est de découvrir des corrélations entre les enregistrements d'un ensemble de données. Cependant, le support est calculé en fonction de la taille de la base dans son intégralité. Dans cet article, nous montrons qu'il est possible de prendre en compte des périodes difficiles à déceler dans l'organisation des données et qui contiennent des itemsets fréquents sur ces périodes. Nous proposons ainsi la définition des itemsets compacts, qui représentent un comportement cohérent sur une période spécifique et nous présentons l'algorithme DEICO qui permet leur découverte.",
+	 "authors" : ["Bashar Saleh","Florent Masseglia"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1000628" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1000628" 
+} 
+ 

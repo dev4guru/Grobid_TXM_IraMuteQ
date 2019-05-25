@@ -1,0 +1,22 @@
+{
+"year": "2007",
+"metaSession": "3",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1001388",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1001388",
+"abstract": "Les motifs séquentiels sont un domaine de la fouille de données très étudié depuis leur introduction par Agrawal et Srikant.Même s'il existe de nombreux travaux (algorithmes, domaines d'application), peu d'entre eux se situent dans un contexte multidimensionnel avec la prise en compte de ses spécificités : plusieurs dimensions, relations hiérarchiques entre les éléments de chaque dimension, etc. Dans cet article, nous proposons une méthode originale pour extraire des connaissances multidimensionnelles définies sur plusieurs niveaux de hiérarchies mais selon un certain point de vue : du général au particulier ou vice et versa. Nous définissons ainsi le concept de séquences multidimensionnelles convergentes ou divergentes ainsi que l'algorithme associé, M2S_CD, basé sur le paradigme pattern growth. Des expérimentations, sur des jeux de données synthétiques et réelles, montrent l'intérêt de notre approche aussi bien en terme de robustesse des algorithmes que de pertinence des motifs extraits.",
+"title": "Extraction de séquences multidimensionnelles convergentes et divergentes",
+"placeAut":[{
+"place":"Montpellier",
+"country":"France",
+"location":{
+	"lat":"43.610769",
+	"lon":"3.876716"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 50.4673883, u'lon': 4.8719854}",
+"place": "Namur",
+"booktitle": "EGC",
+"idArt": "710",
+"authors": "['Marc Plantevit','Anne Laurent','Maguelonne Teisseire']"
+}

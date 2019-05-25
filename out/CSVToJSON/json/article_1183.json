@@ -1,0 +1,15 @@
+{
+"idArt": "1183",
+"series": "Revue des Nouvelles Technologies de l'Information",
+"booktitle": "EGC",
+"year": "2016",
+"title": "Une mesure de similarité entre phrases basée sur des noyaux sémantiques",
+"abstract": "Nous proposons une nouvelle approche pour le calcul de similarité sémantiqueentre phrases en utilisant les noyaux sémantiques qui les composent.Ces noyaux, sous la forme de triplets (sujet, verbe et objet) sont supposés porteursde l'information des phrases dont ils sont extraits. Sur la base de la comparaisonsémantique de noyaux, on extrait un ensemble d'indicateurs descriptifs.Nous utilisons ensuite un apprentissage automatique, sur un benchmark contenantdes phrases dont la similarité sémantique a été évaluée par des experts humains,afin de déterminer l'importance de chaque indicateur et de construireainsi un modèle capable de fournir une mesure de similarité sémantique entrephrases. Les expérimentations et les études comparatives, effectuées avec d'autresapproches permettant l'estimation des similarités sémantiques entre phrases,montrent les bonnes performances de notre approche. En se basant sur cette dernière,un outil de navigation sémantique est en cours de développement.",
+"authors": "Samir Amir, Adrian Tanasescu, Djamel Abdelkader Zighed",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1002164",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1002164",
+"metaSession": "2",
+"place": "Reims",
+"Latitude": " 49.258408 ",
+"Longitude": "4.031775"
+}

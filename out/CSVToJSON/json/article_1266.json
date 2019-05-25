@@ -1,0 +1,15 @@
+{
+"idArt": "1266",
+"series": "Revue des Nouvelles Technologies de l'Information",
+"booktitle": "EGC",
+"year": "2018",
+"title": "Apport de la fouille de données pour la prévention du risque suicidaire",
+"abstract": "Avec plus de 800 000 décès par an dans le monde, le suicide est latroisième cause de décès évitable. Il y a 20 fois plus de tentatives, impliquant denombreuses hospitalisations, des coûts humains et sociétaux énormes. Ces dernièresannées, les modalités de collecte de données, sociologiques et cliniques,concernant les patients reçus en consultation après une tentative, ont connu deprofonds changements liés aux outils numériques. Nous présentons les principauxrésultats d'un processus complet de fouille de données sur un échantillonde suicidants de deux hôpitaux européens. Le premier objectif est d'identifierdes groupes de patients similaires et le second d'identifier des facteurs de risqueassociés au nombre de tentatives. Des méthodes non supervisées (ACM et clustering)et supervisées (arbres de régression) sont appliquées pour y répondre.Les résultats mettent en lumière l'apport de la fouille de données à des fins descriptivesou explicatives.",
+"authors": "Romain Billot, Sofian Berrouiguet, Mark Larsen, Michel Walter, Jorge López Castroman, Enrique Baca-García, Philippe Courtet, Philippe Lenca",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1002376",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1002376",
+"metaSession": "5",
+"place": "Paris",
+"Latitude": " 48.8540 ",
+"Longitude": "2.3494"
+}

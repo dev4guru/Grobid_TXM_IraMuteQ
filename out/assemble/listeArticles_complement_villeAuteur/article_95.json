@@ -1,0 +1,17 @@
+{	 "idArt" : "95",
+	 "placeAut" : [ 
+		{ "place" : "Montpellier",
+		 "country" : "France",
+		 "location" : { "lat" :  43.610769, 
+			 "lon" : 3.8767159999999876 } },
+		{ "place" : "Barcelona",
+		 "country" : "Spain",
+		 "location" : { "lat" :  41.297445, 
+			 "lon" : 2.083294099999989 } },
+		{ "place" : "Hamilton",
+		 "country" : "New Zealand",
+		 "location" : { "lat" :  -37.7870012, 
+			 "lon" : 175.27925300000004 } }
+	 ]
+} 
+ 

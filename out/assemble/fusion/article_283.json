@@ -1,0 +1,22 @@
+{
+"year": "2011",
+"metaSession": "1",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1000989",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1000989",
+"abstract": "Plusieurs méthodologies et outils de construction automatique des ontologies à partir de ressources textuelles ont été proposés ces dernières années. Dans cet article nous analysons quatre approches en les comparant à une approche de référence - Methontology. Dans leur sélection nous avons privilégié celles qui couvrent l'ensemble des étapes du processus de construction d'ontologies. Puis nous analysons et comparons la portée, les limites et les performances des implémentations logicielles associées aux approches analysées. Ces outils ont été testés sur un corpus de ressources textuelles, et nous avons comparé leurs résultats à ceux obtenus manuellement.",
+"title": "Analyse comparative de méthodologies et d'outils de construction automatique d'ontologies à partir de ressources textuelles",
+"placeAut":[{
+"place":"Nantes",
+"country":"France",
+"location":{
+	"lat":"47.218371",
+	"lon":"-1.553621"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 48.390394, u'lon': -4.486076}",
+"place": "Brest",
+"booktitle": "EGC",
+"idArt": "283",
+"authors": "['Toader Gherasim','Mounira Harzallah','Giuseppe Berio','Pascale Kuntz']"
+}

@@ -1,0 +1,9 @@
+{	 "idArt" : "1097",
+	 "placeAut" : [ 
+		{ "place" : "La-Tronche",
+		 "country" : "France",
+		 "location" : { "lat" :  45.205168, 
+			 "lon" : 5.73780499999998 } }
+	 ]
+} 
+ 

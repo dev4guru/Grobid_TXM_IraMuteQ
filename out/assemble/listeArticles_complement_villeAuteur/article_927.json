@@ -1,0 +1,9 @@
+{	 "idArt" : "927",
+	 "placeAut" : [ 
+		{ "place" : "Angers",
+		 "country" : "France",
+		 "location" : { "lat" :  47.478419, 
+			 "lon" : -0.5631660000000238 } }
+	 ]
+} 
+ 

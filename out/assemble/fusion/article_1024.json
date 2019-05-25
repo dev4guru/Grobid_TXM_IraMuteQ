@@ -1,0 +1,22 @@
+{
+"year": "2004",
+"metaSession": "8",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1000950",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1000950",
+"abstract": "Dans le domaine de l'apprentissage supervisé, les méthodes de groupage des modalités d'un attribut symbolique permettent de construire un nouvel attribut synthétique conservant au maximum la valeur informationnelle de l'attribut initial et diminuant le nombre de modalités. Nous proposons ici une généralisation de l'algorithme de discrétisation Khiops pour le problème du groupage des modalités. L'algorithme proposé permet de contrôler a priori le risque de sur-apprentissage et d'améliorer significativement la robustesse des groupages produits. Cette caractéristique de robustesse a été obtenue en étudiant la statistique des variations du critère du Khi2 lors de regroupements de lignes d'un tableau de contingence et en modélisant le comportement statistique de l'algorithme Khiops. Des expérimentations intensives ont permis de valider cette approche et ont montré que la méthode de groupage Khiops aboutit à des groupages performants, à la fois en terme de qualité prédictive et de faible nombre de groupes.",
+"title": "A robust method for partitioning the values of categorical attributes",
+"placeAut":[{
+"place":"Lannion",
+"country":"France",
+"location":{
+	"lat":"48.732084",
+	"lon":"-3.459144"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 45.77722199999999, u'lon': 3.087025}",
+"place": "Clermont-Ferrand",
+"booktitle": "EGC",
+"idArt": "1024",
+"authors": "Marc Boullé"
+}

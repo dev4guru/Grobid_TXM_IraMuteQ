@@ -1,0 +1,14 @@
+{	 "idArt" : "328",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2011",
+	 "place" : "Brest",
+	 "location" : { "lat" :  48.390394, 
+		 "lon" : -4.486076 }, 
+	 "title" : "Mesure de concordance pour les bases de données évidentielles",
+	 "abstract" : "Dans cet article, nous proposons une mesure de concordance d'une source avec les autres sources. Cette mesure pourra servir à réduire l'importance de ses fonctions de masse avant de les combiner afin de trouver un compromis et donc réduire le conflit. Cette mesure sera illustrée par des données réelles.",
+	 "authors" : ["Mouna Chebbah","Arnaud Martin","Boutheina Ben Yaghlane"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1000945" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1000945" 
+} 
+ 

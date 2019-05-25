@@ -1,0 +1,15 @@
+{
+"idArt": "1142",
+"series": "Revue des Nouvelles Technologies de l'Information",
+"booktitle": "EGC",
+"year": "2016",
+"title": "Identification de Classes Sémantiques Basée sur des Mesures de Proximité Sémantique",
+"abstract": "Semantic relations are the core of a growing number of knowledge-intensive systems. Theneed to validate automatically such relations remains an up-to-date challenge. In this paper, wepresent a web-based method enabling the automatic identification of the class of a semantic relation.Using measures based on syntactic patterns as entry features for a learning algorithm,we are able to successfully identify 72% of semantic relations divided in 4 classes in a semanticallyrich environment.",
+"authors": "Jean Petit, Jean-Charles Risch",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1002213",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1002213",
+"metaSession": "11",
+"place": "Reims",
+"Latitude": " 49.258367 ",
+"Longitude": "4.031734"
+}

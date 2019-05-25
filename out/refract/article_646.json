@@ -1,0 +1,22 @@
+{
+"year": "2008",
+"metaSession": "1",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1000563",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1000563",
+"abstract": "Dans ce papier, nous enrichissons la méthode Terminae de construction d'ontologie à partir de textes en proposant une semi-automatisation de la construction du modèle conceptuel. Nous présentons un algorithme permettant la conceptualisation d'un terme en s'appuyant sur les informations linguistiques contenues dans l'ontologie générique de référence.",
+"title": "Sémantique et Réutilisation d'ontologie générique",
+"placeAut":[{
+"place":"Villetaneuse",
+"country":"France",
+"location":{
+	"lat":"48.963476",
+	"lon":"2.347354"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 43.6163539, u'lon': 7.0552218}",
+"place": "Sophia Antipolis",
+"booktitle": "EGC ",
+"idArt": "646",
+"authors": "['Sylvie Desprès','Sylvie Szulman']"
+}

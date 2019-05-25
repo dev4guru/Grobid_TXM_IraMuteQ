@@ -1,0 +1,14 @@
+{	 "idArt" : "428",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2010",
+	 "place" : "Hammamet",
+	 "location" : { "lat" :  36.4, 
+		 "lon" : 10.616667 }, 
+	 "title" : "Extraction des séquences fermées fréquentes à partir de corpus parallèles : Application à la traduction automatique",
+	 "abstract" : "Dans cet article, nous abordons la problématique d'extraction de séquencesfréquentes à partir de corpus de textes parallèles en prenant en comptel'ordre d'apparition des mots dans une phrase. Notre finalité est d'exploiter cesséquences dans la traduction automatique (TA). Nous introduisons ainsi la notionde règles associatives inter-langues (RAIL) et nous définissons notre modèlede traduction à base de ces associations. Nous décrivons également les différentesexpérimentations conduites sur le corpus EUROPARL afin de construire àpartir des RAIL une table de traduction bilingue qui est intégrée par la suite dansun processus complet de TA.",
+	 "authors" : ["Cherif Chiraz Latiri","Cyrine Nasri","Kamel Smaïli","Yahya Slimani"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1001266" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1001266" 
+} 
+ 

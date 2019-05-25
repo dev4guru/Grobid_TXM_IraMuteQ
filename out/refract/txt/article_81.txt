@@ -1,0 +1,1 @@
+La prédiction du rayonnement solaire horaire dans une journée estun enjeu primordial pour la production d'énergie de type photovoltaïque. Nousprésentons deux stratégies de classification des jours selon leurs rayonnementssolaires puis une méthode de prédiction du flux solaire cohérente avec la classification.

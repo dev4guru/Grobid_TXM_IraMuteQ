@@ -1,0 +1,13 @@
+{	 "idArt" : "372",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2011",
+	 "place" : "Brest",
+	 "location" : { "lat" :  48.390394, 
+		 "lon" : -4.486076 }, 
+	 "title" : "Utilisation de la Machine Cellulaire pour la Détection des Courriels Indésirables",
+	 "authors" : ["Fatiha Barigou","Baghdad Atmani","Bouziane Beldjilali"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1000979" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1000979" 
+} 
+ 

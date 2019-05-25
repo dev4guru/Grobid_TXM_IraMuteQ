@@ -1,0 +1,1 @@
+Nous proposons une approche générique pour la fusion d'informa-tions qui repose sur l'utilisation du modèle des Graphes Conceptuels et l'opé-ration de jointure maximale. Nous validons notre approche par le biais d'ex-périmentations. Ces expérimentations soulignent l'importance des heuristiquesmises en place.

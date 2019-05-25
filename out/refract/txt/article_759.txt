@@ -1,0 +1,1 @@
+Dans cet article, nous présentons un algorithme multi-agents de clustering dynamique. Ce type de clustering doit permettre de gérer des données évolutives et donc être capable d'adapter en permanence les clusters construits.

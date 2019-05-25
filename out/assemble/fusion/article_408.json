@@ -1,0 +1,22 @@
+{
+"year": "2010",
+"metaSession": "4",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1001276",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1001276",
+"abstract": "Dans le domaine de la fouille de données, mesurer les similitudesentre différents sous-ensembles est une question importante qui a été peu étudiéejusqu'à présent. Dans cet article, nous proposons une nouvelle méthodebasée sur l'apprentissage non-supervisé. Les différents sous-ensembles à comparersont caractérisés au moyen d'un modèle à base de prototypes. Ensuite, lesdifférences entre les modèles sont détectées en utilisant une mesure de similarité",
+"title": "Comparaisons structurelles de grandes bases de données par apprentissage non-supervisé",
+"placeAut":[{
+"place":"Villetaneuse",
+"country":"France",
+"location":{
+	"lat":"48.963476",
+	"lon":"2.347354"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 36.4, u'lon': 10.616667}",
+"place": "Hammamet",
+"booktitle": "EGC",
+"idArt": "408",
+"authors": "['Guénaël Cabanes','Younès Bennani']"
+}

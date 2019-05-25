@@ -1,0 +1,15 @@
+{
+"idArt": "1314",
+"series": "Revue des Nouvelles Technologies de l'Information",
+"booktitle": "EGC",
+"year": "2018",
+"title": "Propositions pour améliorer une méthode de prédiction du succès d'une campagne de financement participatif",
+"abstract": "Le financement participatif est un mode de financement d'un projet faisant appel à un grand nombre de personnes qui a connu une forte croissance avec l'émergence d'Internet et des réseaux sociaux. Cependant plus de 60 % des projets ne sont pas financés, il est donc important de bien préparer sa campagne de financement. De plus, en cours de campagne, il est crucial d'avoir une estimation rapide de son succès afin de pouvoir réagir rapidement (restructuration, communication) : des outils de prédiction sont alors indispensables. Nous proposons dans cet article plusieurs pistes d'amélioration pour la prédiction du montant levé lors d'une campagne de financement participatif en utilisant l'algorithme k-NN. La première proposition consiste à utiliser un algorithme de clustering afin de segmenter l'ensemble d'apprentissage et faciliter le passage à l'échelle. La seconde proposition consiste à extraire des caractéristiques pertinentes depuis les séries temporelles et les informations sur les campagnes pour avoir une représentation vectorielle.",
+"authors": "Alexandre Blansché, Xavier Mazur",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1002374",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1002374",
+"metaSession": "2",
+"place": "Paris",
+"Latitude": " 48.8588 ",
+"Longitude": "2.3542"
+}

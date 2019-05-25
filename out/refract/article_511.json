@@ -1,0 +1,22 @@
+{
+"year": "2009",
+"metaSession": "0",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1000731",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1000731",
+"abstract": "",
+"title": "Constraint Programming for Data Mining",
+"placeAut":[{
+"place":"Leuven",
+"country":"Belgique",
+"location":{
+	"lat":"50.883333",
+	"lon":"4.7"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 48.5734053, u'lon': 7.752111299999999}",
+"place": "Strasbourg",
+"booktitle": "EGC",
+"idArt": "511",
+"authors": "Luc De Raedt"
+}

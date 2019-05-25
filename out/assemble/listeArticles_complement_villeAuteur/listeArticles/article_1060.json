@@ -1,0 +1,14 @@
+{	 "idArt" : "1060",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2004",
+	 "place" : "Clermont-Ferrand",
+	 "location" : { "lat" :  45.77722199999999, 
+		 "lon" : 3.087025 }, 
+	 "title" : "Induction extensionnelle : définition et application à l'acquisition de concepts à partir de textes",
+	 "abstract" : "Lorsque des outils inductifs sont inclus dans un système d'acquisition des connaissances, on dit que l'on construit un système apprenti. C'est dans le but de soulager la charge de travail de l'expert du domaine que cette forme d'apprentissage comporte des outils inductifs. La difficulté tient en ce que l'énumération des connaissances expertes produit des données peu bruitées mais très incomplètes que les itérations successives d'induction vont compléter, toutefois en y ajoutant de grandes quantités de bruit. Il en résulte qu'on doit utiliser des procédures inductives spéciales, adaptées à l'apprentissage par croissance de noyaux de connaissance supervisée. En particulier, pour résoudre le problème difficile de la reconnaissance de concepts dans les textes, nous avons défini une forme d'apprentissage qui intègre l'apprentissage à partir d'instances et les systèmes apprentis, que nous nommons Induction Extensionnelle, un oxymoron qui souligne que malgré l'absence de création d'un modèle explicite, une induction prend effectivement place.",
+	 "authors" : ["Yves Kodratoff"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1001017" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1001017" 
+} 
+ 

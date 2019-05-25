@@ -1,0 +1,13 @@
+{	 "idArt" : "147",
+	 "placeAut" : [ 
+		{ "place" : "Istanbul",
+		 "country" : "Turquie",
+		 "location" : { "lat" :  41.0082376, 
+			 "lon" : 28.97835889999999 } },
+		{ "place" : "Lyon",
+		 "country" : "France",
+		 "location" : { "lat" :  45.764043, 
+			 "lon" : 4.835658999999964 } }
+	 ]
+} 
+ 

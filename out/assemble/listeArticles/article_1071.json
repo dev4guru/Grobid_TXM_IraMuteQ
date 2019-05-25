@@ -1,0 +1,14 @@
+{	 "idArt" : "1071",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2004",
+	 "place" : "Clermont-Ferrand",
+	 "location" : { "lat" :  45.77722199999999, 
+		 "lon" : 3.087025 }, 
+	 "title" : "Modèle de gestion intégrée des compétences et connaissances",
+	 "abstract" : "La compétence et la connaissance sont deux concepts qui nous semblent fortement conjoints, cependant, ils sont rarement étudiés et gérés ensemble. Nous cherchons donc à identifier les liens et frontières qui peuvent exister entre eux. Ceci a pour objectif de développer un modèle de représentation et de gestion, intégré aux connaissances et aux compétences. Dans cet article, est tout d'abord présentée, une synthèse sur les concepts de compétence et de connaissance. Ensuite, les modèles et outils de gestion de ces concepts sont exposés. Puis, le modèle CKIM (Competency and Knowledge Integrated Model) développé, est défini. Les utilités de ce modèle et son exploitation sont discutées en quatrième partie. La dernière partie représente un prototype d'implantation du modèle CKIM réalisé sur le serveur de connaissances ATHANOR.",
+	 "authors" : ["Nathalie Vergnaud","Mounira Harzallah","Henri Briand"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1000915" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1000915" 
+} 
+ 

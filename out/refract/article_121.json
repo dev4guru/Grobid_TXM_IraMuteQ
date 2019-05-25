@@ -1,0 +1,22 @@
+{
+"year": "2014",
+"metaSession": "",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1001985",
+"pdfarticle": "",
+"abstract": "Pour parler, le locuteur met en mouvement un ensemble complexed'articulateurs : la mâchoire qu'il ouvre plus ou moins, la langue à laquelle ilfait prendre de nombreuses formes et positions, les lèvres qui lui permettent delaisser l'air s'échapper plus ou moins brutalement, etc. Le modèle articulatoirele plus connu est celui de Maeda (1990), obtenu à partir d'Analyses en ComposantesPrincipales faites sur les tableaux de coordonnées des points des articulateursd'un locuteur en train de parler. Nous proposons ici une analyse 3-way dumême type de données, après leur transformation en tableaux de distances. Nousvalidons notre modèle par la prédiction des sons prononcés, qui s'avère presqueaussi bonne que celle du modèle acoustique, et même meilleure quand on prenden compte la co-articulation.",
+"title": "Méthodologie 3-way d'extraction d'un modèle articulatoire de la parole à partir des données d'un locuteur",
+"placeAut":[{
+"place":"Vandoeuvre-les-Nancy",
+"country":"France",
+"location":{
+	"lat":"48.661118",
+	"lon":"6.17376"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 48.117266, u'lon': -1.6777926}",
+"place": "Rennes",
+"booktitle": "EGC",
+"idArt": "121",
+"authors": "['Martine Cadot','Yves Laprie']"
+}

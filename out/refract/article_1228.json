@@ -1,0 +1,15 @@
+{
+"idArt": "1228",
+"series": "Revue des Nouvelles Technologies de l'Information",
+"booktitle": "EGC",
+"year": "2017",
+"title": "Mesure de Similarité entre Treillis Basée sur des Correspondances Explicites",
+"abstract": "Ce document se situe dans le cadre de l'analyse de concepts formels(ACF), une méthode de hiérarchisation algébrique des données basée sur la no-tion d'intension / extension, partageant maximalement attributs et objets. Nousprésentons ici une mesure de similarité basée sur des correspondances entre deuxtreillis de Galois, définie par un modèle expressif utilisant des correspondancesentre objets et entre attributs des deux treillis. Un point clé de notre approcheest que ces correspondances peuvent ne pas être des fonctions, associant un ob-jet (resp. attribut) d'un treillis avec plusieurs objets (resp. attributs) de l'autretreillis.",
+"authors": "Florent Domenach",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1002299",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1002299",
+"metaSession": "2",
+"place": "Grenoble",
+"Latitude": " 45.188569 ",
+"Longitude": "5.724564"
+}

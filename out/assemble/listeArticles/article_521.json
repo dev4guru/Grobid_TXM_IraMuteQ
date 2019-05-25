@@ -1,0 +1,14 @@
+{	 "idArt" : "521",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2009",
+	 "place" : "Strasbourg",
+	 "location" : { "lat" :  48.5734053, 
+		 "lon" : 7.752111299999999 }, 
+	 "title" : "Détection de séquences atypiques basée sur un modèle de Markov d'ordre variable",
+	 "abstract" : "Récemment, le nombre et le volume des bases de données séquentiellesbiologiques ont augmenté de manière considérable. Dans ce contexte, l'identificationdes anomalies est essentielle. La plupart des approches pour lesextraire se fondent sur une base d'apprentissage ne contenant pas d'outlier. Or,dans de très nombreuses applications, les experts ne disposent pas d'une tellebase. De plus, les méthodes existantes demeurent exigeantes en mémoire, cequi les rend souvent impossibles à utiliser. Nous présentons dans cet article unenouvelle approche, basée sur un modèle de Markov d'ordre variable et sur unemesure de similarité entre objets séquentiels. Nous ajoutons aux méthodes existantesun critère d'élagage pour contrôler la taille de l'espace de rechercheet sa qualité, ainsi qu'une inégalité de concentration précise pour la mesure desimilarité, conduisant à une meilleure détection des outliers. Nous démontronsexpérimentalement la validité de notre approche.",
+	 "authors" : ["Cécile Low-Kam","Anne Laurent","Maguelonne Teisseire"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1000766" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1000766" 
+} 
+ 

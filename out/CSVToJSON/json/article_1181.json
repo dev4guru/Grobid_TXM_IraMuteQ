@@ -1,0 +1,15 @@
+{
+"idArt": "1181",
+"series": "Revue des Nouvelles Technologies de l'Information",
+"booktitle": "EGC",
+"year": "2016",
+"title": "Une approche d'évolution du web de données",
+"abstract": "Sharing knowledge and data coming from different sources is one of the biggest advantageof linked data. Keeping this knowledge graph up to date may take in account both ontologyvocabularies and data since they should be consistent. Our general problem is to deal with webof data evolution in particular: We aim at modifing both levels : A-Box and T-Box.",
+"authors": "Fatma Chamekh, Danielle Boulanger, Guilaine Talens",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1002226",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1002226",
+"metaSession": "11",
+"place": "Reims",
+"Latitude": " 49.258406 ",
+"Longitude": "4.031773"
+}

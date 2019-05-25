@@ -1,0 +1,14 @@
+{	 "idArt" : "307",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2011",
+	 "place" : "Brest",
+	 "location" : { "lat" :  48.390394, 
+		 "lon" : -4.486076 }, 
+	 "title" : "Détection des profils à long terme et à court terme dans les réseaux sociaux",
+	 "abstract" : "La conception des profils et contextes utilisateurs se situe au coeur de l'étude et de la mise en oeuvre des mécanismes de personnalisation ou d'adaptation de contenus (recherche d'information, systèmes de recommandation, etc.). Plusieurs modèles et dimensions de profils et contextes sont décrits dans la littérature. Dans la vie réelle tout comme dans les systèmes d'information, le comportement de l'utilisateur est très souvent influencé par son environnement social. Cependant, la dimension sociale des profils et contextes utilisateurs reste très peu étudiée et évaluée. Dans cet article, nous présentons une méthode de visualisation des profils utilisateurs permettant d'évaluer la pertinence du réseau social de l'utilisateur dans l'évolution de son profil. L'expérimentation de la méthode à partir de Facebook permet d'identifier d'une part, les centres d'intérêts à court-terme et à long-terme des profils utilisateurs, et d'autre part, l'influence réelle à court-terme et à long-terme du réseau social de chaque utilisateur. Ces résultats démontrent l'intérêt de modéliser et d'intégrer une dimension sociale dans les profils et contextes utilisateurs, afin de tenter d'améliorer les mécanismes de personnalisation ou d'adaptation de contenus.",
+	 "authors" : ["Dieudonné Tchuente","Marie-Françoise Canut","Nadine Baptiste-Jessel"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1000987" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1000987" 
+} 
+ 

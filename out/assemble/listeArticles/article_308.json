@@ -1,0 +1,14 @@
+{	 "idArt" : "308",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2011",
+	 "place" : "Brest",
+	 "location" : { "lat" :  48.390394, 
+		 "lon" : -4.486076 }, 
+	 "title" : "Early Classification on Temporal Sequences",
+	 "abstract" : "Early classification of temporal sequences has applications in, for example, health informatics, intrusion detection, anomaly detection, and scientific and engineering sequence data monitoring. In early classification, instead of optimizing accuracy, our goal is to produce classification as early as possible provided that the accuracy meets some expectation. In this talk, I will advocate early classification as an exciting and challenging research problem, which has not been systematically studied in the literature. I will discuss several interesting formulations of the problem, which provide complimentary features possibly desirable in different application scenarios. I will also review some of our recent progress on this aspect.",
+	 "authors" : ["Jian Pei"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1000918" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1000918" 
+} 
+ 

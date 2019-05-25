@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/josuah/Bureau/grobid/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="fr">
+		<encodingDesc>
+			<appInfo>
+				<application version="0.5.5-SNAPSHOT" ident="GROBID" when="2019-04-04T12:42+0000">
+					<ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Un protocole d&apos;expérimentation sur les propriétés graphémiques avec l&apos;algorithme SOM</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Otman</forename><surname>Manad</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="laboratory">Laboratoire d&apos;Informatique Avancée de Saint-Denis (LIASD)</orgName>
+								<orgName type="institution">Université PARIS 8</orgName>
+								<address>
+									<addrLine>2 Rue de la Libertée</addrLine>
+									<settlement>Saint-Denis</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Nourredine</forename><surname>Aliane</surname></persName>
+							<email>nourredine@ai.univ-paris8.fr</email>
+							<affiliation key="aff0">
+								<orgName type="laboratory">Laboratoire d&apos;Informatique Avancée de Saint-Denis (LIASD)</orgName>
+								<orgName type="institution">Université PARIS 8</orgName>
+								<address>
+									<addrLine>2 Rue de la Libertée</addrLine>
+									<settlement>Saint-Denis</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Gilles</forename><surname>Bernard</surname></persName>
+							<email>gilles.bernard@iedparis8.net</email>
+							<affiliation key="aff0">
+								<orgName type="laboratory">Laboratoire d&apos;Informatique Avancée de Saint-Denis (LIASD)</orgName>
+								<orgName type="institution">Université PARIS 8</orgName>
+								<address>
+									<addrLine>2 Rue de la Libertée</addrLine>
+									<settlement>Saint-Denis</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Un protocole d&apos;expérimentation sur les propriétés graphémiques avec l&apos;algorithme SOM</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<abstract>
+				<p>1 Nous présentons une recherche sur la distribution et la classification non-supervisée des graphèmes. Nous visons à réduire l&apos;écart entre les résultats de recherches récentes qui montrent la capacité des algorithmes d&apos;apprentissage et de classification non-supervisée pour détecter les propriétés de phonèmes, et les possibilités actuelles de la représentation textuelle d&apos;Unicode. Nos procé-dures doivent assurer la reproductibilité des expériences et garantir que l&apos;infor-mation recherchée n&apos;est pas implicitement présente dans le pré-traitement des données. Notre approche est capable de catégoriser correctement de potentiels graphèmes, ce qui montre que les propriétés phonologiques sont présentes dans les données textuelles, et peuvent être automatiquement extraites à partir des données textuelles brutes en Unicode, sans avoir besoin de les traduire en repré-sentations phonologiques.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="fr">
+	</text>
+</TEI>

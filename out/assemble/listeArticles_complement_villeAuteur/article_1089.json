@@ -1,0 +1,9 @@
+{	 "idArt" : "1089",
+	 "placeAut" : [ 
+		{ "place" : "Caen",
+		 "country" : "France",
+		 "location" : { "lat" :  49.182863, 
+			 "lon" : -0.37067899999999554 } }
+	 ]
+} 
+ 

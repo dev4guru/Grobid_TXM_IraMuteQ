@@ -1,0 +1,22 @@
+{
+"year": "2006",
+"metaSession": "8",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1000347",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1000347",
+"abstract": "Le choix du taux d'élagage est crucial dans le but d'acquérir une terminologiede qualité à partir de corpus de spécialité. Cet article présente uneétude expérimentale consistant à déterminer le taux d'élagage le plus adapté.Plusieurs mesures d'évaluation peuvent être utilisées pour déterminer ce tauxtels que la précision, le rappel et le Fscore. Cette étude s'appuie sur une autremesure d'évaluation qui semble particulièrement bien adaptée pour l'extractionde la terminologie : les courbes ROC (Receiver Operating Characteristics).",
+"title": "Choix du taux d'élagage pour l'extraction de la terminologie. Une approche fondée sur les courbes ROC",
+"placeAut":[{
+"place":"Orsay",
+"country":"France",
+"location":{
+	"lat":"48.697161",
+	"lon":"2.189617"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 50.62925, u'lon': 3.057256}",
+"place": "Lille",
+"booktitle": "EGC",
+"idArt": "784",
+"authors": "['Mathieu Roche','Yves Kodratoff']"
+}

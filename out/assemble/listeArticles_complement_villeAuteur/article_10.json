@@ -1,0 +1,9 @@
+{	 "idArt" : "10",
+	 "placeAut" : [ 
+		{ "place" : "Victoria",
+		 "country" : "Australia",
+		 "location" : { "lat" :  -37.4713077, 
+			 "lon" : 144.7851531 } }
+	 ]
+} 
+ 

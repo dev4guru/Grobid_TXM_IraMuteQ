@@ -1,0 +1,14 @@
+{	 "idArt" : "892",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "AEGC",
+	 "year" : "2005",
+	 "place" : "Paris",
+	 "location" : { "lat" :  48.856614, 
+		 "lon" : 2.3522219 }, 
+	 "title" : "Extraction non supervisée de motifs temporels, multidimensionnels et hétérogènes Application à la télésurveillance médicale à domicile",
+	 "abstract" : "Une méthode générique pour l'extraction non supervisée de motifs dans des séquences temporelles multidimensionnelles et hétérogènes est proposée, puis expérimentée pour l'identification des comportements récurrents d'une personne à domicile. L'objectif est de concevoir un système d'apprentissage des habitudes de vie, à partir des données de capteurs, pour la détection d'évolutions critiques à long terme.",
+	 "authors" : ["Florence Duchêne","Catherine Garbay","Vincent Rialle"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1000262" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1000262" 
+} 
+ 

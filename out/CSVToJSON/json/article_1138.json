@@ -1,0 +1,15 @@
+{
+"idArt": "1138",
+"series": "Revue des Nouvelles Technologies de l'Information",
+"booktitle": "EGC",
+"year": "2016",
+"title": "FODOMUST: une plateforme pour la fouille de données multistratégie multitemporelle",
+"abstract": "La plateforme FODOMUST 1 est une implantation concrète des méthodes,librairies et interfaces proposées au sein d'ICube. Elle intègre une versionmultisource de la méthode de classification collaborative multistratégie SAMARAH.Elle propose aussi un ensemble d'algorithmes de segmentation soitpropres à ICUBE soit faisant appel à l'OTB. Enfin, trois interfaces dédiées chacuneà un type de données différent permettent une interaction avec l'utilisateur.Sa principale originalité est qu'elle permet la classification, basée sur DTW (DynamicTimeWarping) de données temporelles symboliques ou numériques et deséries temporelles d'images",
+"authors": "Pierre Gançarski, Abdoul-Djawadou Salaou",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1002204",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1002204",
+"metaSession": "11",
+"place": "Reims",
+"Latitude": " 49.258363 ",
+"Longitude": "4.031730"
+}

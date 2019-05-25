@@ -1,0 +1,22 @@
+{
+"year": "2007",
+"metaSession": "5",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1001342",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1001342",
+"abstract": "La reconstruction de réseaux de gènes est un des défis majeurs de la post-génomique. A partir de données d'expression issues de puces à ADN, différentes techniques existent pour inférer des réseaux de gènes. Nous proposons dans ce papier une approche pour la visualisation de réseaux d'interactions entre gènes à partir de données d'expression. L'originalité de notre approche est de superposer des règles avec des sémantiques différentes au sein d'un même support visuel et de ne générer que les règles qui impliquent des gènes dits centraux. Ceux-ci sont spécifiés en amont par les experts et permettent de limiter la génération des règles aux seuls gènes qui intéressent les spécialistes. Une implémentation a été réalisée dans le logiciel libre MeV de l'institut TIGR.",
+"title": "Un outil pour la visualisation de relations entre gènes",
+"placeAut":[{
+"place":"Aubière",
+"country":"France",
+"location":{
+	"lat":"45.751175",
+	"lon":"3.110678"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 50.4673883, u'lon': 4.8719854}",
+"place": "Namur",
+"booktitle": "EGC",
+"idArt": "745",
+"authors": "['Jean-Marc Petit','Marie Agier']"
+}

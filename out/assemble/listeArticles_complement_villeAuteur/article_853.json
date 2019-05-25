@@ -1,0 +1,13 @@
+{	 "idArt" : "853",
+	 "placeAut" : [ 
+		{ "place" : "Tours",
+		 "country" : "France",
+		 "location" : { "lat" :  47.394144, 
+			 "lon" : 0.6848400000000083 } },
+		{ "place" : "Paris",
+		 "country" : "France",
+		 "location" : { "lat" :  48.856614, 
+			 "lon" : 2.3522219000000177 } }
+	 ]
+} 
+ 

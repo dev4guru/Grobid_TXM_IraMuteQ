@@ -1,0 +1,13 @@
+{	 "idArt" : "278",
+	 "placeAut" : [ 
+		{ "place" : "Covilhã",
+		 "country" : "Portugal",
+		 "location" : { "lat" :  40.2804158, 
+			 "lon" : -7.492240700000025 } },
+		{ "place" : "Orléans",
+		 "country" : "France",
+		 "location" : { "lat" :  47.902964, 
+			 "lon" : 1.9092510000000402 } }
+	 ]
+} 
+ 

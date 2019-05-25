@@ -1,0 +1,22 @@
+{
+"year": "2014",
+"metaSession": "4",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1001933",
+"pdfarticle": "",
+"abstract": "Trouver le nombre optimal de groupes dans le contexte d'un algorithmede clustering est un problème notoirement difficile. Dans cet article,nous en décrivons et évaluons une solution approchée dans le cas de l'algorithmespectral. Notre méthode présente l'avantage d'être déterministe, et peucoûteuse. Nous montrons qu'elle fonctionne de manière satisfaisante dans beaucoupde cas, même si quelques limites amènent des perspectives à ce travail.",
+"title": "Une heuristique pour le paramétrage automatique de l'algorithme de clustering spectral",
+"placeAut":[{
+"place":"Belvaux",
+"country":"Luxembourg",
+"location":{
+	"lat":"49.5095817",
+	"lon":"5.9221177"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 48.117266, u'lon': -1.6777926}",
+"place": "Rennes",
+"booktitle": "EGC",
+"idArt": "145",
+"authors": "['Pierrick Bruneau','Olivier Parisot','Philippe Pinheiro']"
+}

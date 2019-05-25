@@ -1,0 +1,9 @@
+{	 "idArt" : "1054",
+	 "placeAut" : [ 
+		{ "place" : "Bron",
+		 "country" : "France",
+		 "location" : { "lat" :  45.73331599999999, 
+			 "lon" : 4.9119269999999915 } }
+	 ]
+} 
+ 

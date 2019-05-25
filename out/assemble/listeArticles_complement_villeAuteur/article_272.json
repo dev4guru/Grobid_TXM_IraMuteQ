@@ -1,0 +1,13 @@
+{	 "idArt" : "272",
+	 "placeAut" : [ 
+		{ "place" : "Reims",
+		 "country" : "France",
+		 "location" : { "lat" :  49.258329, 
+			 "lon" : 4.031696000000011 } },
+		{ "place" : "Paris",
+		 "country" : "France",
+		 "location" : { "lat" :  48.856614, 
+			 "lon" : 2.3522219000000177 } }
+	 ]
+} 
+ 

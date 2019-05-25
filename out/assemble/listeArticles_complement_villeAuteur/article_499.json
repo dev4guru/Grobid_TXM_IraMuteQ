@@ -1,0 +1,17 @@
+{	 "idArt" : "499",
+	 "placeAut" : [ 
+		{ "place" : "L'Herbergement",
+		 "country" : "France",
+		 "location" : { "lat" :  46.9086659, 
+			 "lon" : -1.3776860000000397 } },
+		{ "place" : "Nantes",
+		 "country" : "France",
+		 "location" : { "lat" :  47.218371, 
+			 "lon" : -1.553621000000021 } },
+		{ "place" : "Suresnes",
+		 "country" : "France",
+		 "location" : { "lat" :  48.869798, 
+			 "lon" : 2.2190329999999676 } }
+	 ]
+} 
+ 

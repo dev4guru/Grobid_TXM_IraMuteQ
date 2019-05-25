@@ -1,0 +1,13 @@
+{	 "idArt" : "867",
+	 "placeAut" : [ 
+		{ "place" : "Tours",
+		 "country" : "France",
+		 "location" : { "lat" :  47.394144, 
+			 "lon" : 0.6848400000000083 } },
+		{ "place" : "Blois",
+		 "country" : "France",
+		 "location" : { "lat" :  47.58609209999999, 
+			 "lon" : 1.3359474999999748 } }
+	 ]
+} 
+ 

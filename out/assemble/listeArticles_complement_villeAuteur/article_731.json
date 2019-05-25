@@ -1,0 +1,13 @@
+{	 "idArt" : "731",
+	 "placeAut" : [ 
+		{ "place" : "Villiers-Lès-Nancy",
+		 "country" : "France",
+		 "location" : { "lat" :  48.67321800000001, 
+			 "lon" : 6.153496000000018 } },
+		{ "place" : "Villeurbanne",
+		 "country" : "France",
+		 "location" : { "lat" :  45.771944, 
+			 "lon" : 4.89017089999993 } }
+	 ]
+} 
+ 

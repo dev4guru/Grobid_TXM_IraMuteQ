@@ -1,0 +1,22 @@
+{
+"year": "2010",
+"metaSession": "6",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1001270",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1001270",
+"abstract": "Avec l'avènement d'applications sociales en entreprise (blogs, wikis,etc.), il est fréquent que des individus aux niveaux d'expertise relativement distantsse réunissent au sein de communautés en ligne. Ces disparités d'expertisese traduisent entre autres par des comportements différents dans la manière detagguer les contenus créés, notamment en ce qui concerne les termes utilisés,rendant ainsi complexe la découverte d'informations pourtant publiées. Dans cetarticle, nous mettons en avant la possibilité offerte par les technologies du WebSémantique, combinées avec les paradigmes du Web Social, de résoudre cetteproblématique. Nous proposons ainsi une chaine de traitement combinant ontologies,wikis sémantiques et indexation de contenus permettant la production degraphes sémantiques interconnectés et facilitant de cette manière la découvertede contenus créés au sein de tels systèmes",
+"title": "CombinerWeb 2.0 et Web Sémantique pour réduire les disparités d'expertise au sein de blogs d'entreprise",
+"placeAut":[{
+"place":"Galway",
+"country":"Ireland",
+"location":{
+	"lat":"53.270668",
+	"lon":"-9.0567905"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 36.4, u'lon': 10.616667}",
+"place": "Hammamet",
+"booktitle": "EGC",
+"idArt": "406",
+"authors": "['Alexandre Passant','Philippe Laublet']"
+}

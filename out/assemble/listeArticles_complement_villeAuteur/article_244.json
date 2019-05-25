@@ -1,0 +1,13 @@
+{	 "idArt" : "244",
+	 "placeAut" : [ 
+		{ "place" : "Lannion",
+		 "country" : "France",
+		 "location" : { "lat" :  48.732084, 
+			 "lon" : -3.4591440000000375 } },
+		{ "place" : "Kremlin Bicêtre",
+		 "country" : "France",
+		 "location" : { "lat" :  48.8097463, 
+			 "lon" : 2.3569965000000366 } }
+	 ]
+} 
+ 

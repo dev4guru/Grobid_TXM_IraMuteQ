@@ -1,0 +1,14 @@
+{	 "idArt" : "319",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2011",
+	 "place" : "Brest",
+	 "location" : { "lat" :  48.390394, 
+		 "lon" : -4.486076 }, 
+	 "title" : "Heuristique pour l'extraction de motifs ensemblistes bruités",
+	 "abstract" : "La recherche de motifs ensemblistes dans des matrices de données booléennes est une problématique importante dans un processus d'extraction de connaissances. Elle consiste à rechercher tous les rectangles de 1 dans une matrice de données à valeurs dans {0,1} dans lesquelles l'ordre des lignes et colonnes n'est pas important. Plusieurs algorithmes ont été développés pour répondre à ce problème, mais s'adaptent difficilement à des données réelles susceptibles de contenir du bruit. Un des effets du bruit est de pulvériser un motif pertinent en un ensemble de sous-motifs recouvrants et peu pertinents, entraînant une explosion du nombre de motifs résultats. Dans le cadre de ce travail, nous proposons une nouvelle approche heuristique basée sur les algorithmes de graphes pour la recherche de motifs ensemblistes dans des contextes binaires bruités. Pour évaluer notre approche, différents tests ont été réalisés sur des données synthétiques et des données réelles issues d'applications bioinformatiques.",
+	 "authors" : ["Céline Rouveirol","Lucas Létocart","Karima Mouhoubi"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1001002" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1001002" 
+} 
+ 

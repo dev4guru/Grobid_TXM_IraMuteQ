@@ -1,0 +1,22 @@
+{
+"year": "2006",
+"metaSession": "2",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1000401",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1000401",
+"abstract": "Nous présentons une nouvelle méthode d'induction d'arbre de décision appelée MuMTree (pour Multi Models Tree) utilisable pour les modes d'apprentissage supervisé, non supervisé, supervisé à plusieurs variables cibles. Nous présentons les différents principes nécessaires pour réaliser un tel arbre de décision. Nous illustrons ensuite, sur un cas de modélisation multi-cibles, les avantages de cette méthode par rapport à un arbre de décision classique.",
+"title": "Arbres de décision multi modes et multi cibles.",
+"placeAut":[{
+"place":"Lannion",
+"country":"France",
+"location":{
+	"lat":"48.732084",
+	"lon":"-3.459144"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 50.62925, u'lon': 3.057256}",
+"place": "Lille",
+"booktitle": "EGC",
+"idArt": "778",
+"authors": "['Frank Meyer','Fabrice Clérot']"
+}

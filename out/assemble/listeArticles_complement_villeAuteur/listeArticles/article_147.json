@@ -1,0 +1,13 @@
+{	 "idArt" : "147",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2014",
+	 "place" : "Rennes",
+	 "location" : { "lat" :  48.117266, 
+		 "lon" : -1.6777926 }, 
+	 "title" : "Une méthode pour caractériser les communautés des réseaux dynamiques à attributs",
+	 "abstract" : "De nombreux systèmes complexes sont étudiés via l'analyse de réseauxdits complexes ayant des propriétés topologiques typiques. Parmi cellesci,les structures de communautés sont particulièrement étudiées. De nombreusesméthodes permettent de les détecter, y compris dans des réseaux contenant desattributs nodaux, des liens orientés ou évoluant dans le temps. La détection prendla forme d'une partition de l'ensemble des noeuds, qu'il faut ensuite caractériserrelativement au système modélisé. Nous travaillons sur l'assistance à cettetâche de caractérisation. Nous proposons une représentation des réseaux sous laforme de séquences de descripteurs de noeuds, qui combinent les informationstemporelles, les mesures topologiques, et les valeurs des attributs nodaux. Lescommunautés sont caractérisées au moyen des motifs séquentiels émergents lesplus représentatifs issus de leurs noeuds. Ceci permet notamment la détectionde comportements inhabituels au sein d'une communauté. Nous décrivons uneétude empirique sur un réseau de collaboration scientifique.",
+	 "authors" : ["Gu&#776;nce Keziban Orman","Vincent Labatut","Marc Plantevit","Jean-François Boulicaut"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1001919" 
+} 
+ 

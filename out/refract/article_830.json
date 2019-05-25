@@ -1,0 +1,22 @@
+{
+"year": "2006",
+"metaSession": "1",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1000330",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1000330",
+"abstract": "Nos travaux visent à proposer une mémoire d'expertises décisionnellespermettant de conserver et de manipuler non seulement les données décisionnellesmais aussi l'expertise analytique des décideurs. Les données décisionnellessont représentées au travers de concepts multidimensionnels etl'expertise associée est matérialisée grâce au concept d'annotation",
+"title": "Modèle conceptuel pour bases de données multidimensionnelles annotées",
+"placeAut":[{
+"place":"Toulouse",
+"country":"France",
+"location":{
+	"lat":"43.604652",
+	"lon":"1.444209"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 50.62925, u'lon': 3.057256}",
+"place": "Lille",
+"booktitle": "EGC",
+"idArt": "830",
+"authors": "['Guillaume Cabanac','Max Chevalier','Franck Ravat','Olivier Teste']"
+}

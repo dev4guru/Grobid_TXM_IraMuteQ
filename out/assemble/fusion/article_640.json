@@ -1,0 +1,22 @@
+{
+"year": "2008",
+"metaSession": "3",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1000640",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1000640",
+"abstract": "Un large panel de domaines d'application utilise des réseaux de capteurs géoréférencés pour mesurer divers évènements. Les séries temporelles fournies par ces réseaux peuvent être utilisées dans le but de dégager des connaissances sur les relations spatio-temporelles de l'activité mesurée. Dans cet article, nous proposons une méthode permettant d'abord de détecter des situations atypiques (au sens de l'occurrence) puis de construire des motifs spatio-temporels relatant leur propagation sur un réseau. Le cas étudié est celui du trafic routier urbain. Notre raisonnement se fonde sur l'application de la méthode Space-Time Principal Component Analysis (STPCA) et de la combinaison entre l'information mutuelle et l'algorithme Isomap. Les résultats expérimentaux exécutés sur des données réelles de trafic routier démontrent l'efficacité de la méthode introduite à identifier la propagation de cas atypiques fournissant ainsi un outil performant de prédiction de la circulation intraday à court et moyen terme.",
+"title": "Recherche de motifs spatio-temporels de cas atypiques pour le trafic routier urbain",
+"placeAut":[{
+"place":"Chatenay-Malabry",
+"country":"France",
+"location":{
+	"lat":"48.771896",
+	"lon":"2.270748"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 43.6163539, u'lon': 7.0552218}",
+"place": "Sophia Antipolis",
+"booktitle": "EGC ",
+"idArt": "640",
+"authors": "['Marc Joliveau','Florian De Vuyst']"
+}

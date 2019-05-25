@@ -1,0 +1,22 @@
+{
+"year": "2005",
+"metaSession": "",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1000298",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1000298",
+"abstract": "L'objectif de cet article est de présenter un travail en cours quiconsiste à proposer, implanter et valider expérimentalement un modèle pourestimer le coût d'un processus de nettoyage de documents XML. Notreapproche de calcul de coût est basée sur une méthode par calibration selon uneanalyse probabiliste. Pour cela, nous proposons de calculer des probabilités depollution et au préalable de détection des différents types de pollutions. Pourvalider notre modèle, nous avons choisi de polluer artificiellement unecollection de données XML avec l'ensemble des types d'erreurs possibles(erreurs typographiques, ajout de doublons, de valeurs manquantes, tronquées,censurées, etc.) et d'estimer, grâce au modèle proposé, le nombre et le coût desopérations nécessaires au nettoyage des données afin de proposer des stratégiesde réparation ciblées et économes. Les expérimentations en cours ne sont pasrapportées dans cet article.",
+"title": "Nettoyage des données XML : combien ça coûte ?",
+"placeAut":[{
+"place":"Rennes",
+"country":"France",
+"location":{
+	"lat":"48.117266",
+	"lon":"-1.6777926"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 48.856614, u'lon': 2.3522219}",
+"place": "Paris",
+"booktitle": "AEGC",
+"idArt": "912",
+"authors": "Laure Berti-Equille"
+}

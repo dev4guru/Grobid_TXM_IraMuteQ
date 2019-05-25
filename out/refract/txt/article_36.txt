@@ -1,0 +1,1 @@
+Dans cet article nous présentons une approche de fusion de données fondée sur l'utilisation d'informations sur la qualité des données pour résoudre les éventuels conflits entre valeurs.

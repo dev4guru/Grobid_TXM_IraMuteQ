@@ -1,0 +1,13 @@
+{	 "idArt" : "1018",
+	 "placeAut" : [ 
+		{ "place" : "Lausanne",
+		 "country" : "Suisse",
+		 "location" : { "lat" :  46.5199617, 
+			 "lon" : 6.6335970999999745 } },
+		{ "place" : "Tunis",
+		 "country" : "Tunisie",
+		 "location" : { "lat" :  36.8064948, 
+			 "lon" : 10.181531599999971 } }
+	 ]
+} 
+ 

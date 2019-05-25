@@ -1,0 +1,9 @@
+{	 "idArt" : "1000",
+	 "placeAut" : [ 
+		{ "place" : "Villeurbanne",
+		 "country" : "France",
+		 "location" : { "lat" :  45.771944, 
+			 "lon" : 4.89017089999993 } }
+	 ]
+} 
+ 

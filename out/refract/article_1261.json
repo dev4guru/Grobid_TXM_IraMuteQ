@@ -1,0 +1,15 @@
+{
+"idArt": "1261",
+"series": "Revue des Nouvelles Technologies de l'Information",
+"booktitle": "EGC",
+"year": "2018",
+"title": "A two level co-clustering algorithm for very large data sets",
+"abstract": "La classification croisée (co-clustering) est une technique qui permet d'extraire la structuresous-jacente existante entre les lignes et les colonnes d'une table de données sous forme de blocs. Plusieurs applications utilisent cette technique, cependant de nombreux algorithmes de co-clustering actuels ne passent pas à l'échelle. Une des approches utilisées avec succès est la méthode MODL, qui optimise un critère de vraisemblance régularisée. Cependent, pour des tailles plus importante, cette méthode atteint sa limite. Dans cet article, nous présentons un nouvel algorithme de co-clustering à deux niveaux, qui compte tenu du critère MODL permet de traiter efficacement de données de très grande taille, ne pouvant pas tenir en mémoire. Nos expériences montrent que l'approche proposée gagne en temps de calcul tout en produisant des solutions de qualité.",
+"authors": "Marius Barctus, Marc Boullé, Fabrice Clérot",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1002372",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1002372",
+"metaSession": "8",
+"place": "Paris",
+"Latitude": " 48.8535 ",
+"Longitude": "2.3489"
+}

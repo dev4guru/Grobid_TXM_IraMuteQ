@@ -1,0 +1,15 @@
+{
+"idArt": "1324",
+"series": "Revue des Nouvelles Technologies de l'Information",
+"booktitle": "EGC",
+"year": "2018",
+"title": "Un modèle Bayésien de co-clustering de données mixtes",
+"abstract": "Nous proposons un modèle de co-clustering de données mixtes et uncritère Bayésien de sélection du meilleur modèle. Le modèle infère automatiquementles discrétisations optimales de toutes les variables et effectue un coclusteringen minimisant un critère Bayésien de sélection de modèle. Un avantagede cette approche est qu'elle ne nécessite aucun paramètre utilisateur. Deplus, le critère proposé mesure de façon exacte la qualité d'un modèle tout enétant régularisé. L'optimisation de ce critère permet donc d'améliorer continuellementles modèles trouvés sans pour autant sur-apprendre les données. Les expériencesréalisées sur des données réelles montrent l'intérêt de cette approchepour l'analyse exploratoire des grandes bases de données.",
+"authors": "Aichetou Bouchareb, Marc Boullé, Fabrice Rossi, Fabrice Clérot",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1002388",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1002388",
+"metaSession": "2",
+"place": "Paris",
+"Latitude": " 48.8598 ",
+"Longitude": "2.3552"
+}

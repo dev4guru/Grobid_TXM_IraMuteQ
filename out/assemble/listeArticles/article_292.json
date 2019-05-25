@@ -1,0 +1,14 @@
+{	 "idArt" : "292",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2011",
+	 "place" : "Brest",
+	 "location" : { "lat" :  48.390394, 
+		 "lon" : -4.486076 }, 
+	 "title" : "Cartes cognitives : une exploitation à base d'échelle, vue et profil",
+	 "abstract" : "Une carte cognitive est un réseau d'influences entre différents concepts. Le modèle des cartes cognitives permet à un utilisateur de calculer l'influence entre deux concepts. Les cartes cognitives contenant un grand nombre de concepts et d'influences sont difficiles à comprendre. Cet article introduit la notion de carte cognitive ontologique qui associe une ontologie à une carte cognitive classique pour en organiser les concepts. Afin de faciliter la compréhension d'une carte, l'utilisateur peut obtenir une vue de cette carte la simplifiant selon une échelle qu'il aura choisie. Un profil peut être créé pour construire des vues correspondant aux objectifs d'un type d'utilisateur. Si une carte est manipulée par différents utilisateurs, leurs profils combinés permettent de construire une vue partagée.",
+	 "authors" : ["Lionel Chauvin","David Genest","Aymeric Le Dorze","Stéphane Loiseau"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1001008" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1001008" 
+} 
+ 

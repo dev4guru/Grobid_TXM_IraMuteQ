@@ -1,0 +1,22 @@
+{
+"year": "2006",
+"metaSession": "8",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1000350",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1000350",
+"abstract": "Nous présentons ici un système d'extraction et d'identification d'entitésnommées complexes à l'intention des corpus de spécialité biomédicale. Nousavons développé une méthode qui repose sur une approche mixte à base d'ensemblede règles a priori et de dictionnaires contrôlés. Cet article expose lestechniques que nous avons mises en place pour éviter ou minimiser les problèmesde synonymie, de variabilité des termes et pour limiter la présence denoms ambigus. Nous décrivons l'intégration de ces méthodes au sein du processusde reconnaissance des entités nommées. L'intérêt de cet outil réside dans lacomplexité et l'hétérogénéité des entités extraites. Cette méthode ne se limitepas à la détection des noms des gènes ou des protéines, mais s'adapte à d'autresdescripteurs biomédicaux. Nous avons expérimenté cette approche en mesurantles performances obtenues sur le corpus de référence GENIA.",
+"title": "Extraction et identification d'entités complexes à partir de textes biomédicaux",
+"placeAut":[{
+"place":"Nantes",
+"country":"France",
+"location":{
+	"lat":"47.218371",
+	"lon":"-1.553621"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 50.62925, u'lon': 3.057256}",
+"place": "Lille",
+"booktitle": "EGC",
+"idArt": "813",
+"authors": "['Julien Lorec','Gérard Ramstein','Yannick Jacques']"
+}

@@ -1,0 +1,14 @@
+{	 "idArt" : "773",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2006",
+	 "place" : "Lille",
+	 "location" : { "lat" :  50.62925, 
+		 "lon" : 3.057256 }, 
+	 "title" : "Analyse du Comportement des utilisateurs exploitant une base de données vidéo",
+	 "abstract" : "Dans cet article, nous présentons un modèle de fouille des usages dela vidéo pour améliorer la qualité de l'indexation. Nous proposons une approchebasée sur un modèle à deux niveaux représentant le comportement des utilisateursexploitant un moteur de recherche vidéo. Le premier niveau consiste àmodéliser le comportement lors de la lecture d'une vidéo unique (comportementintra vidéo), le second à modéliser le comportement sur l'ensemble d'une session(comportement inter video). A partir de cette représentation, nous avonsdéveloppé un algorithme de regroupement, adapté à la nature particulière de cesdonnées. L'analyse des usages de la vidéo nous permet d'affiner l'indexationvidéo sur la base de l'intérêt des utilisateurs.",
+	 "authors" : ["Sylvain Mongy"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1000376" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1000376" 
+} 
+ 

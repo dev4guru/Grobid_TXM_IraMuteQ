@@ -1,0 +1,1 @@
+Ce programme effectue une segmentation en phrases d'un texte. Contrairement aux procédures classiques, nous n'utilisons pas d'annotations préliminaires et tirons parti d'un apprentissage guidé par l'utilisateur.

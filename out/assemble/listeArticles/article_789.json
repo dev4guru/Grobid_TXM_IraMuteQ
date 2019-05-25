@@ -1,0 +1,14 @@
+{	 "idArt" : "789",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2006",
+	 "place" : "Lille",
+	 "location" : { "lat" :  50.62925, 
+		 "lon" : 3.057256 }, 
+	 "title" : "Classifications hiérarchiques factorielles de variables",
+	 "abstract" : "On présente deux méthodes de classification hiérarchique ascendantede variables quantitatives et de fréquences. Chaque noeud de ces hiérarchiesregroupe deux classes de variables à partir d'une analyse factorielle particulièrebasée sur les variables représentatives de ces deux classes. Par cette méthode,on dispose, à chaque pas, d'un plan factoriel permettant de représenter àla fois les variables des deux classes fusionnées et l'ensemble des individus.Ces derniers se positionnent dans ce plan suivant leurs valeurs pour les variablesconsidérées. Ainsi, l'interprétation des noeuds obtenus s'effectue facilementà partir de l'examen de ces représentations factorielles. La répartition desindividus observée dans chacun de ces plans factoriels permet également dedéfinir une segmentation des individus en total accord avec la hiérarchie desvariables obtenues. On montre le fonctionnement des méthodes sur des exemplesréels.",
+	 "authors" : ["Sergio Camiz","Jean-Jacques Denimal "],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1000374" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1000374" 
+} 
+ 

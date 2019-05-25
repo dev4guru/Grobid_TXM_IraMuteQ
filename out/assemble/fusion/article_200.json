@@ -1,0 +1,22 @@
+{
+"year": "2013",
+"metaSession": "4",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1001824",
+"pdfarticle": "",
+"abstract": "Dans le contexte de la fouille de données multi-tables, les données sont représentées sous un format relationnel dans lequel les individus de la table cible sont potentiellement liés à plusieurs enregistrements dans des tables secondaires en relation un-à-plusieurs. Dans cet article, nous proposons un Framework basé sur des itemsets pour la construction de variables à partir des tables secondaires. L'informativité de ces nouvelles variables est évaluée dans le cadre de la classification supervisée au moyen d'un critère régularisé qui vise à éviter le surapprentissage. Pour ce faire, nous introduisons un espace de modèles basés sur des itemsets dans la table secondaire ainsi qu'une estimation de la densité conditionnelle des variables construites correspondantes. Une distribution a priori est définie sur cet espace de modèles, pour obtenir ainsi un critère sans paramètres permettant d'évaluer la pertinence des variables construites. Des expérimentations préliminaires montrent la pertinence de l'approche.",
+"title": "Un Critère d'évaluation pour la construction de variables à base d'itemsets pour l'apprentissage supervisé multi-tables",
+"placeAut":[{
+"place":"Lannion",
+"country":"France",
+"location":{
+	"lat":"48.732084",
+	"lon":"-3.459144"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 43.604652, u'lon': 1.444209}",
+"place": "Toulouse",
+"booktitle": "EGC",
+"idArt": "200",
+"authors": "['Dhafer Lahbib','Marc Boullé','Dominique Laurent']"
+}

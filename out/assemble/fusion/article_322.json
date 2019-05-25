@@ -1,0 +1,22 @@
+{
+"year": "2011",
+"metaSession": "",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1000969",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1000969",
+"abstract": "",
+"title": "Interprétation graphique de la courbe ROC",
+"placeAut":[{
+"place":"Caen",
+"country":"France",
+"location":{
+	"lat":"49.182863",
+	"lon":"-0.370679"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 48.390394, u'lon': -4.486076}",
+"place": "Brest",
+"booktitle": "EGC",
+"idArt": "322",
+"authors": "François Rioult"
+}

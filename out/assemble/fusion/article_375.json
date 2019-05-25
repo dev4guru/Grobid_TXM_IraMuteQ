@@ -1,0 +1,22 @@
+{
+"year": "2011",
+"metaSession": "6",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1001005",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1001005",
+"abstract": "La croissance exponentielle des données engendre des volumétries de bases de données très importantes. Une solution couramment envisagée est l'utilisation d'une description condensée des propriétés et de la structure des données. De ce fait, il devient crucial de disposer d'outils de visualisation capables de représenter la structure des données, non pas à partir des données elles mêmes, mais à partir de ces descriptions condensées. Nous proposons une méthode de description des données à partir de prototypes enrichis puis segmentés à l'aide d'un algorithme adapté de classification non supervisée. Nous introduisons ensuite un procédé de visualisation capable de mettre en valeur la structure intra et inter-groupes des données.",
+"title": "Visualisation de l'intra et inter structure des groupes en classification non supervisée",
+"placeAut":[{
+"place":"Villetaneuse",
+"country":"France",
+"location":{
+	"lat":"48.963476",
+	"lon":"2.347354"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 48.390394, u'lon': -4.486076}",
+"place": "Brest",
+"booktitle": "EGC",
+"idArt": "375",
+"authors": "['Guénaël Cabanes','Younès Bennani']"
+}

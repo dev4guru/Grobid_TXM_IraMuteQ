@@ -1,0 +1,15 @@
+{
+"idArt": "1177",
+"series": "Revue des Nouvelles Technologies de l'Information",
+"booktitle": "EGC",
+"year": "2016",
+"title": "Un protocole d'expérimentation sur les propriétés graphémiques avec l'algorithme SOM",
+"abstract": "Nous présentons une recherche sur la distribution et la classificationnon-supervisée des graphèmes. Nous visons à réduire l'écart entre les résultatsde recherches récentes qui montrent la capacité des algorithmes d'apprentissageet de classification non-supervisée pour détecter les propriétés de phonèmes, etles possibilités actuelles de la représentation textuelle d'Unicode. Nos procéduresdoivent assurer la reproductibilité des expériences et garantir que l'informationrecherchée n'est pas implicitement présente dans le pré-traitement desdonnées. Notre approche est capable de catégoriser correctement de potentielsgraphèmes, ce qui montre que les propriétés phonologiques sont présentes dansles données textuelles, et peuvent être automatiquement extraites à partir desdonnées textuelles brutes en Unicode, sans avoir besoin de les traduire en représentationsphonologiques.",
+"authors": "Otman Manad, Nourredine Aliane, Gilles Bernard",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1002160",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1002160",
+"metaSession": "2",
+"place": "Reims",
+"Latitude": " 49.258402 ",
+"Longitude": "4.031769"
+}

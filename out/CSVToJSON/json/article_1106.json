@@ -1,0 +1,15 @@
+{
+"idArt": "1106",
+"series": "Revue des Nouvelles Technologies de l'Information",
+"booktitle": "EGC",
+"year": "2016",
+"title": "Analyse d'activité et exposition de la vie privée sur les médias sociaux",
+"abstract": "Anonymous use of Social network do not prevent users from privacy risks resulting frominfering and cross-checking information published by themselves or their relationhips. Withthis in mind we have conducted a survey in order to measure sensitiveness of personal datapublished on social media and to analyze the users behaviors. We have shown that 76 %of internet users that have answered the survey are vulnerable to identity or sensitive datadisclosure. Our study is completed by the description of an automatic procedure that showshow easily these vulnerabilities can be exploited and motivates the need for more advancedprotection mechanisms.",
+"authors": "Younes Abid, Abdessamad Imine, Amedeo Napoli, Chedy Raïssi, Marc Rigolot, Michaël Rusinowitch",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1002223",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1002223",
+"metaSession": "11",
+"place": "Reims",
+"Latitude": " 49.258331 ",
+"Longitude": "4.031698"
+}

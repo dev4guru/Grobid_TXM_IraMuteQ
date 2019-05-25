@@ -1,0 +1,1 @@
+Nos travaux visent à proposer une mémoire d'expertises décisionnellespermettant de conserver et de manipuler non seulement les données décisionnellesmais aussi l'expertise analytique des décideurs. Les données décisionnellessont représentées au travers de concepts multidimensionnels etl'expertise associée est matérialisée grâce au concept d'annotation

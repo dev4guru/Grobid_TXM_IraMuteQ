@@ -1,0 +1,13 @@
+{	 "idArt" : "16",
+	 "placeAut" : [ 
+		{ "place" : "Paris",
+		 "country" : "France",
+		 "location" : { "lat" :  48.856614, 
+			 "lon" : 2.3522219000000177 } },
+		{ "place" : "Angers",
+		 "country" : "France",
+		 "location" : { "lat" :  47.478419, 
+			 "lon" : -0.5631660000000238 } }
+	 ]
+} 
+ 

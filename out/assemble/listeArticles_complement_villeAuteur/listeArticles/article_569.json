@@ -1,0 +1,14 @@
+{	 "idArt" : "569",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2009",
+	 "place" : "Strasbourg",
+	 "location" : { "lat" :  48.5734053, 
+		 "lon" : 7.752111299999999 }, 
+	 "title" : "Vers la simulation et la détection des changements des données évolutives d'usage du Web",
+	 "abstract" : "Dans le domaine des flux des données, la prise en compte du tempss'avère nécessaire pour l'analyse de ces données car leur distribution sous-jacentepeut changer au cours du temps. Un exemple typique concerne les modèles desprofils de navigation des internautes. Notre objectif est d'analyser l'évolutionde ces profils, celle-ci peut être liée au changement d'effectifs ou aux déplacementde clusters au cours du temps. Afin d'analyser la validité de notre approche,nous mettons en place uneméthodologie pour la simulation des données d'usageà partir de laquelle il est possible de contrôler l'occurrence des changements",
+	 "authors" : ["Alzennyr Da Silva","Yves Lechevallier","Francisco de Assis Tenório de Carvalho"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1000800" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1000800" 
+} 
+ 

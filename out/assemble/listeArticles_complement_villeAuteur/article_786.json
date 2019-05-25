@@ -1,0 +1,17 @@
+{	 "idArt" : "786",
+	 "placeAut" : [ 
+		{ "place" : "Skikda",
+		 "country" : "Algérie",
+		 "location" : { "lat" :  36.866667, 
+			 "lon" : 6.899999999999977 } },
+		{ "place" : "Constantine",
+		 "country" : "Algérie",
+		 "location" : { "lat" :  36.35, 
+			 "lon" : 6.600000000000023 } },
+		{ "place" : "Rennes",
+		 "country" : "France",
+		 "location" : { "lat" :  48.117266, 
+			 "lon" : -1.6777925999999752 } }
+	 ]
+} 
+ 

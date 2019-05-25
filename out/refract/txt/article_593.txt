@@ -1,0 +1,1 @@
+Dans nombre d'applications, les données présentent un déséquilibre entre les classes. La prédiction est alors souvent détériorée pour la classe minoritaire. Pour contourner cela, nous proposons un échantillonnage guidé, lors des itérations successives d'une forêt aléatoire, par les besoins de l'utilisateur.

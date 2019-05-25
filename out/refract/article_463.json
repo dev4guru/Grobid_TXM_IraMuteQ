@@ -1,0 +1,22 @@
+{
+"year": "2010",
+"metaSession": "3",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1001301",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1001301",
+"abstract": "Lorsque le volume des données est trop important pour qu'elles soient stockéesdans une base de données, ou lorsque leur fréquence de production est élevée, les Systèmesde Gestion de Flux de Données (SGFD) permettent de capturer des flux d'enregistrementsstructurés et de les interroger à la volée par des requêtes permanentes (exécutées de façoncontinue). Mais les SGFD ne conservent pas l'historique des flux qui est perdu à jamais.Cette communication propose une définition formelle de ce que devrait être un résumé généralistede flux de données. La notion de résumé généraliste est liée à la capacité de répondreà des requêtes variées et de réaliser des tâches variées de fouille de données, en utilisant lerésumé à la place du flux d'origine. Une revue de plusieurs approches de résumés est ensuiteréalisée dans le cadre de cette définition.",
+"title": "Résumé généraliste de flux de données",
+"placeAut":[{
+"place":"Paris",
+"country":"France",
+"location":{
+	"lat":"48.856614",
+	"lon":"2.3522219"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 36.4, u'lon': 10.616667}",
+"place": "Hammamet",
+"booktitle": "EGC",
+"idArt": "463",
+"authors": "['Christine Potier','Georges Hébrail']"
+}

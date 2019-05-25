@@ -1,0 +1,13 @@
+{	 "idArt" : "412",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2010",
+	 "place" : "Hammamet",
+	 "location" : { "lat" :  36.4, 
+		 "lon" : 10.616667 }, 
+	 "title" : "DaFOE: une plateforme pour construire des ontologies à partir de textes et de thésaurus",
+	 "authors" : ["Jean Charlet","Sylvie Szulman","Nathalie Aussenac-Gilles","Adeline Nazarenko","Nathalie Hernandez","Nadia Nadah","Éric Sardet","Jean Delahousse","Valery Teguiak","Audrey Baneyx"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1001386" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1001386" 
+} 
+ 

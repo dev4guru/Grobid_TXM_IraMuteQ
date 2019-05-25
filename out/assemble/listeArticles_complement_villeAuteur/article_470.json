@@ -1,0 +1,13 @@
+{	 "idArt" : "470",
+	 "placeAut" : [ 
+		{ "place" : "Bidart",
+		 "country" : "France",
+		 "location" : { "lat" :  43.439236, 
+			 "lon" : -1.590061999999989 } },
+		{ "place" : "Bordeaux",
+		 "country" : "France",
+		 "location" : { "lat" :  44.837789, 
+			 "lon" : -0.5791799999999512 } }
+	 ]
+} 
+ 

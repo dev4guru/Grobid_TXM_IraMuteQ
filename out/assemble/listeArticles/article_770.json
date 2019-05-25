@@ -1,0 +1,14 @@
+{	 "idArt" : "770",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2006",
+	 "place" : "Lille",
+	 "location" : { "lat" :  50.62925, 
+		 "lon" : 3.057256 }, 
+	 "title" : "Algorithme semi-interactif pour la sélection de dimensions",
+	 "abstract" : "Nous présentons un algorithme génétique semi-interactif de sélectionde dimensions dans les grands ensembles de données pour la détectiond'individus atypiques (outliers). Les ensembles de données possédant unnombre élevé de dimensions posent de nombreux problèmes aux algorithmesde fouille de données, une solution est d'effectuer un pré-traitement afin de neretenir que les dimensions intéressantes. Nous utilisons un algorithmegénétique pour le choix du sous-ensemble de dimensions à retenir. Par ailleursnous souhaitons donner un rôle plus important à l'utilisateur dans le processusde fouille, nous avons donc développé un algorithme génétique semi-interactifoù l'évaluation des solutions n'élimine pas complètement la fonctiond'évaluation mais la couple avec une évaluation de l'utilisateur. Enfin,l'importante réduction du nombre de dimensions nous permet de visualiser lesrésultats de l'algorithme de détection d'outlier. Cette visualisation permet àl'expert des données d'étiqueter les éléments atypiques (erreurs ou simplementdes individus différents de la masse).",
+	 "authors" : ["Lydia Boudjeloud","François Poulet"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1000366" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1000366" 
+} 
+ 

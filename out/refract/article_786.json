@@ -1,0 +1,22 @@
+{
+"year": "2006",
+"metaSession": "1",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1000346",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1000346",
+"abstract": "Dans cet article, nous proposons un système de classification descomptes-rendus mammographiques, reposant sur une ontologie radiologiquedécrivant les signes radiologiques et les différentes classes de la classificationACR des systèmes BIRADS dans le langage OWL. Le système est conçu pour,extraire les faits issus des textes libres de comptes-rendus en étant dirigé parl'ontologie, puis inférer la classe correspondante et en déduire l'attitude à tenirà partir de la classification ACR. Ce travail présente la construction d'une ontologieradiologique mammaire dans le langage OWL et son intérêt pour classerautomatiquement les comptes-rendus de mammographies.",
+"title": "Classification des comptes-rendus mammographiques à partir d'une ontologie radiologique en OWL",
+"placeAut":[{
+"place":"Skikda",
+"country":"Algérie",
+"location":{
+	"lat":"36.866667",
+	"lon":"6.9"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 50.62925, u'lon': 3.057256}",
+"place": "Lille",
+"booktitle": "EGC",
+"idArt": "786",
+"authors": "['Amel Boustil','Zaïdi Sahnoun','Ziad Mansouri','Christine Golbreich']"
+}

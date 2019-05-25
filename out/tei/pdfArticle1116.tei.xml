@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/josuah/Bureau/grobid/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="fr">
+		<encodingDesc>
+			<appInfo>
+				<application version="0.5.5-SNAPSHOT" ident="GROBID" when="2019-04-04T12:42+0000">
+					<ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Clustering par apprentissage de distance guidé par des préférences sur les attributs</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Adnan</forename><forename type="middle">El</forename><surname>Moussawi</surname></persName>
+							<email>aelmoussawi@kalidea.com</email>
+							<affiliation key="aff0">
+								<orgName type="department">Groupe Kalidea</orgName>
+								<orgName type="institution">Université François Rabelais de Tours</orgName>
+								<address>
+									<addrLine>3 place Jean Jaures, 47 rue de l&apos;Est</addrLine>
+									<postCode>41000, 92774</postCode>
+									<settlement>Blois, Boulogne-Billancourt Cedex</settlement>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Ahmed</forename><surname>Cheriat</surname></persName>
+							<email>acheriat@kalidea.com</email>
+							<affiliation key="aff0">
+								<orgName type="department">Groupe Kalidea</orgName>
+								<orgName type="institution">Université François Rabelais de Tours</orgName>
+								<address>
+									<addrLine>3 place Jean Jaures, 47 rue de l&apos;Est</addrLine>
+									<postCode>41000, 92774</postCode>
+									<settlement>Blois, Boulogne-Billancourt Cedex</settlement>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Arnaud</forename><surname>Giacometti</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Groupe Kalidea</orgName>
+								<orgName type="institution">Université François Rabelais de Tours</orgName>
+								<address>
+									<addrLine>3 place Jean Jaures, 47 rue de l&apos;Est</addrLine>
+									<postCode>41000, 92774</postCode>
+									<settlement>Blois, Boulogne-Billancourt Cedex</settlement>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Nicolas</forename><surname>Labroche</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Groupe Kalidea</orgName>
+								<orgName type="institution">Université François Rabelais de Tours</orgName>
+								<address>
+									<addrLine>3 place Jean Jaures, 47 rue de l&apos;Est</addrLine>
+									<postCode>41000, 92774</postCode>
+									<settlement>Blois, Boulogne-Billancourt Cedex</settlement>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Arnaud</forename><surname>Soulet</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Groupe Kalidea</orgName>
+								<orgName type="institution">Université François Rabelais de Tours</orgName>
+								<address>
+									<addrLine>3 place Jean Jaures, 47 rue de l&apos;Est</addrLine>
+									<postCode>41000, 92774</postCode>
+									<settlement>Blois, Boulogne-Billancourt Cedex</settlement>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Clustering par apprentissage de distance guidé par des préférences sur les attributs</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<abstract>
+				<p>Ces dernières années de nombreuses méthodes semi-supervisées de clustering ont intégré des contraintes entre paires d&apos;objets ou d&apos;étiquettes de classe, afin que le partitionnement final soit en accord avec les besoins de l&apos;uti-lisateur. Pourtant dans certains cas où les dimensions d&apos;études sont clairement définies, il semble opportun de pouvoir directement exprimer des contraintes sur les attributs pour explorer des données. De plus, une telle formulation per-mettrait d&apos;éviter les écueils classiques de la malédiction de la dimensionnalité et de l&apos;interprétation des clusters. Cet article propose de prendre en compte les préférences de l&apos;utilisateur sur les attributs afin de guider l&apos;apprentissage de la distance pendant le clustering. Plus précisément, nous montrons comment pa-ramétrer la distance euclidienne par une matrice diagonale dont les coefficients doivent être au plus proche des poids fixés par l&apos;utilisateur. Cette approche per-met d&apos;ajuster le clustering pour obtenir un compromis entre les approches gui-dées par les données et par l&apos;utilisateur. Nous observons que l&apos;ajout des préfé-rences est parfois essentiel pour atteindre un clustering de meilleure qualité.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="fr">
+	</text>
+</TEI>

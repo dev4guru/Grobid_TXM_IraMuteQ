@@ -1,0 +1,13 @@
+{	 "idArt" : "78",
+	 "placeAut" : [ 
+		{ "place" : "Louvain-la-Neuve",
+		 "country" : "Belgique",
+		 "location" : { "lat" :  50.66808100000001, 
+			 "lon" : 4.611832400000026 } },
+		{ "place" : "Bruxelles",
+		 "country" : "Belgique",
+		 "location" : { "lat" :  50.8503396, 
+			 "lon" : 4.351710300000036 } }
+	 ]
+} 
+ 

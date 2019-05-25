@@ -1,0 +1,22 @@
+{
+"year": "2005",
+"metaSession": "2",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1000219",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1000219",
+"abstract": "Cet article concerne la découverte de signatures (ou modèles de chroniques) à partir d'une séquence d'événements discrets (alarmes) générée par un agent cognitif de surveillance (Monitoring Cognitive Agent ou MCA).Considérant un couple (Processus, MCA) comme un générateur stochastique d'événements discrets, deux représentations complémentaires permettent de caractériser les propriétés stochastiques et temporelles d'un tel générateur : une chaîne de Markov à temps continu et une superposition de processus de Poisson. L'étude de ces deux représentations duales permet de découvrir des signatures décrivant les relations stochastiques et temporelles entre événements dans une séquence. Ces signatures peuvent alors être utilisées pour reconnaître des comportements spécifiques, comme le montre l'application de l'approche à un outil de production industriel piloté par un système Sachem, le MCA développé et utilisé par le groupe Arcelor pour aider au pilotage de ses outils de production.",
+"title": "Analyse stochastique de séquences d'événements discrets pour la découverte de signatures",
+"placeAut":[{
+"place":"Marseille",
+"country":"France",
+"location":{
+	"lat":"43.296482",
+	"lon":"5.36978"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 48.856614, u'lon': 2.3522219}",
+"place": "Paris",
+"booktitle": "EGC",
+"idArt": "939",
+"authors": "['Philippe Bouché','Marc Le Goc']"
+}

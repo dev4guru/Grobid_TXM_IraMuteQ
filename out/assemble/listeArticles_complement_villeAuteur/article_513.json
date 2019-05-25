@@ -1,0 +1,9 @@
+{	 "idArt" : "513",
+	 "placeAut" : [ 
+		{ "place" : "Lannion",
+		 "country" : "France",
+		 "location" : { "lat" :  48.732084, 
+			 "lon" : -3.4591440000000375 } }
+	 ]
+} 
+ 

@@ -1,0 +1,13 @@
+{	 "idArt" : "559",
+	 "placeAut" : [ 
+		{ "place" : "Villeurbanne",
+		 "country" : "France",
+		 "location" : { "lat" :  45.771944, 
+			 "lon" : 4.89017089999993 } },
+		{ "place" : "Vandoeuvre Lès-Nancy",
+		 "country" : "France",
+		 "location" : { "lat" :  48.66111799999999, 
+			 "lon" : 6.173760000000016 } }
+	 ]
+} 
+ 

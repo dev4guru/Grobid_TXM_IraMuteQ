@@ -1,0 +1,13 @@
+{	 "idArt" : "203",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2013",
+	 "place" : "Toulouse",
+	 "location" : { "lat" :  43.604652, 
+		 "lon" : 1.444209 }, 
+	 "title" : "Une nouvelle mesure pour l'évaluation des méthodes d'extraction de thématiques : la Vraisemblance Généralisée",
+	 "abstract" : "Les méthodes dédiées à l'extraction automatique de thématiques sont issues de domaines variés : linguistique computationnelle, TAL, algèbre linéaire, statistique, etc. A ces méthodes spécifiques, peuvent s'ajouter des méthodes adaptées d'autres domaines, notamment de l'apprentissage automatique non supervisé. Les résultats produits par l'ensemble de ces méthodes prennent des formes hétérogènes : partitions de documents, distributions de probabilités sur les mots, matrices. Cela pose clairement un problème pour les comparer de manière uniforme. Dans cet article, nous proposons une nouvelle mesure de qualité, intitulée Vraisemblance Généralisée, pour permettre une évaluation et ainsi la comparaison de différentes méthodes d'extraction de thématiques. Les résultats, obtenus sur un corpus de documents Web autour des élections présidentielles françaises de 2012, ainsi que sur le corpus Associated Press, montrent la pertinence de la mesure proposée.",
+	 "authors" : ["Mohamed Dermouche","Julien Velcin","Sabine Loudcher","Leila Khouas"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1001851" 
+} 
+ 

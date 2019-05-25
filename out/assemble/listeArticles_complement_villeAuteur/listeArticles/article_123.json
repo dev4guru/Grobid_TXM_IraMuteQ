@@ -1,0 +1,13 @@
+{	 "idArt" : "123",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2014",
+	 "place" : "Rennes",
+	 "location" : { "lat" :  48.117266, 
+		 "lon" : -1.6777926 }, 
+	 "title" : "Modélisation de trajectoires cible/caméra : requêtes spatio-temporelles dans le cadre de la videosurveillance",
+	 "abstract" : "Le nombre de caméras de vidéosurveillance installées dans le monde augmente chaquejour. En France, le système de la RATP déployé sur Paris comprend 9000 caméras fixes et19000 mobiles. Lors de faits particuliers (e.g., agressions, vols), les opérateurs de vidéo surveillancese basent sur les indications spatiales et temporelles de la victime et sur leur connaissancede la localisation des caméras pour sélectionner les contenus intéressants pour l'enquête.Deux grands problèmes peuvent alors survenir : (1) le temps de réponse est long (jusqu'à plusieursjours de traitement) et (2) un risque important de perte de résultats à cause d'une mauvaiseconnaissance du terrain (appel à des opérateurs extérieurs). Le but de notre recherche estde définir des outils d'assistance aux opérateurs qui puissent, à partir d'une trajectoire donnée,sélectionner de façon automatique les caméras pertinentes par rapport à la requête.",
+	 "authors" : ["Dana Codreanu","André Péninou","Florence Sedes"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1001982" 
+} 
+ 

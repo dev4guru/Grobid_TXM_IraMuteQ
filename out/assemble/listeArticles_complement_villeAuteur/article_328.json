@@ -1,0 +1,13 @@
+{	 "idArt" : "328",
+	 "placeAut" : [ 
+		{ "place" : "Tunis",
+		 "country" : "Tunisie",
+		 "location" : { "lat" :  36.8064948, 
+			 "lon" : 10.181531599999971 } },
+		{ "place" : "Lannion",
+		 "country" : "France",
+		 "location" : { "lat" :  48.732084, 
+			 "lon" : -3.4591440000000375 } }
+	 ]
+} 
+ 

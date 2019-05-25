@@ -1,0 +1,14 @@
+{	 "idArt" : "1073",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2004",
+	 "place" : "Clermont-Ferrand",
+	 "location" : { "lat" :  45.77722199999999, 
+		 "lon" : 3.087025 }, 
+	 "title" : "Modélisation dynamique et temporelle de l'utilisateur pour un filtrage personnalisé de documents textuels",
+	 "abstract" : "L'apprentissage efficace du profil utilisateur est un challenge car il évolue sans cesse. Dans cet article nous proposons une nouvelle approche pour l'apprentissage du profil long-terme de l'utilisateur pour le filtrage de documents textuels. Dans ce cadre, les documents consultés sont classés de manière dynamique et nous analysons la répartition dans le temps des classes de documents afin de déterminer le mieux possible les classes d'intérêts de l'utilisateur. L'étude empirique confirme la pertinence de notre approche pour une meilleure personnalisation de documents.",
+	 "authors" : ["Rachid Arezki","Abdenour Mokrane","Pascal Poncelet","Gérard Dray","David William Pearson"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1001122" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1001122" 
+} 
+ 

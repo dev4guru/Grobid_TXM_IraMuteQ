@@ -1,0 +1,9 @@
+{	 "idArt" : "268",
+	 "placeAut" : [ 
+		{ "place" : "Strasbourg",
+		 "country" : "France",
+		 "location" : { "lat" :  48.5734053, 
+			 "lon" : 7.752111300000024 } }
+	 ]
+} 
+ 

@@ -1,0 +1,22 @@
+{
+"year": "2007",
+"metaSession": "3",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1001391",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1001391",
+"abstract": "L'extraction de motifs séquentiels est un défi important pour la communauté fouille de données. Même si les représentations condensées ont montré leur intérêt dans le domaine des itemsets, à l'heure actuelle peu de travaux considèrent ce type de représentation pour extraire des motifs. Cet article propose d'établir les premières bases formelles pour obtenir les bornes inférieures et supérieures du support d'une séquence S. Nous démontrons que ces bornes peuvent être dérivées à partir des sous-séquences de S et prouvons que ces règles de dérivation permettent la construction d'une nouvelle représentation condensée de l'ensemble des motifs fréquents. Les différentes expérimentations menées montrent que notre approche offre une meilleure représentation condensée que celles des motifs clos et cela sans perte d'information.",
+"title": "Vers une nouvelle approche d'extraction des motifs séquentiels non-dérivables",
+"placeAut":[{
+"place":"Montpellier",
+"country":"France",
+"location":{
+	"lat":"43.610769",
+	"lon":"3.876716"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 50.4673883, u'lon': 4.8719854}",
+"place": "Namur",
+"booktitle": "EGC",
+"idArt": "762",
+"authors": "['Pascal Poncelet','Chedy Raïssi']"
+}

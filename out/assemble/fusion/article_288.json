@@ -1,0 +1,22 @@
+{
+"year": "2011",
+"metaSession": "",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1000978",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1000978",
+"abstract": "",
+"title": "Apport de la catégorisation iconique pour la gestion coopérative des connaissances1",
+"placeAut":[{
+"place":"Troyes",
+"country":"France",
+"location":{
+	"lat":"48.2973451",
+	"lon":"4.0744009"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 48.390394, u'lon': -4.486076}",
+"place": "Brest",
+"booktitle": "EGC",
+"idArt": "288",
+"authors": "['Xiaoyue Ma','Jean-Pierre Cahier','L'Hédi Zaher']"
+}

@@ -1,0 +1,14 @@
+{	 "idArt" : "1005",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2005",
+	 "place" : "Paris",
+	 "location" : { "lat" :  48.856614, 
+		 "lon" : 2.3522219 }, 
+	 "title" : "Semi-supervised incremental clustering of categorical data",
+	 "abstract" : "Le clustering semi-supervisé combine l'apprentissage supervisé et non-supervisé pour produire meilleurs clusterings. Dans la phase initiale supervisée de l'algorithme, un échantillon d'apprentissage est produit par sélection aléatoire. On suppose que les exemples de l'échantillon d'apprentissage sont étiquetés par un attribut de classe. Puis, un algorithme incrémentiel développé pour les données catégoriques est utilisé pour produire un ensemble de clusters pur (tels que les exemple de chaque cluster ont la même étiquette), qui servent de seeding clusters pour la deuxième phase non-supervisée de l'algorithme. Dans cette phase, l'algorithme incrémentiel est appliqué aux données non étiquetées. La qualité du clustering est évaluée par l'index de Gini moyen des clusters. Les expériences démontrent que des très bons clusterings peuvent être obtenus avec des petits échantillons d'apprentissage.",
+	 "authors" : ["Dan A. Simovici","Natima Singla"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1000246" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1000246" 
+} 
+ 

@@ -1,0 +1,22 @@
+{
+"year": "2015",
+"metaSession": "4",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1002068",
+"pdfarticle": "",
+"abstract": "Nous introduisons une mesure d'ultramétricité pour les dissimilaritées et examinons les transformations des dissimilaritées et leurs impact sur cette mesure. Ensuite, nous étudions l'influence de l'ultramétricité sur la comportement de deux classes d'algorithmes d'exploration de données (le kNN algorithme de classification et l'algorithme de regroupement PAM) appliqués sur les espaces de dissimilarité. On montre qu'il existe une variation inverse entre ultramétricité et la performance des classificateurs. Pour les clusters, une augmentation d'ultramétricité genere regroupements avec une meilleure séparation. Une diminution de la ultramétricité produit groupes plus compacts.",
+"title": "Ultrametricity of Dissimilarity Spaces and Its Significance for Data Mining",
+"placeAut":[{
+"place":"Boston",
+"country":"USA",
+"location":{
+	"lat":"42.3600825",
+	"lon":"-71.0588801"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 49.815273, u'lon': 6.129582999999999}",
+"place": "Luxembourg",
+"booktitle": "EGC",
+"idArt": "54",
+"authors": "['Dan Simovici','Rosanne Vetro','Kaixun Hua']"
+}

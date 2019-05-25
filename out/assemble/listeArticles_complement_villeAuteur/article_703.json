@@ -1,0 +1,13 @@
+{	 "idArt" : "703",
+	 "placeAut" : [ 
+		{ "place" : "Talence",
+		 "country" : "France",
+		 "location" : { "lat" :  44.802614, 
+			 "lon" : -0.5880540000000565 } },
+		{ "place" : "Le Chesnay",
+		 "country" : "France",
+		 "location" : { "lat" :  48.82541500000001, 
+			 "lon" : 2.1305439999999862 } }
+	 ]
+} 
+ 

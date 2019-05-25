@@ -1,0 +1,14 @@
+{	 "idArt" : "531",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2009",
+	 "place" : "Strasbourg",
+	 "location" : { "lat" :  48.5734053, 
+		 "lon" : 7.752111299999999 }, 
+	 "title" : "Extraction de Règles de Corrélation Décisionnelles",
+	 "abstract" : "Dans cet article, nous introduisons deux nouveaux concepts : les règlesde corrélation décisionnelles et les vecteurs de contingence. Le premier résulted'un couplage entre les règles de corrélation et les règles de décision. Il permetde mettre en évidence des liens pertinents entre certains ensembles de motifsd'une relation binaire et les valeurs d'un attribut cible (appartenant à cette mêmerelation) en se basant à la fois sur la mesure du Khi-carré et sur le support desmotifs extraits. De par la nature du problème, les algorithmes par niveaux fontque l'extraction des résultats a lieu avec des temps de réponse élevés et uneoccupation mémoire importante. Afin de palier à ces deux inconvénients, nousproposons un algorithme basé sur l'ordre lectique et les vecteurs de contingence.",
+	 "authors" : ["Alain Casali","Christian Ernst"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1000761" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1000761" 
+} 
+ 

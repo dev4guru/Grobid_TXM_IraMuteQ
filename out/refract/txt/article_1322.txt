@@ -1,0 +1,1 @@
+L'objectif de ce travail est de décrire avec une approche réaliste lasignification des données d'observation en neuro-imagerie sous un format formelpour faciliter leur interprétation par les cliniciens et leur réutilisation dansd'autres contextes.

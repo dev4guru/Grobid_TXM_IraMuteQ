@@ -1,0 +1,14 @@
+{	 "idArt" : "1021",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2005",
+	 "place" : "Paris",
+	 "location" : { "lat" :  48.856614, 
+		 "lon" : 2.3522219 }, 
+	 "title" : "« La connaissance de la connaissance » : une réflexion sur la triangulation des analyses textuelles à partir d'un corpus spécialisé en gouvernance d'entreprise",
+	 "abstract" : "Suite à la survenue récente de scandales financiers, la synthèse des idées mobilisables en gouvernance d'entreprise semble désormais essentielle si l'on veut sécuriser les investisseurs. Dans cette perspective, le présent projet de recherche consiste à mettre en oeuvre un panel d'outils d'analyse de données textuelles (Alceste, Syntex, Tropes-Zoom/Decision Explorer, Wordmapper, Weblex) afin d'évaluer les moyens dont peut disposer un analyste désireux d'extraire des connaissances contenues dans un ensemble d'articles académiques. La qualité de représentation du corpus dans sa globalité est tout d'abord testée. L'étude est ensuite centrée sur le concept même de connaissance, mobilisé dans la théorie de la gouvernance des entreprises. La convergence et la complémentarité des approches méthodologiques sont alors explicitées. Il en est de même pour ce qui concerne la capacité d'extraction d'une connaissance pertinente à partir des textes étudiés.",
+	 "authors" : ["Stéphane Trébucq"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1000274" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1000274" 
+} 
+ 

@@ -1,0 +1,22 @@
+{
+"year": "2010",
+"metaSession": "",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1001430",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1001430",
+"abstract": "",
+"title": "Extraction de la région d'intérêt d'une personne sur un obstacle",
+"placeAut":[{
+"place":"Lille",
+"country":"France",
+"location":{
+	"lat":"50.62925",
+	"lon":"3.057256"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 36.4, u'lon': 10.616667}",
+"place": "Hammamet",
+"booktitle": "EGC",
+"idArt": "425",
+"authors": "['Adel Lablack','Thierry Urruty','Yassine Benabbas','Chabane Djeraba']"
+}

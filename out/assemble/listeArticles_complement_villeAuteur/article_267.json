@@ -1,0 +1,13 @@
+{	 "idArt" : "267",
+	 "placeAut" : [ 
+		{ "place" : "Lyon",
+		 "country" : "France",
+		 "location" : { "lat" :  45.764043, 
+			 "lon" : 4.835658999999964 } },
+		{ "place" : "Nozay",
+		 "country" : "France",
+		 "location" : { "lat" :  47.564751, 
+			 "lon" : -1.6269159999999374 } }
+	 ]
+} 
+ 

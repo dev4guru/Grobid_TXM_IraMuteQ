@@ -1,0 +1,14 @@
+{	 "idArt" : "974",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2005",
+	 "place" : "Paris",
+	 "location" : { "lat" :  48.856614, 
+		 "lon" : 2.3522219 }, 
+	 "title" : "Fouille de textes pour orienter la construction d'une ressource terminologique",
+	 "abstract" : "La finalité de ce papier est d'analyser l'apport de techniques de fouille de données textuelles à une méthodologie de construction d'ontologie à partir de textes. Le domaine d'application de cette expérimentation est celui de l'accidentologie routière. Dans ce contexte, les résultats des techniques de fouille de données textuelles sont utilisés pour orienter la construction d'une ressource terminologique à partir de procès-verbaux d'accidents. La méthode TERMINAE et l'outil du même nom offrent le cadre général pour la modélisation de la ressource. Le papier présente les techniques de fouille employées et l'intégration des résultats des fouilles dans les différentes étapes du processus de construction de la ressource.",
+	 "authors" : ["Valentina Ceausu","Sylvie Desprès"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1000261" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1000261" 
+} 
+ 

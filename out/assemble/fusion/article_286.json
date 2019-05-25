@@ -1,0 +1,22 @@
+{
+"year": "2011",
+"metaSession": "8",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1000942",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1000942",
+"abstract": "Cet article présente une nouvelle approche qui permet de compter le nombre d'individus franchissant une ligne de comptage. L'approche proposée accumule dans le temps les vecteurs de mouvement pour chaque point de la ligne de comptage formant une carte spatiotemporelle. Une procédure de détection en ligne des blobs est ensuite utilisée afin de déterminer les régions de la carte spatiotemporelle qui correspondent à des personnes franchissant cette ligne. Le nombre d'individus associé à chaque blob est estimé grâce à un modèle de régression linéaire appliqué aux caractéristiques du blob. L'approche proposée est validée sur la base de plusieurs ensembles de données enregistrées à l'aide d'une caméra verticale ou d'une caméra oblique.",
+"title": "Analyse spatiotemporelle des vecteurs de mouvement : application au comptage des personnes",
+"placeAut":[{
+"place":"Lille",
+"country":"France",
+"location":{
+	"lat":"50.62925",
+	"lon":"3.057256"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 48.390394, u'lon': -4.486076}",
+"place": "Brest",
+"booktitle": "EGC",
+"idArt": "286",
+"authors": "['Yassine Benabbas','Tarek Yahiaoui','Thierry Urruty','Chabane Djeraba']"
+}

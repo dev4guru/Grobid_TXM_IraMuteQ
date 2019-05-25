@@ -1,0 +1,14 @@
+{	 "idArt" : "871",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "AEGC",
+	 "year" : "2005",
+	 "place" : "Paris",
+	 "location" : { "lat" :  48.856614, 
+		 "lon" : 2.3522219 }, 
+	 "title" : "Améliorer la découverte de chroniques par une découpe intelligente d'un log d'alarmes",
+	 "abstract" : "Cet article décrit une méthode de prétraitement destinée à faciliter ladécouverte de motifs fréquents dans un log d'alarmes. Au cours d'une premièreétape les types d'alarmes qui présentent un comportement temporel similairesont regroupés à l'aide d'une carte auto-organisatrice. Puis on recherche lesparties du log qui sont riches en alarmes pour les différents groupes. Des souslogs sont construits à partir des alarmes des zones sélectionnées. La méthode aété validée sur un log provenant d'un réseau ATM.",
+	 "authors" : ["Françoise Fessant","Christophe Dousson","Fabrice Clérot"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1000265" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1000265" 
+} 
+ 

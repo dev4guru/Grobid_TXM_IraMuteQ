@@ -1,0 +1,13 @@
+{	 "idArt" : "804",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2006",
+	 "place" : "Lille",
+	 "location" : { "lat" :  50.62925, 
+		 "lon" : 3.057256 }, 
+	 "title" : "Enrichissement d'ontologies dans le secteur de l'eau douce en environnement Internet distribué et multilingue",
+	 "authors" : ["Lylia Abrouk","Mathieu Lafourcade"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1000432" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1000432" 
+} 
+ 

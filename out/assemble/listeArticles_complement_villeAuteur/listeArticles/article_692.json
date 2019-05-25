@@ -1,0 +1,14 @@
+{	 "idArt" : "692",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2007",
+	 "place" : "Namur",
+	 "location" : { "lat" :  50.4673883, 
+		 "lon" : 4.8719854 }, 
+	 "title" : "Classification supervisée de séquences biologiques basée sur les motifs et les matrices de substitution",
+	 "abstract" : "La classification des séquences biologiques est l'un des importants défis ouverts dans la bioinformatique, tant pour les séquences protéiques que pour les séquences nucléiques. Cependant, la présence de ces données sous la forme de chaînes de caractères ne permet pas de les traiter par les outils standards de classification supervisée, qui utilisent souvent le format relationnel. Pour remédier à ce problème de codage, plusieurs travaux se sont basés sur l'extraction des motifs pour construire une nouvelle représentation des séquences biologiques sous la forme d'un tableau binaire. Nous décrivons une nouvelle approche qui étend les méthodes précédents par l'utilisation de matrices de substitution dans les cas des séquences protéiques. Nous présentons ensuite une étude comparative qui prend en compte l'effet de chaque méthode sur la précision de la classification mais aussi le nombre d'attributs générés et le temps de calcul.",
+	 "authors" : ["Rabie Saidi","Mondher Maddouri","Engelbert Mephu Nguifo"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1001409" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1001409" 
+} 
+ 

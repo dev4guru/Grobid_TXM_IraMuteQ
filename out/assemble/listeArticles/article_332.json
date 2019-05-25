@@ -1,0 +1,13 @@
+{	 "idArt" : "332",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2011",
+	 "place" : "Brest",
+	 "location" : { "lat" :  48.390394, 
+		 "lon" : -4.486076 }, 
+	 "title" : "Modèle pour une analyse du phénomène de linéarité de catégories sémantiques dans les énoncés en français",
+	 "authors" : ["Bernard Decobert"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1000982" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1000982" 
+} 
+ 

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/josuah/Bureau/grobid/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="fr">
+		<encodingDesc>
+			<appInfo>
+				<application version="0.5.5-SNAPSHOT" ident="GROBID" when="2019-04-04T12:42+0000">
+					<ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Régression logistique pour la classification d&apos;images à grande échelle</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Thanh-Nghi</forename><surname>Do</surname></persName>
+						</author>
+						<author role="corresp">
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">François</forename><surname>Poulet</surname></persName>
+							<email>francois.poulet@irisa.fr</email>
+						</author>
+						<author>
+							<affiliation key="aff0">
+								<orgName type="institution">Université de Can Tho</orgName>
+								<address>
+									<addrLine>Rue 3/2</addrLine>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff1">
+								<orgName type="institution">Ninh Kieu</orgName>
+								<address>
+									<addrLine>Can Tho</addrLine>
+									<country key="VN">Vietnam</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff2">
+								<orgName type="institution">Université de Rennes I -IRISA</orgName>
+								<address>
+									<addrLine>Campus de Beaulieu</addrLine>
+									<postCode>35042</postCode>
+									<settlement>Rennes Cedex</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Régression logistique pour la classification d&apos;images à grande échelle</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<abstract>
+				<p>Nous présentons un nouvel algorithme parallèle de régression logis-tique (PAR-MC-LR) pour la classification d&apos;images à grande échelle. Nous pro-posons plusieurs extensions de l&apos;algorithme original de régression logistique à deux classes pour en développer une version efficace pour les grands ensembles de données d&apos;images avec plusieurs centaines de classes. Nous présentons un nouvel algorithme LR-BBatch-SGD de descente de gradient stochastique de ré-gression logistique en batch équilibré avec un apprentissage parallèle (approche un contre le reste) multi-classes sur de multiples coeurs. Les résultats expérimen-taux sur des ensembles de données d&apos;ImageNet montrent que notre algorithme est efficace comparés aux algorithmes de classification linéaires de l&apos;état de l&apos;art.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="fr">
+	</text>
+</TEI>

@@ -1,0 +1,22 @@
+{
+"year": "2005",
+"metaSession": "8",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1000345",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1000345",
+"abstract": "",
+"title": "Processus de traitement de données radar pour la reconnaissance/identification de cibles aériennes",
+"placeAut":[{
+"place":"Brest",
+"country":"France",
+"location":{
+	"lat":"48.390394",
+	"lon":"-4.486076"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 48.856614, u'lon': 2.3522219}",
+"place": "Paris",
+"booktitle": "EGC",
+"idArt": "997",
+"authors": "['Abdelmalek Toumi','Brigitte Hoeltzener','Ali Khenchaf']"
+}

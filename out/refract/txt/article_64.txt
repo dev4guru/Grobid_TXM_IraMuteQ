@@ -1,0 +1,1 @@
+In this paper we present a new codicum stemma visualization method. Don Quentin's modeling is usec to classify the textual tradition.We supplement the genealogical editor's information of betweenness triplets obtained directly from the corpus. A pyramid depicting the family codicum stemma is then constructed on the basis of information obtained by the triplets

@@ -1,0 +1,15 @@
+{
+"idArt": "1244",
+"series": "Revue des Nouvelles Technologies de l'Information",
+"booktitle": "EGC",
+"year": "2017",
+"title": "Sur l'évaluation et l'élaboration d'un jeu de données de référence de bonne qualité en télédétection",
+"abstract": "En analyse d'images de télédétection, les données de référence, ve-nant étiqueter les objets des images, y jouent un rôle crucial mais sont parfois im-précises voire incertaines et en nombre limité. Dans cet article, nous présentonsune méthodologie pour l'amélioration de données de référence pour la télédé-tection en trois étapes : réalignement des données, évaluation via crowdsourcinget création d'un jeu de données de référence de bonne qualité.",
+"authors": "Andrés Troya-Galvis, Pierre Gançarski, Isabelle Mougenot, Laure Berti-Equille",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1002304",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1002304",
+"metaSession": "13",
+"place": "Grenoble",
+"Latitude": " 45.188585 ",
+"Longitude": "5.724580"
+}

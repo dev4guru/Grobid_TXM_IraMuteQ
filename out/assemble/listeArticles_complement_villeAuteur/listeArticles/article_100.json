@@ -1,0 +1,13 @@
+{	 "idArt" : "100",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2014",
+	 "place" : "Rennes",
+	 "location" : { "lat" :  48.117266, 
+		 "lon" : -1.6777926 }, 
+	 "title" : "Evaluation de la pertinence dans un système de recommandation sémantique de nouvelles économiques",
+	 "abstract" : "De nos jours dans les secteurs commerciaux et financiers la veille estcruciale et complexe, car la charge d'informations est importante. Pour répondreà cette problématique, nous proposons un système novateur de recommandationd'articles basé sur une modélisation ontologique des connaissances. Nous présentonségalement une nouvelle méthode d'évaluation de la pertinence utilisantle modèle vectoriel intrinsèquement efficace et adapté afin de pallier la confusionnative de ces modèles entre les notions de similarité et de pertinence.",
+	 "authors" : ["David Werner","Christophe Cruz","Aurélie Bertaux"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1001976" 
+} 
+ 

@@ -1,0 +1,14 @@
+{	 "idArt" : "716",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2007",
+	 "place" : "Namur",
+	 "location" : { "lat" :  50.4673883, 
+		 "lon" : 4.8719854 }, 
+	 "title" : "Intégration des connaissances utilisateurs pour des analyses personnalisées dans les entrepôts de données évolutifs",
+	 "abstract" : "Dans cet article, nous proposons une approche d'évolution de schéma dans les entrepôts de données qui permet aux utilisateurs d'intégrer leurs propres connaissances du domaine afin d'enrichir les possibilités d'analyse de l'entrepôt. Nous représentons cette connaissance sous la forme de règles de type si-alors. Ces règles sont utilisées pour créer de nouveaux axes d'analyse en générant de nouveaux niveaux de granularité dans les hiérarchies de dimension. Notre approche est fondée sur un modèle formel d'entrepôts de données évolutif qui permet de gérer la mise à jour des hiérarchies de dimension.",
+	 "authors" : ["Cécile Favre","Fadila Bentayeb","Omar Boussaid"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1001379" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1001379" 
+} 
+ 

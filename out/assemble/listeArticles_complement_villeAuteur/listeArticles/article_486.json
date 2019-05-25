@@ -1,0 +1,13 @@
+{	 "idArt" : "486",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2010",
+	 "place" : "Hammamet",
+	 "location" : { "lat" :  36.4, 
+		 "lon" : 10.616667 }, 
+	 "title" : "Utilisation de graphes sémantiques pour l'extraction et la traduction des idées essentielles d'un texte",
+	 "authors" : ["Romain André-Lovichi","Kamel Smaïli","David Langlois"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1001435" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1001435" 
+} 
+ 

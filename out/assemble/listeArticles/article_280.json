@@ -1,0 +1,14 @@
+{	 "idArt" : "280",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2011",
+	 "place" : "Brest",
+	 "location" : { "lat" :  48.390394, 
+		 "lon" : -4.486076 }, 
+	 "title" : "Agrégation robuste de données massives à la volée : application aux compteurs électriques communicants",
+	 "abstract" : "Dans les années à venir, plusieurs millions de compteurs électriques communicants seront déployés sur l'ensemble du territoire français. Afin d'assurer la fiabilité d'un réseau de cette envergure nous proposons une topologie de communication multi-chemins qui repose sur la duplication des données transmises. Toute exploitation des données collectées doit alors tenir compte de la présence d'éléments dupliqués. Dans cet article, nous proposons une nouvelle méthode permettant de calculer en ligne des consommations électriques agrégées (agrégation spatiale). L'idée est d'adapter l'algorithme probabiliste Summation sketch de Considine et al. au contexte des compteurs communicants. Cette approche a l'avantage d'être insensible à la duplication et permet de profiter de la structure massivement distribuée du réseau de communication des futurs compteurs électriques. L'expérimentation de cette méthode sur des données réelles montre qu'elle donne une bonne précision sur l'estimation des consommations agrégées. Cette approche est aussi complétée par une méthode basée sur la théorie des sondages : On obtient une meilleure réactivité de l'estimateur avec rapidement et donc sur des données significativement partielles une erreur inférieure à 2.5%",
+	 "authors" : ["Yousra Chabchoub","Benoît Grossin"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1000943" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1000943" 
+} 
+ 

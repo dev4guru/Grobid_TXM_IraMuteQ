@@ -1,0 +1,15 @@
+{
+"idArt": "1198",
+"series": "Revue des Nouvelles Technologies de l'Information",
+"booktitle": "EGC",
+"year": "2017",
+"title": "Classification ascendante hiérarchique à noyaux et une application aux données textuelles",
+"abstract": "La formule de Lance etWilliams permet d'unifier plusieurs méthodesde classification ascendante hiérarchique (CAH). Dans cet article, nous suppo-sons que les données sont représentées dans un espace euclidien et nous établis-sons une nouvelle expression de cette formule en utilisant les similarités cosinusau lieu des distances euclidiennes au carré. Notre approche présente les avan-tages suivants. D'une part, elle permet d'étendre naturellement les méthodesclassiques de CAH aux fonctions noyau. D'autre part, elle permet d'appliquerdes méthodes d'écrêtage permettant de rendre la matrice de similarités creuseafin d'améliorer la complexité de la CAH. L'application de notre approche surdes tâches de classification automatique de données textuelles montre d'une part,que le passage à l'échelle est amélioré en mémoire et en temps de traitement;d'autre part, que la qualité des résultats est préservée voire améliorée.",
+"authors": "Julien Ah-Pine, Xinyu Wang",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1002306",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1002306",
+"metaSession": "8",
+"place": "Grenoble",
+"Latitude": " 45.188539 ",
+"Longitude": "5.724534"
+}

@@ -1,0 +1,14 @@
+{	 "idArt" : "746",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2007",
+	 "place" : "Namur",
+	 "location" : { "lat" :  50.4673883, 
+		 "lon" : 4.8719854 }, 
+	 "title" : "Un segmenteur de texte en phrases guidé par l'utilisateur",
+	 "abstract" : "Ce programme effectue une segmentation en phrases d'un texte. Contrairement aux procédures classiques, nous n'utilisons pas d'annotations préliminaires et tirons parti d'un apprentissage guidé par l'utilisateur.",
+	 "authors" : ["Thomas Heitz"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1001334" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1001334" 
+} 
+ 

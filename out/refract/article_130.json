@@ -1,0 +1,22 @@
+{
+"year": "2014",
+"metaSession": "",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1001969",
+"pdfarticle": "",
+"abstract": "La reconstruction de chronologies d'évènements cybercriminels (oureconstruction d'évènements) est une étape primordiale dans une investigationnumérique. Cette phase permet aux enquêteurs d'avoir une vue des évènementssurvenus durant un incident. La reconstruction d'évènements requiert l'étuded'importants volumes de données en raison de l'omniprésence des nouvellestechnologies dans notre quotidien. De plus, les conclusions produites se doiventde respecter les critères fixés par la justice. Afin de répondre à ces challenges,nous proposons une nouvelle méthodologie basée sur une ontologie permettantd'assister les enquêteurs tout au long du processus d'enquête.",
+"title": "Reconstruction et analyse sémantique de chronologies cybercriminelles",
+"placeAut":[{
+"place":"Dublin",
+"country":"Ireland",
+"location":{
+	"lat":"53.3498053",
+	"lon":"-6.2603097"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 48.117266, u'lon': -1.6777926}",
+"place": "Rennes",
+"booktitle": "EGC",
+"idArt": "130",
+"authors": "['Yoan Chabot','Aurélie Bertaux','Tahar Kechadi','Christophe Nicolle']"
+}

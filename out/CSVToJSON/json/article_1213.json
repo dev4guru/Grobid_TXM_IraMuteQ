@@ -1,0 +1,15 @@
+{
+"idArt": "1213",
+"series": "Revue des Nouvelles Technologies de l'Information",
+"booktitle": "EGC",
+"year": "2017",
+"title": "Extraction automatique de paysages en imagerie satellitaire et enrichissement sémantique",
+"abstract": "Nous présentons ici une méthode originale pour l'automatisation dela détection de paysages dans une image satellite. Deux enjeux majeurs ap-paraissent dans ce processus. Le premier réside dans la faculté à prendre encompte l'ensemble des connaissances expertes tout au long du travail d'analysede l'image. Le second est de réussir à structurer et pérenniser ces connaissancesde façon à les rendre interopérables et exploitables dans le cadre du web de don-nées. Nous présentons en quoi la collaboration de plusieurs stratégies alliant lestraitements de l'image, le calcul de caractéristiques spécifiques et la program-mation logique inductive (PLI), vient alimenter le processus d'automatisation,et comment l'intégration de la connaissance, au travers de la construction d'on-tologies dédiées, permet de répondre pleinement à ces enjeux.",
+"authors": "Anne Toulet, Emmanuel Roux, Anne-Elisabeth Laques, Eric Delaître, Laurent Demagistri, Isabelle Mougenot",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1002285",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1002285",
+"metaSession": "8",
+"place": "Grenoble",
+"Latitude": " 45.188554 ",
+"Longitude": "5.724549"
+}

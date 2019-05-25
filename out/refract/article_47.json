@@ -1,0 +1,22 @@
+{
+"year": "2015",
+"metaSession": "7",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1002102",
+"pdfarticle": "",
+"abstract": "Trouver les liens manquants dans un grand réseau social est une tâche difficile, car ces réseaux sont peu denses, et les liens peuvent correspondre à des environnements structurels variés. Dans cet article, nous décrivons RankMerging, une méthode d'apprentissage supervisé simple pour combiner l'information obtenue par différentes méthodes de classement. Afin d'illustrer son intérêt, nous l'appliquons à un réseau d'utilisateurs de téléphones portables, pour montrer comment un opérateur peut détecter des liens entre les clients de ses concurrents. Nous montrons que RankMerging surpasse les méthodes à disposition pour prédire un nombre variable de liens dans un grand graphe épars.",
+"title": "RankMerging: Apprentissage supervisé de classements pour la prédiction de liens dans les grands réseaux sociaux",
+"placeAut":[{
+"place":"Paris",
+"country":"France",
+"location":{
+	"lat":"48.856614",
+	"lon":"2.3522219"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 49.815273, u'lon': 6.129582999999999}",
+"place": "Luxembourg",
+"booktitle": "EGC",
+"idArt": "47",
+"authors": "['Lionel Tabourier','Anne-Sophie Libert','Renaud Lambiotte']"
+}

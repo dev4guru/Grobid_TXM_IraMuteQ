@@ -1,0 +1,22 @@
+{
+"year": "2008",
+"metaSession": "8",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1000614",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1000614",
+"abstract": "Ce papier présente un modèle génératif et son estimation permettant la visualisation de données binaires. Notre approche est basée sur un modèle de mélange de lois de Bernoulli par blocs et les cartes de Kohonen probabilistes. La méthode obtenue se montre à la fois parcimonieuse et pertinente en pratique.",
+"title": "Binary Block GTM : Carte auto-organisatrice probabiliste pour les grands tableaux binaires",
+"placeAut":[{
+"place":"Futuroscope Chasseneuil",
+"country":"France",
+"location":{
+	"lat":"46.6698573",
+	"lon":"0.3697581"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 43.6163539, u'lon': 7.0552218}",
+"place": "Sophia Antipolis",
+"booktitle": "EGC ",
+"idArt": "580",
+"authors": "['Rodolphe Priam','Mohamed Nadif','Gérard Govaert']"
+}

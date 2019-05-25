@@ -1,0 +1,13 @@
+{	 "idArt" : "596",
+	 "placeAut" : [ 
+		{ "place" : "Evry",
+		 "country" : "France",
+		 "location" : { "lat" :  48.629828, 
+			 "lon" : 2.4417819999999892 } },
+		{ "place" : "Cantho",
+		 "country" : "Vietnam",
+		 "location" : { "lat" :  10.0451618, 
+			 "lon" : 105.74685350000004 } }
+	 ]
+} 
+ 

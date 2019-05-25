@@ -1,0 +1,15 @@
+{
+"idArt": "1317",
+"series": "Revue des Nouvelles Technologies de l'Information",
+"booktitle": "EGC",
+"year": "2018",
+"title": "Reconnaissance et indexation automatique des registres de la chancellerie française (1300-1483)",
+"abstract": "Les documents manuscrits sont parmi les témoins les plus importants de l'histoire européenne. Ces dernières années, d'importantes collections de manuscrits historiques ont été numérisées et mises à disposition du public et des chercheurs. Cependant, la richesse des informations qu'ils contiennent est encore largement inaccessible car seul les images et quelques méta-données sont disponibles. L'idéal pour les utilisateurs serait de pouvoir faire des recherches textuelles comme pour les livres imprimés modernes (https://books.google.fr/). Si les technologies d'analyse de documents historiques et de reconnaissance d'écriture manuscrite sont encore trop peu performantes pour permettre l'utilisation directe de la transcription brute, il est possible de mettre à la disposition des utilisateurs un moteur de recherche textuel basé sur une indexation automatique des images de documents manuscrits. Cette indexation se base sur une transcription automatique mais tire profit de la capacité de la machine à générer des hypothèses reconnaissance multiples et pondérées. Cette technologie a permis de rendre accessible pour la première fois à la recherchetextuelle les registres de la chancellerie royale française (1302 -1483), un des corpus de documents historiques les plus emblématiques pour la France, ouvrant ainsi la voie à de nouvelles méthodes de recherche en histoire : http://www.himanis.org/",
+"authors": "Christopher Kermorvant",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1002364",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1002364",
+"metaSession": "0",
+"place": "Paris",
+"Latitude": " 48.8591 ",
+"Longitude": "2.3545"
+}

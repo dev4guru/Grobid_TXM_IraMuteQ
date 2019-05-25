@@ -1,0 +1,9 @@
+{	 "idArt" : "379",
+	 "placeAut" : [ 
+		{ "place" : "Nicosie",
+		 "country" : "Chypre",
+		 "location" : { "lat" :  35.166667, 
+			 "lon" : 33.36666700000001 } }
+	 ]
+} 
+ 

@@ -1,0 +1,14 @@
+{	 "idArt" : "472",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2010",
+	 "place" : "Hammamet",
+	 "location" : { "lat" :  36.4, 
+		 "lon" : 10.616667 }, 
+	 "title" : "SoTree : Auto-organisation topologique et hiérarchique des données",
+	 "abstract" : "Nous proposons dans cet article d'introduire une nouvelle approche pour la classification non supervisée hiérarchique. Notre méthode nommée So-Tree consiste à construire, d'une manière autonome et simultanée, une partition topologique et hiérarchique des données. Chaque cluster de la partition est associé à une cellule d'une grille 2D et est modélisé par un arbre, dont chaque noeud représente une donnée. Nous évaluerons les capacités et les performances de notre approche sur des données aux difficultés variables. Les résultats préliminaires obtenus sont encourageants et prometteurs pour continuer dans cette direction.",
+	 "authors" : ["Mustapha Lebbah","Hanane Azzag"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1001358" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1001358" 
+} 
+ 

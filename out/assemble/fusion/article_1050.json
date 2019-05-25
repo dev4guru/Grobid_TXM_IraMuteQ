@@ -1,0 +1,22 @@
+{
+"year": "2004",
+"metaSession": "8",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1001107",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1001107",
+"abstract": "Après l'ère du décodage des génomes, les biologistes sont de plus en plus confrontés à l'intégration de myriades de connaissances parcellaires, stockées majoritairement sous forme textuelle. Nous montrons, à travers un exemple concret, que la conjonction de deux chaînes de traitement faisant appel de façon modérée à l'expertise humaine offre au biologiste une aide utile pour parcourir cette littérature, à partir d'une structuration sans a priori de son corpus ; il s'agit ici de résumés Medline indexés par les gènes et protéines qu'ils citent, et que l'algorithme structure (sans superviseur) en principales voies métaboliques et de régulation présentes dans le corpus choisi. 1) Une chaîne d'indexation par les noms de gènes et protéines inclut un expert pour valider, 2) Un environnement interactif de clustering thématique attribue des valeurs graduées de centralité dans chaque thème aux résumés comme aux noms, comme à toute autre variable illustrative (autres termes bio., MeSH, ...).",
+"title": "Extraction de processus fonctionnels en génétique des  microbes à partir de résumés MEDLINE",
+"placeAut":[{
+"place":"Jouy-en-Josas",
+"country":"France",
+"location":{
+	"lat":"48.764545",
+	"lon":"2.169007"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 45.77722199999999, u'lon': 3.087025}",
+"place": "Clermont-Ferrand",
+"booktitle": "EGC",
+"idArt": "1050",
+"authors": "['Alain Lelu','Philippe Bessières','Alain Zasadzinski','Dominique Besagni']"
+}

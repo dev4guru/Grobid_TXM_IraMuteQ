@@ -1,0 +1,22 @@
+{
+"year": "2008",
+"metaSession": "0",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1000605",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1000605",
+"abstract": "Cet article présente une interface permettant de visualiser des motifs séquentiels extraits à partir de données textuelles en Ancien Français.",
+"title": "Visualisation des motifs séquentiels extraits à partir d'un corpus en Ancien Français",
+"placeAut":[{
+"place":"Montpellier",
+"country":"France",
+"location":{
+	"lat":"43.610769",
+	"lon":"3.876716"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 43.6163539, u'lon': 7.0552218}",
+"place": "Sophia Antipolis",
+"booktitle": "EGC ",
+"idArt": "672",
+"authors": "['Julien Rabatel','Yuan Lin','Yoann Pitarch','Hassan Saneifar','Claire Serp','Mathieu Roche','Anne Laurent']"
+}

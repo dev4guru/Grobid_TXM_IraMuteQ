@@ -1,0 +1,22 @@
+{
+"year": "2009",
+"metaSession": "5",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1000777",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1000777",
+"abstract": "Le but d'un système adaptatif de diagnostic est de surveiller et diagnostiquerun système tout en s'adaptant à son évolution. Ceci passe par l'adaptationdes diagnostiqueurs qui précisent ou enrichissent leur propre modèle poursuivre au mieux le système au fil du temps. Pour détecter les besoins d'adaptation,nous proposons un cadre de diagnostic multi-sources s'inspirant de lafusion d'information. Des connaissances fournies par le concepteur sur des relationsattendues entre les diagnostiqueurs mono-source forment un méta-modèledu diagnostic. La compatibilité des résultats du diagnostic avec le méta-modèleest vérifiée en ligne. Lorsqu'une de ces relations n'est pas vérifiée, les diagnostiqueursconcernés sont modifiés.Nous appliquons cette approche à la conception d'un système adaptatif de détectiond'intrusion à partir d'un flux de connexions à un serveur Web. Les évaluationsdu système mettent en évidence sa capacité à améliorer la détection desintrusions connues et à découvrir de nouveaux types d'attaque.",
+"title": "Diagnostic multi-sources adaptatif Application à la détection d'intrusion dans des serveursWeb",
+"placeAut":[{
+"place":"Rennes",
+"country":"France",
+"location":{
+	"lat":"48.117266",
+	"lon":"-1.6777926"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 48.5734053, u'lon': 7.752111299999999}",
+"place": "Strasbourg",
+"booktitle": "EGC",
+"idArt": "525",
+"authors": "['Thomas Guyet','Wei Wang    ','Rene Quiniou','Marie-Odile Cordier']"
+}

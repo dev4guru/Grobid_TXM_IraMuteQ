@@ -1,0 +1,17 @@
+{	 "idArt" : "995",
+	 "placeAut" : [ 
+		{ "place" : "Sophia-Antipolis",
+		 "country" : "France",
+		 "location" : { "lat" :  43.6163539, 
+			 "lon" : 7.055221800000027 } },
+		{ "place" : "Meknes",
+		 "country" : "Maroc",
+		 "location" : { "lat" :  33.895, 
+			 "lon" : -5.55472199999997 } },
+		{ "place" : "Casablanca",
+		 "country" : "Maroc",
+		 "location" : { "lat" :  33.5731104, 
+			 "lon" : -7.589843400000063 } }
+	 ]
+} 
+ 

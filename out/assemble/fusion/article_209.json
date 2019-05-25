@@ -1,0 +1,22 @@
+{
+"year": "2013",
+"metaSession": "3",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1001853",
+"pdfarticle": "",
+"abstract": "Le calcul de similarité entre les séquences est d'une extrême importance dans de nombreuses approches d'explorations de données. Il existe une multitude de mesures de similarités de séquences dans la littérature. Or, la plupart de ces mesures sont conçues pour des séquences simples, dites séquences d'items. Dans ce travail, nous étudions d'un point de vue purement combinatoire le problème de similarité entre des séquences complexes (i.e., des séquences d'ensembles ou itemsets). Nous présentons de nouveaux résultats afin de compter efficacement toutes les sous-séquences communes à deux séquences. Ces résultats théoriques sont la base d'une mesure de similarité calculée efficacement grâce à une approche de programmation dynamique.",
+"title": "Vers une mesure de similarité pour les séquences complexes",
+"placeAut":[{
+"place":"Vandoeuvre-les-Nancy",
+"country":"France",
+"location":{
+	"lat":"48.661118",
+	"lon":"6.17376"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 43.604652, u'lon': 1.444209}",
+"place": "Toulouse",
+"booktitle": "EGC",
+"idArt": "209",
+"authors": "['Elias Egho','Chedy Raïssi','Toon Calders','Thomas Bourquard','Nicolas Jay','Amedeo Napoli']"
+}

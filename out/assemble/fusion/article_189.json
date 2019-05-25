@@ -1,0 +1,22 @@
+{
+"year": "2013",
+"metaSession": "1",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1001857",
+"pdfarticle": "",
+"abstract": "Le nombre croissant d'ontologies rend le processus d'alignement une composante essentielle du Web sémantique. Plusieurs outils ont été conçus dans le but de produire des alignements. La qualité des alignements fournis par ces outils est étroitement liée à certains paramètres qui régissent leurs traitements. Dans ce papier, nous proposons une nouvelle approche permettant l'adaptation automatique des paramètres d'alignement d'ontologies par l'utilisation de l'intégrale de Choquet, comme un opérateur d'agrégation. Les expérimentations montrent une nette amélioration des résultats par rapport à un paramétrage statique et figé.",
+"title": "Paramétrage intelligent de l'alignement d'ontologies par l'intégrale de Choquet",
+"placeAut":[{
+"place":"Tunis",
+"country":"Tunisie",
+"location":{
+	"lat":"36.8064948",
+	"lon":"10.1815316"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 43.604652, u'lon': 1.444209}",
+"place": "Toulouse",
+"booktitle": "EGC",
+"idArt": "189",
+"authors": "['Marouen Kachroudi','Sami Zghal','Sadok Ben Yahia']"
+}

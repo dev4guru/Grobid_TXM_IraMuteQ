@@ -1,0 +1,15 @@
+{
+"idArt": "1174",
+"series": "Revue des Nouvelles Technologies de l'Information",
+"booktitle": "EGC",
+"year": "2016",
+"title": "Transmute : un outil interactif pour assister l'extraction de connaissances à partir de traces",
+"abstract": "Alors que l'extraction de connaissances à partir de données(ecd) est un processus qualifié d'interactif et d'itératif, l'interactivité desoutils est souvent limitée et son étude est relativement récente. Elle estpourtant déterminante lors de l'interprétation pour choisir les motifs quideviendront des connaissances. Nous proposons Transmute, un outild'assistance à l'interprétation dans le processus d'ecd, dans le cadre dela recherche d'épisodes séquentiels à partir de traces. La phase d'interprétationest itérative et à chaque itération les résultats de la fouille sontmis à jour dynamiquement en fonction des interactions avec l'analyste.Des outils de visualisation et des mesures de qualité indépendantes dudomaine permettent de caractériser l'intérêt des motifs à interpréter pourfaciliter leur choix et accompagner le travail de l'analyste afin de l'aider àse focaliser plus rapidement sur les motifs potentiellement intéressants.",
+"authors": "Pierre-Loup Barazzutti, Amélie Cordier, Béatrice Fuchs",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1002201",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1002201",
+"metaSession": "11",
+"place": "Reims",
+"Latitude": " 49.258399 ",
+"Longitude": "4.031766"
+}

@@ -1,0 +1,22 @@
+{
+"year": "2005",
+"metaSession": "",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1000240",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1000240",
+"abstract": "Dans le cadre d'un projet pluridisciplinaire relatif à la gestionintégrée du littoral (projet Syscolag), nous proposons un système de mutualisationde ressources et de connaissances. Ce système repose sur unservice de métadonnées, une base de données inventaire d'objets géographiquesde référence et un vocabulaire thématique co-construit par l'ensembledes partenaires. L'accès aux ressources partagées est guidé par uneinterface adaptable au gré de l'usage et axée sur des critères de recherchethématique, spatiaux et temporels.",
+"title": "Interface adaptable de requêtes pour un service de MétaDonnées",
+"placeAut":[{
+"place":"Montpellier",
+"country":"France",
+"location":{
+	"lat":"43.610769",
+	"lon":"3.876716"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 48.856614, u'lon': 2.3522219}",
+"place": "Paris",
+"booktitle": "AEGC",
+"idArt": "899",
+"authors": "['Julien Barde','Jacques Divol','Thérèse Libourel','Pierre Maurel']"
+}

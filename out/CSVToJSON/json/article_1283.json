@@ -1,0 +1,15 @@
+{
+"idArt": "1283",
+"series": "Revue des Nouvelles Technologies de l'Information",
+"booktitle": "EGC",
+"year": "2018",
+"title": "Echantillonnage de motifs séquentiels sous contrainte sur la norme",
+"abstract": "L'échantillonnage de motifs est une méthode non-exhaustive pour découvrir des motifs pertinents qui assure une bonne interactivité tout en offrant des garanties statistiques fortes grâce à sa nature aléatoire. Curieusement, une telle approche explorée pour les motifs ensemblistes et les sous-graphes ne l'a pas encore été pour les données séquentielles. Dans cet article, nous proposons la première méthode d'échantillonnage de motifs séquentiels. Outre le passage aux séquences, l'originalité de notre approche est d'introduire une contrainte sur la norme pour maîtriser la longueur des motifs tirés et éviter l'écueil de la « longue traîne ». Nous démontrons que notre méthode fondée sur une procédure aléatoire en deux étapes effectue un tirage exact. Malgré le recours à un échantillonnage avec rejet, les expérimentations montrent qu'elle reste performante.",
+"authors": "Lamine Diop, Cheikh Talibouya Diop, Arnaud Giacometti, Dominique Li, Arnaud Soulet",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1002367",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1002367",
+"metaSession": "3",
+"place": "Paris",
+"Latitude": " 48.8557 ",
+"Longitude": "2.3511"
+}

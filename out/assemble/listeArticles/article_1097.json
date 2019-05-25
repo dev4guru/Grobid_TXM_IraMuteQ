@@ -1,0 +1,13 @@
+{	 "idArt" : "1097",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2004",
+	 "place" : "Clermont-Ferrand",
+	 "location" : { "lat" :  45.77722199999999, 
+		 "lon" : 3.087025 }, 
+	 "title" : "Une approche probabiliste pour le classement d'objets incomplets dans un arbre de décision",
+	 "authors" : ["Lamis Hawarah","Ana Simonet","Michel Simonet"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1001029" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1001029" 
+} 
+ 

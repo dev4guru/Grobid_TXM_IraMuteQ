@@ -1,0 +1,22 @@
+{
+"year": "2012",
+"metaSession": "",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1001206",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1001206",
+"abstract": "",
+"title": "Extraction incrémentale de séquences fréquentes dans un flux d'itemsets",
+"placeAut":[{
+"place":"Rennes",
+"country":"France",
+"location":{
+	"lat":"48.117266",
+	"lon":"-1.6777926"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 44.837789, u'lon': -0.57918}",
+"place": "Bordeaux",
+"booktitle": "EGC",
+"idArt": "241",
+"authors": "['Thomas Guyet','Rene Quiniou']"
+}

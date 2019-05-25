@@ -1,0 +1,14 @@
+{	 "idArt" : "400",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2010",
+	 "place" : "Hammamet",
+	 "location" : { "lat" :  36.4, 
+		 "lon" : 10.616667 }, 
+	 "title" : "Classification de documents : calcul d'une distance structurelle",
+	 "abstract" : "La classification des documents numériques garantit un accès rapideet ciblé à l'information. Si nous considérons qu'un document est représenté parsa ou ses structures, définir des classes de documents revient à définir desclasses de structures. Une classe structurelle représente donc des structures« proches ». Ainsi, associer la structure d'un document à sa classe structurellerevient à calculer une distance dite « structurelle ». Elle tiendra compte à lafois de l'organisation des éléments (position des noeuds, chemin), du coûtd'adaptation des représentants des classes ainsi que de la représentativité dessous-graphes. Sur un corpus de documents représentant des notices de livresissus de la bibliothèque de l'université, nous discuterons de la construction decette distance, de l'intérêt de chacun des trois paramètres utilisés",
+	 "authors" : ["Karim Djemal","Chantal Soulé-Dupuy","Nathalie Vallès-Parlangeau"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1001369" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1001369" 
+} 
+ 

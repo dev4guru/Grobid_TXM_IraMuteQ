@@ -1,0 +1,22 @@
+{
+"year": "2005",
+"metaSession": "2",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1000172",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1000172",
+"abstract": "Cet article présente une application en grandeur réelle des arbres de classification dans un contexte non classificatoire. Les arbres générés visent à mettre en lumière les différences régionales dans la façon dont les femmes décident de leur participation au marché du travail. L'accent est donc mis sur la capacité descriptive plutôt que prédictive des arbres. L'application porte sur des données relatives à la participation féminine au marché du travail issues du Recensement Suisse de la Population de l'an 2000. Ce vaste ensemble de données a été analysé en deux phases. Un premier arbre exploratoire a mis en évidence la nécessité de procéder à des études séparées pour les non mères, les mères mariées ou veuves, et les mères célibataires ou divorcées. Nous nous limitons ici aux résultats de ce dernier groupe, pour lequel nous avons généré un arbre séparé pour chacune des trois régions linguistiques principales. Les arbres obtenus font apparaître des différences culturelles fondamentales entre régions. Du point de vue méthodologique, la principale difficulté de cet usage non classificatoire des arbres concerne leur validation, puisque le taux d'erreur de classification généralement retenu perd tout son sens dans ce contexte. Nous commentons cet aspect et illustrons l'usage d'alternatives plus pertinentes et facilement calculables.",
+"title": "Usage non classificatoire d'arbres de classification : enseignements d'une analyse de la participation féminine à l'emploi en Suisse",
+"placeAut":[{
+"place":"Bellinzona",
+"country":"Suisse",
+"location":{
+	"lat":"46.1984944",
+	"lon":"9.0269178"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 48.856614, u'lon': 2.3522219}",
+"place": "Paris",
+"booktitle": "EGC",
+"idArt": "1017",
+"authors": "['Gilbert Ritschard','Pau Origoni','Fabio B. Losa']"
+}

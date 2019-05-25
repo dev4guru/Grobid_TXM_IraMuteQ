@@ -1,0 +1,9 @@
+{	 "idArt" : "1069",
+	 "placeAut" : [ 
+		{ "place" : "Issy-les-Moulineaux",
+		 "country" : "France",
+		 "location" : { "lat" :  48.8245306, 
+			 "lon" : 2.2743418999999676 } }
+	 ]
+} 
+ 

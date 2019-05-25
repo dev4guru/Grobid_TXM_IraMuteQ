@@ -1,0 +1,22 @@
+{
+"year": "2010",
+"metaSession": "6",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1001284",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1001284",
+"abstract": "Having effective and efficient methods to get access to desired imagesis essential nowadays with the huge amount of digital images. This paperpresents an analogy between content-based image retrieval and text retrieval.We make this analogy from pixels to letters, patches to words, sets of patchesto phrases, and groups of sets of patches to sentences. To achieve a more accuratedocument matching, more informative features including phrases and sentencesare needed to improve these scenarios. The proposed approach is basedfirst on constructing different visual words using local patch extraction and description.After that, we study different association rules between frequent visualwords in the context of local regions in the image to construct visual phrases,which will be grouped to different sentences.",
+"title": "Visual Sentence-Phrase-Based Document Representation for Effective and Efficient Content-Based Image Retrieval",
+"placeAut":[{
+"place":"Lille",
+"country":"France",
+"location":{
+	"lat":"50.62925",
+	"lon":"3.057256"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 36.4, u'lon': 10.616667}",
+"place": "Hammamet",
+"booktitle": "EGC",
+"idArt": "488",
+"authors": "['Ismail Elsayad','Jean Martinet','Thierry Urruty','Chabane Djeraba']"
+}

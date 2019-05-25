@@ -1,0 +1,14 @@
+{	 "idArt" : "669",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC ",
+	 "year" : "2008",
+	 "place" : "Sophia Antipolis",
+	 "location" : { "lat" :  43.6163539, 
+		 "lon" : 7.0552218 }, 
+	 "title" : "Vers l'exploitation de grandes masses de données",
+	 "abstract" : "Une tendance lourde depuis la fin du siècle dernier est l'augmentation exponentielle du volume des données stockées. Cette augmentation ne se traduit pas nécessairement par une information plus riche puisque la capacité à traiter ces données ne progresse pas aussi rapidement. Avec les technologies actuelles, un difficile compromis doit être trouvé entre le coût de mise en oeuvre et la qualité de l'information produite. Nous proposons une approche industrielle permettant d'augmenter considérablement notre capacité à transformer des données en information grâce à l'automatisation des traitements et à la focalisation sur les seules données pertinentes.",
+	 "authors" : ["Raphaël Feraud","Marc Boullé","Fabrice Clérot","Françoise Fessant"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1000609" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1000609" 
+} 
+ 

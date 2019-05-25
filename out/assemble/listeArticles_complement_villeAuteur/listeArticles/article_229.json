@@ -1,0 +1,14 @@
+{	 "idArt" : "229",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2012",
+	 "place" : "Bordeaux",
+	 "location" : { "lat" :  44.837789, 
+		 "lon" : -0.57918 }, 
+	 "title" : "Détection non supervisée d'une sous-population par méthode d'ensemble et changement de représentation itératif",
+	 "abstract" : "L'apprentissage non supervisé a classiquement pour objectif la détectionde sous-populations homogènes (classes) considérées de manière équivalentesans information a priori sur celles-ci. Le problème étudié dans cet articleest quelque peu distinct. On se focalise ici uniquement sur une sous-populationd'intérêt que l'on cherche à identifier avec un rappel et une précision optimales.Nous proposons, pour cela, une méthode s'appuyant sur les principes suivants :(1) travailler dans l'espace de représentation fourni par des experts faibles pourcette tâche, (2) confronter ces experts pour détecter des seuils de sélection pluspertinents, et (3) les combiner itérativement afin de converger vers l'expert idéal.Cette méthode est éprouvée et comparée sur des données synthétiques.",
+	 "authors" : ["Christine Martin","Antoine Cornuéjols"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1001195" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1001195" 
+} 
+ 

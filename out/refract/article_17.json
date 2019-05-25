@@ -1,0 +1,22 @@
+{
+"year": "2015",
+"metaSession": "6",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1002080",
+"pdfarticle": "",
+"abstract": "La modularisation de grands graphes ou recherche de communautés est abordée comme l'optimisation d'un critère de qualité, l'un des plus utilisés étant la modularité de Newman-Girvan. D'autres critères, ayant d'autres propriétés, aboutissent à des solutions différentes. Dans cet article, nous présentons une réécriture relationnelle de six critères linéaires: Zahn-Condorcet, Owsi´nski- Zadro&#729;zny, l'Ecart à l'Uniformité, l'Ecart à l'Indétermination et la Modularité Equilibrée. Nous utilisons une version générique de l'algorithme d'optimisation de Louvain pour approcher la partition optimale pour chaque critère sur des réseaux réels de différentes tailles. Les partitions obtenues présentent des caractéristiques différentes, concernant notamment le nombre de classes. Le formalisme relationnel nous permet de justifier ces différences d'un point de vue théorique. En outre, cette notation permet d'identifier facilement les critères ayant une limite de résolution (phénomène qui empêche en pratique la détection de petites communautés sur de grands graphes). Une étude de la qualité des partitions trouvées dans les graphes synthétiques LFR permet de confirmer ces résultats.",
+"title": "Comparison of linear modularization criteria using the relational formalism, an approach to easily identify resolution limit",
+"placeAut":[{
+"place":"Villetaneuse",
+"country":"France",
+"location":{
+	"lat":"48.963476",
+	"lon":"2.347354"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 49.815273, u'lon': 6.129582999999999}",
+"place": "Luxembourg",
+"booktitle": "EGC",
+"idArt": "17",
+"authors": "['Patricia Conde-Céspedes','Jean-François Marcotorchino','Emmanuel Viennet']"
+}

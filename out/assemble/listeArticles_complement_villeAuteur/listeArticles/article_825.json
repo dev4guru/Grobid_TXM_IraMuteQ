@@ -1,0 +1,14 @@
+{	 "idArt" : "825",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2006",
+	 "place" : "Lille",
+	 "location" : { "lat" :  50.62925, 
+		 "lon" : 3.057256 }, 
+	 "title" : "Interrogation et Vérification de documents OWL dans le modèle des Graphes Conceptuels",
+	 "abstract" : "OWL est un langage pour la description d'ontologies sur le Web. Cependant,en tant que langage, OWL ne fournit aucun moyen pour interpréter lesontologies qu'il décrit, et étant orienté machine, il reste difficilement compréhensiblepar l'humain. On propose une approche de visualisation, d'interrogationet de vérification de documents OWL, regroupées dans un unique environnementgraphique : le modèle des graphes conceptuels.",
+	 "authors" : ["Thomas Raimbault","Henri Briand","Rémi Lehn","Stéphane Loiseau"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1000342" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1000342" 
+} 
+ 

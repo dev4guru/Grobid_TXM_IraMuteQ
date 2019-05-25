@@ -1,0 +1,9 @@
+{	 "idArt" : "79",
+	 "placeAut" : [ 
+		{ "place" : "Troy",
+		 "country" : "USA",
+		 "location" : { "lat" :  48.480278, 
+			 "lon" : -115.90361000000001 } }
+	 ]
+} 
+ 

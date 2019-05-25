@@ -1,0 +1,14 @@
+{	 "idArt" : "516",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2009",
+	 "place" : "Strasbourg",
+	 "location" : { "lat" :  48.5734053, 
+		 "lon" : 7.752111299999999 }, 
+	 "title" : "De l'utilisation de l'Analyse de Données Symboliques dans les Systèmes multi-agents",
+	 "abstract" : "L'exploitation en temps réel de connaissances complexes est un défidans de nombreux domaines, tels que le web sémantique, la simulation ou lessystèmes multi-agents (SMA). Dans le paradigme multi-agents, des travaux ré-cents montrent que les communications multi-parties (CMP) offrent des oppor-tunités intéressantes en termes de réalisme des communications, diffusion desconnaissances et sémantique des actes de langage. Cependant, ces travaux seheurtent à la difficulté de mise en oeuvre des CMP, pour lesquelles les supportsde communications classiques sont insuffisants. Dans cet article, nous propo-sons d'utiliser le formalisme de l'Analyse de Données Symboliques (ADS) pourmodéliser les informations et les besoins des agents. Nous appuyons le routagedes messages sur cette modélisation dans le cadre d'un environnement de com-munication pour les systèmes multi-agents. Afin d'illustrer notre propos, nousutiliserons l'exemple de la gestion des communications dans un poste d'appelsd'urgence. Nous présentons ensuite notre retour d'expérience, et discutons lesperspectives ouvertes par la fertilisation croisée de l'ADS et des SMA.",
+	 "authors" : ["Flavien Balbo","Julien Saunier","Edwin Diday","Suzanne Pinson"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1000746" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1000746" 
+} 
+ 

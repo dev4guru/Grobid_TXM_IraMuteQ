@@ -1,0 +1,22 @@
+{
+"year": "2012",
+"metaSession": "2",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1001187",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1001187",
+"abstract": "Nous proposons dans ce papier un nouvel algorithme de classificationnon supervisée à base de modèle de mélange topologique pour des donnéesnon i.i.d (non independently and identically distributed). Ce nouveau paradigmeprobabiliste, plonge les cartes topologiques probabilistes dans une formulationsous forme de chaînes de Markov cachées. Dans cette formulation, la générationd'une observation à un instant donné du temps est conditionnée par les étatsvoisins au même instant du temps. Ainsi, une grande proximité impliquera unegrande probabilité pour la contribution à la génération. L'approche proposée estévaluée en utilisant des données séquentielles réelles issues des bases de donnéesde l'Institut Nationale de l'Audiovisuel (INA). Les résultats obtenus sonttrès encourageants et prometteurs.",
+"title": "Classification probabiliste non supervisée et visualisation des données séquentielles",
+"placeAut":[{
+"place":"Villetaneuse",
+"country":"France",
+"location":{
+	"lat":"48.963476",
+	"lon":"2.347354"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 44.837789, u'lon': -0.57918}",
+"place": "Bordeaux",
+"booktitle": "EGC",
+"idArt": "219",
+"authors": "['Rakia Jaziri','Mustapha Lebbah','Younès Bennani']"
+}

@@ -1,0 +1,14 @@
+{	 "idArt" : "214",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2012",
+	 "place" : "Bordeaux",
+	 "location" : { "lat" :  44.837789, 
+		 "lon" : -0.57918 }, 
+	 "title" : "Biological event extraction using SVM and composite kernel function",
+	 "abstract" : "With an overwhelming of experimental and computational results inmolecular biology, there is an increasing interest to provide tools that will automaticallyextract structured biological information recorded in freely availabletext. Extraction of named entities such as protein, gene or disease names andof simple relations of these entities, such as statements of protein-protein interactionshas gained certain success, and now the new focus research has beenmoving to higher level of information extraction such as co-reference resolutionand event extraction. It is precisely the last of these tasks which will be focusedin this paper. The biological event template allows detailed representations ofcomplex natural language statements, which is specified by a trigger and argumentslabeled by semantic roles.In this paper, we have developed a biological event extraction approach whichuses Support Vector Machines (SVM) and a suitable composite kernel functionto identify triggers and to assign the corresponding arguments. Also, we makeuse of a number of features based on both syntactic and contextual informationwhich where automatically learned from the training data.We implemented our event extraction system using the state-of-the-art of NLPtools. We achieved competitive results compared to the BioNLP'09 Shared taskbenchmark.",
+	 "authors" : ["Maha Amami","Aymen Elkhlifi","Rim Faiz"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1001150" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1001150" 
+} 
+ 

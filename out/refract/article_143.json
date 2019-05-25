@@ -1,0 +1,22 @@
+{
+"year": "2014",
+"metaSession": "3",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1001951",
+"pdfarticle": "",
+"abstract": "Nous proposons dans cet article une nouvelle approche croisant destechniques de programmation par contraintes et de fouille pour l'extraction demotifs séquentiels. Le modèle que nous proposons offre un cadre générique etdéclaratif pour modéliser et résoudre des contraintes de nature hétérogène",
+"title": "Une approche PPC pour la fouille de données séquentielles",
+"placeAut":[{
+"place":"Caen",
+"country":"France",
+"location":{
+	"lat":"49.182863",
+	"lon":"-0.370679"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 48.117266, u'lon': -1.6777926}",
+"place": "Rennes",
+"booktitle": "EGC",
+"idArt": "143",
+"authors": "['Jean-Philippe Métivier','Samir Loudni','Thierry Charnois']"
+}

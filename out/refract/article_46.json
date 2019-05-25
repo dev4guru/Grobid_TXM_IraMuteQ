@@ -1,0 +1,22 @@
+{
+"year": "2015",
+"metaSession": "3",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1002094",
+"pdfarticle": "",
+"abstract": "Remplacer des hypothèses sur le modèle de données par des informations mesurées sur les données réelles est l'une des forces de la fouille de données. Cet article étudie cet ajustement entre les données et les méthodes de découverte de motifs pour en évaluer la qualité et la complexité. Nous formalisons ce lien entre données et mesures d'intérêt en identifiant les motifs liés qui sont ceux nécessaires pour l'évaluation d'une mesure ou d'une contrainte. Nous formulons alors trois axiomes que devraient satisfaire ces motifs liés pour qu'une méthode d'extraction se comporte bien. En outre, nous définissons la complexité en évaluation qui quantifie finement l'interrelation entre les motifs au sein d'une méthode d'extraction. A la lumière de ces axiomes et de cette complexité en évaluation, nous dressons une typologie de multiples méthodes de découverte de motifs impliquant la fréquence.",
+"title": "Qualité et complexité en évaluation des mesures d'intérêt",
+"placeAut":[{
+"place":"Caen",
+"country":"France",
+"location":{
+	"lat":"49.182863",
+	"lon":"-0.370679"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 49.815273, u'lon': 6.129582999999999}",
+"place": "Luxembourg",
+"booktitle": "EGC",
+"idArt": "46",
+"authors": "['Bruno Crémilleux','Arnaud Giacometti','Arnaud Soulet']"
+}

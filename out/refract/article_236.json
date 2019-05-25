@@ -1,0 +1,22 @@
+{
+"year": "2012",
+"metaSession": "7",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1001174",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1001174",
+"abstract": "Cet article présente FLMin, une nouvelle méthode d'extraction de motifsfréquents dans les réseaux sociaux. Contrairement aux méthodes traditionnellesqui s'intéressent uniquement aux régularités structurelles, l'originalité denotre approche réside dans sa capacité à exploiter la structure et les attributs desnoeuds pour extraire des régularités, que nous appelons liens fréquents, dansles liens entre des noeuds partageant des caractéristiques communes.",
+"title": "Extraction de Liens Fréquents dans les Réseaux Sociaux",
+"placeAut":[{
+"place":"Pointe-à-Pitre",
+"country":"France",
+"location":{
+	"lat":"44.079822",
+	"lon":"1.989462"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 44.837789, u'lon': -0.57918}",
+"place": "Bordeaux",
+"booktitle": "EGC",
+"idArt": "236",
+"authors": "['Erick Stattner','Martine Collard']"
+}

@@ -1,0 +1,14 @@
+{	 "idArt" : "362",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2011",
+	 "place" : "Brest",
+	 "location" : { "lat" :  48.390394, 
+		 "lon" : -4.486076 }, 
+	 "title" : "Un cycle de vie complet pour l'enrichissement sémantique des folksonomies",
+	 "abstract" : "Les tags fournis par les utilisateurs des plateformes de tagging social ne sont pas explicitement liés sémantiquement, et ceci limite considérablement les possibilités d'exploitation de ces données. Nous présentons dans cet article notre approche pour l'enrichissement sémantiques des folksonomies qui intègre une combinaison de traitements automatiques ainsi que la capture des contributions de structuration des utilisateurs via une interface ergonomique. De plus, notre modèle supporte les points de vue qui divergent tout en permettant de les combiner en respectant leur cohérence locale. Cette approche s'adresse aux communautés de connaissances collaborant en ligne, et en intégrant leurs usages, nous sommes en mesure de proposer un cycle de vie complet pour le processus de structuration sémantique des folksonomies. La navigation dans les données de tagging est ainsi améliorée, et les folksonomies peuvent alors être directement intégrées dans la construction de thesauri.",
+	 "authors" : ["Freddy Limpens","Fabien Gandon","Michel Buffa"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1000990" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1000990" 
+} 
+ 

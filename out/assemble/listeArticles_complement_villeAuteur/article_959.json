@@ -1,0 +1,13 @@
+{	 "idArt" : "959",
+	 "placeAut" : [ 
+		{ "place" : "Paris",
+		 "country" : "France",
+		 "location" : { "lat" :  48.856614, 
+			 "lon" : 2.3522219000000177 } },
+		{ "place" : "Metz",
+		 "country" : "France",
+		 "location" : { "lat" :  49.1193089, 
+			 "lon" : 6.1757155999999895 } }
+	 ]
+} 
+ 

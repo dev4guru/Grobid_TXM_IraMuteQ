@@ -1,0 +1,9 @@
+{	 "idArt" : "434",
+	 "placeAut" : [ 
+		{ "place" : "Rennes",
+		 "country" : "France",
+		 "location" : { "lat" :  48.117266, 
+			 "lon" : -1.6777925999999752 } }
+	 ]
+} 
+ 

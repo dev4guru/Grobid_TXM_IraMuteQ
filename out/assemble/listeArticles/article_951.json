@@ -1,0 +1,14 @@
+{	 "idArt" : "951",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2005",
+	 "place" : "Paris",
+	 "location" : { "lat" :  48.856614, 
+		 "lon" : 2.3522219 }, 
+	 "title" : "Classification d'un tableau de contingence et modèle probabiliste",
+	 "abstract" : "Les modèles de mélange, qui supposent que l'échantillon est formé de sous-populations caractérisées par une distribution de probabilité, constitue un support théorique intéressant pour étudier la classification automatique. On peut ainsi montrer que l'algorithme des k-means peut être vu comme une version classifiante de l'algorithme d'estimation EM dans un cas particulièrement simple de mélange de lois normales. Lorsque l'on cherche à classifier les lignes (ou les colonnes) d'un tableau de contingence, il est possible d'utiliser une variante de l'algorithme des k-means, appelé Mndki2, en s'appuyant sur la notion de profil et sur la distance du khi-2. On obtient ainsi une méthode simple et efficace pouvant s'utiliser conjointement à l'analyse factorielle des correspondances qui s'appuie sur la même représentation des données. Malheureusement et contrairement à l'algorithme des k-means classique, les liens qui existent entre les modèles de mélange et la classification ne s'appliquent pas directement à cette situation. Dans ce travail, nous montrons que l'algorithme Mndki2 peut être associé, à une approximation près, à un modèle de mélange de lois multinomiales.",
+	 "authors" : ["Gérard Govaert","Mohamed Nadif"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1000251" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1000251" 
+} 
+ 

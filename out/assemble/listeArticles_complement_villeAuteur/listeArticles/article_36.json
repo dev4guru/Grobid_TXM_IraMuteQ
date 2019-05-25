@@ -1,0 +1,13 @@
+{	 "idArt" : "36",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2015",
+	 "place" : "Luxembourg",
+	 "location" : { "lat" :  49.815273, 
+		 "lon" : 6.129582999999999 }, 
+	 "title" : "Linked Data Annotation and Fusion driven by Data Quality Evaluation",
+	 "abstract" : "Dans cet article nous présentons une approche de fusion de données fondée sur l'utilisation d'informations sur la qualité des données pour résoudre les éventuels conflits entre valeurs.",
+	 "authors" : ["Ioanna Giannopoulou","Fatiha Saïs","Rallou Thomopoulos"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1002086" 
+} 
+ 

@@ -1,0 +1,22 @@
+{
+"year": "2006",
+"metaSession": "3",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1000412",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1000412",
+"abstract": "La communauté de fouille de données a développé un grand nombre d'indices permettantde mesurer la qualité des règles d'association (RA) selon diverses sémantiques (Guillet,2004). Cependant ces sémantiques, qui permettent d'interpréter les règles simples, s'avèrentd'utilisation trop complexe pour un expert dans le cas de règles à prémisse composée. Notreobjectif est donc de sélectionner les règles à prémisse composée de type AB&#8594;C quiapportent une information supplémentaire à celle des règles simples A&#8594;C et B&#8594;C. Pourcela nous définissons un indice de gain d'une règle composée par rapport aux règles simples.Dans l'application présentée, nous extrayons des RA de résultats de classifications pouren faciliter l'analyse . Le gain a permis de filtrer des règles d'interprétation simple",
+"title": "Règles d'association avec une prémisse composée : Mesure du gain d'information.",
+"placeAut":[{
+"place":"Vandoeuvre-lès-Nancy",
+"country":"France",
+"location":{
+	"lat":"48.661118",
+	"lon":"6.17376"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 50.62925, u'lon': 3.057256}",
+"place": "Lille",
+"booktitle": "EGC",
+"idArt": "843",
+"authors": "['Martine Cadot','Pascal Cuxac','Claire François']"
+}

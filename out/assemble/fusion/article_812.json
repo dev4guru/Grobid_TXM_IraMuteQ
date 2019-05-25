@@ -1,0 +1,22 @@
+{
+"year": "2006",
+"metaSession": "2",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1000380",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1000380",
+"abstract": "Nous présentons un système pour l'inférence de programmes d'extraction de relations dans les documents Web. Il utilise les vues textuelle et structurelle sur les documents. L'extraction des relations est incrémentale et utilise des méthodes de composition et d'enrichissement. Nous montrons que notre système est capable d'extraire des relations pour les organisations existantes dans les documents Web (listes,  tables, tables tournées, tables croisées).",
+"title": "Extraction de relations dans les documents Web",
+"placeAut":[{
+"place":"Villeneuve dAscq",
+"country":"France",
+"location":{
+	"lat":"50.6232523",
+	"lon":"3.1442651"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 50.62925, u'lon': 3.057256}",
+"place": "Lille",
+"booktitle": "EGC",
+"idArt": "812",
+"authors": "['Rémi Gilleron','Patrick Marty','Marc Tommasi','Fabien Torre']"
+}

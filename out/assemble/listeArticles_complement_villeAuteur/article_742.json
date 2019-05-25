@@ -1,0 +1,9 @@
+{	 "idArt" : "742",
+	 "placeAut" : [ 
+		{ "place" : "Casablanca",
+		 "country" : "Maroc",
+		 "location" : { "lat" :  33.5731104, 
+			 "lon" : -7.589843400000063 } }
+	 ]
+} 
+ 

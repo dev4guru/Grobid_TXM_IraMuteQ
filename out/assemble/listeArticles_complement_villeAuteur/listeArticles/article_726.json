@@ -1,0 +1,14 @@
+{	 "idArt" : "726",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2007",
+	 "place" : "Namur",
+	 "location" : { "lat" :  50.4673883, 
+		 "lon" : 4.8719854 }, 
+	 "title" : "Notion de conversation dans les communications interpersonnelles instantanées sur IP",
+	 "abstract" : "Dans cet article nous étudions la contribution des techniques de fouille de données à l'amélioration des services de communications instantanées sur IP tel que la messagerie instantanée (IM) et la téléphonie sur IP (ToIP).",
+	 "authors" : ["Alexandre Bouchacourt","Luigi Lancieri"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1001359" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1001359" 
+} 
+ 

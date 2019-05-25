@@ -1,0 +1,13 @@
+{	 "idArt" : "326",
+	 "placeAut" : [ 
+		{ "place" : "Commercy",
+		 "country" : "France",
+		 "location" : { "lat" :  48.763802, 
+			 "lon" : 5.592348000000015 } },
+		{ "place" : "Vandoeuvre-les-Nancy",
+		 "country" : "France",
+		 "location" : { "lat" :  48.66111799999999, 
+			 "lon" : 6.173760000000016 } }
+	 ]
+} 
+ 

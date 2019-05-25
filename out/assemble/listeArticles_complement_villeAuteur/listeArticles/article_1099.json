@@ -1,0 +1,14 @@
+{	 "idArt" : "1099",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2004",
+	 "place" : "Clermont-Ferrand",
+	 "location" : { "lat" :  45.77722199999999, 
+		 "lon" : 3.087025 }, 
+	 "title" : "Une méthode pour l'appropriation de savoir-faire, capitalisé avec MASK",
+	 "abstract" : "La gestion explicite des savoirs et savoir-faire occupe une place de plus en plus importante dans les organisations. La construction de mémoires d'entreprise dans un but de préservation et de partage est devenu une pratique assez courante. Cependant, on oublie trop suivent que l'efficacité de ces activités est étroitement liée aux capacités d'appropriation et d'apprentissage des acteurs de l'organisation.Dans cet article, nous proposons des démarches générales d'accompagnement permettant de faciliter le processus d'appropriation des mémoires d'entreprise construits avec la méthode MASK, en exploitant des techniques d'ingénierie pédagogique.",
+	 "authors" : ["Oswaldo Castillo","Nada Matta","Jean-Louis Ermine"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1000911" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1000911" 
+} 
+ 

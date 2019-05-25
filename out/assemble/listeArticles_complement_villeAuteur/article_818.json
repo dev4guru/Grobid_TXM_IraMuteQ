@@ -1,0 +1,9 @@
+{	 "idArt" : "818",
+	 "placeAut" : [ 
+		{ "place" : "Helsinki",
+		 "country" : "Finlande",
+		 "location" : { "lat" :  60.17332440000001, 
+			 "lon" : 24.941024800000037 } }
+	 ]
+} 
+ 

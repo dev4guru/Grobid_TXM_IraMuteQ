@@ -1,0 +1,14 @@
+{	 "idArt" : "921",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "AEGC",
+	 "year" : "2005",
+	 "place" : "Paris",
+	 "location" : { "lat" :  48.856614, 
+		 "lon" : 2.3522219 }, 
+	 "title" : "Service de Cache pour les Grilles de Calcul",
+	 "abstract" : "Nous proposons un système fédérateur de caches pour les grilles que les applications de la grille utilisent comme un service de cache uniforme. Le système est fondé sur le concept de l'activité de données où les applications partagent et réutilisent l'information sémantique liée à l'activité des données sous la forme de métadonnées. Ces métadonnées représentent la connaissance sur les données et sur leur gestion. Elles permettent d'optimiser, suivant le contenu et l'utilisation de ces données, leur placement, leur recherche, leur durée de vie et leur pertinence vis-à-vis de leur exploitation.",
+	 "authors" : ["Yonny Cardenas","Jean-Marc Pierson","Lionel Brunie"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1000257" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1000257" 
+} 
+ 

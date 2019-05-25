@@ -1,0 +1,9 @@
+{	 "idArt" : "253",
+	 "placeAut" : [ 
+		{ "place" : "Bari",
+		 "country" : "Italie",
+		 "location" : { "lat" :  41.1171432, 
+			 "lon" : 16.871871499999997 } }
+	 ]
+} 
+ 

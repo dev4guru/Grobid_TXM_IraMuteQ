@@ -1,0 +1,13 @@
+{	 "idArt" : "81",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2014",
+	 "place" : "Rennes",
+	 "location" : { "lat" :  48.117266, 
+		 "lon" : -1.6777926 }, 
+	 "title" : "Classification et prédiction du flux solaire",
+	 "abstract" : "La prédiction du rayonnement solaire horaire dans une journée estun enjeu primordial pour la production d'énergie de type photovoltaïque. Nousprésentons deux stratégies de classification des jours selon leurs rayonnementssolaires puis une méthode de prédiction du flux solaire cohérente avec la classification.",
+	 "authors" : ["Henri Ralambondrainy","Yves Lechevallier","Jean Daniel Lan-Sun-Luk","Jean-Pierre Chabriat"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1001962" 
+} 
+ 

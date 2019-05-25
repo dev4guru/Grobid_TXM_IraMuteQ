@@ -1,0 +1,22 @@
+{
+"year": "2008",
+"metaSession": "",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1000589",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1000589",
+"abstract": "Les systèmes de détection d'intrusions (SDIs) ont pour objectif la sécurité des réseaux informatiques. Dans ce papier, nous proposons une nouvelle approche de détection d'intrusions basée sur des règles associatives génériques de classification pour améliorer la qualité de la détection d'intrusions.",
+"title": "Proposition d'une nouvelle approche de détection d'intrusions basée sur les règles associatives génériques de classification",
+"placeAut":[{
+"place":"Tunis",
+"country":"Tunisie",
+"location":{
+	"lat":"36.8064948",
+	"lon":"10.1815316"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 43.6163539, u'lon': 7.0552218}",
+"place": "Sophia Antipolis",
+"booktitle": "EGC ",
+"idArt": "637",
+"authors": "['Imen Brahmi','Sadok Ben Yahia','Yahya Slimani']"
+}

@@ -1,0 +1,22 @@
+{
+"year": "2014",
+"metaSession": "",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1001968",
+"pdfarticle": "",
+"abstract": "Pour mieux analyser et extraire de la connaissance de flots de données,des approches spécifiques ont été proposées ces dernières années. L'un deschallenges auquel elles doivent faire face est la détection de changement dansles données. Alors que de plus en plus de données qualitatives sont générées,peu de travaux de recherche se sont intéressés à la détection de changement dansce contexte et les travaux existants se sont principalement focalisés sur la qualitéd'un modèle appris plutôt qu'au réel changement dans les données. Danscet article nous proposons une nouvelle méthode de détection de changementnon supervisée, appelée CDCStream (Change Detection in Categorical DataStreams), adaptée aux flux de données qualitatives.",
+"title": "Détection de changements dans des flots de données qualitatives",
+"placeAut":[{
+"place":"Montpellier",
+"country":"France",
+"location":{
+	"lat":"43.610769",
+	"lon":"3.876716"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 48.117266, u'lon': -1.6777926}",
+"place": "Rennes",
+"booktitle": "EGC",
+"idArt": "95",
+"authors": "['Dino Ienco','Albert Bifet','Bernhard Pfahringer','Pascal Poncelet']"
+}

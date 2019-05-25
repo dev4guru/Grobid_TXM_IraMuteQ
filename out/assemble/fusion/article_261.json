@@ -1,0 +1,22 @@
+{
+"year": "2012",
+"metaSession": "7",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1001193",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1001193",
+"abstract": "Plusieurs méthodes ont été développées ces dernières années pour détecter,dans un réseau social, les membres qualifiés, selon les auteurs, d'influenceurs,de médiateurs, d'ambassadeurs ou encore d'experts. Dans cet article, nousproposons un nouveau cadre méthodologique permettant d'identifier des diffuseursdans le contexte où seule l'information sur l'appartenance des membres duréseau à des communautés est disponible. Ce cadre, basé sur une représentationdu réseau sous forme d'hypergraphe, nous a permis de formaliser la notion dediffuseur et d'introduire l'algorithme TMD-MINER, dédié à la détection des diffuseurset basé sur les itemsets essentiels.",
+"title": "TMD-MINER : Une nouvelle approche pour la détection des diffuseurs dans un système communautaire",
+"placeAut":[{
+"place":"Saint-Etienne",
+"country":"France",
+"location":{
+	"lat":"45.439695",
+	"lon":"4.3871779"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 44.837789, u'lon': -0.57918}",
+"place": "Bordeaux",
+"booktitle": "EGC",
+"idArt": "261",
+"authors": "['Mohamed Nidhal Jelassi','Christine Largeron','Sadok Ben Yahia']"
+}

@@ -1,0 +1,22 @@
+{
+"year": "2010",
+"metaSession": "4",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1001277",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1001277",
+"abstract": "Plusieurs aspects pourraient influencer les systèmes d'apprentissage existants.Un de ces aspects est lié au déséquilibre des classes dans lequel le nombre d'observationsappartenant à une classe, dépasse fortement celui des observations dans les autresclasses. Dans ce type de cas assez fréquent, le système d'apprentissage a des difficultésau cours de la phase d'entraînement liées au déséquilibre inter-classe. Nous proposonsune méthode de sous-échantillonnage adaptatif pour traiter ce type de bases déséquilibrées.Le processus procède par le sous-échantillonnage des données majoritaires, guidépar les données minoritaires tout au long de la phase d'un apprentissage semi-supervisée.Nous utilisons comme modèle d'apprentissage les cartes auto-organisatrices. L'approcheproposée a été validée sur plusieurs bases de données en utilisant les arbres de décisioncomme classificateur avec une validation croisée. Les résultats expérimentaux ont montrédes performances très prometteuses.",
+"title": "Sous-échantillonnage topographique par apprentissage semi-supervisé",
+"placeAut":[{
+"place":"Villetaneuse",
+"country":"France",
+"location":{
+	"lat":"48.963476",
+	"lon":"2.347354"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 36.4, u'lon': 10.616667}",
+"place": "Hammamet",
+"booktitle": "EGC",
+"idArt": "473",
+"authors": "['Younès Bennani','Mustapha Lebbah']"
+}

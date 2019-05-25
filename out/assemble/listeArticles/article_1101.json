@@ -1,0 +1,14 @@
+{	 "idArt" : "1101",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2004",
+	 "place" : "Clermont-Ferrand",
+	 "location" : { "lat" :  45.77722199999999, 
+		 "lon" : 3.087025 }, 
+	 "title" : "Validation de graphes conceptuels",
+	 "abstract" : "Les travaux menés en validation des connaissances visent à améliorer la qualité des bases de connaissances. Le modèle des graphes conceptuels est un modèle de représentation des connaissances de la famille des réseaux sémantiques, fondé sur la théorie des graphes et sur la logique du premier ordre. Nous proposons une solution pour valider sémantiquement une base de connaissances composée de graphes conceptuels. La validation sémantique d'une base de connaissance consiste à confronter ses connaissances à des contraintes certifiées fiables. Nous proposons d'utiliser des contraintes descriptives, exprimées sous forme de graphes conceptuels, qui permettent de poser des conditions sur la représentation de certaines connaissance dans la base. Ces contraintes introduisent une notion de cardinalités, et sont soit minimales, soit maximales. Elles permettent respectivement d'exprimer si A, alors au moins ou au plus n fois B. La satisfaction de ces contraintes par une base de connaissances repose sur l'utilisation de l'opération de base du modèle des graphes conceptuels : la projection.",
+	 "authors" : ["Juliette Dibie-Barthélemy","Ollivier Haemmerlé","Eric Salvat"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1000913" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1000913" 
+} 
+ 

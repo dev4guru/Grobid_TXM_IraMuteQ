@@ -1,0 +1,9 @@
+{	 "idArt" : "790",
+	 "placeAut" : [ 
+		{ "place" : "Besançon",
+		 "country" : "France",
+		 "location" : { "lat" :  47.237829, 
+			 "lon" : 6.024053900000013 } }
+	 ]
+} 
+ 

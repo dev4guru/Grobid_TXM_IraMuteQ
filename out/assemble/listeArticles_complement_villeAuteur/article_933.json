@@ -1,0 +1,17 @@
+{	 "idArt" : "933",
+	 "placeAut" : [ 
+		{ "place" : "Yaoundé",
+		 "country" : "Cameroun",
+		 "location" : { "lat" :  3.866666999999999, 
+			 "lon" : 11.516666999999984 } },
+		{ "place" : "Brest",
+		 "country" : "France",
+		 "location" : { "lat" :  48.390394, 
+			 "lon" : -4.4860760000000255 } },
+		{ "place" : "Paris",
+		 "country" : "France",
+		 "location" : { "lat" :  48.856614, 
+			 "lon" : 2.3522219000000177 } }
+	 ]
+} 
+ 

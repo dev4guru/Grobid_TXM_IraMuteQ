@@ -1,0 +1,22 @@
+{
+"year": "2015",
+"metaSession": "1",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1002083",
+"pdfarticle": "",
+"abstract": "Cet article propose un langage générique d'interrogation pour le modèle des graphes conceptuels. D'abord, nous introduisons les graphes d'interrogation. Un graphe d'interrogation est utilisé pour exprimer un « ou » entre deux sous-graphes, ainsi qu'une « option » sur un sous-graphe optionnel. Ensuite, nous proposons quatre types de requêtes (interrogation, sélection, description et construction) en utilisant les graphes d'interrogation. Enfin, les réponses à ces requêtes sont calculées à partir d'une opération basée sur l'homomorphisme de graphe.",
+"title": "Un langage d'interrogation à la SPARQL pour les graphes conceptuels",
+"placeAut":[{
+"place":"Angers",
+"country":"France",
+"location":{
+	"lat":"47.478419",
+	"lon":"-0.563166"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 49.815273, u'lon': 6.129582999999999}",
+"place": "Luxembourg",
+"booktitle": "EGC",
+"idArt": "57",
+"authors": "['Marc Legeay','David Genest','Stéphane Loiseau']"
+}

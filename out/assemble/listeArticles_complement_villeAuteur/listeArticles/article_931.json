@@ -1,0 +1,14 @@
+{	 "idArt" : "931",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "AEGC",
+	 "year" : "2005",
+	 "place" : "Paris",
+	 "location" : { "lat" :  48.856614, 
+		 "lon" : 2.3522219 }, 
+	 "title" : "Vers une analyse de la dynamique des paramètres physiologiques en Unité de Soins Intensifs",
+	 "abstract" : "Le monitorage des paramètres physiologiques en milieu deRéanimation génère un flux abondant et continu de données. L'extraction et lasynthèse des informations sont une étape obligatoire pour tout système d'aide àla décision. L'Analyse de la Tendance Linéaire par Morceaux (A.T.L.M.) estune méthode originale d'analyse de la dynamique qui utilise deux niveauxd'interprétation. Le premier niveau, monoparamétrique, exprime la variationde chaque paramètre en quatre classes (constant, diminue, augmente,transitoire) selon la méthode décrite dans (Calvelo et al. 2001). Le secondniveau, multiparamétrique, définit le comportement du système par unevariable continue ; l'introduction de la connaissance du domaine est alorsnécessaire pour différencier des états. La combinaison des deux niveauxd'informations permet l'élaboration de scénarios. Le propos de ce documentest d'exposer la méthode sur des signaux simulés présentant des modificationspouvant s'observer en clinique et d'introduire les perspectives offertes par sonimplémentation en ligne.",
+	 "authors" : ["Samir Sharshar","M-C. Chambrin"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1000267" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1000267" 
+} 
+ 

@@ -1,0 +1,22 @@
+{
+"year": "2015",
+"metaSession": "4",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1002072",
+"pdfarticle": "",
+"abstract": "Actuellement, le clustering de flux de données devient le moyen le plus efficace pour partitionner un très grand ensemble de données. Dans cet article, nous présentons une nouvelle approche topologique, appelée G-Stream, pour le clustering de flux de données évolutives. La méthode proposée est une extension de l'algorithme GNG (Growing Neural Gas) pour gérer le flux de données. G-Stream permet de découvrir de manière incrémentale des clusters de formes arbitraires en ne faisant qu'une seule passe sur les données. Les performances de l'algorithme proposé sont évaluées à la fois sur des données synthétiques et réelles.",
+"title": "Clustering topologique pour le flux de données",
+"placeAut":[{
+"place":"Paris",
+"country":"France",
+"location":{
+	"lat":"48.856614",
+	"lon":"2.3522219"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 49.815273, u'lon': 6.129582999999999}",
+"place": "Luxembourg",
+"booktitle": "EGC",
+"idArt": "15",
+"authors": "['Mohammed Ghesmoune','Mustapha Lebbah','Hanane Azzag']"
+}

@@ -1,0 +1,14 @@
+{	 "idArt" : "924",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "AEGC",
+	 "year" : "2005",
+	 "place" : "Paris",
+	 "location" : { "lat" :  48.856614, 
+		 "lon" : 2.3522219 }, 
+	 "title" : "Un cadre pour l'étude des comportements sur une plate-forme pédagogique : du parcours individuel à la conscience du groupe",
+	 "abstract" : "Lorsqu'ils sont fortement prescriptifs, les Environnement Interactifspour l'Apprentissage Humain (EIAH) cloisonnent les utilisateurs entre eux.Pour mettre en valeur le travail de chacun, nous voulons faire prendreconscience aux utilisateurs qu'ils font partie d'un groupe qui a des intérêtsconvergents. Nous pensons qu'un système adaptatif est le support appropriépour faire émerger la prise de conscience d'un groupe et ainsi développer despratiques coopératives. Nous proposons de formaliser une architecture quidéfinit des services autonomes opérant en tâche de fond, pour extraire dusystème les données pertinentes déclenchant les mécanismes de signalisationadéquat. Notre support d'expérimentation est une plateforme pour la formationdes professeurs stagiaires de l'enseignement agricole public",
+	 "authors" : ["Pierre Camps","Marie-Françoise Canut","André Péninou","Florence Sedes"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1000254" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1000254" 
+} 
+ 

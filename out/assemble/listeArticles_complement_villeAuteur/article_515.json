@@ -1,0 +1,17 @@
+{	 "idArt" : "515",
+	 "placeAut" : [ 
+		{ "place" : "Bali",
+		 "country" : "Indonésie",
+		 "location" : { "lat" :  -8.4095178, 
+			 "lon" : 115.18891600000006 } },
+		{ "place" : "Montpellier",
+		 "country" : "France",
+		 "location" : { "lat" :  43.610769, 
+			 "lon" : 3.8767159999999876 } },
+		{ "place" : "Cergy-Pontoise",
+		 "country" : "France",
+		 "location" : { "lat" :  49.047117, 
+			 "lon" : 2.095950000000016 } }
+	 ]
+} 
+ 

@@ -1,0 +1,22 @@
+{
+"year": "2007",
+"metaSession": "10",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1001460",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1001460",
+"abstract": "Les bases de données issues du monde réel contiennent souvent de nombreuses informations non renseignées. Durant le processus d'extraction de connaissances dans les bases de données, une phase de traitement spécifique de ces données est souvent nécessaire, permettant de les supprimer ou de les compléter. Lors de l'extraction de séquences fréquentes, ces données incomplètes sont la plupart du temps occultées. Ceci conduit parfois à l'élimination de plus de la moitié de la base et l'information extraite n'est plus représentative. Nous proposons donc de ne plus éliminer les enregistrements incomplets, mais d'utiliser l'information partielle qu'ils contiennent. La méthode proposée ignore en fait temporairement certaines données incomplètes pour les séquences recherchées. Les expérimentations sur jeux de données synthétiques montrent la validité de notre proposition aussi bien en terme de qualité des motifs extraits que de robustesse aux valeurs manquantes.",
+"title": "SPoID : Extraction de motifs séquentiels pour les bases de données incomplètes",
+"placeAut":[{
+"place":"Montpellier",
+"country":"France",
+"location":{
+	"lat":"43.610769",
+	"lon":"3.876716"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 50.4673883, u'lon': 4.8719854}",
+"place": "Namur",
+"booktitle": "EGC",
+"idArt": "739",
+"authors": "['Céline Fiot','Anne Laurent','Maguelonne Teisseire']"
+}

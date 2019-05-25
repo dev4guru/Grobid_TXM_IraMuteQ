@@ -1,0 +1,14 @@
+{	 "idArt" : "346",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2011",
+	 "place" : "Brest",
+	 "location" : { "lat" :  48.390394, 
+		 "lon" : -4.486076 }, 
+	 "title" : "Pondération et classification simultanée de données binaires et continues",
+	 "abstract" : "Dans cet article, nous proposons une nouvelle approche de classification topologique et de pondération des variables mixtes (qualitatives et quantitatives codées en binaire) durant un processus d'apprentissage non supervisé. Cette approche est basée sur le modèle des cartes auto-organisatrices. L'apprentissage est combiné à un mécanisme de pondération des différentes variables sous forme de poids d'influence sur la pertinence des variables. L'apprentissage des pondérations et des prototypes est réalisé d'une manière simultanée en favorisant une classification optimisée des données. L'approche proposée a été validée sur des données qualitatives codées en binaire et plusieurs bases de données mixtes.",
+	 "authors" : ["Nicoleta Rogovschi","Mustapha Lebbah","Nistor Grozavu"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1000930" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1000930" 
+} 
+ 

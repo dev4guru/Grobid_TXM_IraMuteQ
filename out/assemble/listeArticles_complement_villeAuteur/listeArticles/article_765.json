@@ -1,0 +1,14 @@
+{	 "idArt" : "765",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2007",
+	 "place" : "Namur",
+	 "location" : { "lat" :  50.4673883, 
+		 "lon" : 4.8719854 }, 
+	 "title" : "Visualisation exploratoire des résultats d'algorithmes d'arbre de décision",
+	 "abstract" : "Nous présentons une méthode d'exploration des résultats des algorithmes d'apprentissage par arbre de décision (comme C4.5). La méthode présentée utilise simultanément une visualisation radiale, focus+context, fisheye et hiérarchique pour la représentation et l'exploration des résultats des algorithmes d'arbre de décision. L'utilisateur peut ainsi extraire facilement des règles d'induction et élaguer l'arbre obtenu dans une phase de post-traitement. Cela lui permet d'avoir une meilleure compréhension des résultats obtenus. Les résultats des tests numériques avec des ensembles de données réelles montrent que la méthode proposée permet une bien meilleure compréhension des résultats des arbres de décision.",
+	 "authors" : ["Thanh-Nghi Do","Nguyen-Khang Pham","François Poulet"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1001331" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1001331" 
+} 
+ 

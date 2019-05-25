@@ -1,0 +1,22 @@
+{
+"year": "2008",
+"metaSession": "0",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1000592",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1000592",
+"abstract": "Un problème majeur se pose dans le domaine des flux de données : la distribution sous-jacente des données peut changer sur le temps. Dans cet article, nous proposons trois stratégies de classification non supervisée basée sur des fenêtres superposées. Notre objectif est de pouvoir repérer ces changements dans le temps. Notre approche est appliquée sur un benchmark de données réelles et les conclusions obtenues sont basées sur deux indices de comparaison de partitions.",
+"title": "Stratégies de classification non supervisée basées sur fenêtres superposées : application aux données d'usage du Web",
+"placeAut":[{
+"place":"Le Chesnay",
+"country":"France",
+"location":{
+	"lat":"48.825415",
+	"lon":"2.130544"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 43.6163539, u'lon': 7.0552218}",
+"place": "Sophia Antipolis",
+"booktitle": "EGC ",
+"idArt": "648",
+"authors": "['Alzennyr Da Silva','Yves Lechevallier']"
+}

@@ -1,0 +1,22 @@
+{
+"year": "2008",
+"metaSession": "0",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1000598",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1000598",
+"abstract": "Khiops est un outil de préparation des données et de modélisation pour l'apprentissage supervisé et non supervisé. L'outil permet d'évaluer de façon non paramétrique la corrélation entre tous types de variables dans le cas non supervisé et l'importance prédictive des variables et paires de variables dans le cas de la classification supervisée. Ces évaluations sont effectuées au moyen de modèles de discrétisation dans le cas numérique et de groupement de valeurs dans le cas catégoriel, ce qui permet de rechercher une représentation des données efficace au moyen d'un recodage des variables. L'outil produit également un modèle de scoring pour les tâches d'apprentissage supervisé, selon un classifieur Bayesien naif avec sélection de variables et moyennage de modèles. L'outil est adapté à l'analyse des grandes bases de données, avec des centaines de milliers d'individus et des dizaines de milliers de variables, et a permis de participer avec succès à plusieurs challenges internationaux récents.",
+"title": "Khiops: outil de préparation et modélisation des données pour la fouille des grandes bases de données",
+"placeAut":[{
+"place":"Lannion",
+"country":"France",
+"location":{
+	"lat":"48.732084",
+	"lon":"-3.459144"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 43.6163539, u'lon': 7.0552218}",
+"place": "Sophia Antipolis",
+"booktitle": "EGC ",
+"idArt": "617",
+"authors": "Marc Boullé"
+}

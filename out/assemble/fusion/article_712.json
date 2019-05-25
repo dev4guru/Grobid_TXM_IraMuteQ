@@ -1,0 +1,22 @@
+{
+"year": "2007",
+"metaSession": "8",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1001395",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1001395",
+"abstract": "Dans cet article, nous proposons une solution pour la classification et le filtrage des sites Web à caractère violent. A la différence de la majorité de systèmes commerciaux basés essentiellement sur la détection de mots indicatifs ou l'utilisation d'une liste noire manuellement collectée, notre solution baptisée, WebAngels Filter, s'appuie sur un apprentissage automatique par des techniques de data mining et une analyse conjointe du contenu textuel et structurel de la page Web. Les résultats expérimentaux obtenus lors de l'évaluation de notre approche sur une base de test sont assez bons. Comparé avec des logiciels, parmi les plus populaires, WebAngels Filter montre sa performance en terme de classification.",
+"title": "Filtrage des sites Web à caractère violent par analyse du contenu textuel et structurel",
+"placeAut":[{
+"place":"Sfax",
+"country":"Tunisie",
+"location":{
+	"lat":"34.733333",
+	"lon":"10.766667"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 50.4673883, u'lon': 4.8719854}",
+"place": "Namur",
+"booktitle": "EGC",
+"idArt": "712",
+"authors": "['Abdelmajid Ben Hamadou','Mohamed Hammami','Radhouane Guermazi']"
+}

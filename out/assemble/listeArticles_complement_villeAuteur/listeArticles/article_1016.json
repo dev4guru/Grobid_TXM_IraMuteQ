@@ -1,0 +1,14 @@
+{	 "idArt" : "1016",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2005",
+	 "place" : "Paris",
+	 "location" : { "lat" :  48.856614, 
+		 "lon" : 2.3522219 }, 
+	 "title" : "Une méthode d'évaluation de la pertinence des pages Web dans WebSum",
+	 "abstract" : "Dans cet article nous présentons une méthode d'évaluation de la pertinence des pages Web retournées par un moteur de recherche.",
+	 "authors" : ["Olfa Jenhani el Jed"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1000312" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1000312" 
+} 
+ 

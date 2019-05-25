@@ -1,0 +1,13 @@
+{	 "idArt" : "763",
+	 "placeAut" : [ 
+		{ "place" : "Lens",
+		 "country" : "France",
+		 "location" : { "lat" :  50.42893000000001, 
+			 "lon" : 2.831829999999968 } },
+		{ "place" : "Tunis",
+		 "country" : "Tunisie",
+		 "location" : { "lat" :  36.8064948, 
+			 "lon" : 10.181531599999971 } }
+	 ]
+} 
+ 

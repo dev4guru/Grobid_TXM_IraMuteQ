@@ -1,0 +1,14 @@
+{	 "idArt" : "289",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2011",
+	 "place" : "Brest",
+	 "location" : { "lat" :  48.390394, 
+		 "lon" : -4.486076 }, 
+	 "title" : "Apport des données thématiques dans les systèmes de recommandation : hybridation et démarrage à froid",
+	 "abstract" : "Des travaux récents (Pilaszy et al., 2009) suggèrent que les métadonnées sont quasiment inutiles pour les systèmes de recommandation, y compris en situation de cold-start : les données de logs de notation sont beaucoup plus informatives. Nous étudions, sur une base de référence de logs d'usages pour la recommandation automatique de DVD (Netflix), les performances de systèmes de recommandation basés sur des sources de données collaboratives, thématiques et hybrides en situation de démarrage à froid (cold-start). Nous exhibons des cas expérimentaux où les métadonnées apportent plus que les données de logs d'usage (collaboratives) pour la performance prédictive. Pour gérer le cold-start d'un système de recommandation, nous montrons que des approches en cascade, thématiques puis hybrides, puis collaboratives, seraient plus appropriées.",
+	 "authors" : ["Frank Meyer","Éric Gaussier","Fabrice Clérot","Julien Schluth"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1000947" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1000947" 
+} 
+ 

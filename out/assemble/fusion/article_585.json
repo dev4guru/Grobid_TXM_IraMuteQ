@@ -1,0 +1,22 @@
+{
+"year": "2008",
+"metaSession": "6",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1000559",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1000559",
+"abstract": "Dans cet article, nous proposons une approche qui combine les méthodes statistiques avancées et la flexibilité des approches interactives manuelles en clustering visuel. Nous présentons l'interface Semi-Supervised Visual Clustering (SSVC). Sa contribution principale est l'apprentissage d'une métrique de projection optimale pour la visualisation en coordonnées en étoiles ainsi que pour l'extension 3D que nous avons développée. La métrique de distance de projection est apprise à partir des retours de l'utilisateur soit en termes de similarité/ dissimilarité entre les items, soit par l'annotation directe. L'interface SSVC permet, de plus, une utilisation hybride dans laquelle un ensemble de paramètres sont manuellement fixés par l'utilisateur tandis que les autres paramètres sont déterminés par un algorithme de distance optimale.",
+"title": "Clustering Visuel Semi-Supervisé pour des systèmes en coordonnées en étoiles 3D",
+"placeAut":[{
+"place":"Meylan",
+"country":"France",
+"location":{
+	"lat":"45.209786",
+	"lon":"5.777628"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 43.6163539, u'lon': 7.0552218}",
+"place": "Sophia Antipolis",
+"booktitle": "EGC ",
+"idArt": "585",
+"authors": "['Loïc Lecerf','Boris Chidlovskii']"
+}

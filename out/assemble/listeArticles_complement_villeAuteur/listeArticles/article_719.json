@@ -1,0 +1,14 @@
+{	 "idArt" : "719",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2007",
+	 "place" : "Namur",
+	 "location" : { "lat" :  50.4673883, 
+		 "lon" : 4.8719854 }, 
+	 "title" : "L'outil SDET pour le complètement des données descriptives liées aux bases de données géographiques",
+	 "abstract" : "L'enrichissement des bases de données est un moyen visant à offrir un supplément informationnel aux utilisateurs. Dans le cas des données géographiques, cette activité représente de nos jours un problème crucial. Sa résolution permettrait de meilleures prises de décisions ne reposant pas uniquement sur les informations limitées. Notre outil SDET (Semantic Data Enrichment Tool) vient proposer une solution d'enrichissement faisant du Système d'Information Géographiques (SIG) initial une source riche d'informations.",
+	 "authors" : ["Khaoula Mahmoudi","Sami Faiz"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1001337" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1001337" 
+} 
+ 

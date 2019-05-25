@@ -1,0 +1,9 @@
+{	 "idArt" : "581",
+	 "placeAut" : [ 
+		{ "place" : "Boulogne-Billancourt",
+		 "country" : "France",
+		 "location" : { "lat" :  48.8396952, 
+			 "lon" : 2.2399123000000145 } }
+	 ]
+} 
+ 

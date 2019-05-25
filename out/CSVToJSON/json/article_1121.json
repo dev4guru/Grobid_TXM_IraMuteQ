@@ -1,0 +1,15 @@
+{
+"idArt": "1121",
+"series": "Revue des Nouvelles Technologies de l'Information",
+"booktitle": "EGC",
+"year": "2016",
+"title": "Contributions à la coloration des hypergraphes basées sur les traverses minimales",
+"abstract": "In this paper, we propose two contributions about the determination of chromatic numberand the verification of the 2-colorability property. We introduce an unreleased relation betweenthe problem of hypergraph coloring and the computation of minimal transversals hypergraphand, especially, a subset of them. Thereby, we propose two algorithms in order to optimize theverification of the 2-colorability property of hypergraphs and the evaluation of the chromaticnumber. Experiments carried out on several types of hypergraphs, showed that our algorithmobtains very interesting results.",
+"authors": "M. Nidhal Jelassi, Sadok Ben Yahia, Christine Largeron",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1002224",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1002224",
+"metaSession": "11",
+"place": "Reims",
+"Latitude": " 49.258346 ",
+"Longitude": "4.031713"
+}

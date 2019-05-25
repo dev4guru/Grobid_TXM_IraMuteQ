@@ -1,0 +1,14 @@
+{	 "idArt" : "1042",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2004",
+	 "place" : "Clermont-Ferrand",
+	 "location" : { "lat" :  45.77722199999999, 
+		 "lon" : 3.087025 }, 
+	 "title" : "Contrôle du risque multiple pour la sélection de règles d'association significatives",
+	 "abstract" : "Les algorithmes d'extraction de règles d'association parcourent efficacement le treillis des itemsets pour constituer une base de règles admissibles à des seuils de support et de confiance, mais donnent une multitude de règles peu exploitables. Nous suggérons d'épurer de telles bases en éliminant les règles non statistiquement significatives. La multitude de tests pratiqués conduit mécaniquement à multiplier les règles sélectionnées à tort. après avoir présenté des procédures issues de la biostatistique qui contrôlent non pas le risque, mais le nombre de fausses découvertes, nous proposons BS_DF, un algorithme original fondé sur le bootstrat qui sélectionne les règles significatives en contrôlant le nombre de fausses découvertes. Des expérimentations montrer l'efficacité de ces procédures.",
+	 "authors" : ["Elie Prudhomme","Stéphane Lallich","Olivier Teytaud"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1001046" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1001046" 
+} 
+ 

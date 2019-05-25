@@ -1,0 +1,1 @@
+Cet article propose une approche d'abstraction des séquences vidéo basée sur le soft computing. Etant donné une longueur cible du condensé vidéo, on cherche les segments vidéo qui couvrent le maximum du visuel de la vidéo originale en respectant la longueur du condensé.

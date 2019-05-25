@@ -1,0 +1,15 @@
+{
+"idArt": "1287",
+"series": "Revue des Nouvelles Technologies de l'Information",
+"booktitle": "EGC",
+"year": "2018",
+"title": "Et si les réseaux sociaux pouvaient nous aider dans nos choix de carrière?",
+"abstract": "Dans cet article, nous présentons une méthode d'analyse de corpusafin de générer deux interfaces originales de visualisation dans le domaine del'e-recrutement. Notre approche s'appuie sur des millions de profils issus deplusieurs réseaux sociaux et sur des milliers d'offres d'emploi collectées surInternet. Nous décrivons dans ces travaux les étapes nécessaires pour leur réalisation.La première visualisation est une carte dynamique indiquant les métiersqui recrutent, dans quel domaine, dans quelle région tandis que la seconde meten avant les parcours professionnels et permet d'observer les perspectives ainsique les antécédents à plus ou moins long terme pour chaque métier considéré.",
+"authors": "Rémy Kessler, Guy Lapalme, Fabrizio Gotti, Abdessamad Outerqiss, Philippe Langlais",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1002391",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1002391",
+"metaSession": "7",
+"place": "Paris",
+"Latitude": " 48.8561 ",
+"Longitude": "2.3515"
+}

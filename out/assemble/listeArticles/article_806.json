@@ -1,0 +1,14 @@
+{	 "idArt" : "806",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2006",
+	 "place" : "Lille",
+	 "location" : { "lat" :  50.62925, 
+		 "lon" : 3.057256 }, 
+	 "title" : "Exploration des paramètres discriminants pour les représentations vectorielles de la sémantique des mots",
+	 "abstract" : "Les méthodes de représentation sémantique des mots à partir d'une analyse statistique sont basées sur des comptes de co-occurences entre mots et unités textuelles. Ces méthodes ont des paramétrages complexes, notamment le type d'unité textuelle utilisée comme contexte. Ces paramètres déterminent fortement la qualité des résultats obtenus. Dans cet article, nous nous intéressons au paramètrage de la technique dite Hyperspace Analogue to Language (HAL).Nous proposons une nouvelle méthode pour explorer ses paramètres discriminants. Cette méthode est basée sur l'analyse d'un graphe de voisinage d'une liste de mots de référence pré-classés. Nous expérimentons cette méthode et en donnons les premiers résultats qui renforcent et complètent des résultats issus de travaux précédents.",
+	 "authors" : ["Frank Meyer","Vincent Dubois"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1000360" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1000360" 
+} 
+ 

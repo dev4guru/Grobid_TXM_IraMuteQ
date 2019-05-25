@@ -1,0 +1,22 @@
+{
+"year": "2015",
+"metaSession": "",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1002111",
+"pdfarticle": "",
+"abstract": "Biclustering is a main task in a variety of areas of machine learning providing simultaneous observations and features clustering. Biclustering approches are more complex compared to the traditional clustering particularly those requiring large dataset and Mapreduce platforms. We propose a new approach of biclustering based on popular self-organizing maps for cluster analysis of large dataset. We have designed scalable implementations of the new biclustering algorithm using MapReduce with the Spark platform. We report the experiments and demonstrated the performance public dataset using different cores. Using practical examples, we demonstrate that our algorithm works well in practice. The experimental results show scalable performance with near linear speedups across different data and 120 cores.",
+"title": "Modèle de Biclustering dans un paradigme Mapreduce",
+"placeAut":[{
+"place":"Villetaneuse",
+"country":"France",
+"location":{
+	"lat":"48.963476",
+	"lon":"2.347354"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 49.815273, u'lon': 6.129582999999999}",
+"place": "Luxembourg",
+"booktitle": "EGC",
+"idArt": "42",
+"authors": "['Tugdual Sarazin','Hanane Azzag','Mustapha Lebbah']"
+}

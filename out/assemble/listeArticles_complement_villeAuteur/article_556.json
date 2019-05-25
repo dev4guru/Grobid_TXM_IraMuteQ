@@ -1,0 +1,9 @@
+{	 "idArt" : "556",
+	 "placeAut" : [ 
+		{ "place" : "Saint-Etienne",
+		 "country" : "France",
+		 "location" : { "lat" :  45.439695, 
+			 "lon" : 4.387177899999983 } }
+	 ]
+} 
+ 

@@ -1,0 +1,13 @@
+{	 "idArt" : "624",
+	 "placeAut" : [ 
+		{ "place" : "Orsay",
+		 "country" : "France",
+		 "location" : { "lat" :  48.697161, 
+			 "lon" : 2.1896169999999984 } },
+		{ "place" : "Jouy-en-Josas",
+		 "country" : "France",
+		 "location" : { "lat" :  48.76454500000001, 
+			 "lon" : 2.169006999999965 } }
+	 ]
+} 
+ 

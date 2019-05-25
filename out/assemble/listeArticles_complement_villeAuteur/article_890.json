@@ -1,0 +1,17 @@
+{	 "idArt" : "890",
+	 "placeAut" : [ 
+		{ "place" : "Nantes",
+		 "country" : "France",
+		 "location" : { "lat" :  47.218371, 
+			 "lon" : -1.553621000000021 } },
+		{ "place" : "Belfort",
+		 "country" : "France",
+		 "location" : { "lat" :  47.63967400000001, 
+			 "lon" : 6.863848999999959 } },
+		{ "place" : "Palerme",
+		 "country" : "Italie",
+		 "location" : { "lat" :  38.1156879, 
+			 "lon" : 13.361267099999964 } }
+	 ]
+} 
+ 

@@ -1,0 +1,22 @@
+{
+"year": "2006",
+"metaSession": "8",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1000319",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1000319",
+"abstract": "Nous décrivons dans cet article une chaine de traitement complète etgénérique permettant d'extraire automatiquement les champs numériques (numérosde téléphone, codes clients, codes postaux) dans des documents manuscritslibres. Notre chaïne de traitement est constituée des trois étapes suivantes:localisation des champs numériques potentiels selon une approche markoviennesans reconnaissance chiffre ni segmentation, reconnaissance des séquences extraites,et vérification des hypothèses de localisation / reconnaissance en vue delimiter la fausse alarme génerée lors de l'étape de localisation. L'évaluation denotre système sur une base de 300 courriers manuscrits montre des performancesen rappel-précision intéressantes.",
+"title": "Extraction automatique de champs numériques dans des documents manuscrits",
+"placeAut":[{
+"place":"Saint Etienne du Rouvray",
+"country":"France",
+"location":{
+	"lat":"49.380305",
+	"lon":"1.108209"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 50.62925, u'lon': 3.057256}",
+"place": "Lille",
+"booktitle": "EGC",
+"idArt": "809",
+"authors": "['Clément Chatelain','Laurent Heutte','Thierry Paquet']"
+}

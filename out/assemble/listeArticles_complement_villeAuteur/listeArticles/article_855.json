@@ -1,0 +1,14 @@
+{	 "idArt" : "855",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2006",
+	 "place" : "Lille",
+	 "location" : { "lat" :  50.62925, 
+		 "lon" : 3.057256 }, 
+	 "title" : "Un modèle de qualité de l'information",
+	 "abstract" : "Ce travail s'intègre dans la problématique générale de la recherched'information ; et plus particulièrement dans la personnalisation et la qualitéd'information. Dans cet article nous proposons un modèle multidimensionnelde la qualité de l'information décrivant les différents facteurs de qualité influantsur la personnalisation de l'information. Ce modèle permet de structurerles différents facteurs de qualité de l'information dans une hiérarchie afind'assister l'utilisateur dans la construction de son propre profil selon ses besoinset ses exigences en termes de qualité.",
+	 "authors" : ["Rami Harrathi","Sylvie Calabretto"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1000363" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1000363" 
+} 
+ 

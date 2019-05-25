@@ -1,0 +1,22 @@
+{
+"year": "2006",
+"metaSession": "6",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1000368",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1000368",
+"abstract": "Pour comprendre et représenter les évolutions du bâti, question renouvelée avec le développement des NTIC, l'analyste s'appuie sur des connaissances évolutives ayant dans notre champ d'application - le patrimoine architectural - un caractère spatialisable (par l'attachement à un lieu lambda) mais aussi des caractéristiques handicapantes (hétérogénéité, incertitudes et contradictions, etc.). En réponse, nous utilisons ce caractère spatialisable pour intégrer les ressources constituant le jeu de connaissances propre à chaque édifice: théorie, sources documentaires, observations. Cette démarche que nous nommons modélisation informationnelle a pour objectif un gain de compréhension du lieu architectural et des informations qui lui sont associées. Notre contribution introduit les filiations de cette démarche, le cadre méthodologique qui la matérialise, et discute de son application au cas concret de la place centrale de Cracovie (Rynek Glowny) pour en évaluer l'apport potentiel en matière de gestion et de visualisation de connaissances.",
+"title": "Modélisation informationnelle : un cadre méthodologique pour représenter des connaissances évolutives spatialisables",
+"placeAut":[{
+"place":"Marseille",
+"country":"France",
+"location":{
+	"lat":"43.296482",
+	"lon":"5.36978"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 50.62925, u'lon': 3.057256}",
+"place": "Lille",
+"booktitle": "EGC",
+"idArt": "832",
+"authors": "['Jean-Yves Blaise','Iwona Dudek']"
+}

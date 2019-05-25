@@ -1,0 +1,15 @@
+{
+"idArt": "1137",
+"series": "Revue des Nouvelles Technologies de l'Information",
+"booktitle": "EGC",
+"year": "2016",
+"title": "Fairness-Aware Data Mining",
+"abstract": "In data mining we often have to learn from biased data, because, for instance, data comesfrom different batches or there was a gender or racial bias in the collection of social data. Insome applications it may be necessary to explicitly control this bias in the models we learn fromthe data. Recently this topic received considerable interest both in the research community aswell as more general, as witnessed by several recent articles in popular news media such asthe New York Times. In this talk I will introduce and motivate research in fairness-aware datamining. Different techniques in unsupervised and supervised data mining will be discussed,dividing these techniques into three categories: algorithms of the first category adapt the inputdata in such a way to remove harmful biases while the second adapts the learning algorithmsand the third category modifies the output models in such a way that its predictions becomeunbiased. Furthermore different ways to quantify unfairness, and indirect and conditionaldiscrimination will be discussed, each with their own pros and cons. With this talk I hope toconvincingly argument the validity and necessity of this often contested research area.",
+"authors": "Toon Calders",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1002147",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1002147",
+"metaSession": "0",
+"place": "Reims",
+"Latitude": " 49.258362 ",
+"Longitude": "4.031729"
+}

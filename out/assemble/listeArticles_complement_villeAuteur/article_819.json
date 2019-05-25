@@ -1,0 +1,17 @@
+{	 "idArt" : "819",
+	 "placeAut" : [ 
+		{ "place" : "Sophia Antipolis",
+		 "country" : "France",
+		 "location" : { "lat" :  43.6163539, 
+			 "lon" : 7.055221800000027 } },
+		{ "place" : "Nîmes",
+		 "country" : "France",
+		 "location" : { "lat" :  43.836699, 
+			 "lon" : 4.360053999999991 } },
+		{ "place" : "Montpellier",
+		 "country" : "France",
+		 "location" : { "lat" :  43.610769, 
+			 "lon" : 3.8767159999999876 } }
+	 ]
+} 
+ 

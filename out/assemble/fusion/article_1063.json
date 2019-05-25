@@ -1,0 +1,22 @@
+{
+"year": "2004",
+"metaSession": "1",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1000917",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1000917",
+"abstract": "",
+"title": "Le e-lien une solution pour l'extraction et le partage de connaissances structurées dans les documents hypertextuels",
+"placeAut":[{
+"place":"Tours",
+"country":"France",
+"location":{
+	"lat":"47.394144",
+	"lon":"0.68484"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 45.77722199999999, u'lon': 3.087025}",
+"place": "Clermont-Ferrand",
+"booktitle": "EGC",
+"idArt": "1063",
+"authors": "['Gilles Verley','Jean-Pierre Asselin de Beauville']"
+}

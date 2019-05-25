@@ -1,0 +1,22 @@
+{
+"year": "2005",
+"metaSession": "",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1000294",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1000294",
+"abstract": "Dans cet article nous présentons une application des courbes de Peano pour la caractérisation de régions par leur texture et l'établissement d'inter-relations spatiales à des fins de CBIR. Les résultats obtenus sont comparables à ceux d'un humain sur une base de 330 images aériennes.",
+"title": "Application des courbes de Peano en recherche d'image par le contenu",
+"placeAut":[{
+"place":"Orsay",
+"country":"France",
+"location":{
+	"lat":"48.697161",
+	"lon":"2.189617"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 48.856614, u'lon': 2.3522219}",
+"place": "Paris",
+"booktitle": "AEGC",
+"idArt": "872",
+"authors": "['Adel Hafiane ','Bertrand Zavidovique']"
+}

@@ -1,0 +1,22 @@
+{
+"year": "2012",
+"metaSession": "",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1001131",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1001131",
+"abstract": "Learning from spatial data is characterized by two main features. First, spatial objects have a locational property which implicitly defines several spatial relationships (topological, directional, distancebased) between objects. Second, attributes of spatially related units tend to be statistically correlated. These two features argue against the assumption of the independent generation of data samples (i.i.d. assumption) underlying classic machine learning algorithms, and motivate the application of relational learning algorithms, whose inferences are based on both instance properties and relations between data. This relational learning approach to spatial domains has already been investigated in the last decade, and important accomplishments in this direction have already been performed. In this talk, we retrospectively survey major achievements on relational learning from spatial data and we report open problems which still challenges researchers and prospectively suggest important topics for incorporation into a research agenda.",
+"title": "Relational Learning from Spatial Data: Retrospect and Prospect",
+"placeAut":[{
+"place":"Bari",
+"country":"Italie",
+"location":{
+	"lat":"41.1171432",
+	"lon":"16.8718715"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 44.837789, u'lon': -0.57918}",
+"place": "Bordeaux",
+"booktitle": "EGC",
+"idArt": "253",
+"authors": "Donato Malerba"
+}

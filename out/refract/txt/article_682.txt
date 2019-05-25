@@ -1,0 +1,1 @@
+Découvrir la topologie d'un ensemble de données étiquetées dans un espace Euclidien peut aider à construire un meilleur système de décision. Dans ce papier, nous proposons un modèle génératif basé sur le graphe de Delaunay de plusieurs prototypes représentant les données étiquetées dans le but d'extraire de ce graphe la topologie des classes.

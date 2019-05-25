@@ -1,0 +1,13 @@
+{	 "idArt" : "458",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2010",
+	 "place" : "Hammamet",
+	 "location" : { "lat" :  36.4, 
+		 "lon" : 10.616667 }, 
+	 "title" : "Reconnaissance de concepts basée sur l'apprentissage",
+	 "authors" : ["Wahiba Ben Abdessalem Karaa","Bilel Bouchamia"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1001410" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1001410" 
+} 
+ 

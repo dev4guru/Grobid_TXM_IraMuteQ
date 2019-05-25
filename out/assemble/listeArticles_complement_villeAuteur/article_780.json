@@ -1,0 +1,13 @@
+{	 "idArt" : "780",
+	 "placeAut" : [ 
+		{ "place" : "Seville",
+		 "country" : "Espagne",
+		 "location" : { "lat" :  37.3890924, 
+			 "lon" : -5.984458899999936 } },
+		{ "place" : "Boston",
+		 "country" : "USA",
+		 "location" : { "lat" :  42.3600825, 
+			 "lon" : -71.05888010000001 } }
+	 ]
+} 
+ 

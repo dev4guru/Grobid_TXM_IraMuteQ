@@ -1,0 +1,15 @@
+{
+"idArt": "1180",
+"series": "Revue des Nouvelles Technologies de l'Information",
+"booktitle": "EGC",
+"year": "2016",
+"title": "Une approche combinée pour l'enrichissement d'ontologie à partir de textes et de données du LOD",
+"abstract": "Cet article porte sur l'étiquetage automatique de documents décrivantdes produits, avec des concepts très spécifiques traduisant des besoins précisd'utilisateurs. La particularité du contexte est qu'il se confronte à une triple difficulté: 1) les concepts utilisés pour l'étiquetage n'ont pas de réalisations terminologiquesdirectes dans les documents, 2) leurs définitions formelles ne sontpas connues au départ, 3) toutes les informations nécessaires ne sont pas forcémentprésentes dans les documents mêmes. Pour résoudre ce problème, nousproposons un processus d'annotation en deux étapes, guidé par une ontologie.La première consiste à peupler l'ontologie avec les données extraites des documents,complétées par d'autres issues de ressources externes. La deuxièmeest une étape de raisonnement sur les données extraites qui recouvre soit unephase d'apprentissage de définitions de concepts, soit une phase d'applicationdes définitions apprises. L'approche SAUPODOC est ainsi une approche originaled'enrichissement d'ontologie qui exploite les fondements du Web sémantique,en combinant les apports du LOD et d'outils d'analyse de texte, d'apprentissageautomatique et de raisonnement. L'évaluation, sur deux domaines d'application,donne des résultats de qualité et démontre l'intérêt de l'approche.",
+"authors": "Céline Alec, Chantal Reynaud, Brigitte Safar",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1002168",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1002168",
+"metaSession": "1",
+"place": "Reims",
+"Latitude": " 49.258405 ",
+"Longitude": "4.031772"
+}

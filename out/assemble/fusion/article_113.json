@@ -1,0 +1,22 @@
+{
+"year": "2014",
+"metaSession": "7",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1001916",
+"pdfarticle": "",
+"abstract": "Dans ce travail, nous nous intéressons au problème de la prédiction d'attributs sur lesnoeuds dans un réseau social. La plupart des techniques sont hors ligne et ne sont pas adaptéesà des situations où les données arrivent massivement en flux comme dans le cas des médiassociaux. Dans ce travail, nous utilisons les modèles de variables latentes pour prédire les attributsinconnus des noeuds dans un réseau social et proposer une méthode pour mettre à jourincrémentalement le modèle avec des nouvelles données. Des expérimentations sur un jeu dedonnées issues des médias sociaux montrent que notre méthode est moins coûteuse en tempsde calcul et peut garantir des performances acceptables en comparaison avec les techniquesnon-incrémentales de l'état de l'art.",
+"title": "Incremental learning with latent factor models for attribute prediction in social-attribute networks",
+"placeAut":[{
+"place":"Rennes",
+"country":"France",
+"location":{
+	"lat":"48.117266",
+	"lon":"-1.6777926"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 48.117266, u'lon': -1.6777926}",
+"place": "Rennes",
+"booktitle": "EGC",
+"idArt": "113",
+"authors": "['Duc Kinh Le Tran','Cécile Bothorel','Pascal Cheung Mon Chan']"
+}

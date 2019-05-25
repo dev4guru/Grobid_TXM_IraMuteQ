@@ -1,0 +1,22 @@
+{
+"year": "2006",
+"metaSession": "5",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1000444",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1000444",
+"abstract": "",
+"title": "Confrontation de Points de Vue dans le système Porphyry",
+"placeAut":[{
+"place":"Villeurbanne",
+"country":"France",
+"location":{
+	"lat":"45.771944",
+	"lon":"4.8901709"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 50.62925, u'lon': 3.057256}",
+"place": "Lille",
+"booktitle": "EGC",
+"idArt": "797",
+"authors": "['Samuel Gesche','Sylvie Calabretto','Guy Caplat']"
+}

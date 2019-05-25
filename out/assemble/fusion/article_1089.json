@@ -1,0 +1,22 @@
+{
+"year": "2004",
+"metaSession": "3",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1001022",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1001022",
+"abstract": "Les motifs émergents sont des associations de caractéristiques fortement présentes dans une classe et rares dans les autres. Ils font ressortir les distinctions entre classes et se révèlent particulièrement efficaces pour construire des classifieurs et apporter une aide au diagnostic. À cause de la forte combinatoire du problème, la recherche et la représentation des motifs émergents restent des tâches complexes pour de grandes bases de données. Nous proposons ici une représentation condensée exacte des motifs émergents (i.e., les motifs et leurs taux de croissance sont directement obtenus depuis la représentation condensée). L'idée principale est de s'appuyer sur les récents résultats relatifs aux représentations condensées de motifs fermés fréquents. À partir de cette représentation, nous donnons aussi une méthode aisée à mettre en oeuvre pour obtenir les motifs émergents ayant les meilleurs taux de croissance. Ces motifs, appelés motifs émergents forts, ont été exploités avec succès dans une collaboration avec la société Philips.",
+"title": "Représentation condensée de motifs émergents",
+"placeAut":[{
+"place":"Caen",
+"country":"France",
+"location":{
+	"lat":"49.182863",
+	"lon":"-0.370679"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 45.77722199999999, u'lon': 3.087025}",
+"place": "Clermont-Ferrand",
+"booktitle": "EGC",
+"idArt": "1089",
+"authors": "['Arnaud Soulet','Bruno Crémilleux','François Rioult']"
+}

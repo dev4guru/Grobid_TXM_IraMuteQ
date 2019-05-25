@@ -1,0 +1,14 @@
+{	 "idArt" : "996",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2005",
+	 "place" : "Paris",
+	 "location" : { "lat" :  48.856614, 
+		 "lon" : 2.3522219 }, 
+	 "title" : "Problématiques de gestion de connaissances dans le cadre de l'enseignement à distance sur l'Internet.",
+	 "abstract" : "Le développement des réseaux à haut-débit et de l'Internet fournit un nouveau support à l'enseignement à distance. Aujourd'hui, de nombreux acteurs dans le domaine de l'enseignement ont mis en place des dispositifs de formation en ligne. Ceux-ci se composent généralement d'une sélection de matériaux organisés et présentés de manière à suivre un programme pédagogique particulier, de mécanismes de communication entre apprenants et enseignants, et d'outils de suivi des apprenants. Les plates-formes d'enseignement à distance devenant de plus en plus génériques, des nouveaux modèles ont été définis, standardisés ou normalis és, permettant la formalisation de méta-données pédagogiques ou tentant d'évaluer les connaissances acquises par les apprenants. En nous appuyant sur ces modèles, nous proposons de construire une base de connaissances, associant notamment les termes des domaines enseignés en relations à sémantique pédagogique. L'exploitation de cette base de connaissances fournit un premier niveau d'aide à l'ingénierie pédagogique, en particulier lorsque le volume de contenus en ligne est important. Des inférences mettant en jeu ces connaissances permettent alors un meilleur suivi du dispositif d'enseignement.",
+	 "authors" : ["Romain Dailly","Christian Chervet","Rémi Lehn","Henri Briand"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1000389" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1000389" 
+} 
+ 

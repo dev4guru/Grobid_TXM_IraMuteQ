@@ -1,0 +1,22 @@
+{
+"year": "2004",
+"metaSession": "3",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1001039",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1001039",
+"abstract": "De nombreuses tâches en Fouille de Données visent à extraire des connaissances exprimées sous la forme d'un ensemble de règles. Les algorithmes dédiés à ces tâches engendrent des règles dont l'adéquation aux données doit être évaluée. On se place dans le cadre où cette évaluation est réalisée directement en lançant des requêtes de dénombrement sur la base de données, et où cette base est relationnelle. Les requêtes comptent les données qui s'apparient avec la règle, calcul qui peut être extrêmement coûteux. Dans cet article, nous étudions l'impact d'une approche d'échantillonnage visant à réduire le coût de l'évaluation des règles relationnelles en tenant compte des spécificités structurelles des requêtes induites.",
+"title": "Réduction du coût d'évaluation d'une règle relationnelle",
+"placeAut":[{
+"place":"Caparica",
+"country":"Portugal",
+"location":{
+	"lat":"38.6597882",
+	"lon":"-9.2027757"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 45.77722199999999, u'lon': 3.087025}",
+"place": "Clermont-Ferrand",
+"booktitle": "EGC",
+"idArt": "1085",
+"authors": "['Agnès Braud','Teddy Turmeaux']"
+}

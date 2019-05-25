@@ -1,0 +1,22 @@
+{
+"year": "2007",
+"metaSession": "9",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1001332",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1001332",
+"abstract": "Parmi les outils de visualisation de données multidimensionnelles figurent d'une part les méthodes fondées sur la décomposition aux valeurs singulières, et d'autre part les méthodes de classification, incluant les cartes auto-organisées de Kohonen. Comment valider ces visualisations ? On présente sept procédures de validation par bootstrap qui dépendent des données, des hypothèses, des outils : a) le bootstrap partiel, qui considère les réplications comme des variables supplémentaires; b) le bootstrap total de type 1, qui réanalyse les réplications avec changements éventuels de signes des axes; c) le bootstrap total de type 2 qui corrige aussi les interversions d'axes; d) le bootstrap total de type 3, sur lequel on insistera, qui corrige les réplications par rotations procrustéenne; e) le bootstrap spécifique (cas des hiérarchies d'individus statistiques et des données textuelles). f) le bootstrap sur variables. g) les extensions des procédures précédentes à certaines cartes auto-organisées.",
+"title": "Validation des visualisations par axes principaux de données numériques et textuelles",
+"placeAut":[{
+"place":"Paris",
+"country":"France",
+"location":{
+	"lat":"48.856614",
+	"lon":"2.3522219"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 50.4673883, u'lon': 4.8719854}",
+"place": "Namur",
+"booktitle": "EGC",
+"idArt": "758",
+"authors": "Ludovic Lebart"
+}

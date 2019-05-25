@@ -1,0 +1,22 @@
+{
+"year": "2009",
+"metaSession": "0",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1000801",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1000801",
+"abstract": "",
+"title": "Détection d'objets atypiques dans un flot de données : une approche multi-résolution",
+"placeAut":[{
+"place":"Sophia Antipolis",
+"country":"France",
+"location":{
+	"lat":"43.6163539",
+	"lon":"7.0552218"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 48.5734053, u'lon': 7.752111299999999}",
+"place": "Strasbourg",
+"booktitle": "EGC",
+"idArt": "523",
+"authors": "['Florent Masseglia','Alice Marascu']"
+}

@@ -1,0 +1,14 @@
+{	 "idArt" : "815",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2006",
+	 "place" : "Lille",
+	 "location" : { "lat" :  50.62925, 
+		 "lon" : 3.057256 }, 
+	 "title" : "FaBR-CL : méthode de classification croisée de protéines",
+	 "abstract" : "Dans cet article, nous proposons une méthode de classification croiséepermettant de classer des protéines, d'une part, et de classer des descripteurs (3-grammes) selon leurs pertinences par rapport aux groupes de protéines obtenus,d'autres part.",
+	 "authors" : ["Walid Erray","Faouzi Mhamdi"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1000446" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1000446" 
+} 
+ 

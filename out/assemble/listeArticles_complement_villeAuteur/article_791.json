@@ -1,0 +1,13 @@
+{	 "idArt" : "791",
+	 "placeAut" : [ 
+		{ "place" : "Ivry-sur-Seine",
+		 "country" : "France",
+		 "location" : { "lat" :  48.813055, 
+			 "lon" : 2.3882200000000466 } },
+		{ "place" : "Orsay",
+		 "country" : "France",
+		 "location" : { "lat" :  48.697161, 
+			 "lon" : 2.1896169999999984 } }
+	 ]
+} 
+ 

@@ -1,0 +1,13 @@
+{	 "idArt" : "101",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2014",
+	 "place" : "Rennes",
+	 "location" : { "lat" :  48.117266, 
+		 "lon" : -1.6777926 }, 
+	 "title" : "Exploration d'une collection de chansons à partir d'une interface de visualisation basée sur une analyse des paroles",
+	 "abstract" : "Dans cet article, nous présentons une approche de fouille de textesainsi qu'une interface de visualisation afin d'explorer une large collection dechansons frana¸ises à partir des paroles. Dans un premier temps, nous collectonsparoles et métadonnées de différentes sources sur leWeb. Nous utilisons une approchecombinant clustering et analyse sémantique latente afin d'identifier différentesthématiques et de déterminer différents descripteurs significatifs. Noustransformons par la suite le modèle afin d'obtenir une visualisation interactivepermettant d'explorer la collection de chansons",
+	 "authors" : ["Rémy Kessler","Audrey Laplante","Dominic Forest"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1001946" 
+} 
+ 

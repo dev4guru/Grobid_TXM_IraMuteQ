@@ -1,0 +1,9 @@
+{	 "idArt" : "987",
+	 "placeAut" : [ 
+		{ "place" : "Lisbonne",
+		 "country" : "Portugal",
+		 "location" : { "lat" :  38.7222524, 
+			 "lon" : -9.139336599999979 } }
+	 ]
+} 
+ 

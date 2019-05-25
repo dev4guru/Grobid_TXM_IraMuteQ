@@ -1,0 +1,22 @@
+{
+"year": "2010",
+"metaSession": "3",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1001263",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1001263",
+"abstract": "La recherche de liens entre objets fréquents a été popularisée par lesméthodes d'extraction de règles d'association. Dans le cas de séquences d'événements,les méthodes de fouille permettent d'extraire des sous-séquences quipeuvent ensuite être exprimées sous la forme de règles d'association séquentielleentre événements. Cette utilisation de la fouille de séquences pour la recherchede liens entre des événements pose deux problèmes. Premièrement, lecritère principal utilisé pour sélectionner les sous-séquences d'événements estla fréquence, or les occurrences de certains événements peuvent être fortementliées entre elles même lorsqu'elles sont peu fréquentes. Deuxièmement, les mesuresactuelles utilisées pour caractériser les règles d'association ne tiennent pascompte du caractère temporel des données, comme l'importance du timing desévénements ou le problème des données censurées. Dans cet article, nous proposonsune méthode pour rechercher des liens significatifs entre des événementsà l'aide de modèles de durée. Les règles d'association sont construites à partirdes motifs séquentiels observés dans un ensemble de séquences. L'influence surle risque que l'événement « conclusion » se produise après le ou les événements« prémisse » est estimée à l'aide d'un modèle semi-paramétrique à risques proportionnels.Outre la présentation de la méthode, l'article propose une comparaisonavec d'autres mesures d'association",
+"title": "Extraction de règles d'association séquentielle à l'aide de modèles semi-paramétriques à risques proportionnels",
+"placeAut":[{
+"place":"Genève",
+"country":"Suisse",
+"location":{
+	"lat":"46.1983922",
+	"lon":"6.1422961"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 36.4, u'lon': 10.616667}",
+"place": "Hammamet",
+"booktitle": "EGC",
+"idArt": "427",
+"authors": "['Nicolas S. Müller','Matthias Studer','Gilbert Ritschard','Alexis Gabadinho']"
+}

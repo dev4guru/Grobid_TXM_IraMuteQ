@@ -1,0 +1,15 @@
+{
+"idArt": "1136",
+"series": "Revue des Nouvelles Technologies de l'Information",
+"booktitle": "EGC",
+"year": "2016",
+"title": "Fabrique logicielle de réseaux sociaux spécialisés (aspects fonctionnels)",
+"abstract": "This paper introduces a software factory for developing social networks. This factory takesan abstract social network and creates a concrete one, using mechanisms such as sub-typingand behavior overloading.",
+"authors": "Benjamin Billet, David Fernandez, Didier Parigot",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1002215",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1002215",
+"metaSession": "11",
+"place": "Reims",
+"Latitude": " 49.258361 ",
+"Longitude": "4.031728"
+}

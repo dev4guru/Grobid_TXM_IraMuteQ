@@ -1,0 +1,15 @@
+{
+"idArt": "1150",
+"series": "Revue des Nouvelles Technologies de l'Information",
+"booktitle": "EGC",
+"year": "2016",
+"title": "Learning from Massive, Incompletely annotated & Structured Data",
+"abstract": "The MAESTRA project (http://maestra-project.eu/) addresses the ambitious taskof predicting different types of structured outputs in several challenging settings, suchas semi-supervised learning, mining data streams and mining network data. It developsmachine learning methods that work in each of these settings, as well as combinationsthereof. The techniques developed are applied to problems from the area of biology andbioinformatics, sensor data analysis, multimedia annotation and retrieval, and socialnetwork analysis. The talk will give an introduction to the project and the topicsit addresses, an overview of the results of the project, and a detailed description ofselected techniques and applications: Semi-supervised learning for structured-outputprediction (SOP) and SOP on data streams will be discussed for the task of multitargetregression (MTR), as well as applications of MTR for the annotation/retrievalof images.",
+"authors": "Saso Dzeroski",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1002149",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1002149",
+"metaSession": "0",
+"place": "Reims",
+"Latitude": " 49.258375 ",
+"Longitude": "4.031742"
+}

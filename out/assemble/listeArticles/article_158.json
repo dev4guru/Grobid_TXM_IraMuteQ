@@ -1,0 +1,13 @@
+{	 "idArt" : "158",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2013",
+	 "place" : "Toulouse",
+	 "location" : { "lat" :  43.604652, 
+		 "lon" : 1.444209 }, 
+	 "title" : "Accélération de la méthode des K plus proches voisins pour la catégorisation de textes",
+	 "abstract" : "Parmi la panoplie de classificateurs utilisés dans la catégorisation de textes, nous nous intéressons à l'algorithme des k-voisins les plus proches. Ces performances le situent parmi les meilleures méthodes de catégorisation de textes. Toutefois, il présente certaines limites: (i) coût mémoire car il faut stocker l'ensemble d'apprentissage en entier et (ii) coût élevé de calcul car il doit explorer l'ensemble d'apprentissage pour classer un nouveau document. Dans ce papier, nous proposons une nouvelle démarche pour réduire ce temps de classification sans dégrader les performances de classification.",
+	 "authors" : ["Fatiha Barigou","Baghdad Atmani","Youcef Bouziane","Naouel Barigou"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1001841" 
+} 
+ 

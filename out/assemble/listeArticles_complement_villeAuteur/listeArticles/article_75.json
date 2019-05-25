@@ -1,0 +1,13 @@
+{	 "idArt" : "75",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2014",
+	 "place" : "Rennes",
+	 "location" : { "lat" :  48.117266, 
+		 "lon" : -1.6777926 }, 
+	 "title" : "Apprentissage non supervisé de dépendances syntaxiques à partir de texte étiqueté, plusieurs variantes de PCFG légères",
+	 "abstract" : "L'apprentissage de dépendances est une tâche consistant à établir, àpartir des phrases d'un texte, un modèle de construction d'arbres traduisant unehiérarchie syntaxique entre les mots. Nous proposons un modèle intermédiaireentre l'analyse syntaxique complète de la phrase et les sacs de mots. Il est basésur une grammaire stochastique hors-contexte se traduisant par des relations dedépendance entre les catégories grammaticales d'une phrase. Les résultats expérimentauxobtenus sur des benchmarks attestés dépassent pour cinq langues surdix les scores de l'algorithme de référence DMV, et pour la première fois desscores sont obtenus pour le français. La très grande simplicité de la grammairepermet un apprentissage très rapide, et une analyse presque instantanée.",
+	 "authors" : ["Marie Arcadias","Guillaume Cleuziou","Edmond Lassalle","Christel Vrain"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1001924" 
+} 
+ 

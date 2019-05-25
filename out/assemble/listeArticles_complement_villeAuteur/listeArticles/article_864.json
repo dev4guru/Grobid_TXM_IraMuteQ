@@ -1,0 +1,14 @@
+{	 "idArt" : "864",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2006",
+	 "place" : "Lille",
+	 "location" : { "lat" :  50.62925, 
+		 "lon" : 3.057256 }, 
+	 "title" : "Utilisation des réseaux bayésiens dans le cadre de l'extraction de règles d'association",
+	 "abstract" : "Cet article aborde le problème de l'utilisation d'un modèle de connaissancedans un contexte de fouille de données. L'approche méthodologique proposéemontre l'intérêt de la mise en oeuvre de réseaux bayésiens couplée à l'extractionde règles d'association dites delta-fortes (membre gauche minimal, fréquenceminimale et niveau de confiance contrôlé). La découverte de règles potentiellementutiles est alors facilitée par l'exploitation des connaissances décritespar l'expert et représentées dans le réseau bayésien. Cette approche estvalidée sur un cas d'application concernant la fouille de données d'interruptionsopérationnelles dans l'industrie aéronautique.",
+	 "authors" : ["Clément Fauré","Sylvie Delprat","Alain Mille","Jean-François Boulicaut"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1000407" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1000407" 
+} 
+ 

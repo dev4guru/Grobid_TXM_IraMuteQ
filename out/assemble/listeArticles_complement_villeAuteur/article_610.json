@@ -1,0 +1,17 @@
+{	 "idArt" : "610",
+	 "placeAut" : [ 
+		{ "place" : "Nantes",
+		 "country" : "France",
+		 "location" : { "lat" :  47.218371, 
+			 "lon" : -1.553621000000021 } },
+		{ "place" : "Amiens",
+		 "country" : "France",
+		 "location" : { "lat" :  49.894067, 
+			 "lon" : 2.2957529999999906 } },
+		{ "place" : "Paris",
+		 "country" : "France",
+		 "location" : { "lat" :  48.856614, 
+			 "lon" : 2.3522219000000177 } }
+	 ]
+} 
+ 

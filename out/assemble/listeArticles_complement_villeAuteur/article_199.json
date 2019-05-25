@@ -1,0 +1,9 @@
+{	 "idArt" : "199",
+	 "placeAut" : [ 
+		{ "place" : "London",
+		 "country" : "United Kingdom",
+		 "location" : { "lat" :  51.5073509, 
+			 "lon" : -0.12775829999998223 } }
+	 ]
+} 
+ 

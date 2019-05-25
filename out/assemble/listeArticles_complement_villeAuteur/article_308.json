@@ -1,0 +1,9 @@
+{	 "idArt" : "308",
+	 "placeAut" : [ 
+		{ "place" : "Vancouver",
+		 "country" : "Canada",
+		 "location" : { "lat" :  49.2827291, 
+			 "lon" : -123.12073750000002 } }
+	 ]
+} 
+ 

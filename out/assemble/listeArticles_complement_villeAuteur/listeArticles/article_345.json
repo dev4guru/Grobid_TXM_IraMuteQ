@@ -1,0 +1,13 @@
+{	 "idArt" : "345",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2011",
+	 "place" : "Brest",
+	 "location" : { "lat" :  48.390394, 
+		 "lon" : -4.486076 }, 
+	 "title" : "Point of View Based Clustering of Socio-Semantic Networks",
+	 "authors" : ["Juan David Cruz","Cécile Bothorel","François Poulet"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1000973" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1000973" 
+} 
+ 

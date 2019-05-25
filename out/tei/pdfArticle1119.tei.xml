@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/josuah/Bureau/grobid/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="fr">
+		<encodingDesc>
+			<appInfo>
+				<application version="0.5.5-SNAPSHOT" ident="GROBID" when="2019-04-04T12:42+0000">
+					<ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Concept drift vs suicide: comment l&apos;un peut prévenir l&apos;autre?</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Cédric</forename><surname>Maigrot</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Sandra</forename><surname>Bringay</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Jérôme</forename><surname>Azé</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Cedric</forename><surname>Maigrot@irisa</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Fr</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">{sandra</forename><surname>Bringay</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Jerome</forename><forename type="middle">Aze}@lirmm</forename><surname>Fr</surname></persName>
+						</author>
+						<author>
+							<affiliation key="aff0">
+								<orgName type="institution">IRISA Rennes</orgName>
+								<address>
+									<postCode>6074</postCode>
+									<country>UMR</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff1">
+								<orgName type="institution" key="instit1">LIRMM</orgName>
+								<orgName type="institution" key="instit2">CNRS</orgName>
+								<orgName type="institution" key="instit3">AMIS</orgName>
+								<orgName type="institution" key="instit4">Université de Montpellier Paul Valéry</orgName>
+								<address>
+									<postCode>5506</postCode>
+									<region>UMR</region>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Concept drift vs suicide: comment l&apos;un peut prévenir l&apos;autre?</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<abstract>
+				<p>Le suicide devient d&apos;année en année une problématique plus préoc-cupante. Les organismes de santé tels que l&apos;OMS se sont engagés à réduire le nombre de suicides de 10% dans l&apos;ensemble des pays membres d&apos;ici 2020. Si le suicide est généralement un geste impulsif, il existe souvent des actes et des paroles qui peuvent révéler un mal être et représenter des signes précurseurs de prédispositions au suicide. L&apos;objectif de cette étude est de mettre en place un système pour détecter semi-automatiquement ces comportements et ces paroles au travers des réseaux sociaux. Des travaux précédents ont proposé la classification de messages issus de Twitter suivant des thèmes liés au suicide : tristesse, blessures psychologiques, état mental, etc. Dans cette étude, nous ajoutons la dimension temporelle pour prendre en compte l&apos;évolution de l&apos;état des personnes monitorées. Nous avons implémenté pour cela différentes méthodes d&apos;apprentis-sage dont une méthode originale de concept drift. Nous avons expérimenté avec succès cette méthode sur des données réelles issues du réseau social Facebook.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="fr">
+	</text>
+</TEI>

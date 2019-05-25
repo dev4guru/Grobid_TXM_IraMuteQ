@@ -1,0 +1,13 @@
+{	 "idArt" : "718",
+	 "placeAut" : [ 
+		{ "place" : "Lyon",
+		 "country" : "France",
+		 "location" : { "lat" :  45.764043, 
+			 "lon" : 4.835658999999964 } },
+		{ "place" : "Limbach-Oberfrohna",
+		 "country" : "Allemagne",
+		 "location" : { "lat" :  50.8575662, 
+			 "lon" : 12.753719799999999 } }
+	 ]
+} 
+ 

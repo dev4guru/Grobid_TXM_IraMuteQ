@@ -1,0 +1,13 @@
+{	 "idArt" : "864",
+	 "placeAut" : [ 
+		{ "place" : "Blagnac",
+		 "country" : "France",
+		 "location" : { "lat" :  43.63508700000001, 
+			 "lon" : 1.3970299999999725 } },
+		{ "place" : "Villeurbanne",
+		 "country" : "France",
+		 "location" : { "lat" :  45.771944, 
+			 "lon" : 4.89017089999993 } }
+	 ]
+} 
+ 

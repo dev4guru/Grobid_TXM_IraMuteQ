@@ -1,0 +1,14 @@
+{	 "idArt" : "439",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2010",
+	 "place" : "Hammamet",
+	 "location" : { "lat" :  36.4, 
+		 "lon" : 10.616667 }, 
+	 "title" : "Interrogation des résumés de flux de données",
+	 "abstract" : "Les systèmes de gestion de flux de données (SGFD) ont été conçusafin de traiter une masse importante de données produites en ligne de façoncontinue. Etant donné que les ressources matérielles ne permettent pas de conservertoute cette volumétrie, seule la partie récente du flux est mémorisée dans lamémoire du SGFD. Ainsi, les requêtes évaluées par ces systèmes ne peuvent porterque sur les données les plus récentes du flux. Par conséquent, les SGFD actuelsne peuvent pas traiter des requêtes qui portent sur des périodes très longues.Nous proposons dans cet article, une approche permettant d'évaluer des requêtesqui portent sur une période plus longue que la mémoire du SGFD. Ces fenêtresfont appels à des données récentes et des données historisées. Nous présentonsle niveau logique de cette approche ainsi que son implantation sous le SGFD Esper.Une technique d'échantillonnage associée à une technique de fenêtre pointde repère est appliquée pour conserver une représentation compacte des donnéesdu flux.",
+	 "authors" : ["Nesrine Gabsi","Fabrice Clérot","Georges Hébrail"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1001300" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1001300" 
+} 
+ 

@@ -1,0 +1,15 @@
+{
+"idArt": "1315",
+"series": "Revue des Nouvelles Technologies de l'Information",
+"booktitle": "EGC",
+"year": "2018",
+"title": "Qu'est-ce qu'un bon système d'apprentissage ? La réponse a évolué avec le temps. Et demain?",
+"abstract": "L'apprentissage automatique, pardon le « machine learning », a envahi la sphère médiatiquegrâce à des succès impressionnants comme la victoire d'une machine au Go, ou la promesse de véhicules autonomes arrivant très prochainement sur nos routes. De fait, tant l'exploitation des données massives que la production de code machine à partir de l'expérience de la machine plutôt que par des humains, met l'apprentissage automatique au coeur de l'intelligence artificielle. Très certainement cela signifie que nous savons répondre à la question « qu'est-ce qu'un bon système d'apprentissage ? » et qu'il ne nous reste plus qu'à en décliner la réponse pour obtenir des systèmes adaptés à chaque domaine applicatif. Pourtant, la réponse à cette question a profondément évolué au cours des 60 dernières années, au point que les publications sur l'apprentissage automatique d'il y a quelques décennies semblent venir d'une autre planète et ne sont d'ailleurs plus enseignés aux étudiants. Et ceci pas seulement parce que les connaissances passées seraient jugées obsolètes, mais parce qu'elles ne semblent pas pertinentes. Avons-nous donc raison ? Nos précurseurs avaient-ils tort ? Et nos successeurs nous citeront-ils dans leurs manuels ? Dans cette présentation, nous examinerons quelques moments clés de l'histoire de l'apprentissage automatique correspondant à des tournants dans la manière de considérer ce qu'est un bon système d'apprentissage. Et nous nous demanderons si nous vivons un autre moment charnière dans lequel changent notre perspective, la question que nous cherchons à résoudre dans nos recherches, les concepts manipulés et la manière d'écrire nos papiers.",
+"authors": "Antoine Cornuéjols",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1002360",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1002360",
+"metaSession": "0",
+"place": "Paris",
+"Latitude": " 48.8589 ",
+"Longitude": "2.3543"
+}

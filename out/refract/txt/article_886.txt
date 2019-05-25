@@ -1,0 +1,1 @@
+Les systèmes d'apprentissage qui utilisent les TIC peuvent enregistrersous forme électronique de nombreuses données. Ces données peuvent êtrefouillées par des logiciels adéquats pour en retirer des informationspédagogiques. Cet article illustre cette approche en prenant pour exemple leLogic-ITA, un système d'apprentissage pour les preuves formelles en logique.

@@ -1,0 +1,22 @@
+{
+"year": "2011",
+"metaSession": "1",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1000984",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1000984",
+"abstract": "L'autonomie des participants dans les systèmes P2P pour le partage de données peut conduire à une situation d'hétérogénéité sémantique dans le cas où les participants utilisent leurs propres ontologies pour représenter leurs données. Dans cet article nous commençons par définir des mesures de disparité entre participants en considérant leurs contextes sémantiques. En considérant la topologie du système et les disparités entre participants, nous proposons des mesures d'hétérogénéité sémantique d'un système P2P non-structuré.",
+"title": "Mesures d'hétérogénéité sémantique des systèmes P2P non-structurés",
+"placeAut":[{
+"place":"Nantes",
+"country":"France",
+"location":{
+	"lat":"47.218371",
+	"lon":"-1.553621"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 48.390394, u'lon': -4.486076}",
+"place": "Brest",
+"booktitle": "EGC",
+"idArt": "329",
+"authors": "['Thomas Cerqueus','Sylvie Cazalens','Philippe Lamarre']"
+}

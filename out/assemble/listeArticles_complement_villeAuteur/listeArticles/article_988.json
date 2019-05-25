@@ -1,0 +1,14 @@
+{	 "idArt" : "988",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2005",
+	 "place" : "Paris",
+	 "location" : { "lat" :  48.856614, 
+		 "lon" : 2.3522219 }, 
+	 "title" : "Modélisation des individus et de leurs relations pour l'aide à l'intégration des individus dans l'organisation",
+	 "abstract" : "L'objectif de ce papier est de présenter une contribution à la modélisation des individus et de leurs relations pour permettre l'aide à l'intégration des acteurs dans une organisation. Nous étudions en particulier le cas du remplacement d'un acteur (« turn-over »). Dans ce cadre, nous proposons un modèle regroupant un ensemble de données relatives à un individu, aux relations que celui-ci entretient avec les autres acteurs et à son espace informationnel. L'étude porte sur la mise en oeuvre de mécanismes d'aide fournissant à un acteur les moyens de son intégration : la mise à disposition d'une image des espaces informationnels et relationnels de son prédécesseur ainsi que la mise en relation de l'acteur avec les autres acteurs de l'organisation. Cette étude est menée en partenariat avec des experts en GRH.",
+	 "authors" : ["Marie-Françoise Canut","Max Chevalier","André Péninou","Florence Sedes"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1000392" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1000392" 
+} 
+ 

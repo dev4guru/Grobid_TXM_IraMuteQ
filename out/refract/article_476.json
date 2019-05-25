@@ -1,0 +1,22 @@
+{
+"year": "2010",
+"metaSession": "5",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1001374",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1001374",
+"abstract": "The Graph Visualization Framework Tulip now enjoys 10 years ofuser experience, and has matured its architecture and development cycle. Originallydesigned to interactively navigate large graphs, the framework integratesstate-of-the-art software engineering concepts and good practices. It offers alarge panel of graphical representations (traditional graph drawing as well asalternate representations). Tulip is most useful in a data mining and knowledgediscovery context, allowing users to easily add their own data analysis and computingroutines through its plug-in architecture.",
+"title": "Tulip: a Scalable Graph Visualization Framework",
+"placeAut":[{
+"place":"Talence",
+"country":"France",
+"location":{
+	"lat":"44.802614",
+	"lon":"-0.588054"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 36.4, u'lon': 10.616667}",
+"place": "Hammamet",
+"booktitle": "EGC",
+"idArt": "476",
+"authors": "['David Auber','Patrick Mary','Morgan Mathiaut','Jonathan Dubois','Antoine Lambert','Dan Archambault','Romain Bourqui','Bruno Pinaud','Maylis Delest','Guy Melançon']"
+}

@@ -1,0 +1,15 @@
+{
+"idArt": "1140",
+"series": "Revue des Nouvelles Technologies de l'Information",
+"booktitle": "EGC",
+"year": "2016",
+"title": "Fusion de données redondantes : une approche explicative",
+"abstract": "Nous nous intéressons, dans le cadre du projet ANR Qualinca au traitementdes données redondantes. Nous supposons dans cet article que cette redondancea déjà été établie par une étape préalable de liage de données. Laquestion abordée est la suivante : comment proposer une représentation uniqueen fusionnant les "duplicats" identifiés ? Plus spécifiquement, comment décider,pour chaque propriété de la donnée considérée, quelle valeur choisir parmi cellesfigurant dans les "duplicats" à fusionner ? Quelle méthode adopter dans le butde pouvoir, par la suite, retracer et expliquer le résultat obtenu de façon transparenteet compréhensible par l'utilisateur ? Nous nous appuyons pour cela surune approche de décision multicritère et d'argumentation.",
+"authors": "Fatiha Saïs, Rallou Thomopoulos",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1002189",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1002189",
+"metaSession": "4",
+"place": "Reims",
+"Latitude": " 49.258365 ",
+"Longitude": "4.031732"
+}

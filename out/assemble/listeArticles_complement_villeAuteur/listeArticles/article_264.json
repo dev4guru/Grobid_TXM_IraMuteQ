@@ -1,0 +1,14 @@
+{	 "idArt" : "264",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2012",
+	 "place" : "Bordeaux",
+	 "location" : { "lat" :  44.837789, 
+		 "lon" : -0.57918 }, 
+	 "title" : "Un algorithme de classification automatique pour des données relationnelles multi-vues",
+	 "abstract" : "classification automatique (De Carvalho et al., 2012) capable de partitionnerdes objets en prenant en compte de manière simultanée plusieurs matricesde dissimilarité qui les décrivent. Ces matrices peuvent avoir été généréesen utilisant différents ensembles de variables et de fonctions de dissimilarité.Cette méthode, basée sur l'algorithme de nuées dynamiques est conçu pour fournirune partition et un prototype pour chaque classe tout en découvrant une pondérationpertinante pour chaque matrice de dissimilarité en optimisant un critèred'adéquation entre les classes et leurs représentants. Ces pondérations changentà chaque itération de l'algorithme et sont différentes pour chacune des classes.Nous présentons aussi plusieurs outils d'aide à l'interprétation des groupes et dela partition fournie par cette nouvelle méthode. Deux exemples illustrent l'interêtde la méthode. Le premier utilise des données concernant des chiffres manuscrits(0 à 9) numérisés en images binaires provenant de l'UCI. Le second utilise unensemble de rapports dont nous connaissons une classification experte donnée àpriori.",
+	 "authors" : ["Francisco de Assis Tenório de Carvalho","Filipe M. de Melo","Yves Lechevallier","Thierry Despeyroux"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1001142" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1001142" 
+} 
+ 

@@ -1,0 +1,22 @@
+{
+"year": "2005",
+"metaSession": "1",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1000385",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1000385",
+"abstract": "Nous nous intéressons au raisonnement sur les compétences des ressources humaines pour simplifier leur gestion. Dans cet article, nous proposons une méthode de raisonnement pour l'aide à l'identification des compétences d'un individu. Un processus de knowledge-mining défini par analogie avec l'extraction de règles d'association en data-mining est proposé afin d'induire une base de règles à partir d'une base de connaissances sur le domaine. De plus, un prototype a été développé pour expérimenter notre approche sur un exemple académique.",
+"title": "Raisonnement en gestion des compétences",
+"placeAut":[{
+"place":"Nantes",
+"country":"France",
+"location":{
+	"lat":"47.218371",
+	"lon":"-1.553621"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 48.856614, u'lon': 2.3522219}",
+"place": "Paris",
+"booktitle": "EGC",
+"idArt": "998",
+"authors": "['Emmanuel Blanchard','Mounira Harzallah','Henri Briand']"
+}

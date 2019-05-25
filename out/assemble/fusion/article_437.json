@@ -1,0 +1,22 @@
+{
+"year": "2010",
+"metaSession": "4",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1001356",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1001356",
+"abstract": "Cet article montre que si l'on dispose d'une connaissance a priori surle problème en main, l'intégration de cette dernière dans le processus d'apprentissaged'une machine intelligente pour des tâches de classification peut améliorerla performance de cette machine. Nous étudions l'effet de l'intégration de laconnaissance a priori de convexité sur le processus d'apprentissage du principedu Maximum d'Entropie (MaxEnt) en utilisant des exemples virtuels. Nous testonsles idées proposées sur un problème benchmark bien connu dans la littératuredes machines d'apprentissage, le problème de formes d'ondes de Breiman.Nous avons abouti à un taux d'erreur de généralisation de 15.57% qui est trèsproche du taux d'erreur théorique estimé par Breiman (14%).",
+"title": "Intégration de Connaissances a Priori dans le Principe du Maximum d'Entropie",
+"placeAut":[{
+"place":"San Sebastian",
+"country":"Spain",
+"location":{
+	"lat":"43.318334",
+	"lon":"-1.9812313"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 36.4, u'lon': 10.616667}",
+"place": "Hammamet",
+"booktitle": "EGC",
+"idArt": "437",
+"authors": "['Fadi Chakik','Fadi Dornaika']"
+}

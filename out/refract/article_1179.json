@@ -1,0 +1,15 @@
+{
+"idArt": "1179",
+"series": "Revue des Nouvelles Technologies de l'Information",
+"booktitle": "EGC",
+"year": "2016",
+"title": "Une approche basée sur des données mixtes  mesures et estimations  pour la détection de défaillances d'un système robotisé",
+"abstract": "Mettre en place un dispositif de détection de pannes représente denos jours l'un des défis majeurs pour les constructeurs des systèmes robotisés.Le processus de détection nécessite l'utilisation d'un certain nombre de capteursafin de surveiller le fonctionnement de ces systèmes. Or, le coût ainsi queles contraintes liées à la mise en place de ces capteurs conduisent souvent lesconcepteurs à optimiser leurs nombres, ce qui mène à un manque de mesuresnécessaires pour la détection de défaillances. L'une des méthodes pour comblerce manque est d'estimer les paramètres non mesurables à partir d'un modèlemathématique décrivant la dynamique du système réel. Cet article présente uneapproche basée sur des données mixtes (données mesurées et données estimées)pour la détection de défaillances dans les systèmes robotisés. Cette détection esteffectuée en utilisant un classifieur de type arbre de décision. Les données utiliséespour son apprentissage proviennent des mesures prises sur le système réel.Ces données sont ensuite enrichies par des données estimées en provenance d'unobservateur basé sur un modèle analytique. Cet enrichissement sous forme d'attributssupplémentaires a pour but d'augmenter la connaissance du classifieursur le fonctionnement du système et par conséquent améliorer le taux de bonnedétection de défaillances. Une expérience sur un système d'actionnement d'unsiège robotisé, montrant l'intérêt de notre approche, sera présentée à la fin del'article.",
+"authors": "Rabah Mazouzi, Rabih Taleb, Lynda Seddiki, Cyril de Runz, Kevin Guelton, Herman Akdag",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1002169",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1002169",
+"metaSession": "1",
+"place": "Reims",
+"Latitude": " 49.258404 ",
+"Longitude": "4.031771"
+}

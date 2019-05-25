@@ -1,0 +1,13 @@
+{	 "idArt" : "848",
+	 "placeAut" : [ 
+		{ "place" : "Cantho",
+		 "country" : "Vietnam",
+		 "location" : { "lat" :  10.0451618, 
+			 "lon" : 105.74685350000004 } },
+		{ "place" : "Laval",
+		 "country" : "France",
+		 "location" : { "lat" :  48.0785146, 
+			 "lon" : -0.7669905999999855 } }
+	 ]
+} 
+ 

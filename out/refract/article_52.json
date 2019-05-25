@@ -1,0 +1,22 @@
+{
+"year": "2015",
+"metaSession": "5",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1002103",
+"pdfarticle": "",
+"abstract": "Ardans method ArdansSas (2006b) and technology ArdansSas (2006a) of knowledge capitalization and structuration are used with different industries (automotive, aerospace, energy, defence, steel, health, etc.) for more than a decade in France and Europe.The proposed solutions in knowledge management and especially in expertise capitalisation have set a lot of feedback over time. With a view toward ongoing improvement, what are the impacts of these feedbacks on the method nowadays? Put into practice into the industry, the return of investment of a capitalization campaign is inferred from the quality of the knowledge base delivered at the end of the campaign. Therefore, the method and the technology are intrinsically connected. How IT tools can assist with the quality diagnosis of the knowledge base?A comparative study was conducted on the basis of the method Mariot et al. (2007) exposed at EGC'2007. This article sets out the results of the changes and improvements of the method, in conjunction with the latest technical and scientific development on the one hand, and the change of the industry needs on the other hand.",
+"title": "To initiate a corporate memory with a knowledge compendium: ten years of learning from experience with the Ardans method",
+"placeAut":[{
+"place":"Montigny-le-Bretonneux",
+"country":"France",
+"location":{
+	"lat":"48.7738734",
+	"lon":"2.0360157"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 49.815273, u'lon': 6.129582999999999}",
+"place": "Luxembourg",
+"booktitle": "EGC",
+"idArt": "52",
+"authors": "['Vincent Besson','Alain Berger']"
+}

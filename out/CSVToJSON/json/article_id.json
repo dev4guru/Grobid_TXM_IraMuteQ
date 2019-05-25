@@ -1,0 +1,15 @@
+{
+"idArt": "id",
+"series": "series",
+"booktitle": "booktitle",
+"year": "year",
+"title": "title",
+"abstract": "abstract",
+"authors": "authors",
+"pdf1page": "pdf1page",
+"pdfarticle": "pdfarticle",
+"metaSession": "MS",
+"place": "place",
+"Latitude": " Latitude ",
+"Longitude": "Longitude"
+}

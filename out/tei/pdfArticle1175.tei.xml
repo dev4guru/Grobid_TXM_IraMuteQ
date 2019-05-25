@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/josuah/Bureau/grobid/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="fr">
+		<encodingDesc>
+			<appInfo>
+				<application version="0.5.5-SNAPSHOT" ident="GROBID" when="2019-04-04T12:42+0000">
+					<ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Un cadre collaboratif pour la segmentation et la classification d&apos;images de télédétection</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Andrés</forename><surname>Troya-Galvis</surname></persName>
+							<email>troyagalvis@unistra.fr</email>
+							<affiliation key="aff0">
+								<orgName type="department">Computing Research Institute</orgName>
+								<orgName type="laboratory">UMR 7357</orgName>
+								<orgName type="institution">Université de Strasbourg</orgName>
+								<address>
+									<settlement>Icube</settlement>
+									<country key="QA">Qatar</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Pierre</forename><surname>Gançarski</surname></persName>
+							<email>gancarski@unistra.fr</email>
+							<affiliation key="aff0">
+								<orgName type="department">Computing Research Institute</orgName>
+								<orgName type="laboratory">UMR 7357</orgName>
+								<orgName type="institution">Université de Strasbourg</orgName>
+								<address>
+									<settlement>Icube</settlement>
+									<country key="QA">Qatar</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Laure</forename><surname>Berti-Équille</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Computing Research Institute</orgName>
+								<orgName type="laboratory">UMR 7357</orgName>
+								<orgName type="institution">Université de Strasbourg</orgName>
+								<address>
+									<settlement>Icube</settlement>
+									<country key="QA">Qatar</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Un cadre collaboratif pour la segmentation et la classification d&apos;images de télédétection</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<abstract>
+				<p>Dans cet article nous présentons CoSC, un cadre collaboratif pour la segmentation et la classification d&apos;images de télédétection permettant d&apos;extraire les objets d&apos;une classe thématique donnée. Le processus de collaboration est guidé par la qualité des données évaluée par des critères d&apos;homogénéité ainsi que des critères implicitement liés à la sémantique des objets afin d&apos;extraire une classe thématique donnée. Nos expériences montrent que CoSC atteint des bons résultats en termes de classification, et améliore notablement la segmentation de l&apos;image de manière globale.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="fr">
+	</text>
+</TEI>

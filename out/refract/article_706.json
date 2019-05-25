@@ -1,0 +1,22 @@
+{
+"year": "2007",
+"metaSession": "8",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1001399",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1001399",
+"abstract": "Le modèle flou de proximité repose sur l'hypothèse que plus les occurrences des termes d'une requête se trouvent proches dans un document, plus ce dernier est pertinent. Cette mesure floue est très avantageuse dans le traitement des documents à textes courts, toutefois elle ne tient pas compte de la sémantique des termes. Nous présentons dans cet article l'intégration d'une métrique conceptuelle au modèle de proximité floue des termes pour la formalisation de notre propre modèle.",
+"title": "Extension sémantique du modèle de similarité basé sur la proximité floue des termes",
+"placeAut":[{
+"place":"Paris",
+"country":"France",
+"location":{
+	"lat":"48.856614",
+	"lon":"2.3522219"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 50.4673883, u'lon': 4.8719854}",
+"place": "Namur",
+"booktitle": "EGC",
+"idArt": "706",
+"authors": "['Zoulikha Heddadji','Nicole Vincent','Séverine Kirchner','Georges Stamon']"
+}

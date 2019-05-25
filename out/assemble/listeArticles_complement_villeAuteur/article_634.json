@@ -1,0 +1,17 @@
+{	 "idArt" : "634",
+	 "placeAut" : [ 
+		{ "place" : "Metz",
+		 "country" : "France",
+		 "location" : { "lat" :  49.1193089, 
+			 "lon" : 6.1757155999999895 } },
+		{ "place" : "Gif-sur-Yvette",
+		 "country" : "France",
+		 "location" : { "lat" :  48.701844, 
+			 "lon" : 2.134078000000045 } },
+		{ "place" : "Vandoeuvre Lès-Nancy",
+		 "country" : "France",
+		 "location" : { "lat" :  48.66111799999999, 
+			 "lon" : 6.173760000000016 } }
+	 ]
+} 
+ 

@@ -1,0 +1,14 @@
+{	 "idArt" : "1004",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2005",
+	 "place" : "Paris",
+	 "location" : { "lat" :  48.856614, 
+		 "lon" : 2.3522219 }, 
+	 "title" : "Sélection de modèles par des méthodes à noyaux pour la classification de données séquentielles",
+	 "abstract" : "Ce travail concerne le développement de méthodes de classification discriminantes pour des données séquentielles. Quelques techniques ont été proposées pour étendre aux séquences les méthodes discriminantes, comme les machines à vecteurs supports, par nature plus adaptées aux données en dimension fixe. Elles permettent de classifier des séquences complètes mais pas de réaliser la segmentation, qui consiste à reconnaître la séquence d'unités, phonèmes ou lettres par exemple, correspondant à un signal. En utilisant une correspondance donnée / modèle nous transformons le problème de l'apprentissage des modèles à partir de données par un problème de sélection de modèles, qui peut être attaqué via des méthodes du type machines à vecteurs supports. Nous proposons et évaluons divers noyaux pour cela et fournissons des résultats expérimentaux pour deux problèmes de classification.",
+	 "authors" : ["Trinh Minh Tri Do","Thierry Artières","Patrick Gallinari"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1000236" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1000236" 
+} 
+ 

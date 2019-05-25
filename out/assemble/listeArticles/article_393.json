@@ -1,0 +1,14 @@
+{	 "idArt" : "393",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2010",
+	 "place" : "Hammamet",
+	 "location" : { "lat" :  36.4, 
+		 "lon" : 10.616667 }, 
+	 "title" : "Approche complexe de l'analyse de documents anciens",
+	 "abstract" : "Cet article présente une méthode complexe pour la caractérisation etl'indexation d'images graphiques de documents anciens. A partir d'un bref étatde l'art, une méthode pour décrire ces images en tenant compte de leur complexitéest proposée. Trois étapes principales de ce traitement sont détailléesdont une méthode novatrice d'analyse, de segmentation et de description destraits. Les résultats sont issus de travaux en cours et sont encourageants",
+	 "authors" : ["Mickaël Coustaty","Giap NGuyen","Vincent Courboulay","Jean-Marc Ogier"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1001368" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1001368" 
+} 
+ 

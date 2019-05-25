@@ -1,0 +1,13 @@
+{	 "idArt" : "146",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2014",
+	 "place" : "Rennes",
+	 "location" : { "lat" :  48.117266, 
+		 "lon" : -1.6777926 }, 
+	 "title" : "Une méthode hybride pour la prédiction du profil des auteurs",
+	 "abstract" : "Dans cet article, nous nous intéressons à la détection du profil desauteurs (âge, genre) à travers leurs discussions. La méthode proposée s'appuiesur la classification automatique qui utilise certaines données extraites d'une manièrestatistique à partir de corpus source. Nous présentons une méthode hybridequi combine l'analyse de surface dans les textes avec une méthode d'apprentissageautomatique. A fin d'obtenir une meilleure gestion de ces données, nousnous sommes basés sur l'utilisation des arbres de décision. Notre méthode adonné des résultats intéressants pour la détection du genre.",
+	 "authors" : ["Seifeddine Mechti","Maher Jaoua","Lamia Hadrich Belguith"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1001973" 
+} 
+ 

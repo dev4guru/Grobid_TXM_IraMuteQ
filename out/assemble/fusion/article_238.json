@@ -1,0 +1,22 @@
+{
+"year": "2012",
+"metaSession": "1",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1001176",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1001176",
+"abstract": "Différentes ressources ontologiques généralistes de très grande tailleont été développées de façon collective et sont aujourd'hui disponibles sur leweb. Ainsi l'ontologie YAGO est une énorme base de connaissances décrivantplus de 2 millions d'entités. Afin de tirer parti de ce gigantesque travail collectif,nous montrons comment en extraire des sous-parties thématiquement focaliséespour enrichir une autre ontologie, dite cible, de taille plus limitée mais de domainecentré sur une application particulière 1.",
+"title": "Extraction de sous-parties ciblées d'une ontologie généraliste pour enrichir une ontologie particulière",
+"placeAut":[{
+"place":"Orsay",
+"country":"France",
+"location":{
+	"lat":"48.697161",
+	"lon":"2.189617"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 44.837789, u'lon': -0.57918}",
+"place": "Bordeaux",
+"booktitle": "EGC",
+"idArt": "238",
+"authors": "['Fayçal Hamdi','Brigitte Safar','Chantal Reynaud']"
+}

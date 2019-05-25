@@ -1,0 +1,14 @@
+{	 "idArt" : "493",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2009",
+	 "place" : "Strasbourg",
+	 "location" : { "lat" :  48.5734053, 
+		 "lon" : 7.752111299999999 }, 
+	 "title" : "Acquisition de la théorie ontologique d'un système d'extraction d'information",
+	 "abstract" : "La conception de systèmes d'Extraction d'Information (EI) destinésà extraire les réseaux d'interactions géniques décrits dans la littérature scientifiqueest un enjeu important. De tels systèmes nécessitent des représentationssophistiquées, s'appuyant sur des ontologies, afin de définir différentes relationsbiologiques, ainsi que les dépendances récursives qu'elles présentent entre elles.Cependant, l'acquisition de ces dépendances n'est pas possible avec les techniquesd'apprentissage automatique actuellement employées en EI, car ces dernièresne gèrent pas la récursivité. Afin de palier ces limitations, nous présentonsune application à l'EI de la Programmation Logique Inductive, en mode multipredicats.Nos expérimentations, effectuées sur un corpus bactérien, conduisentà un rappel global de 67.7% pour une précision de 75.5%.",
+	 "authors" : ["Alain-Pierre Manine"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1000788" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1000788" 
+} 
+ 

@@ -1,0 +1,14 @@
+{	 "idArt" : "258",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2012",
+	 "place" : "Bordeaux",
+	 "location" : { "lat" :  44.837789, 
+		 "lon" : -0.57918 }, 
+	 "title" : "Solving Problems with Visual Analytics: Challenges and Applications",
+	 "abstract" : "Never before in history data is generated and collected at such high volumes as it is today. As the volumes of data available to business people, scientists, and the public increase,their effective use becomes more challenging. Keeping up to date with the flood of data,using standard tools for data analysis and exploration, is fraught with difficulty. The field ofvisual analytics seeks to provide people with better and more effective ways to understandand analyze large datasets, while also enabling them to act upon their findings immediately. Visual analytics integrates the analytic capabilities of the computer and the abilities of the human analyst, allowing novel discoveries and empowering individuals to take control of the analytical process. Visual analytics enables unexpected and hidden insights, which may lead to beneficial and profitable innovation. The talk presents the challenges of visual analytics and exemplifies them with application examples, illustrating the exiting potential of current visual analysis techniques.",
+	 "authors" : ["Daniel Keim"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1001130" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1001130" 
+} 
+ 

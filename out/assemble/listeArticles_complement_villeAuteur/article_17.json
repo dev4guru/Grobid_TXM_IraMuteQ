@@ -1,0 +1,13 @@
+{	 "idArt" : "17",
+	 "placeAut" : [ 
+		{ "place" : "Villetaneuse",
+		 "country" : "France",
+		 "location" : { "lat" :  48.963476, 
+			 "lon" : 2.3473539999999957 } },
+		{ "place" : "Gennevilliers",
+		 "country" : "France",
+		 "location" : { "lat" :  48.925525, 
+			 "lon" : 2.293274999999994 } }
+	 ]
+} 
+ 

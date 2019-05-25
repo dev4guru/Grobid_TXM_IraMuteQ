@@ -1,0 +1,9 @@
+{	 "idArt" : "1056",
+	 "placeAut" : [ 
+		{ "place" : "Bruz",
+		 "country" : "France",
+		 "location" : { "lat" :  48.024538, 
+			 "lon" : -1.7471480000000383 } }
+	 ]
+} 
+ 

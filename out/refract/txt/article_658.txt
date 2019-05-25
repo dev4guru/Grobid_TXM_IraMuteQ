@@ -1,0 +1,1 @@
+Les tâches de classification textuelle ont souvent pour objectif de regrouper thématiquement différents textes. Dans cet article, nous nous sommes intéressés à la classification de documents en fonction des opinions et jugements de valeurs qu'ils contiennent. L'approche proposée est fondée sur un système de vote utilisant plusieurs méthodes de classification.

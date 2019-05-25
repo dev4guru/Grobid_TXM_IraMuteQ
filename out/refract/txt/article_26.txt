@@ -1,0 +1,1 @@
+This paper presents a new function of collection selection. Our function is free of any extracollection parameter and is based on the documents relevance. The ranking of a collection is proportional to its number of relevant documents.

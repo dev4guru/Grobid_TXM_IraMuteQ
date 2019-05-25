@@ -1,0 +1,13 @@
+{	 "idArt" : "132",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2014",
+	 "place" : "Rennes",
+	 "location" : { "lat" :  48.117266, 
+		 "lon" : -1.6777926 }, 
+	 "title" : "Representative training sets for classification and the variability of empirical distributions",
+	 "abstract" : "We propose a novel approach for the estimation of the size of trainingsets that are needed for constructing valid models in machine learning and datamining. We aim to provide a good representation of the underlying populationwithout making any distributional assumptions.Our technique is based on the computation of the standard deviation of the 2-statistics of a series of samples. When successive statistics are relatively close,we assume that the samples produced represent adequately the true underlyingdistribution of the population, and the models learned from these samples willbehave almost as well as models learned on the entire population.We validate our results by experiments involving classifiers of various levels ofcomplexity and learning capabilities.",
+	 "authors" : ["Saaid Baraty","Dan Simovici"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1001940" 
+} 
+ 

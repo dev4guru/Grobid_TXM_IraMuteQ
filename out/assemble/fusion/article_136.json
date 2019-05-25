@@ -1,0 +1,22 @@
+{
+"year": "2014",
+"metaSession": "8",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1001928",
+"pdfarticle": "",
+"abstract": "Dans le domaine de la reconnaissance de gestes isolés, bon nombrede travaux se sont intéressés à la réduction de dimension sur l'axe spatial pourréduire à la fois la complexité algorithmique et la variabilité des réalisationsgestuelles. Il est assez étonnant de constater que peu de ces méthodes se sontexplicitement penchées sur la réduction de dimension sur l'axe temporel. Enmatière de complexité, la réduction de dimension sur cet axe est un enjeu majeurquant à l'utilisabilité de distances élastiques en complexité quadratique. Parailleurs, la prise en compte de la variabilité sur cet axe demeure une source avéréede gain de performance. Pour tenter d'apporter un éclairage en matière deréduction de dimension sur l'axe temporel, nous présentons dans cet article uneapproche basée sur un sous échantillonnage temporel associé à l'exploitationd'un apprentissage automatique à base de noyaux élastiques. Nous montronsexpérimentalement, sur deux jeux de données très référencés dans la communautéet très opposés en matière de qualité de capture de mouvement, qu'il estpossible de réduire sensiblement le nombre de postures sur les trajectoires temporellestout en conservant, grâce à des noyaux élastiques, des performances dereconnaissance au niveau de l'état de l'art du domaine. Le gain de complexitéobtenu rend une telle approche éligible pour des applications temps-réel.",
+"title": "Sous échantillonnage et machine à noyaux élastiques pour la classification de données de mouvement capturé",
+"placeAut":[{
+"place":"Vannes",
+"country":"France",
+"location":{
+	"lat":"47.658236",
+	"lon":"-2.760847"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 48.117266, u'lon': -1.6777926}",
+"place": "Rennes",
+"booktitle": "EGC",
+"idArt": "136",
+"authors": "['Pierre-François Marteau','Sylvie Gibet','Clément Reverdy']"
+}

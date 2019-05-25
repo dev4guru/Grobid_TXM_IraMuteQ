@@ -1,0 +1,22 @@
+{
+"year": "2011",
+"metaSession": "5",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1001037",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1001037",
+"abstract": "Les séries temporelles d'images satellites (ou Satellite Image Time Series - SITS) sont d'importantes sources d'informations sur l'évolution du territoire. Étudier ces images permet de comprendre les changements sur des zones précises mais aussi de découvrir des schémas d'évolution à grande échelle. Toutefois, découvrir ces phénomènes impose de répondre à plusieurs défis qui sont liés aux caractéristiques des SITS et à leurs contraintes. Premièrement, chaque pixel d'une image satellite est décrit par plusieurs valeurs (les niveaux radiométriques sur différentes longueurs d'ondes). Deuxièmement, ces motifs d'évolution portent sur des périodes très longues et ne sont pas forcément synchrones selon les régions. Troisièmement, les régions qui ne sont pas concernées par des évolutions significatives sont majoritaires et leur domination rend difficile l'extraction des motifs d'évolution. Dans cet article, nous proposons une méthode qui répond à ces difficultés et nous la validons sur une série d'images satellites acquises sur une période de 20 ans.",
+"title": "Découverte de motifs d'évolution significatifs dans les séries temporelles d'images satellites",
+"placeAut":[{
+"place":"Illkirch",
+"country":"France",
+"location":{
+	"lat":"48.52854",
+	"lon":"7.711011"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 48.390394, u'lon': -4.486076}",
+"place": "Brest",
+"booktitle": "EGC",
+"idArt": "303",
+"authors": "['François Petitjean','Florent Masseglia','Pierre Gançarski']"
+}

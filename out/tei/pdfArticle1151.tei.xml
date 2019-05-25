@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/josuah/Bureau/grobid/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="fr">
+		<encodingDesc>
+			<appInfo>
+				<application version="0.5.5-SNAPSHOT" ident="GROBID" when="2019-04-04T12:42+0000">
+					<ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">LibRe: Protocole de gestion de la cohérence dans les systèmes de stockage distribués</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Raja</forename><surname>Chiky</surname></persName>
+							<email>rchiky@isep.fr</email>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Sathiya</forename><forename type="middle">Prabhu</forename><surname>Kumar</surname></persName>
+							<email>sathiya-prabhu.kumar@isep.fr</email>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Sylvain</forename><surname>Lefebvre</surname></persName>
+							<email>sylvain.lefebvre@isep.fr</email>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Eric</forename><surname>Gressier-Soudan</surname></persName>
+						</author>
+						<author>
+							<affiliation key="aff0">
+								<address>
+									<addrLine>28, rue Notre Dame Des</addrLine>
+									<postCode>75006</postCode>
+									<settlement>Champs, Paris</settlement>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff1">
+								<address>
+									<addrLine>292 Rue Saint-Martin</addrLine>
+									<postCode>75003</postCode>
+									<settlement>Paris</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">LibRe: Protocole de gestion de la cohérence dans les systèmes de stockage distribués</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<abstract>
+				<p>Nous présentons dans ce papier un protocole de gestion de la cohé-rence appelé LibRe adapté aux systèmes de stockage orientés Cloud (telles que les bases de données NoSQL). Ce protocole garantit l&apos;accès à la donnée la plus récente tout en ne consultant qu&apos;une seule réplique. Cet algorithme est évalué par simulation et est également implémenté au sein du système de stockage Cas-sandra. Les résultats de ces expérimentations ont démontré l&apos;efficacité de notre approche.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="fr">
+	</text>
+</TEI>

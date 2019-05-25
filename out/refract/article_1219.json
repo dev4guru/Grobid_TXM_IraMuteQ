@@ -1,0 +1,15 @@
+{
+"idArt": "1219",
+"series": "Revue des Nouvelles Technologies de l'Information",
+"booktitle": "EGC",
+"year": "2017",
+"title": "Face2Graph: Base de données graphe et visualisation pour l'annotation d'archives vidéos",
+"abstract": "Nous proposons dans ce travail d'utiliser la flexibilité des modèlesde base de données graphe, et la représentation intuitive du réseau social afinde visuellement explorer, annoter, et vérifier des détections de visages dans unearchive de 15 années de journaux télévisés.",
+"authors": "Adrien Dufraux, Benjamin Renoust, ShinIchi Satoh",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1002322",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1002322",
+"metaSession": "13",
+"place": "Grenoble",
+"Latitude": " 45.188560 ",
+"Longitude": "5.724555"
+}

@@ -1,0 +1,14 @@
+{	 "idArt" : "532",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2009",
+	 "place" : "Strasbourg",
+	 "location" : { "lat" :  48.5734053, 
+		 "lon" : 7.752111299999999 }, 
+	 "title" : "Extraction efficace de règles graduelles",
+	 "abstract" : "Les règles graduelles suscitent depuis quelques années un intérêt croissant.De telles règles, de la forme Plus (moins) A1 et ... plus (moins) An alorsplus (moins) B1 et ... plus (moins) Bn trouvent application dans de nombreuxdomaines tels que la bioinformatique, les contrôleurs flous, les relevés de capteursou encore les flots de données. Ces bases, souvent composées d'un grandnombre d'attributs, restent un verrou pour l'extraction automatique de connaissances,car elles rendent inefficaces les techniques de fouille habituelles (règlesd'association, clustering...). Dans cet article, nous proposons un algorithme efficaced'extraction d'itemset graduels basé sur l'utilisation des treillis. Nous définissonsformellement les notions de gradualité, ainsi que les algorithmes associés.Des expérimentations menées sur jeux de données synthétiques et réelsmontrent l'intérêt de notre méthode",
+	 "authors" : ["Lisa Di-Jorio","Anne Laurent","Maguelonne Teisseire"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1000764" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1000764" 
+} 
+ 

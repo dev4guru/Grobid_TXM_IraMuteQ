@@ -1,0 +1,15 @@
+{
+"idArt": "1156",
+"series": "Revue des Nouvelles Technologies de l'Information",
+"booktitle": "EGC",
+"year": "2016",
+"title": "Observations sur les distributions latentes aux matrices laplaciennes de graphes",
+"abstract": "L'algorithme de clustering spectral permet en principe d'extraire desclusters de formes arbitraires à partir de données numériques. Cette propriété acontribué à sa popularité, et même si ses bases théoriques sont établies depuisplus d'une décennie, des variantes en ont été proposées jusqu'à récemment. Sonfonctionnement repose sur une transformation vers un espace latent dans lequeldes formes de clusters arbitraires sont converties en structures faciles à traiterpar un algorithme tel que k-means. Toutefois, les distributions dans cet espacelatent n'ont été que peu discutées, beaucoup d'auteurs supposant que les propriétésprédites par la théorie sont vérifiées. Cet article propose alternativementune approche qualitative pour vérifier si cette structure idéale est effectivementobtenue en pratique. Le travail consiste également à identifier les paramètresde variabilité commandant à la transformation vers l'espace latent, via un étatde l'art synthétique de la théorie sous-jacente au clustering spectral. Les observationstirées de nos expériences permettent d'identifier les combinaisons deparamètres efficaces, et les conditions de cette efficacité.",
+"authors": "Pierrick Bruneau, Benoît Otjacques",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1002159",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1002159",
+"metaSession": "2",
+"place": "Reims",
+"Latitude": " 49.258381 ",
+"Longitude": "4.031748"
+}

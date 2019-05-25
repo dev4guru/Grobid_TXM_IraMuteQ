@@ -1,0 +1,1 @@
+Sharing knowledge and data coming from different sources is one of the biggest advantageof linked data. Keeping this knowledge graph up to date may take in account both ontologyvocabularies and data since they should be consistent. Our general problem is to deal with webof data evolution in particular: We aim at modifing both levels : A-Box and T-Box.

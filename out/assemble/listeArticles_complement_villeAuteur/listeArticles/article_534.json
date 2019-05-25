@@ -1,0 +1,14 @@
+{	 "idArt" : "534",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2009",
+	 "place" : "Strasbourg",
+	 "location" : { "lat" :  48.5734053, 
+		 "lon" : 7.752111299999999 }, 
+	 "title" : "Fouille de données dans les bases relationnelles pour l'acquisition d'ontologies riches en hiérarchies de classes",
+	 "abstract" : "De par leur caractère structuré, les bases de données relationnellessont des sources précieuses pour la construction automatisée d'ontologies. Ce-pendant, une limite persistante des approches existantes est la production d'onto-logies de structure calquée sur celles des schémas relationnels sources. Dans cetarticle, nous décrivons la méthode RTAXON dont la particularité est d'identifierdes motifs de catégorisation dans les données afin de produire des ontologiesplus structurées, riches en hiérarchies. La méthode formalisée combine analyseclassique du schéma relationnel et fouille des données pour l'identification destructures hiérarchiques.",
+	 "authors" : ["Farid Cerbah"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1000786" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1000786" 
+} 
+ 

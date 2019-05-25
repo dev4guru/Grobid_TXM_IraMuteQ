@@ -1,0 +1,22 @@
+{
+"year": "2011",
+"metaSession": "3",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1000926",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1000926",
+"abstract": "Bien que largement étudiée, l'extraction de motifs séquentiels reste une tâche très difficile et pose aussi le défi du grand nombre de motifs produits. Dans cet article, nous proposons une nouvelle approche extrayant les motifs séquentiels les plus généraux à fréquence similaire. Nous montrons en quoi l'extension de cette notion, déjà connue pour les motifs ensemblistes, est un problème particulièrement difficile pour les séquences. Les motifs delta-libres ainsi produits sont en nombre réduit et facilitent les usages d'un processus de fouille et nous montrons leur apport comme descripteurs dans un contexte de classification de séquences.",
+"title": "Motifs Séquentiels delta-Libres",
+"placeAut":[{
+"place":"Lyon",
+"country":"France",
+"location":{
+	"lat":"45.764043",
+	"lon":"4.835659"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 48.390394, u'lon': -4.486076}",
+"place": "Brest",
+"booktitle": "EGC",
+"idArt": "338",
+"authors": "['Marc Plantevit','Chedy Raïssi','Bruno Crémilleux']"
+}

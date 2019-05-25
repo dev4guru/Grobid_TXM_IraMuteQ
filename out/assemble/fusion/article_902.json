@@ -1,0 +1,22 @@
+{
+"year": "2005",
+"metaSession": "",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1000223",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1000223",
+"abstract": "",
+"title": "Les Réseaux Bayésiens versus d'autres modèles probabilistes pour le diagnostic multiple de gros systèmes",
+"placeAut":[{
+"place":"Valenciennes",
+"country":"France",
+"location":{
+	"lat":"50.357113",
+	"lon":"3.518332"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 48.856614, u'lon': 2.3522219}",
+"place": "Paris",
+"booktitle": "AEGC",
+"idArt": "902",
+"authors": "['Véronique Delcroix','Mohamed Amine Maalej','Sylvain Piechowiak']"
+}

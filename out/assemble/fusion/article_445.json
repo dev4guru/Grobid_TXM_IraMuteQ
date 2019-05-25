@@ -1,0 +1,22 @@
+{
+"year": "2010",
+"metaSession": "5",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1001382",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1001382",
+"abstract": "",
+"title": "Mysins : Make Your Semantic INformation System",
+"placeAut":[{
+"place":"Nantes",
+"country":"France",
+"location":{
+	"lat":"47.218371",
+	"lon":"-1.553621"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 36.4, u'lon': 10.616667}",
+"place": "Hammamet",
+"booktitle": "EGC",
+"idArt": "445",
+"authors": "['Anthony Ventresque','Thomas Cerqueus','Louis-Alexandre Celton','Gaëtan Hervouet','Damien Levin','Philippe Lamarre','Sylvie Cazalens']"
+}

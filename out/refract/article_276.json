@@ -1,0 +1,22 @@
+{
+"year": "2011",
+"metaSession": "5",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1001010",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1001010",
+"abstract": "Dans les industries à risque, comme le nucléaire, les connaissances liées au savoir et à l'expérience participent à la maîtrise des activités. Elles sont explicites, formalisables dans des documents, ou tacites, expression du savoir faire moins souvent prise en compte. AREVA développe la méthode @KRex pour valoriser le retour d'expérience existant, créer une dynamique d'extraction et de capitalisation des connaissances, faciliter leur partage et leur enrichissement. Cette communication décrit le protocole expérimental de construction des connaissances explicites et tacites du métier sécurité nucléaire.",
+"title": "@KRex : une méthode de construction des connaissances pour la maîtrise des activités à risques - application au domaine de la sécurité nucléaire",
+"placeAut":[{
+"place":"Paris",
+"country":"France",
+"location":{
+	"lat":"48.856614",
+	"lon":"2.3522219"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 48.390394, u'lon': -4.486076}",
+"place": "Brest",
+"booktitle": "EGC",
+"idArt": "276",
+"authors": "['Julien Giudici','Hervé Janiaut','Rémy Gautier']"
+}

@@ -1,0 +1,15 @@
+{
+"idArt": "1104",
+"series": "Revue des Nouvelles Technologies de l'Information",
+"booktitle": "EGC",
+"year": "2016",
+"title": "A Relevant Passage Retrieval and Re-ranking Approach for Open-Domain Question Answering",
+"abstract": "Les systèmes de questions-réponses (SQR)s visent à retourner directement des réponsesprécises à des questions posées en langage naturel. L'extraction et le reclassement des passagessont considérés comme les tâches les plus difficiles dans un SQR typique et exigent encore uneffort non trivial. Dans cet article, nous proposons une nouvelle approche pour L'extraction etle reclassement des passages en utilisant les n-grammes et SVM. Notre système d'extractionde passages basé sur la technique des n-grammes repose sur une nouvelle mesure de similaritéentre un passage et une question. Les passages extraits sont ensuite réordonnés en utilisant unmodèle basé sur RankSVM combinant différentes mesures de similarité afin de retourner lepassage le plus pertinent pour une question donnée. Nos expériences et nos résultats étaientprometteurs et ont démontré que notre approche est concurrentielle.",
+"authors": "Nouha Othman, Rim Faiz",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1002161",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1002161",
+"metaSession": "2",
+"place": "Reims",
+"Latitude": " 49.258329 ",
+"Longitude": "4.031696"
+}

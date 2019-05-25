@@ -1,0 +1,22 @@
+{
+"year": "2005",
+"metaSession": "",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1000215",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1000215",
+"abstract": "Le critère de découpage binaire de Kolmogorov-Smirnov nécessite un ordre total des valeurs prises par les variables explicatives. Nous pouvons ordonner des intervalles fermés bornés de nombres réels de différentes façons. Notre contribution dans cet article consiste à évaluer et à comparer des arbres de décision obtenus sur des données de type intervalle à l'aide du critère de découpage binaire de Kolmogorov-Smirnov étendu à ce type de données (Mballo et al. 2004). Pour ce faire, nous axons notre attention sur le taux d'erreur mesuré sur l'échantillon de test. Pour estimer ce paramètre, nous divisons aléatoirement chaque base de données en deux parties égales en terme d'effectif (à un objet près) pour construire deux arbres. Ces deux arbres sont d'abord testés par un même échantillon puis par deux échantillons différents.",
+"title": "Arbre de décision sur des données de type intervalle : évaluation et comparaison",
+"placeAut":[{
+"place":"Laval",
+"country":"France",
+"location":{
+	"lat":"48.0785146",
+	"lon":"-0.7669906"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 48.856614, u'lon': 2.3522219}",
+"place": "Paris",
+"booktitle": "EGC",
+"idArt": "947",
+"authors": "['Chérif Mballo','Edwin Diday']"
+}

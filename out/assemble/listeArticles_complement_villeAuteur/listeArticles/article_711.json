@@ -1,0 +1,14 @@
+{	 "idArt" : "711",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2007",
+	 "place" : "Namur",
+	 "location" : { "lat" :  50.4673883, 
+		 "lon" : 4.8719854 }, 
+	 "title" : "Extraction des Top-k Motifs par Approximer-et-Pousser",
+	 "abstract" : "Cet article porte sur l'extraction de motifs sous contraintes globales. Contrairement aux contraintes usuelles comme celle de fréquence minimale, leur vérification est problématique car elle entraine de multiples comparaisons entre les motifs. Typiquement, la localisation des k motifs maximisant une mesure d'intérêt, i.e. satisfaisant la contrainte top-k, est difficile. Pourtant, cette contrainte globale se révèle très utile pour trouver les motifs les plus significatifs au regard d'un critère choisi par l'utilisateur. Dans cet article, nous proposons une méthode générale d'extraction de motifs sous contraintes globales, appelée Approximer-et-Pousser. Cette méthode peut être vue comme une méthode de relaxation d'une contrainte globale en une contrainte locale évolutive. Nous appliquons alors cette approche à l'extraction des top-k motifs selon une mesure d'intérêt. Les expérimentations montrent l'efficacité de l'approche Approximer-et-Pousser.",
+	 "authors" : ["Arnaud Soulet","Bruno Crémilleux"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1001387" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1001387" 
+} 
+ 

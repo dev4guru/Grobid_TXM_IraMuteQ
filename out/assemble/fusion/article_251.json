@@ -1,0 +1,22 @@
+{
+"year": "2012",
+"metaSession": "1",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1001178",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1001178",
+"abstract": "Concevoir une carte géographique, plus particulièrement sa légende,exige des compétences spécifiques. L'objectif de ce papier est de présenter unebase de connaissances destinée à aider tout utilisateur à concevoir une ou plusieurslégendes adaptées à son besoin et conformes aux règles de cartographie.La base de connaissances est formée d'une ontologie de la cartographie nomméeOntoCarto, d'un corpus de règles : OntoCartoRules et d'un moteur de raisonnement: Corese. Dans ce papier, chaque demande de conception de légende estvue comme une instanciation particulière de l'ontologie, associée à une sélectionde règles pertinentes dans le corpus de règles, sur laquelle Corese va raisonnerpour construire des légendes adaptées à la configuration spécifique traitée. Laconception de la légende s'appuie sur la définition de deux hiérarchies d'objetsgéographiques et cartographiques. Les principes de fonctionnement de Coresesont présentés. Un prototype a été implémenté et des extraits des résultats sontmontrés.",
+"title": "Raisonner sur une ontologie cartographique pour concevoir des légendes de cartes",
+"placeAut":[{
+"place":"Saint-Mandé",
+"country":"France",
+"location":{
+	"lat":"48.842832",
+	"lon":"2.4178639"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 44.837789, u'lon': -0.57918}",
+"place": "Bordeaux",
+"booktitle": "EGC",
+"idArt": "251",
+"authors": "['Catherine Dominguès','Olivier Corby','Fayrouz Soualah-Alila']"
+}

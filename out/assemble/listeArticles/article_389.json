@@ -1,0 +1,14 @@
+{	 "idArt" : "389",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2010",
+	 "place" : "Hammamet",
+	 "location" : { "lat" :  36.4, 
+		 "lon" : 10.616667 }, 
+	 "title" : "Apprentissage de patrons lexico-syntaxiques à partir de textes",
+	 "abstract" : "Ce papier présente une approche d'apprentissage de patrons lexicosyntaxiquesà partir de textes annotés. Les patrons lexico-syntaxiques sont utiliséspour identifier des relations lexicales dans les corpus textuels. Leur constructionmanuelle est une tâche fastidieuse et des solutions permettant l'apprentissagesont souhaitables. Nous proposons une approche d'apprentissage qui reposesur l'utilisation des chemins de dépendance pour représenter les patrons et l'implémentationd'un algorithme de classification. L'approche a été appliquée dansle domaine biomédical pour identifier des patrons lexico-syntaxiques exprimantdes relations fonctionnelles.",
+	 "authors" : ["Valentina Dragos","Marie-Christine Jaulent"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1001371" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1001371" 
+} 
+ 

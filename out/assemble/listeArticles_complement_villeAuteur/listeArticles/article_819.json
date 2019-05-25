@@ -1,0 +1,14 @@
+{	 "idArt" : "819",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2006",
+	 "place" : "Lille",
+	 "location" : { "lat" :  50.62925, 
+		 "lon" : 3.057256 }, 
+	 "title" : "Fouille de données dans les systèmes Pair-à-Pair pour améliorer la recherche de ressources",
+	 "abstract" : "La quantité de sources d'information disponible sur Internet fait dessystèmes d'échanges pair-à-pair (P2P) un genre nouveau d'architecture qui offreà une large communauté des applications pour partager des fichiers, des calculs,dialoguer ou communiquer en temps réel. Dans cet article, nous proposonsune nouvelle approche pour améliorer la localisation d'une ressource sur un réseauP2P non structuré. En utilisant une nouvelle heuristique, nous proposonsd'extraire des motifs qui apparaissent dans un grand nombre de noeuds du réseau.Cette connaissance est très utile pour proposer aux utilisateurs des fichierssouvent demandés (en requête ou en téléchargement) et éviter une trop grandeconsommation de la bande passante.",
+	 "authors" : ["Florent Masseglia","Pascal Poncelet","Maguelonne Teisseire"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1000390" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1000390" 
+} 
+ 

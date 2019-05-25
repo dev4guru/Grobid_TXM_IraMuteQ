@@ -1,0 +1,22 @@
+{
+"year": "2010",
+"metaSession": "",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1001261",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1001261",
+"abstract": "",
+"title": "Action Rules and Meta-actions",
+"placeAut":[{
+"place":"Charlotte",
+"country":"USA",
+"location":{
+	"lat":"35.2270869",
+	"lon":"-80.8431267"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 36.4, u'lon': 10.616667}",
+"place": "Hammamet",
+"booktitle": "EGC",
+"idArt": "377",
+"authors": "Zbigniew W. Ras"
+}

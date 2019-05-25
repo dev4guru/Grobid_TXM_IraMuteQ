@@ -1,0 +1,22 @@
+{
+"year": "2012",
+"metaSession": "7",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1001173",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1001173",
+"abstract": "Aujourd'hui, les réseaux sociaux en ligne sont devenus des outils trèspuissants de propagation de l'information. Ils favorisent la diffusion rapide àgrande échelle de contenu et les conséquences d'une information inexacte voirefausse peuvent alors prendre une ampleur considérable. Par conséquent il devientindispensable de proposer des moyens d'analyser le phénomène de diffusionde l'information dans ces réseaux. De nombreuses études récentes ont traitéde la modélisation du processus de diffusion de l'information, essentiellementd'un point de vue topologique et dans une perspective théorique, mais les facteursimpliqués sont encore méconnus. Nous proposons ici une solution pratiquedont l'objectif est de prédire la dynamique temporelle de la diffusion au sein deTwitter, basée sur des techniques d'apprentissage automatique. Notre approcherepose sur l'inférence de probabilités de diffusion tirées d'une analyse multidimensionnelledes comportements individuels. Les expérimentations menéesmontrent l'intérêt de la modélisation proposée.",
+"title": "Une approche multidimensionnelle basée sur les comportements individuels pour la prédiction de la diffusion de l'information sur Twitter",
+"placeAut":[{
+"place":"Lyon",
+"country":"France",
+"location":{
+	"lat":"45.764043",
+	"lon":"4.835659"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 44.837789, u'lon': -0.57918}",
+"place": "Bordeaux",
+"booktitle": "EGC",
+"idArt": "267",
+"authors": "['Adrien Guille','Hakim Hacid','Cécile Favre']"
+}

@@ -1,0 +1,22 @@
+{
+"year": "2009",
+"metaSession": "8",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1000771",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1000771",
+"abstract": "Personalization paradigm aims at providing users with the most rel-evant content and services according to many factors such as interest center orlocation at the querying time. All this knowledge and requirements are orga-nized into user profiles and contexts. A user profile encompasses metadata de-scribing the user whereas a context groups information about the environmentof interaction between the user and the system. An interesting problem is there-fore to identify which part of the profile is significant in a given context. Thispaper proposes a contextualization service which allows defining relationshipsbetween user preferences and contexts. Further, we propose an approach forthe automatic discovery of these mappings by analyzing user behavior extractedfrom log files.",
+"title": "A Contextualization Service for a Personalized Access Model",
+"placeAut":[{
+"place":"Versailles",
+"country":"France",
+"location":{
+	"lat":"48.801408",
+	"lon":"2.130122"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 48.5734053, u'lon': 7.752111299999999}",
+"place": "Strasbourg",
+"booktitle": "EGC",
+"idArt": "491",
+"authors": "['Sofiane Abbar','Mokrane Bouzeghoub','Dimitre Kostadinov','Stéphane Lopes']"
+}

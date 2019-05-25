@@ -1,0 +1,14 @@
+{	 "idArt" : "697",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2007",
+	 "place" : "Namur",
+	 "location" : { "lat" :  50.4673883, 
+		 "lon" : 4.8719854 }, 
+	 "title" : "Construction et analyse de résumés de données évolutives : application aux données d'usage du Web",
+	 "abstract" : "La manière dont une visite est réalisée sur un site Web peut changer en raison de modifications liées à la structure et au contenu du site lui-même, ou bien en raison du changement de comportement de certains groupes d'utilisateurs ou de l'émergence de nouveaux comportements. Ainsi, les modèles associés à ces comportements dans la fouille d'usage du Web doivent être mis à jour continuellement afin de mieux refléter le comportement actuel des internautes. Une solution, proposée dans cet article, est de mettre à jour ces modèles à l'aide des résumés obtenus par une approche évolutive des méthodes de classification.",
+	 "authors" : ["Alzennyr Da Silva","Yves Lechevallier","Fabrice Rossi","Francisco de Assis Tenório de Carvalho"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1001434" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1001434" 
+} 
+ 

@@ -1,0 +1,15 @@
+{
+"idArt": "1118",
+"series": "Revue des Nouvelles Technologies de l'Information",
+"booktitle": "EGC",
+"year": "2016",
+"title": "Combinaison de méthodes numériques et symboliques pour l'analyse de données métabolomiques",
+"abstract": "Our work consists in developing a workflow using Knowledge Discovery methodologiesto propose advanced predictive biomarkers discovery solutions from metabolomic data. Wepropose to use machine learning algorithms for feature selection and FCA for visualization.",
+"authors": "Dhouha-Grissa, Blandine Comte, Estelle Pujos-Guillot, Amedeo Napoli",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1002228",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1002228",
+"metaSession": "11",
+"place": "Reims",
+"Latitude": " 49.258343 ",
+"Longitude": "4.031710"
+}

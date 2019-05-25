@@ -1,0 +1,14 @@
+{	 "idArt" : "818",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2006",
+	 "place" : "Lille",
+	 "location" : { "lat" :  50.62925, 
+		 "lon" : 3.057256 }, 
+	 "title" : "Finding fragments of orders and total orders from 0-1 data",
+	 "abstract" : "High-dimensional collections of 0-1 data occur in many applications. The attributes insuch data sets are typically considered to be unordered. However, in many cases there is anatural total or partial order underlying the variables of the data set. Examples of variablesfor which such orders exist include terms in documents and paleontological sites in fossil datacollections. We describe methods for finding fragments of total orders from such data, basedon finding frequently occurring patterns. We also discuss techniques for finding good totalorderings (seriation) based on spectral ordering and MCMC methods",
+	 "authors" : ["Heikki Mannila"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1000315" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1000315" 
+} 
+ 

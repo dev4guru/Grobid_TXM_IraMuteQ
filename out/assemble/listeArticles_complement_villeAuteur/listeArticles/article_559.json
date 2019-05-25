@@ -1,0 +1,14 @@
+{	 "idArt" : "559",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2009",
+	 "place" : "Strasbourg",
+	 "location" : { "lat" :  48.5734053, 
+		 "lon" : 7.752111299999999 }, 
+	 "title" : "TAAABLE : système de recherche et de création, par adaptation, de recettes de cuisine",
+	 "abstract" : "TAAABLE is a textual case-based reasoning system that, according to requested/forbiddeningredients, dish types and/or dish origins, retrieves cooking recipes. If no recipe satisifies theconstraints, TAAABLE adapts existing recipes by replacing some ingredients by other ones.",
+	 "authors" : ["Amélie Cordier","Jean Lieber","Emmanuel Nauer","Yannick Toussaint"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1000812" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1000812" 
+} 
+ 

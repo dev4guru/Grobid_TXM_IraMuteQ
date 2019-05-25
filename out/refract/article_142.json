@@ -1,0 +1,22 @@
+{
+"year": "2014",
+"metaSession": "6",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1001947",
+"pdfarticle": "",
+"abstract": "Dans le cadre des cartes topologiques, nous proposons une nouvelleapproche d'ensemble clusters basée sur la méthode STATIS. Les méthodes d'ensembleclusters visent à améliorer la qualité de la partition d'un jeu de donnéesà travers la combinaison de plusieurs partitions.Les différentes partitions peuvent être obtenues en faisant varier les paramètresd'un algorithme (choix des centres initiaux, du voisinage initial et final des cellulesdans le cas des cartes topologiques auto-organisée SOM, etc). L'approcheprésentée dans cette communication repose sur la méthode d'analyse de donnéesmulti-tableaux STATIS pour déterminer une matrice compromis représentant aumieux la similarité entre les partitions issues des cartes topologiques. La fusiondes cartes topologiques est alors obtenue à travers une classification basée surcette matrice compromis. La méthode proposée est illustrée sur des donnéesréelles issues de l'UCI et sur des données simulées.",
+"title": "Une approche basée sur STATIS pour la fusion de cartes topologiques auto-organisées",
+"placeAut":[{
+"place":"Paris",
+"country":"France",
+"location":{
+	"lat":"48.856614",
+	"lon":"2.3522219"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 48.117266, u'lon': -1.6777926}",
+"place": "Rennes",
+"booktitle": "EGC",
+"idArt": "142",
+"authors": "['Mory Ouattara','Ndeye Niang','Rania Gasri','Fouad Badran','Corinne Mandin']"
+}

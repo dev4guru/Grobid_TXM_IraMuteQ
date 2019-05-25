@@ -1,0 +1,22 @@
+{
+"year": "2008",
+"metaSession": "3",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1000569",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1000569",
+"abstract": "Ces dernières années, sont apparues de nombreuses applications, utilisant des données potentiellement infinies, provenant de façon continue de capteurs distribués. On retrouve ces capteurs dans des domaines aussi divers que la météorologie (établir des prévisions), le domaine militaire (surveiller des zones sensibles), l'analyse des consommations électriques (transmettre des alertes en cas de consommation anormale),... Pour faire face à la volumétrie et au taux d'arrivée des flux de données, des traitements sont effectués 'à la volée' sur les flux. En particulier, si le système n'est pas assez rapide pour traiter toutes les données d'un flux, il est possible de construire des résumés de l'information. Cette communication a pour objectif de faire un premier point sur nos travaux d'échantillonnage dans un environnement de flux de données fortement distribués. Notre approche est basée sur la théorie des sondages, l'analyse des données fonctionnelles et la gestion de flux de données. Cette approche sera illustrée par un cas réel : celui des mesures de consommations électriques",
+"title": "Echantillonnage spatio-temporel de flux de données distribués",
+"placeAut":[{
+"place":"Paris",
+"country":"France",
+"location":{
+	"lat":"48.856614",
+	"lon":"2.3522219"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 43.6163539, u'lon': 7.0552218}",
+"place": "Sophia Antipolis",
+"booktitle": "EGC ",
+"idArt": "595",
+"authors": "['Raja Chiky','Jérôme Cubillé','Alain Dessertaine','Georges Hébrail','Marie-Luce Picard']"
+}

@@ -1,0 +1,22 @@
+{
+"year": "2009",
+"metaSession": "0",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1000809",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1000809",
+"abstract": "Le domaine « Qualité, Hygiène, Sécurité et Environnement »(QHSE) représente à l'heure actuelle un vecteur de progrès majeur pourl'industrie européenne. Le prototype « Semantic Quality Environment » (SQE)introduit dans cet article vise à démontrer la validité d'une architecturesémantique cross-lingue vouée à la collaboration multi-métiers et multilingue,dans le cadre d'un système banalisé de gestion de contenu d'entreprise dédié àl'industrie navale européenne.",
+"title": "Un prototype cross-lingue multi-métiers : vers la Gestion Sémantique de Contenu d'Entreprise au service du Collaboratif Opérationnel",
+"placeAut":[{
+"place":"Nantes",
+"country":"France",
+"location":{
+	"lat":"47.218371",
+	"lon":"-1.553621"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 48.5734053, u'lon': 7.752111299999999}",
+"place": "Strasbourg",
+"booktitle": "EGC",
+"idArt": "564",
+"authors": "['Christophe Thovex','Francky Trichet']"
+}

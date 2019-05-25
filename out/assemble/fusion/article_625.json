@@ -1,0 +1,22 @@
+{
+"year": "2008",
+"metaSession": "0",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1000591",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1000591",
+"abstract": "En s'appuyant sur la théorie de l'activité, nous avons mis au point une méthodologie de gestion des connaissances à base de e-services sur un plateau de créativité visant à faire piloter le processus de fabrication métier par celui des usages. Nous l'avons testé avec la réalisation d'un e-service d'apprentissage instrumental de pièces de musique à la guitare (E-guitare).",
+"title": "Méthodologie de définition de e-services pour la gestion des connaissances à partir d'un plateau de créativité : application au e-learning instrumental",
+"placeAut":[{
+"place":"Saint-Denis",
+"country":"France",
+"location":{
+	"lat":"48.936181",
+	"lon":"2.357443"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 43.6163539, u'lon': 7.0552218}",
+"place": "Sophia Antipolis",
+"booktitle": "EGC ",
+"idArt": "625",
+"authors": "['David Grosser','Noël Conruyt','Olivier Sebastien']"
+}

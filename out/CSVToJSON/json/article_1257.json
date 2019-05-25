@@ -1,0 +1,15 @@
+{
+"idArt": "1257",
+"series": "Revue des Nouvelles Technologies de l'Information",
+"booktitle": "EGC",
+"year": "2017",
+"title": "Vers une instance française de NELL : chaîne TLN multilingue et modélisation d'ontologie",
+"abstract": "Nous présentons les étapes de préparation de la création d'une ins-tance nouvelle de NELL dédiée au français. NELL est à la fois un processusde lecture et de compréhension automatique du Web et un ensemble de basede connaissances de faits en anglais, en portuguais et très prochainement enfrançais. Cette mise en place de la nouvelle instance de NELL a donné lieu àl'amélioration de la chaîne NLP en la généralisant au multilangue, ainsi qu'audéveloppement d'une ontologie par correspondance avec l'ontologie en anglais.Nous présenterons le processus de mise en place et de lancement de la nouvelleinstance NELL Français avec l'interface de visualisation et de supervision hu-maine des données collectées.",
+"authors": "Maisa Cristina Duarte, Pierre Maret",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1002326",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1002326",
+"metaSession": "11",
+"place": "Grenoble",
+"Latitude": " 45.188598 ",
+"Longitude": "5.724593"
+}

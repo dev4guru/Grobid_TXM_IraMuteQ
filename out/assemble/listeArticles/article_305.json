@@ -1,0 +1,14 @@
+{	 "idArt" : "305",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2011",
+	 "place" : "Brest",
+	 "location" : { "lat" :  48.390394, 
+		 "lon" : -4.486076 }, 
+	 "title" : "Détection de changements de distribution dans un flux de données : une approche supervisée",
+	 "abstract" : "L'analyse de flux de données traite des données massives grâce à des algorithmes en ligne qui évitent le stockage exhaustif des données. La détection de changements dans la distribution d'un flux est une question importante dont les applications potentielles sont nombreuses. Dans cet article, la détection de changement est transposée en un problème d'apprentissage supervisé. Nous avons choisi d'utiliser la méthode de discrétisation supervisée MODL car celle-ci présente des propriétés intéressantes. Notre approche est comparée favorablement à une méthode de l'état-de-l'art sur des flux de données artificiels.",
+	 "authors" : ["Marc Boullé","Alexis Bondu"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1000944" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1000944" 
+} 
+ 

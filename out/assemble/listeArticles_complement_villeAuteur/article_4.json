@@ -1,0 +1,13 @@
+{	 "idArt" : "4",
+	 "placeAut" : [ 
+		{ "place" : "Lyon",
+		 "country" : "France",
+		 "location" : { "lat" :  45.764043, 
+			 "lon" : 4.835658999999964 } },
+		{ "place" : "Montpellier",
+		 "country" : "France",
+		 "location" : { "lat" :  43.610769, 
+			 "lon" : 3.8767159999999876 } }
+	 ]
+} 
+ 

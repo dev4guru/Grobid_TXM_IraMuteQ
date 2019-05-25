@@ -1,0 +1,14 @@
+{	 "idArt" : "971",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2005",
+	 "place" : "Paris",
+	 "location" : { "lat" :  48.856614, 
+		 "lon" : 2.3522219 }, 
+	 "title" : "Forage distribué des données : une comparaison entre l'agrégation d'échantillons et l'agrégation de règles",
+	 "abstract" : "Pour nous attaquer au problème du forage de très grandes bases de données distribuées, nous proposons d'étudier deux approches. La première est de télécharger seulement un échantillon de chaque base de données puis d'y effectuer le forage. La deuxième approche est de miner à distance chaque base de données indépendamment, puis de télécharger les modèles résultants, sous forme de règles de classification, dans un site central où l'agrégation de ces derniers est réalisée. Dans cet article, nous présentons une vue d'ensemble des techniques d'échantillonnage les plus communes. Nous présentons ensuite cette nouvelle technique de forage distribué des données où la mécanique d'agrégation est basée sur un coefficient de confiance attribué à chaque règle et sur de très petits échantillons de chaque base de données. Le coefficient de confiance d'une règle est calculé par des moyens statistiques en utilisant le théorème limite centrale. En conclusion, nous présentons une comparaison entre les meilleures techniques d'échantillonnage que nous avons trouvées dans la littérature, et notre approche de forage distribué des données (FDD) basée sur l'agrégation de modèles.",
+	 "authors" : ["Mohamed Aounallah","Sébastien Quirion","Guy W. Mineau"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1000211" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1000211" 
+} 
+ 

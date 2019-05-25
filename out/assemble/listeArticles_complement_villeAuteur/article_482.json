@@ -1,0 +1,9 @@
+{	 "idArt" : "482",
+	 "placeAut" : [ 
+		{ "place" : "Sfax",
+		 "country" : "France",
+		 "location" : { "lat" :  49.266512, 
+			 "lon" : 4.054566900000054 } }
+	 ]
+} 
+ 

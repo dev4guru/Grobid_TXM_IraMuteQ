@@ -1,0 +1,1 @@
+Nous proposons dans cet article une méthode d'alignement d'une ontologiesource avec des ontologies cibles déjà publiées et liées sur le web dedonnées. Nous présentons ensuite un retour d'expérience sur l'alignement d'uneontologie dans le domaine des sciences du vivant et de l'environnement avecAGROVOC et NALT.

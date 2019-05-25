@@ -1,0 +1,13 @@
+{	 "idArt" : "241",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2012",
+	 "place" : "Bordeaux",
+	 "location" : { "lat" :  44.837789, 
+		 "lon" : -0.57918 }, 
+	 "title" : "Extraction incrémentale de séquences fréquentes dans un flux d'itemsets",
+	 "authors" : ["Thomas Guyet","Rene Quiniou"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1001206" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1001206" 
+} 
+ 

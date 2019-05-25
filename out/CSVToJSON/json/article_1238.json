@@ -1,0 +1,15 @@
+{
+"idArt": "1238",
+"series": "Revue des Nouvelles Technologies de l'Information",
+"booktitle": "EGC",
+"year": "2017",
+"title": "Reconnaissance de sections et d'entités dans les décisions de justice : application des modèles probabilistes HMM et CRF",
+"abstract": "Une décision de justice est un document textuel rapportant le dénoue-ment d'une affaire judiciaire. Les juristes s'en servent régulièrement commesource d'interprétation de la loi et de compréhension de l'opinion des juges.La masse disponible de décisions exige des solutions automatiques pour aiderles acteurs du droit. Nous proposons d'adresser certains des défis liés à la re-cherche et l'analyse du volume croissant de décisions de justice en France dansun projet plus global. La première phase de ce projet porte sur l'extraction d'in-formation des décisions dans l'objectif de construire une base de connaissancesjurisprudentielles structurant et organisant les décisions. Une telle base facilitel'analyse descriptive et prédictive de corpus de décisions. Cet article présenteune application des modèles probabilistes pour la segmentation des décisions etla reconnaissance d'entités dans leur contenu (lieu, date, participants, règles deloi, ...). Nos tests montrent l'avantage d'approches basées sur les champs aléa-toires conditionnels (CRF) par rapport à des modèles plus simples et rapidesbasés sur les modèles cachés de Markov (HMM). Nous présentons ici les as-pects techniques de la sélection et l'annotation du corpus d'apprentissage, et ladéfinition de descripteurs discriminants. La spécificité des textes est importanteet doit être prise en compte lors de l'application de méthodes d'extraction d'in-formation dans un domaine spécifique.",
+"authors": "Gildas Tagny Ngompé, Sébastien Harispe, Guillaume Zambrano, Jacky Montmain, Stéphane Mussard",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1002281",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1002281",
+"metaSession": "8",
+"place": "Grenoble",
+"Latitude": " 45.188579 ",
+"Longitude": "5.724574"
+}

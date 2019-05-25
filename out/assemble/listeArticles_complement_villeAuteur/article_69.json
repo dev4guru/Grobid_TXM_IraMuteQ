@@ -1,0 +1,13 @@
+{	 "idArt" : "69",
+	 "placeAut" : [ 
+		{ "place" : "Hino",
+		 "country" : "Japon",
+		 "location" : { "lat" :  35.6713374, 
+			 "lon" : 139.39492610000002 } },
+		{ "place" : "Rennes",
+		 "country" : "France",
+		 "location" : { "lat" :  48.117266, 
+			 "lon" : -1.6777925999999752 } }
+	 ]
+} 
+ 

@@ -1,0 +1,14 @@
+{	 "idArt" : "928",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "AEGC",
+	 "year" : "2005",
+	 "place" : "Paris",
+	 "location" : { "lat" :  48.856614, 
+		 "lon" : 2.3522219 }, 
+	 "title" : "Une plate-forme de personnalisation basée sur une architecture multi-agents",
+	 "abstract" : "Dans le contexte d'applications distribuées et d'environnements multi-plateformes, la personnalisation inclut le choix de la plate-forme d'interaction (PC,PDA ...), le mode d'interaction (textuel, vocal, ...), la configuration logicielle, les données fournies etc. Plusieurs méthodes, basées généralement sur le profil de l'utilisateur, permettent de prendre en compte ces différents aspects. Nous proposons une plate forme, à base d'agents logiciels, pouvant servir de support pour la conception de système de personnalisation (SP). Le SP facilite la gestion et la transmission des résultats ou recommandations dans un système distribué et évolutif. Le SP est appliqué pour la personnalisation de l'information transport. Il s'agit d'ici d'aider les usagers des transports collectifs dans leur choix d'itinéraires, de les informer des perturbations éventuelles et de les guider tout au long de leur déplacement.",
+	 "authors" : ["Abdouroihamane Anli","Emmanuelle Grislin-Le Strugeon","Mourad Abed"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1000233" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1000233" 
+} 
+ 

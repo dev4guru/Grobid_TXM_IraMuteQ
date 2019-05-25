@@ -1,0 +1,14 @@
+{	 "idArt" : "556",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2009",
+	 "place" : "Strasbourg",
+	 "location" : { "lat" :  48.5734053, 
+		 "lon" : 7.752111299999999 }, 
+	 "title" : "SoftJaccard : une mesure de similarité entre ensembles de chaînes de caractères pour l'unification d'entités nommées",
+	 "abstract" : "Parmi lesmesures de similarité classiques utilisables sur des ensemblesfigure l'indice de Jaccard. Dans le cadre de cet article, nous en proposons uneextension pour comparer des ensembles de chaînes de caractères. Cette mesurehybride permet de combiner une distance entre chaînes de caractères, telle que ladistance de Levenstein, et l'indice de Jaccard. Elle est particulièrement adaptéepourmettre en correspondance des champs composés de plusieurs chaînes de caractères,comme par exemple, lorsqu'on se propose d'unifier des noms d'entitésnommées.",
+	 "authors" : ["Christine Largeron","Bernard Kaddour","Maria Fernandez"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1000795" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1000795" 
+} 
+ 

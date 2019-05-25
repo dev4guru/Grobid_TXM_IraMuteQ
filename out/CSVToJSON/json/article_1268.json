@@ -1,0 +1,15 @@
+{
+"idArt": "1268",
+"series": "Revue des Nouvelles Technologies de l'Information",
+"booktitle": "EGC",
+"year": "2018",
+"title": "Apprendre les relations de préférence et de co-occurrence entre les labels en classification multi-labels",
+"abstract": "En classification multi-labels, chaque instance est associée àun ou plusieurs labels. Par exemple, un morceau de musique peut êtreassocié aux labels 'heureux' et 'relaxant'. Des relations de co-occurrencepeuvent exister entre les labels : par exemple, les labels 'heureux' et 'triste'ne peuvent pas être associés au même morceau de musique. Les labelspeuvent aussi avoir des relations de préférence : par exemple, pour un morceaude musique contenant plusieurs piques, le label 'heureux' est préférépar rapport au label 'relaxant'. Les relations entre les labels peuvent aiderà mieux prédire les labels associés aux instances. Les approches existantespeuvent apprendre soit les relations de co-occurrence, soit les relationsde préférence. Ce travail introduit une approche permettant de combinerl'apprentissage des deux types de relations. Les expérimentations menéesmontrent que la nouvelle approche introduite offre les meilleurs résultatsde prédiction par rapports à cinq approches de l'état de l'art.",
+"authors": "Khalil Laghmari, Christophe Marsala, Mohammed Ramdani",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1002381",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1002381",
+"metaSession": "2",
+"place": "Paris",
+"Latitude": " 48.8542 ",
+"Longitude": "2.3496"
+}

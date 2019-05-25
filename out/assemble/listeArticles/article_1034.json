@@ -1,0 +1,14 @@
+{	 "idArt" : "1034",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2004",
+	 "place" : "Clermont-Ferrand",
+	 "location" : { "lat" :  45.77722199999999, 
+		 "lon" : 3.087025 }, 
+	 "title" : "BELUGA : un outil pour l'analyse dynamique des connaissances de la littérature scientifique d'un domaine. Première application au cas des maladies à prions",
+	 "abstract" : "Un projet ciblé sur l'étude du domaine des maladies à prions à permis de formaliser une méthodologie commune, sociologique et informatique, de compréhension de sa dynamique par l'analyse thématique. Nous avons créé une plate forme d'indexation de notices bibliographiques dont le but est d'extraire des associations évoluant à travers des intervalles de temps. Beluga propose une chaîne de traitement basée sur l'indexation des documents en unités de base : références, auteurs, termes simples et composés, organismes. L'outil est fondé sur une double approche d'apprentissage et de visualisation qui automatise les processus d'extraction de groupes d'auteurs et de termes, et permet à l'utilisateur de revenir aux données documentaires sources. L'analyse diachronique de corpus de documents électroniques nous permet d'analyser comment la terminologie est structurée en thématiques émergentes.",
+	 "authors" : ["Nicolas Turenne","Marc Barbier"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1001096" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1001096" 
+} 
+ 

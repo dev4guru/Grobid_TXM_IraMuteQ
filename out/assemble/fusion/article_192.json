@@ -1,0 +1,22 @@
+{
+"year": "2013",
+"metaSession": "8",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1001860",
+"pdfarticle": "",
+"abstract": "La recherche de documents similaires est un processus qui consiste à trouver les documents présentant des similitudes, comme la copie ou la reformulation, sur des bases documentaires ou sur internet. Elle est utilisée notamment pour protéger la propriété intellectuelle de productions issues de l'enseignement, de la recherche ou de l'industrie. Dans cet article, nous définissons une approche automatique pour permettant d'extraire des mots-clés d'un document en effectuant un bouclage sur une succession de découpage de plus en plus petit. Cette approche permet d'obtenir des mots-clés impossibles à obtenir par une approche globale notamment quand la thématique, le style ou le contenu d'un document varient dans le document. L'objectif est de permettre la détection des documents présentant des similitudes en utilisant uniquement des mots-clés.",
+"title": "Recherche de documents similaires sur le web par segmentations hiérarchiques et extraction de mots-clés",
+"placeAut":[{
+"place":"Saint-Félix",
+"country":"France",
+"location":{
+	"lat":"45.799902",
+	"lon":"5.970934"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 43.604652, u'lon': 1.444209}",
+"place": "Toulouse",
+"booktitle": "EGC",
+"idArt": "192",
+"authors": "Alain Simac-Lejeune"
+}

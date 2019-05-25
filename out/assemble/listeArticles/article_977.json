@@ -1,0 +1,14 @@
+{	 "idArt" : "977",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2005",
+	 "place" : "Paris",
+	 "location" : { "lat" :  48.856614, 
+		 "lon" : 2.3522219 }, 
+	 "title" : "L'automate textuel pour la prise en compte de l'évolution du texte",
+	 "abstract" : "Il n'est plus à rappeler que le corpus textuel, est tel qu'il est actuellement, intraitable à l'échelle que sa croissance nous confirme l'obligation d'utiliser des outils automatique de traitement. Cet article s'intéresse plus particulièrement à la caractérisation de textes et par là même à celle d'auteurs. A l'heure actuelle, toutes les méthodes existant travaillent sur le document fini, sans admettre qu'un cheminement existe entre le début du document et sa fin. Nous proposons une méthode tentant d'apporter cette notion d'évolution textuelle en traitant le texte par un automate et l'évaluation choisie. Puis nous présenterons des résultats validés par des experts, obtenus sur un corpus d'entretiens sociologiques.",
+	 "authors" : ["Hubert Marteau","Nicole Vincent"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1000276" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1000276" 
+} 
+ 

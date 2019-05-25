@@ -1,0 +1,15 @@
+{
+"idArt": "1132",
+"series": "Revue des Nouvelles Technologies de l'Information",
+"booktitle": "EGC",
+"year": "2016",
+"title": "Extraction automatique d'affixes pour la reconnaissance d'entités nommées chimiques",
+"abstract": "Nous détaillerons ici une approche permettant de détecter des affixes àpartir de dictionnaires en se basant sur l'algorithme de la plus longue sous-chaînecommune, dans le cadre de la reconnaissance d'entités nommées chimiques surCHEMDNER. Nous verrons ensuite des méthodes de sélection et de tri afin deles intégrer au mieux dans un système d'apprentissage automatique.",
+"authors": "Yoann Dupont, Isabelle Tellier, Christian Lautier, Marco Dinarelli",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1002216",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1002216",
+"metaSession": "11",
+"place": "Reims",
+"Latitude": " 49.258357 ",
+"Longitude": "4.031724"
+}

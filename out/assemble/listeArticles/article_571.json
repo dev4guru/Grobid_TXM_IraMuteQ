@@ -1,0 +1,14 @@
+{	 "idArt" : "571",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2009",
+	 "place" : "Strasbourg",
+	 "location" : { "lat" :  48.5734053, 
+		 "lon" : 7.752111299999999 }, 
+	 "title" : "Vers une utilisation améliorée de relations spatiales pour l'apprentissage de données dans les modèles graphiques",
+	 "abstract" : "Nous nous intéressons dans cet article aux représentations des relationsspatiales pour l'extraction d'information et la modélisation des donnéesvisuelles, en particulier dans le contexte de la catégorisation d'images. Nousmontrons comment la prise en compte d'une relation spatiale entre deux élémentsentraîne l'apparition d'une information supplémentaire entre ces élémentset le reste de l'ensemble à modéliser, ce qui est rarement exploité explicitement.Une représentation floue des relations dans unmodèle graphique est bien adaptéepour les algorithmes d'apprentissage utilisés actuellement et permet d'intégrerce type d'information complémentaire qui concerne l'absence d'une interactionplutôt que sa présence. Nous tentons d'évaluer les bénéfices de cette approchesur un problème de traitement d'images.",
+	 "authors" : ["Isabelle Bloch","Emanuel Aldea"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1000772" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1000772" 
+} 
+ 

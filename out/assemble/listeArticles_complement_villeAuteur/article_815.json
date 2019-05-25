@@ -1,0 +1,13 @@
+{	 "idArt" : "815",
+	 "placeAut" : [ 
+		{ "place" : "Bron",
+		 "country" : "France",
+		 "location" : { "lat" :  45.73331599999999, 
+			 "lon" : 4.9119269999999915 } },
+		{ "place" : "Tunis",
+		 "country" : "Tunisie",
+		 "location" : { "lat" :  36.8064948, 
+			 "lon" : 10.181531599999971 } }
+	 ]
+} 
+ 

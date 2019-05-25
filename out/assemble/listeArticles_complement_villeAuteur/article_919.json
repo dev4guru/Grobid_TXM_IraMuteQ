@@ -1,0 +1,13 @@
+{	 "idArt" : "919",
+	 "placeAut" : [ 
+		{ "place" : "Beyrouth",
+		 "country" : "Liban",
+		 "location" : { "lat" :  33.8886289, 
+			 "lon" : 35.49547940000002 } },
+		{ "place" : "Rouen",
+		 "country" : "France",
+		 "location" : { "lat" :  49.44323199999999, 
+			 "lon" : 1.0999709999999823 } }
+	 ]
+} 
+ 

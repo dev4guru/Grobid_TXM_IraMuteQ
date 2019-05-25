@@ -1,0 +1,22 @@
+{
+"year": "2005",
+"metaSession": "",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1000203",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1000203",
+"abstract": "UML est le langage graphique de référence dans l'industriepour la modélisation objet. Cependant UML reste un langage, et ne fournitaucun moyen de vérification ou d'interrogation de ses schémas. Il existeaujourd'hui des outils de vérification, mais ils se comportent comme desboîtes noires où l'utilisateur ne peut accéder. Nous proposons une méthodegraphique de vérification et d'interrogation de diagrammes de classesUML. L'aspect intuitif et dessinable de notre méthode offre à l'utilisateurla possibilité d'interroger le contenu de diagrammes de classes, ainsique de définir et d'adapter ses propres critères de vérification. Le modèlecalculatoire de notre approche est celui des graphes conceptuels",
+"title": "Une nouvelle méthode graphique pour interroger et vérifier des diagrammes de classes UML",
+"placeAut":[{
+"place":"Angers",
+"country":"France",
+"location":{
+	"lat":"47.478419",
+	"lon":"-0.563166"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 48.856614, u'lon': 2.3522219}",
+"place": "Paris",
+"booktitle": "AEGC",
+"idArt": "927",
+"authors": "Thomas Raimbault"
+}

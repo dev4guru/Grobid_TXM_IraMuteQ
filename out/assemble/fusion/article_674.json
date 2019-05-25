@@ -1,0 +1,22 @@
+{
+"year": "2008",
+"metaSession": "1",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1000555",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1000555",
+"abstract": "Notre objectif dans cet article est l'analyse textuelle d'un site Web indépendamment de son usage. Notre approche se déroule en trois étapes. La première étape consiste au typage des pages afin de distinguer les pages de navigation ou pages « auxiliaires » des pages de contenu. La deuxième étape consiste au prétraitement du contenu des pages de contenu afin de représenter chaque page par un vecteur de descripteurs. La dernière étape consiste au block clustering ou la classification simultanée des lignes et des colonnes de la matrice croisant les pages aux descripteurs de pages afin de découvrir des biclasses de pages et de descripteurs. L'application de cette approche au site de tourisme de Metz prouve son efficacité et son applicabilité. L'ensemble de classes de pages groupés en thèmes facilitera l'analyse ultérieure de l'usage du site.",
+"title": "Web Content Data Mining : la classification croisée pour l'analyse textuelle d'un site Web",
+"placeAut":[{
+"place":"Tunis",
+"country":"Tunisie",
+"location":{
+	"lat":"36.8064948",
+	"lon":"10.1815316"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 43.6163539, u'lon': 7.0552218}",
+"place": "Sophia Antipolis",
+"booktitle": "EGC ",
+"idArt": "674",
+"authors": "['Malika Charrad','Yves Lechevallier','Gilbert Saporta','Mohamed Ben Ahmed']"
+}

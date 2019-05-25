@@ -1,0 +1,14 @@
+{	 "idArt" : "316",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2011",
+	 "place" : "Brest",
+	 "location" : { "lat" :  48.390394, 
+		 "lon" : -4.486076 }, 
+	 "title" : "Extraction de motifs temporels à partir de séquences d'événements avec intervalles temporels",
+	 "abstract" : "La fouille de base de données séquentielles a pour objet l'extraction de motifs séquentiels représentatifs. La plupart des méthodes concernent des motifs composés d'événements liés par des relations temporelles basées sur la précédence des instants. Pourtant, dans de nombreuses situations réelles une information quantitative sur la durée des événements ou le délai inter-événements est nécessaire pour discriminer les phénomènes. Nous proposons deux algorithmes, QTIAPriori et QTIPrefixSpan, pour extraire des motifs temporels composés d'événements associés à des intervalles décrivant leur position dans le temps et leur durée. Chacun d'eux ajoute aux algorithmes GSP et PrefixSpan une étape de catégorisation d'intervalles multi-dimensionnels pour extraire les intervalles temporelles représentatifs. Les expérimentations sur des données simulées montrent la capacité des algorithmes à extraire des motifs précis en présence de bruit et montrent l'amélioration des performances en temps de calcul.",
+	 "authors" : ["Rene Quiniou","Thomas Guyet"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1000925" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1000925" 
+} 
+ 

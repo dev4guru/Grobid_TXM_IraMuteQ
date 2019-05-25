@@ -1,0 +1,13 @@
+{	 "idArt" : "491",
+	 "placeAut" : [ 
+		{ "place" : "Versailles",
+		 "country" : "France",
+		 "location" : { "lat" :  48.801408, 
+			 "lon" : 2.1301220000000285 } },
+		{ "place" : "Nozay",
+		 "country" : "France",
+		 "location" : { "lat" :  47.564751, 
+			 "lon" : -1.6269159999999374 } }
+	 ]
+} 
+ 

@@ -1,0 +1,9 @@
+{	 "idArt" : "828",
+	 "placeAut" : [ 
+		{ "place" : "Trier",
+		 "country" : "Allemagne",
+		 "location" : { "lat" :  49.749992, 
+			 "lon" : 6.637143299999934 } }
+	 ]
+} 
+ 

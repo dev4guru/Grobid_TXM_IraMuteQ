@@ -1,0 +1,22 @@
+{
+"year": "2005",
+"metaSession": "",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1000313",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1000313",
+"abstract": "Cet article présente nos travaux sur la mesure de l'intérêt des règles d'association. Une vingtaine de mesures ont été retenues, sur la base d'un critère d'éligibilité.Différentes propriétés sont d'abord proposées qui fondent une étude formelle des mesures. Cette étude formelle se double d'une étude de comportement, grâce à HERBS, une plate-forme développée pour expérimenter les mesures sur des bases de règles. Il est alors possible de confronter la typologie formelle des mesures et la typologie expérimentale. Une fois transformées en critères, ces propriétés fondent une méthode d'assistance au choix de l'utilisateur. Le problème de la validation est enfin abordé, où l'on présente une méthode de contrôle du risque multiple adaptée au problème.",
+"title": "Mesurer l'intérêt des règles d'association",
+"placeAut":[{
+"place":"Brest",
+"country":"France",
+"location":{
+	"lat":"48.390394",
+	"lon":"-4.486076"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 48.856614, u'lon': 2.3522219}",
+"place": "Paris",
+"booktitle": "AEGC",
+"idArt": "905",
+"authors": "['Benoît Vaillant','Patrick Meyer','Elie Prudhomme','Stéphane Lallich','Philippe Lenca','Sébastien Bigaret']"
+}

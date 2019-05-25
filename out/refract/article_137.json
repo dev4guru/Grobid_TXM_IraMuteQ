@@ -1,0 +1,22 @@
+{
+"year": "2014",
+"metaSession": "",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1001981",
+"pdfarticle": "",
+"abstract": "Dans cet article, nous proposons une approche argumentative visant àautomatiser la résolution des conflits entre les décideurs qui ont des préférencescontradictoires lors d'une classification multicritères collaborative des connaissancescruciales. Notre étude expérimentale a prouvé que cette approche peutrésoudre jusqu'à 81% des conflits et améliorer la qualité d'approximation dedécideurs d'un taux de 0.62 pour un récepteur et de 0.15 pour un initiateur.",
+"title": "Stratégies argumentatives pour la classification collaborative multicritères des connaissances cruciales",
+"placeAut":[{
+"place":"Amiens",
+"country":"France",
+"location":{
+	"lat":"49.894067",
+	"lon":"2.295753"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 48.117266, u'lon': -1.6777926}",
+"place": "Rennes",
+"booktitle": "EGC",
+"idArt": "137",
+"authors": "['Sarra Bouzayane','Inès Saad']"
+}

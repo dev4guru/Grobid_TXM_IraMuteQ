@@ -1,0 +1,13 @@
+{	 "idArt" : "1085",
+	 "placeAut" : [ 
+		{ "place" : "Caparica",
+		 "country" : "Portugal",
+		 "location" : { "lat" :  38.6597882, 
+			 "lon" : -9.202775699999961 } },
+		{ "place" : "Orléans",
+		 "country" : "France",
+		 "location" : { "lat" :  47.902964, 
+			 "lon" : 1.9092510000000402 } }
+	 ]
+} 
+ 

@@ -1,0 +1,13 @@
+{	 "idArt" : "243",
+	 "placeAut" : [ 
+		{ "place" : "Sainte Clotilde",
+		 "country" : "France",
+		 "location" : { "lat" :  46.5357259, 
+			 "lon" : -0.592192999999952 } },
+		{ "place" : "Poitiers",
+		 "country" : "France",
+		 "location" : { "lat" :  46.58022400000001, 
+			 "lon" : 0.34037499999999454 } }
+	 ]
+} 
+ 

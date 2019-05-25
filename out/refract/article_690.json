@@ -1,0 +1,22 @@
+{
+"year": "2007",
+"metaSession": "4",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1001456",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1001456",
+"abstract": "Il n'est pas rare que des données individu soient caractérisées par une distribution continue et non une seule valeur. Ces données fonctionnelles peuvent être utilisées pour classer les individus. Une solution élémentaire est de réduire les distributions à leurs moyennes et variances. Une solution plus riche a été proposée par Diday (2002) et mise en oeuvre par Vrac et al. (2001) et Cuvelier et Noirhomme-Fraiture (2005). Elle utilise des points de coupures dans les distributions et modélise ces valeurs conjointes par une distribution multidimensionnelle construite à l'aide d'une copule. Nous avons montré dans un précédent travail que, si cette technique apporte de bons résultats, la qualité de la classification dépend néanmoins du nombre et de l'emplacement des coupures. Les questions du choix du nombre et de l'emplacement des coupures restaient des questions ouvertes. Nous proposons une solution à ces questions, lorsque le nombre de coupures tend vers l'infini, en proposant une nouvelle distribution de probabilité adaptée à l'espace de dimension infinie que forment les données fonctionnelles. Nous proposons aussi une densité de probabilité adaptée à la nature de cette distribution en utilisant la dérivée directionnelle de Gâteaux. La direction choisie pour cette dérivée est celle de la dispersion des fonctions à classer. Les résultats sont encourageants et offrent des perspectives multiples dans tous les domaines où une distribution de données fonctionnelles est nécessaire.",
+"title": "Classification de fonctions continues à l'aide d'une distribution et d'une densité définies dans un espace de dimension infinie",
+"placeAut":[{
+"place":"Namur",
+"country":"Belgique",
+"location":{
+	"lat":"50.4673883",
+	"lon":"4.8719854"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 50.4673883, u'lon': 4.8719854}",
+"place": "Namur",
+"booktitle": "EGC",
+"idArt": "690",
+"authors": "['Etienne Cuvelier','Monique Noirhomme-Fraiture']"
+}

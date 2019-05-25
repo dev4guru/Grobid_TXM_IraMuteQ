@@ -1,0 +1,22 @@
+{
+"year": "2015",
+"metaSession": "",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1002108",
+"pdfarticle": "",
+"abstract": "Ce travail se situe dans le domaine de la Cybersécurité, le projet D113 permet de visualiser en temps réel les flux transitant sur des équipements de filtrage sans avoir recours au traitement manuel des journaux d'événements. Nous centrerons notre démonstration sur la visualisation de grands graphes et l'exploitation d'analyses statiques des flux.",
+"title": "D113 : une plateforme open-source dédiée à l'analyse des flux et à la détection des intrusions",
+"placeAut":[{
+"place":"Bron",
+"country":"France",
+"location":{
+	"lat":"45.733316",
+	"lon":"4.911927"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 49.815273, u'lon': 6.129582999999999}",
+"place": "Luxembourg",
+"booktitle": "EGC",
+"idArt": "20",
+"authors": "['David Pierrot','Nouria Harbi']"
+}

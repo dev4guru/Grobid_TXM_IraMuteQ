@@ -1,0 +1,22 @@
+{
+"year": "2010",
+"metaSession": "3",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1001336",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1001336",
+"abstract": "Initialement utilisés pour les systèmes de commande, les règles et motifsgraduels (de la forme plus une personne est âgée, plus son salaire est élevé)trouvent de très nombreuses applications, par exemple dans les domainesde la biologie, des données en flots (e.g. issues de réseaux de capteurs), etc. Trèsrécemment, des algorithmes ont été proposés pour extraire automatiquementde tels motifs. Cependant, même si certains d'entre eux ont permis des gainsde performance importants, les algorithmes restent coûteux et ne permettentpas de traiter efficacement les bases de données réelles souvent très volumineuses(en nombre de lignes et/ou nombre d'attributs). Nous proposons doncdans cet article une méthode originale de recherche de ces motifs utilisant lemulti-threading pour exploiter au mieux les multiples coeurs présents dans laplupart des ordinateurs et serveurs actuels. L'efficacité de cette approche est validéepar une étude expérimentale.",
+"title": "PGP-mc : extraction parallèle efficace de motifs graduels",
+"placeAut":[{
+"place":"Montpellier",
+"country":"France",
+"location":{
+	"lat":"43.610769",
+	"lon":"3.876716"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 36.4, u'lon': 10.616667}",
+"place": "Hammamet",
+"booktitle": "EGC",
+"idArt": "450",
+"authors": "['Anne Laurent','Benjamin Négrevergne','Nicolas Sicard','Alexandre Termier']"
+}

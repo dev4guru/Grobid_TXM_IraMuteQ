@@ -1,0 +1,22 @@
+{
+"year": "2005",
+"metaSession": "",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1000213",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1000213",
+"abstract": "Nous présentons une méthode de classification et de recherche de sources biologiques. Elle consiste à construire un treillis de Galois à partir d'un ensemble de mété-données associées aux sources et converties en propriétés booléenne. Un concept construit à partir d'une requête utilisateur est ensuite inséré dans le treillis grâce à un algorithme de construction incrémentale. Le calcul du résultat se ramène à extraire l'ensemble des sources figurant dans les extensions des subsumants du concept requête dans le treillis de Galois résultant. L'ordre de pertinence des sources est déduit à partir de l'ordre de subsumption des concepts correspondants dans le treillis. Une amélioration de la méthode consiste à enrichir la requête à partir d'ontologies de domaine avant de l'insérer dans le treillis. Deux modes d'enrichissement sont possibles : l'enrichissement par généralisation et l'enrichissement par spécialisation.",
+"title": "Méthode sémantique pour la classification et l'iinterrogation de sources de données biologiques",
+"placeAut":[{
+"place":"Vandoeuvre-lès-Nancy",
+"country":"France",
+"location":{
+	"lat":"48.661118",
+	"lon":"6.17376"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 48.856614, u'lon': 2.3522219}",
+"place": "Paris",
+"booktitle": "AEGC",
+"idArt": "906",
+"authors": "['Nizar Messai','Marie-Dominique Devignes','Amedeo Napoli','Malika Smail-Tabbone']"
+}

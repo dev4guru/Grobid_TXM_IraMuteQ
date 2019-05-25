@@ -1,0 +1,14 @@
+{	 "idArt" : "470",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2010",
+	 "place" : "Hammamet",
+	 "location" : { "lat" :  36.4, 
+		 "lon" : 10.616667 }, 
+	 "title" : "Simplification de données de vol pour un stockage optimal et une visualisation accélérée",
+	 "abstract" : "Le projet RECORDS (collaboration entre industriels et université) apour objectif de développer une infrastructure de service sécurisée pour assurerle suivi et l'analyse des conditions d'utilisation d'aéronefs. Chaque aéronefest muni de capteurs. Au cours de chaque mission (vol) les données mesuréessont enregistrées localement. Ces dernières sont par la suite transférées dansune base de données centralisée à des fins d'analyse. Le problème rencontré estla grande quantité de données ainsi enregistrées, ce qui en rend l'exploitationdifficile. Dans cet article, nous proposons des techniques de compression et desimplification de données avec un taux de perte contrôlé. Nos expérimentationsmontrent des gains drastiques en volumétrie avec de très faibles pertes d'informations.Ceci représente une première étape avant d'appliquer des techniquesd'extraction de connaissances.",
+	 "authors" : ["Ibrahim Chahid","Loic Martin","Sofian Maabout","Mohamed Mosbah"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1001324" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1001324" 
+} 
+ 

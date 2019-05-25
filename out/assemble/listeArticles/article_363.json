@@ -1,0 +1,13 @@
+{	 "idArt" : "363",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2011",
+	 "place" : "Brest",
+	 "location" : { "lat" :  48.390394, 
+		 "lon" : -4.486076 }, 
+	 "title" : "Un outil de géolocalisation et de résumé automatique pour faciliter l'accès à l'information dans des corpus d'actualité",
+	 "authors" : ["Emilie Guimier De Neef","Aurélien Bossard","Frédéric Gavignet","Olivier Collin"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1000956" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1000956" 
+} 
+ 

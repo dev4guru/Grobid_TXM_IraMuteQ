@@ -1,0 +1,13 @@
+{	 "idArt" : "300",
+	 "placeAut" : [ 
+		{ "place" : "Manouba",
+		 "country" : "Tunisie",
+		 "location" : { "lat" :  36.807778, 
+			 "lon" : 10.101110999999946 } },
+		{ "place" : "Arcueil",
+		 "country" : "France",
+		 "location" : { "lat" :  48.80486, 
+			 "lon" : 2.3349550000000363 } }
+	 ]
+} 
+ 

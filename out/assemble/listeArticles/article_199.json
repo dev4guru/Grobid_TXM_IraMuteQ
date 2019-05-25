@@ -1,0 +1,13 @@
+{	 "idArt" : "199",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2013",
+	 "place" : "Toulouse",
+	 "location" : { "lat" :  43.604652, 
+		 "lon" : 1.444209 }, 
+	 "title" : "Towards a New Science of Big Data Analytics, based on the Geometry and the Topology of Complex, Hierarchic Systems",
+	 "abstract" : "My work is concerned with pattern recognition, knowledge discovery, computer learning and statistics. I address how geometry and topology can uncover and empower the semantics of data. In addition to the semantics of data that can be explored using Correspondence Analysis and related multivariate data analyses, hierarchy is a fundamental concept in this work. I address not only low dimensional projection for display purposes, but carry out search and pattern recognition, whenever useful, in very high dimensional spaces. High dimensional spaces present very different characteristics from low dimensions, I have shown that in a particular sense very high dimensional space becomes, as dimensionality increases, hierarchical. I have also shown how in hierarchy, and hence in an ultrametric topological mapping of information space, we track change or anomaly or rupture.In this presentation, the first theme discussed is that of linear time hierarchical clustering with application to sky survey data in astronomy, and to chemo-informatics. The second theme discussed is computational text analysis. It is interesting to note that J.P. Benzécri's original motivation was in language and linguistics. In my text analysis work, I have taken the dictum of McKee (Story : Substance, Structure, Style and the Principles of Screenwriting, Methuen, 1999) that text is the sensory surface of a work of art and show just how this insight can be rendered in computational terms. This leads to demarcating, tracking, statistical modelling, visualizing, and pattern recognition of narrative. In an application to collaborative writing, I developed an interactive framework for critiquing, and assessing fit and appropriateness of content, on the basis of semantics, leading to books that were published as e-books, having been written by school children in a few days of collaborative class work. In many aspects of this work, hierarchy expresses both continuity and change in the textual narrative or in the narrative of chronological events.",
+	 "authors" : ["Fionn Murtagh"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1001813" 
+} 
+ 

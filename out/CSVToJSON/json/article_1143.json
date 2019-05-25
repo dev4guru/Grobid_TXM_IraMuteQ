@@ -1,0 +1,15 @@
+{
+"idArt": "1143",
+"series": "Revue des Nouvelles Technologies de l'Information",
+"booktitle": "EGC",
+"year": "2016",
+"title": "Intégration de connaissances lexicales et sémantiques pour l'analyse de sentiments dans les SMS",
+"abstract": "With the explosive growth of the social media (forums, blogs, and social networks) on theWeb, the exploitation of these new information sources became essential. In this paper, wepresent a new automatic method to integrate knowledge for sentiment detection from a SMScorpus by combining lexical and semantic information.",
+"authors": "Wedjene Khiari, Mathieu Roche, Asma Bouhafs Hafsia",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1002227",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1002227",
+"metaSession": "11",
+"place": "Reims",
+"Latitude": " 49.258368 ",
+"Longitude": "4.031735"
+}

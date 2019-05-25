@@ -1,0 +1,14 @@
+{	 "idArt" : "626",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC ",
+	 "year" : "2008",
+	 "place" : "Sophia Antipolis",
+	 "location" : { "lat" :  43.6163539, 
+		 "lon" : 7.0552218 }, 
+	 "title" : "Méthodologie d'Evaluation Intelligente des Concepts Ontologiques",
+	 "abstract" : "Un des problèmes majeurs dans la gestion des ontologies est son évaluation. Cet article traite l'évaluation des concepts ontologiques qui sont extraits de pages Web. Pour cela, nous avons proposé une méthodologie d'évaluation des concepts basée trois critères révélateurs : le degré de crédibilité; le degré de cohésion et le degré d'éligibilité. Chaque critère correspond à un apport de connaissance pour la tâche d'évaluation. Notre méthode d'évaluation assure une évaluation qualitative grâce aux associations de mots ainsi qu'une évaluation quantitative par le biais des trois degrés. Nos résultats et discussions avec les experts et les utilisateurs ont montré que notre méthode facilite la tâche d'évaluation.",
+	 "authors" : ["Lobna Karoui","Marie-Aude Aufaure"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1000566" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1000566" 
+} 
+ 

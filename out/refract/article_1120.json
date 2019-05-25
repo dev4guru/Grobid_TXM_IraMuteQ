@@ -1,0 +1,15 @@
+{
+"idArt": "1120",
+"series": "Revue des Nouvelles Technologies de l'Information",
+"booktitle": "EGC",
+"year": "2016",
+"title": "Construction incrémentale d'une structure hiérarchique pour l'exploration visuelle et interactive de larges collections d'images",
+"abstract": "Dans cet article, nous étudions de manière conjointe la construction etl'exploration visuelle d'une structure de classification pour de très grande based'images. Pour garantir que la structure construite vérifiera les contraintes detaille nécessaires à sa visualisation dans une interface Web tout en reflétant lespropriétés topologiques des données (clusters), nous combinons la classificationhiérarchique de BIRCH (Balanced Iterative Reducing and Clustering using Hierarchies)avec la construction de graphes de voisinage : un graphe de voisinageest créé et mis à jour de manière incrémentale pour représenter les fils de chaquenoeud de l'arbre. De plus, un ensemble d'images représentatives est remonté àchaque noeud interne pour guider l'utilisateur lors de l'exploration visuelle del'arbre. L'ensemble des algorithmes utilisés sont incrémentaux pour gérer l'insertionde nouvelles images dans la collection. Nous présentons les premiersrésultats sur des dizaines de milliers d'images qui peuvent être ainsi structuréesen une minute de temps de calcul. L'exploration dans l'interface est fluide grâceaux propriétés de la structure construite.",
+"authors": "Frédéric Rayar, Sabine Barrat, Fatma Bouali, Gilles Venturini",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1002184",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1002184",
+"metaSession": "6",
+"place": "Reims",
+"Latitude": " 49.258345 ",
+"Longitude": "4.031712"
+}

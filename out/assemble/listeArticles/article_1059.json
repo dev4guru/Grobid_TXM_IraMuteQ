@@ -1,0 +1,14 @@
+{	 "idArt" : "1059",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2004",
+	 "place" : "Clermont-Ferrand",
+	 "location" : { "lat" :  45.77722199999999, 
+		 "lon" : 3.087025 }, 
+	 "title" : "Identification de blocs homogènes sur des données continues",
+	 "abstract" : "Contrairement aux méthodes usuelles de classification ne cherchant généralement qu'une seule partition, soit des instances, soit des attributs, les méthodes de classification croisée et de classification directe fournissent des blocs de données liant des instances à des attributs. Les premières consistent à chercher simultanément une partition en lignes et une partition en colonnes. Les secondes, elles, s'appliquent directement sur les données, et permettent d'obtenir des blocs de données homogènes de toutes tailles, ainsi que des hiérarchies de classes en lignes et en colonnes. Combinant les avantages des deux méthodes, nous présentons ici une méthodologie permettant de travailler sur de grandes bases de données.",
+	 "authors" : ["François-Xavier Jollois","Mohamed Nadif"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1001015" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1001015" 
+} 
+ 

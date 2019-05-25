@@ -1,0 +1,13 @@
+{	 "idArt" : "39",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2015",
+	 "place" : "Luxembourg",
+	 "location" : { "lat" :  49.815273, 
+		 "lon" : 6.129582999999999 }, 
+	 "title" : "Mesure d'influence via les indicateurs de centralité dans les réseaux sociaux",
+	 "abstract" : "For social network analysis, existing centrality measures emphasize the importance of an actor considering only the structural position in the network regardless of a priori information on this actors such as popularity, accessibility or behavior. In this study new variants of centrality measures are proposed operating both the network structure and the specific attributes of an actor. Experiments have validated the contribution of valuations especially for the detection of broadcasters in social networks.",
+	 "authors" : ["Oualid Benyahia","Christine Largeron"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1002112" 
+} 
+ 

@@ -1,0 +1,13 @@
+{	 "idArt" : "142",
+	 "placeAut" : [ 
+		{ "place" : "Paris",
+		 "country" : "France",
+		 "location" : { "lat" :  48.856614, 
+			 "lon" : 2.3522219000000177 } },
+		{ "place" : "Champs-sur-Marne",
+		 "country" : "France",
+		 "location" : { "lat" :  48.852775, 
+			 "lon" : 2.602651000000037 } }
+	 ]
+} 
+ 

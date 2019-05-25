@@ -1,0 +1,14 @@
+{	 "idArt" : "489",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2010",
+	 "place" : "Hammamet",
+	 "location" : { "lat" :  36.4, 
+		 "lon" : 10.616667 }, 
+	 "title" : "Visualisation de mesures agrégées pour l'estimation de la qualité des articlesWikipedia",
+	 "abstract" : "Wikipedia, devenue l'une des bases de connaissances les plus populaires,pose le problème de la fiabilité de l'information qu'elle dissémine. Nousproposons WikipediaViz, un ensemble de visualisations basé sur un mecanismede collecte et d'agrégation de données d'édition Wikipedia pour aider le lecteurà appréhender la maturité d'un article. Nous listons cinq métriques importantes,déterminées lors de sessions de conception participative avec des experts Wikipediapour juger de la qualité, que nous présentons au lecteur sous forme devisualisations compactes et expressives, dépeignant le profil d'évolution d'un article.Nos études utilisateur ont montré queWikipediaViz réduisait significativementle temps requis pour évaluer la qualité en maintenant une bonne précision",
+	 "authors" : ["Fanny Chevalier","Stéphane Huot","Jean-Daniel Fekete"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1001316" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1001316" 
+} 
+ 

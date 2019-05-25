@@ -1,0 +1,13 @@
+{	 "idArt" : "46",
+	 "placeAut" : [ 
+		{ "place" : "Caen",
+		 "country" : "France",
+		 "location" : { "lat" :  49.182863, 
+			 "lon" : -0.37067899999999554 } },
+		{ "place" : "Blois",
+		 "country" : "France",
+		 "location" : { "lat" :  47.58609209999999, 
+			 "lon" : 1.3359474999999748 } }
+	 ]
+} 
+ 

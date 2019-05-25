@@ -1,0 +1,9 @@
+{	 "idArt" : "48",
+	 "placeAut" : [ 
+		{ "place" : "Moncton",
+		 "country" : "Canada",
+		 "location" : { "lat" :  46.0878165, 
+			 "lon" : -64.77823130000002 } }
+	 ]
+} 
+ 

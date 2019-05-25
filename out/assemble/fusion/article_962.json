@@ -1,0 +1,22 @@
+{
+"year": "2005",
+"metaSession": "3",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1000348",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1000348",
+"abstract": "Nous traitons l'extension de l'algorithme Apriori et des règles d'association aux cas des données symboliques diagrammes et intervalles. La méthode proposée nous permet de découvrir des règles d'association au niveau des concepts. Cette extension implique notamment de nouvelles définitions pour le support et la confiance afin d'exploiter la structure symbolique des données. Au fil de l'article l'exemple classique du panier de la ménagère est développé. Ainsi, plutôt que d'extraire des règles entre différents articles appartenant à des mêmes transactions enregistrées dans un magasin comme dans le cas classique, nous extrayons des règles d'association au niveau des clients afin d'étudier leurs comportements d'achat.",
+"title": "Extension de l'algorithme Apriori et des règles d'association aux cas des données symboliques diagrammes et intervalles",
+"placeAut":[{
+"place":"Paris",
+"country":"France",
+"location":{
+	"lat":"48.856614",
+	"lon":"2.3522219"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 48.856614, u'lon': 2.3522219}",
+"place": "Paris",
+"booktitle": "EGC",
+"idArt": "962",
+"authors": "['Filipe Afonso','Edwin Diday']"
+}

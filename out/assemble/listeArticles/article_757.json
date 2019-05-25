@@ -1,0 +1,14 @@
+{	 "idArt" : "757",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2007",
+	 "place" : "Namur",
+	 "location" : { "lat" :  50.4673883, 
+		 "lon" : 4.8719854 }, 
+	 "title" : "Utilisation de WordNet dans la catégorisation de textes multilingues",
+	 "abstract" : "Cet article est consacré au problème de la catégorisation multilingue qui consiste à catégoriser des documents de différentes langues en utilisant le même classifieur. L'approche que nous proposons est basée sur l'idée d'étendre l'utilisation de WordNet dans la catégorisation monolingue vers la catégorisation multilingue.",
+	 "authors" : ["Mohamed Amine Bentaallah","Mimoun Malki"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1001353" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1001353" 
+} 
+ 

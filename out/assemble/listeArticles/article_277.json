@@ -1,0 +1,13 @@
+{	 "idArt" : "277",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2011",
+	 "place" : "Brest",
+	 "location" : { "lat" :  48.390394, 
+		 "lon" : -4.486076 }, 
+	 "title" : "A la recherche des tweets porteurs d'informations journalistiques",
+	 "authors" : ["Benjamin Rosoor","Laurent Sebag","Sandra Bringay","Mathieu Roche"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1000961" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1000961" 
+} 
+ 

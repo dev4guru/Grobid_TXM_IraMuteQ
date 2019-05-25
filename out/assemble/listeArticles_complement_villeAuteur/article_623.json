@@ -1,0 +1,17 @@
+{	 "idArt" : "623",
+	 "placeAut" : [ 
+		{ "place" : "Laval",
+		 "country" : "Canada",
+		 "location" : { "lat" :  45.6066487, 
+			 "lon" : -73.71240899999998 } },
+		{ "place" : "Saint Mandé",
+		 "country" : "France",
+		 "location" : { "lat" :  48.84283199999999, 
+			 "lon" : 2.4178638999999293 } },
+		{ "place" : "Sherbrooke",
+		 "country" : "Canada",
+		 "location" : { "lat" :  45.4009928, 
+			 "lon" : -71.88242880000001 } }
+	 ]
+} 
+ 

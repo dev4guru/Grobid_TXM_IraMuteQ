@@ -1,0 +1,15 @@
+{
+"idArt": "1154",
+"series": "Revue des Nouvelles Technologies de l'Information",
+"booktitle": "EGC",
+"year": "2016",
+"title": "Nouveaux algorithmes de fouilles de données relationnelles de clowdflows",
+"abstract": "Clowdflows est un logiciel open source qui permet à un utilisateur deréaliser des processus entiers de fouille de données à partir d'un navigateur etd'une connexion internet. Les calculs sont réalisés dans le nuage, c'est-à-direde façon transparente sur plusieurs serveurs exécutant les calculs ou hébergeantles données. Dans cet article, nous rappelons les points forts de clowdflows etnous présentons trois familles d'algorithmes de fouille de données relationnellesque nous venons d'y intégrer. En effet clowdflows est la seule plateforme webpermettant d'exécuter, voire comparer, plusieurs techniques de fouille de donnéesrelationnelles, souvent appelée programmation logique inductive.",
+"authors": "Nicolas Lachiche, Alain Shakour",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1002207",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1002207",
+"metaSession": "11",
+"place": "Reims",
+"Latitude": " 49.258379 ",
+"Longitude": "4.031746"
+}

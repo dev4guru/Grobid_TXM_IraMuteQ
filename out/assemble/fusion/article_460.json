@@ -1,0 +1,22 @@
+{
+"year": "2010",
+"metaSession": "3",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1001294",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1001294",
+"abstract": "Les flux de séries temporelles sont aujourd'hui produits dans de nombreuxdomaines comme la finance (Zhu et Shasha (2002)), la surveillance deréseaux (Borgne et al. (2007); Airoldi et Faloutsos (2004)), la gestion de l'historiquedes usages fréquents (Giannella et al. (2003); Teng et al. (2003)), etc.Résumer de tels flux est devenu un domaine important qui permet de surveilleret d'enregistrer des informations fiables sur les séries observées. À ce jour, lamajorité des algorithmes de ce domaine s'est concentrée sur des résumés séparéset indépendants (Giannella et al. (2003); Zhu et Shasha (2002); Chen et al.(2002)), en accordant à chaque série le même espace en mémoire. Toutefois, lagestion de cet espace mémoire est un sujet important pour les flux de donnéeset une stratégie accordant la même quantité de mémoire à chaque série n'est pasforcément appropriée. Dans cet article, nous considérons que les séries doiventêtre en compétition vis à vis de l'espace mémoire, selon leur besoin de précision.Ainsi, nous proposons : (1) une stratégie de gestion de l'espace mémoireoptimisée et (2) une nouvelle méthode de résumé des séries temporelles par approximation.Dans ce but, nous observons à la fois l'erreur globale et les erreurslocales. La répartition de la mémoire suit les étapes suivantes : (1) recherchede la séquence la mieux représentée et (2) recherche de la partie à compresseren minimisant l'erreur. Nos expérimentations sur des données réelles montrentl'efficacité et la pertinence de notre approche.",
+"title": "REGLO : une nouvelle stratégie pour résumer un flux de séries temporelles",
+"placeAut":[{
+"place":"Sophia Antipolis",
+"country":"France",
+"location":{
+	"lat":"43.6163539",
+	"lon":"7.0552218"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 36.4, u'lon': 10.616667}",
+"place": "Hammamet",
+"booktitle": "EGC",
+"idArt": "460",
+"authors": "['Florent Masseglia','Alice Marascu','Yves Lechevallier']"
+}

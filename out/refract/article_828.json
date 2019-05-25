@@ -1,0 +1,22 @@
+{
+"year": "2006",
+"metaSession": "0",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1000317",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1000317",
+"abstract": "CiteSeer and Google-Scholar are huge digital libraries which provideaccess to (computer-)science publications. Both collections are operated likespecialized search engines, they crawl the web with little human interventionand analyse the documents to classify them and to extract some metadata fromthe full texts. On the other hand there are traditional bibliographic data baseslike INSPEC for engineering and PubMed for medicine. For the field of computerscience the DBLP service evolved from a small specialized bibliographyto a digital library covering most subfields of computer science. The collectionsof the second group are maintained with massive human effort. On the longterm this investment is only justified if data quality of the manually maintainedcollections remains much higher than that of the search engine style collections.In this paper we discuss management and algorithmic issues of data quality. Wefocus on the special problem of person names",
+"title": "Maintaining an Online Bibliographical Database: The Problem of Data Quality",
+"placeAut":[{
+"place":"Trier",
+"country":"Allemagne",
+"location":{
+	"lat":"49.749992",
+	"lon":"6.6371433"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 50.62925, u'lon': 3.057256}",
+"place": "Lille",
+"booktitle": "EGC",
+"idArt": "828",
+"authors": "['Michael Ley','Patrick Reuther']"
+}

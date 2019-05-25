@@ -1,0 +1,15 @@
+{
+"idArt": "1129",
+"series": "Revue des Nouvelles Technologies de l'Information",
+"booktitle": "EGC",
+"year": "2016",
+"title": "Évaluation et Prédiction de la Centralité de Groupes de Recherche dans un Réseau de Collaborations Scientifiques",
+"abstract": "De nos jours, il y a un fort intérêt pour de nouvelles méthodes d'évaluationdes groupes de recherche afin de quantifier l'impact de leur travail surtoute la communauté scientifique et de tenter de prédire leurs performances dansle futur. Dans ce contexte, nous proposons une nouvelle approche hybride quimesure la centralité d'un groupe de chercheurs publiants. Cette mesure profitede l'expressivité et de la capacité d'inférence apportées par une modélisationontologique des groupes et des thématiques inférées, et d'une modélisation engraphe qui permet d'explorer les interactions entre ces différents groupes aufil du temps. Ce modèle permet également de détecter les groupes capables decollaborer avec d'autres tout en maintenant un haut niveau de production, etd'identifier ceux qui sont plus déterminants sur les thématiques déduites, afin dedévelopper des collaborations de recherche plus fructueuses.",
+"authors": "Aurélien Bossard, Mario Cataldi, Myriam Lamolle, Chan Le Duc",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1002193",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1002193",
+"metaSession": "9",
+"place": "Reims",
+"Latitude": " 49.258354 ",
+"Longitude": "4.031721"
+}

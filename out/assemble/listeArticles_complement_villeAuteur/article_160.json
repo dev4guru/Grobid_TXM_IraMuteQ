@@ -1,0 +1,9 @@
+{	 "idArt" : "160",
+	 "placeAut" : [ 
+		{ "place" : "Gatineau",
+		 "country" : "Canada",
+		 "location" : { "lat" :  45.4765446, 
+			 "lon" : -75.70127230000003 } }
+	 ]
+} 
+ 

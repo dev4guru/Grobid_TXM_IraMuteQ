@@ -1,0 +1,14 @@
+{	 "idArt" : "452",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2010",
+	 "place" : "Hammamet",
+	 "location" : { "lat" :  36.4, 
+		 "lon" : 10.616667 }, 
+	 "title" : "PretopoLib: la librairie JAVA de la Prétopologie",
+	 "abstract" : "PretopoLib est une librairie JAVA implémentant les concepts de laprétopologie. Son intérêt réside dans la représentation de structures de donnéespermettant la manipulation des données par des opérations ensemblistes.Celle-ci offre un cadre de développement d'algorithmes efficaces pour la fouillede données, l'apprentissage topologique et la modélisation des systèmes complexes.",
+	 "authors" : ["Sofiane Ben Amor","Vincent Levorato"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1001405" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1001405" 
+} 
+ 

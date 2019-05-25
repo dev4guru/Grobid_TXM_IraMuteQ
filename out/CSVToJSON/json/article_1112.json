@@ -1,0 +1,15 @@
+{
+"idArt": "1112",
+"series": "Revue des Nouvelles Technologies de l'Information",
+"booktitle": "EGC",
+"year": "2016",
+"title": "Arbres de modèles et flux de données incomplets",
+"abstract": "Model tree is a useful and convenient method for predictive analytics in data streams.Often, this issue is solved by pre-processing techniques applied prior to the training phase ofthe model. In this article, we propose a new method that estimates and adjusts missing valuesbefore the model tree training. A prototype was developed and tested on several data streams.",
+"authors": "Olivier Parisot, Yoanne Didry, Thomas Tamisier, Benoît Otjacques",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1002210",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1002210",
+"metaSession": "11",
+"place": "Reims",
+"Latitude": " 49.258337 ",
+"Longitude": "4.031704"
+}

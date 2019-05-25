@@ -1,0 +1,14 @@
+{	 "idArt" : "933",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2005",
+	 "place" : "Paris",
+	 "location" : { "lat" :  48.856614, 
+		 "lon" : 2.3522219 }, 
+	 "title" : "Acquisition et exploitation de connaissances dans un contexte multi-experts pour un système d'aide à la décision",
+	 "abstract" : "Nous présentons une méthodologie d'extraction, de gestion et d'exploitation de connaissances dans un contexte multi-experts. Elle repose sur trois étapes : extraction des connaissances de chaque expert, gestion des connaissances individuelles afin de constituer une base de connaissances commune et exploitation de cette base afin de fournir une aide à la décision aux experts. La méthodologie proposée a été mise en oeuvre au Cameroun avec cinq experts en micro-finance. Elle a donné des résultats en adéquation avec les pratiques des experts. Au-delà, on envisage de mettre en oeuvre un système de capitalisation des connaissances. Il doit permettre d'analyser rapidement un plus grand nombre de situations, les experts restant en nombre limité, et contribuer à un transfert de compétences pour former les décideurs locaux. En effet, les experts sont en général membres d'ONG et restent rarement plus de deux ans sur place.",
+	 "authors" : ["Jean-Pierre Barthélemy","Jean-Robert Kala Kamdjoug","Philippe Lenca"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1000220" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1000220" 
+} 
+ 

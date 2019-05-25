@@ -1,0 +1,1 @@
+We propose a new generic knowledge model dedicated to the consideration of temporaland spatial dimensions of moving objects. We extend usual approaches to meet the specificityof the representation of moving objects and their trajectories. An application on shipping andboat trip scenarii is done.

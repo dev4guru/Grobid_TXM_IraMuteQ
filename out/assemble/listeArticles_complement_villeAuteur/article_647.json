@@ -1,0 +1,13 @@
+{	 "idArt" : "647",
+	 "placeAut" : [ 
+		{ "place" : "Sidi bel Abbes",
+		 "country" : "Algérie",
+		 "location" : { "lat" :  35.2, 
+			 "lon" : -0.6413890000000038 } },
+		{ "place" : "La Tronche",
+		 "country" : "France",
+		 "location" : { "lat" :  45.205168, 
+			 "lon" : 5.73780499999998 } }
+	 ]
+} 
+ 

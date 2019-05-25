@@ -1,0 +1,9 @@
+{	 "idArt" : "1040",
+	 "placeAut" : [ 
+		{ "place" : "Ecully",
+		 "country" : "France",
+		 "location" : { "lat" :  45.774657, 
+			 "lon" : 4.778670000000034 } }
+	 ]
+} 
+ 

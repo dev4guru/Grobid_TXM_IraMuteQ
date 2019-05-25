@@ -1,0 +1,13 @@
+{	 "idArt" : "20",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2015",
+	 "place" : "Luxembourg",
+	 "location" : { "lat" :  49.815273, 
+		 "lon" : 6.129582999999999 }, 
+	 "title" : "D113 : une plateforme open-source dédiée à l'analyse des flux et à la détection des intrusions",
+	 "abstract" : "Ce travail se situe dans le domaine de la Cybersécurité, le projet D113 permet de visualiser en temps réel les flux transitant sur des équipements de filtrage sans avoir recours au traitement manuel des journaux d'événements. Nous centrerons notre démonstration sur la visualisation de grands graphes et l'exploitation d'analyses statiques des flux.",
+	 "authors" : ["David Pierrot","Nouria Harbi"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1002108" 
+} 
+ 

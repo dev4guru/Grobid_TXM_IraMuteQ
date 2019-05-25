@@ -1,0 +1,13 @@
+{	 "idArt" : "71",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2014",
+	 "place" : "Rennes",
+	 "location" : { "lat" :  48.117266, 
+		 "lon" : -1.6777926 }, 
+	 "title" : "Annotation sémantique de documents administratifs",
+	 "abstract" : "La numérisation de documents administratifs est un enjeu économiqueet écologique prioritaire dans le contexte sociétal actuel. La dématérialisationmassive de document n'est pas sans conséquence et soulève les problèmes d'organisation,de stockage et d'accès à l'information. Le défi n'est donc plus la numérisationdu document, mais l'extraction des informations qu'ils contiennent.Les documents sont produits par l'Homme et pour l'Homme. Cette propriétépermet de localiser des informations dans les zones saillantes du document (logos).La saillance et la reconnaissance sont deux éléments essentiels pour laclassification rapide de documents. A l'opposé, la recherche d'un document oud'un ensemble de documents repose presque toujours sur le texte brut, il estdonc nécessaire de faire une correspondance entre une requête textuelle et ledocument. Cet article présente une nouvelle approche d'annotation automatiquede documents administratifs qui utilise une approche visuel et une approche defouille de texte.",
+	 "authors" : ["Benjamin Duthil","Mickaël Coustaty","Vincent Courboulay","Jean-Marc Ogier"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1001913" 
+} 
+ 

@@ -1,0 +1,15 @@
+{
+"idArt": "1296",
+"series": "Revue des Nouvelles Technologies de l'Information",
+"booktitle": "EGC",
+"year": "2018",
+"title": "KTI-MOOC: un système de recommandation pour la personnalisation du processus d'échange d'informations dans les MOOCs",
+"abstract": "Afin d'aider les apprenants à tirer profit du MOOC (Massive OpenOnline Course) qu'ils suivent, nous proposons un outil pour recommander àchacun d'entre eux une liste ordonnée des Apprenants leaders capables dele soutenir durant son processus d'apprentissage. La phase de recommandationest basée sur une approche d'aide à la décision multicritère pour la prédictionpériodique des Apprenants leaders. Etant donnée l'hétérogénéité des profilsdes apprenants, nous recommandons à chacun d'entre eux les leaders appropriésà son profil en utilisant la distance euclidienne et le filtrage démographique.",
+"authors": "Sarra Bouzayane, Inès Saad",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1002428",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1002428",
+"metaSession": "11",
+"place": "Paris",
+"Latitude": " 48.8570 ",
+"Longitude": "2.3524"
+}

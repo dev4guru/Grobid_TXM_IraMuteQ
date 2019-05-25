@@ -1,0 +1,9 @@
+{	 "idArt" : "534",
+	 "placeAut" : [ 
+		{ "place" : "Saint-Cloud",
+		 "country" : "France",
+		 "location" : { "lat" :  48.84764699999999, 
+			 "lon" : 2.2081150000000207 } }
+	 ]
+} 
+ 

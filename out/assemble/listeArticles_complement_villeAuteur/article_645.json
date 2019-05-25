@@ -1,0 +1,13 @@
+{	 "idArt" : "645",
+	 "placeAut" : [ 
+		{ "place" : "Shanghai",
+		 "country" : "China",
+		 "location" : { "lat" :  31.230416, 
+			 "lon" : 121.473701 } },
+		{ "place" : "Paris",
+		 "country" : "France",
+		 "location" : { "lat" :  48.856614, 
+			 "lon" : 2.3522219000000177 } }
+	 ]
+} 
+ 

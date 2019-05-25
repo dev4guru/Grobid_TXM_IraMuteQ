@@ -1,0 +1,13 @@
+{	 "idArt" : "914",
+	 "placeAut" : [ 
+		{ "place" : "Gif-sur-Yvette",
+		 "country" : "France",
+		 "location" : { "lat" :  48.701844, 
+			 "lon" : 2.134078000000045 } },
+		{ "place" : "Aubière",
+		 "country" : "France",
+		 "location" : { "lat" :  45.751175, 
+			 "lon" : 3.110678000000007 } }
+	 ]
+} 
+ 

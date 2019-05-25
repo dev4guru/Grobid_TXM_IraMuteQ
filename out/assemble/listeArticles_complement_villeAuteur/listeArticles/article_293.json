@@ -1,0 +1,14 @@
+{	 "idArt" : "293",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2011",
+	 "place" : "Brest",
+	 "location" : { "lat" :  48.390394, 
+		 "lon" : -4.486076 }, 
+	 "title" : "Catégorisation des mesures d'intérêt pour l'extraction des connaissances",
+	 "abstract" : "La recherche de règles d'association intéressantes est un domaine de recherche important et actif en fouille de données. Les algorithmes de la famille Apriori reposent sur deux mesures pour extraire les règles, le support et la confiance. Bien que ces deux mesures possèdent des vertus algorithmiques accélératrices, elles génèrent un nombre prohibitif de règles dont la plupart sont redondantes et sans intérêt. Il est donc nécessaire de disposer d'autres mesures filtrant les règles inintéressantes. Des travaux ont été réalisés pour dégager les bonnes propriétés des mesures d'extraction des règles et ces propriétés ont été évaluées sur 61 mesures. L'objectif de cet article est de dégager des catégories de mesures afin de répondre à une préoccupation des utilisateurs : le choix d'une ou plusieurs mesures lors d'un processus d'extraction des connaissances dans le but d'éliminer les règles valides non pertinentes extraites par le couple (support, confiance). L'évaluation des propriétés sur les 61 mesures a permis de dégager 9 classes de mesures, classes obtenues grâce à deux techniques : une méthode de la classification ascendante hiérarchique et une version de la méthode de classification non-hiérarchique des k-moyennes.",
+	 "authors" : ["Sylvie Guillaume","Dhouha Grissa","Engelbert Mephu Nguifo"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1001014" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1001014" 
+} 
+ 

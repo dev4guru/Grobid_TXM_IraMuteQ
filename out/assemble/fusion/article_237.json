@@ -1,0 +1,22 @@
+{
+"year": "2012",
+"metaSession": "3",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1001160",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1001160",
+"abstract": "Lors de l'extraction des séquences, la granularité temporelle est plusou moins importante selon les besoins des utilisateurs et les contraintes du domained'application. Nous proposons un algorithme d'extraction de séquencesfréquentes par intervalles à partir de séquences à estampilles temporelles discrètes.Nous intégrons une relaxation des contraintes temporelles en introduisantla définition de séquences temporelles par intervalles (STI). Ces intervalles reflètentune incertitude sur les occurrences précises des évènements. Nous formalisonsce nouveau concept en exhibant certaines de ses propriétés et nous menonsquelques expériences afin de comparer (qualitativement) nos résultats avec uneautre proposition assez proche de la nôtre",
+"title": "Extraction de séquences fréquentes avec intervalles d'incertitude",
+"placeAut":[{
+"place":"Bidart",
+"country":"France",
+"location":{
+	"lat":"43.439236",
+	"lon":"-1.590062"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 44.837789, u'lon': -0.57918}",
+"place": "Bordeaux",
+"booktitle": "EGC",
+"idArt": "237",
+"authors": "['Asma Ben Zakour','Sofian Maabout','Mohamed Mosbah','Marc Sistiaga']"
+}

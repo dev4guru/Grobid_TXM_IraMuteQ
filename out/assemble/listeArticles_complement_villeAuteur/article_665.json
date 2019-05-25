@@ -1,0 +1,13 @@
+{	 "idArt" : "665",
+	 "placeAut" : [ 
+		{ "place" : "Kinshasa",
+		 "country" : "République Démocratique du Congo",
+		 "location" : { "lat" :  -4.325, 
+			 "lon" : 15.32222200000001 } },
+		{ "place" : "Namur",
+		 "country" : "Belgique",
+		 "location" : { "lat" :  50.4673883, 
+			 "lon" : 4.871985399999971 } }
+	 ]
+} 
+ 

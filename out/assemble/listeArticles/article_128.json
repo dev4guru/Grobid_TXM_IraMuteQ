@@ -1,0 +1,13 @@
+{	 "idArt" : "128",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2014",
+	 "place" : "Rennes",
+	 "location" : { "lat" :  48.117266, 
+		 "lon" : -1.6777926 }, 
+	 "title" : "Que ressentent les patients ?",
+	 "abstract" : "Les forums de santé en ligne sont des espaces d'échanges où les patientspartagent leurs sentiments à propos de leurs maladies, traitements, etc.Sous couvert d'anonymat, ils expriment très librement leurs expériences personnelles.Ces forums sont donc une source d'informations très utile pour les professionnelsde santé afin de mieux identifier et comprendre les problèmes, lescomportements et les sentiments de leurs patients. Dans cet article, nous proposonsd'exploiter les messages des forums via des techniques de fouille de textespour extraire des traces d'émotions (e.g. joie, colère, surprise , etc.).",
+	 "authors" : ["Soumia Melzi","Amine Abdaoui","Jérôme Azé","Sandra Bringay","Pascal Poncelet","Florence Galtier"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1001957" 
+} 
+ 

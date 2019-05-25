@@ -1,0 +1,9 @@
+{	 "idArt" : "612",
+	 "placeAut" : [ 
+		{ "place" : "Suresnes",
+		 "country" : "France",
+		 "location" : { "lat" :  48.869798, 
+			 "lon" : 2.2190329999999676 } }
+	 ]
+} 
+ 

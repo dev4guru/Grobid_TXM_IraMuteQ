@@ -1,0 +1,15 @@
+{
+"idArt": "1247",
+"series": "Revue des Nouvelles Technologies de l'Information",
+"booktitle": "EGC",
+"year": "2017",
+"title": "Un Modèle de Factorisation de Poisson pour la Recommandation de Points d'Intérêt",
+"abstract": "L'explosion des volumes de données circulant sur les réseauxsociaux géo-localisés (LBSN) rend possible l'extraction des préférencesdes utilisateurs. En particulier ces préférences peuvent être utilisées pourrecommander à l'utilisateur des points d'intérêt en adéquation avec sonprofil. Aujourd'hui la recommandation de points d'intérêt est devenueune composante essentielle des LBSN. Malheureusement les méthodesde recommandation traditionnelles échouent à s'adapter aux contraintespropres aux LBSN, telles que la sparsité très élevée des données, ouprendre en compte l'influence géographique. Dans ce papier nous pré-sentons un modèle de recommandation basée sur la factorisation de Pois-son qui offre une solution efficace à ces contraintes. Nous avons testénotre modèle via des expérimentations sur un jeu de données réalisteissu du LBSN Foursquare. Ces expériences nous ont permis de démon-trer une meilleure qualité de recommandation que 3 modèles de l'état-de-l'art.",
+"authors": "Jean-Benoît Griesner, Talel Abdesssalem, Hubert Naacke",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1002307",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1002307",
+"metaSession": "Pr�visions�",
+"place": "Grenoble",
+"Latitude": " 45.188588 ",
+"Longitude": "5.724583"
+}

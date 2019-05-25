@@ -1,0 +1,13 @@
+{	 "idArt" : "1034",
+	 "placeAut" : [ 
+		{ "place" : "Jouy-en-Josas",
+		 "country" : "France",
+		 "location" : { "lat" :  48.76454500000001, 
+			 "lon" : 2.169006999999965 } },
+		{ "place" : "Thiverval-Grignon",
+		 "country" : "France",
+		 "location" : { "lat" :  48.849581, 
+			 "lon" : 1.917699999999968 } }
+	 ]
+} 
+ 

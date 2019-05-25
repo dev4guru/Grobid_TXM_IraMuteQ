@@ -1,0 +1,22 @@
+{
+"year": "2004",
+"metaSession": "3",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1001027",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1001027",
+"abstract": "",
+"title": "Classification automatique d'images",
+"placeAut":[{
+"place":"Ecully",
+"country":"France",
+"location":{
+	"lat":"45.774657",
+	"lon":"4.77867"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 45.77722199999999, u'lon': 3.087025}",
+"place": "Clermont-Ferrand",
+"booktitle": "EGC",
+"idArt": "1040",
+"authors": "['Mohamed Hammami','Boulbaba Ben Amor','Liming Chen']"
+}

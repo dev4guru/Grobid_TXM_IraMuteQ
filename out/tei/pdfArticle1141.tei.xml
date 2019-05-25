@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/josuah/Bureau/grobid/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="fr">
+		<encodingDesc>
+			<appInfo>
+				<application version="0.5.5-SNAPSHOT" ident="GROBID" when="2019-04-04T12:42+0000">
+					<ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Génération de contraintes pour le clustering à partir d&apos;une ontologie -Application à la classification d&apos;images satellites</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Hatim</forename><surname>Chahdi</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Nistor</forename><surname>Grozavu</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Isabelle</forename><surname>Mougenot</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Laure</forename><surname>Berti-Equille</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Younès</forename><surname>Bennani</surname></persName>
+						</author>
+						<author>
+							<affiliation key="aff0">
+								<orgName type="laboratory">UMR U228 Espace-Dev</orgName>
+								<orgName type="institution">IRD -Université de Montpellier Maison de la télédétection</orgName>
+								<address>
+									<addrLine>500 Rue J.F. Breton</addrLine>
+									<postCode>34093</postCode>
+									<settlement>Montpellier</settlement>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff1">
+								<orgName type="laboratory">UMR 7030 LIPN, CNRS -Université Paris</orgName>
+								<orgName type="institution">Qatar Computing Research Institute</orgName>
+								<address>
+									<addrLine>13 99, avenue Jean-Baptiste Clément</addrLine>
+									<postCode>93430</postCode>
+									<settlement>Villetaneuse</settlement>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff2">
+								<orgName type="institution">Hamad bin Khalifa University</orgName>
+								<address>
+									<settlement>Doha</settlement>
+									<country key="QA">Qatar</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Génération de contraintes pour le clustering à partir d&apos;une ontologie -Application à la classification d&apos;images satellites</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<abstract>
+				<p>L&apos;utilisation des connaissances a priori peut fortement améliorer la classification non-supervisée. L&apos;injection de ces connaissances sous forme de contraintes sur les données figure parmi les techniques les plus efficaces de la littérature. Cependant, la génération des contraintes est très coûteuse et demande l&apos;intervention de l&apos;expert ; la sémantique apportée par l&apos;étiquetage de l&apos;expert est aussi perdue dans ce type de techniques, seuls les contraintes sont retenues par le clustering. Dans cet article, nous proposons une nouvelle approche hy-bride exploitant le raisonnement à base d&apos;ontologie pour générer automatique-ment des contraintes permettant de guider et améliorer le clustering. L&apos;utilisation d&apos;une ontologie comme connaissance a priori a plusieurs avantages. Elle permet l&apos;interprétation automatisée des connaissances, ajoute de la modularité dans la chaîne de traitement et améliore la qualité du clustering en prenant en compte la vision de l&apos;utilisateur. Pour évaluer notre approche, nous l&apos;avons appliquée à la classification d&apos;images satellites et les résultats obtenus démontrent des amé-liorations notables à la fois au niveau de la qualité du clustering et au niveau de l&apos;étiquetage sémantique des clusters sans intervention de l&apos;expert.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="fr">
+	</text>
+</TEI>

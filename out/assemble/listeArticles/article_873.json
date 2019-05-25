@@ -1,0 +1,14 @@
+{	 "idArt" : "873",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "AEGC",
+	 "year" : "2005",
+	 "place" : "Paris",
+	 "location" : { "lat" :  48.856614, 
+		 "lon" : 2.3522219 }, 
+	 "title" : "Apprentissage automatique des modèles structurels d'objets cartographiques",
+	 "abstract" : "Pour reconnaître les objets cartographiques dans les images satellitales on a besoin d'un modèle d'objet qu'on recherche. Nous avons développé un système d'apprentissage qui construit le modèle structurel d'objets cartographiques automatiquement à partir des images satellitales segmentées. Les images contenants les objets sont décomposées en formes primitives et transformées en Graphes Relationnels Attribués (ARGs). Nous avons généré les modèles d'objets à partir de ces graphes en utilisant des algorithmes d'appariement de graphes. La qualité d'un modèle est évaluée par la distance d'édition des exemples à ce modèle.",
+	 "authors" : ["Güray Erus","Nicolas Loménie"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1000293" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1000293" 
+} 
+ 

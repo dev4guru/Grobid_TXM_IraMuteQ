@@ -1,0 +1,22 @@
+{
+"year": "2008",
+"metaSession": "1",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1000562",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1000562",
+"abstract": "Cet article présente la méthode et le système C3R pour vérifier de façon semi-automatique la conformité d'un projet de construction par rapport à des normes du bâtiment. Les projets de construction sont représentés par des graphes RDF et les normes par des requêtes SPARQL ; le processus de contrôle consiste en l'appariement des requêtes et des graphes. Son efficacité repose sur l'acquisition de connaissances ontologiques et sur un processus d'extraction de connaissances guidé par ce but spécifique de contrôle de conformité qui prend en compte les connaissances ontologiques acquises. Elle repose ensuite sur des méta-connaissances acquises auprès des experts du CSTB qui permettent de guider le contrôle lui-même : les requêtes représentant les normes sont annotées et organisées selon ces annotations. Ces annotations sont également utilisées dans les interactions avec l'utilisateur de C3R pour expliquer les résultats du processus de validation, en particulier en cas d'échec.",
+"title": "Une approche ontologique pour automatiser le contrôle de conformité dans le domaine du bâtiment",
+"placeAut":[{
+"place":"Sophia Antipolis",
+"country":"France",
+"location":{
+	"lat":"43.6163539",
+	"lon":"7.0552218"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 43.6163539, u'lon': 7.0552218}",
+"place": "Sophia Antipolis",
+"booktitle": "EGC ",
+"idArt": "661",
+"authors": "['Anastasiya Yurchyshyna','Catherine Faron-Zucker','Nhan Le Thanh','Celson Lima']"
+}

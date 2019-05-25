@@ -1,0 +1,22 @@
+{
+"year": "2004",
+"metaSession": "1",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1001083",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1001083",
+"abstract": "L'extraction d'information de grands graphes repose le plus souvent sur leur représentation dans des espaces de dimension réduite et on utilise généralement des méthodes factorielles appliquées à des mesures de dissimilarités calculées à partir des matrices associée du graphe ou l'analyse spectrale de leur Laplacien discret. Efficaces pour dégager les structures globales, ces représentations sont parfois peu exploitables dès lors que l'on s'intéresse à une perspective du graphe à partir de certains sommets privilégiés. Or l'information recherchée a souvent un caractère local. Pour représenter le graphe du point de vue d'un ou plusieurs sommets sélectionnés, nous proposons une méthode d'Analyse en Composantes Principales Granulaire consistant à appliquer une A.C.P. filtrée à un tableau de proximités. La visualisation d'un graphe de dictionnaire dont la mesure de proximité est obtenue à partir d'un algorithme original illustre notre propos.",
+"title": "Représentation de graphes par ACP granulaire",
+"placeAut":[{
+"place":"Toulouse",
+"country":"France",
+"location":{
+	"lat":"43.604652",
+	"lon":"1.444209"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 45.77722199999999, u'lon': 3.087025}",
+"place": "Clermont-Ferrand",
+"booktitle": "EGC",
+"idArt": "1090",
+"authors": "['Bruno Gaume','Louis Ferré']"
+}

@@ -1,0 +1,14 @@
+{	 "idArt" : "766",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2007",
+	 "place" : "Namur",
+	 "location" : { "lat" :  50.4673883, 
+		 "lon" : 4.8719854 }, 
+	 "title" : "WebDocEnrich : enrichissement sémantique flexible de documents semi-structurés",
+	 "abstract" : "WebdocEnrich est une approche d'enrichissement sémantique automatique de documents HTML hétérogènes qui exploite une description du domaine pour enrichir le contenu des documents et les représenter en XML.",
+	 "authors" : ["Mouhamadou Thiam","Nacéra Bennacer","Nathalie Pernelle"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1001365" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1001365" 
+} 
+ 

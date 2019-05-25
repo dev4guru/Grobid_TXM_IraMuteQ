@@ -1,0 +1,13 @@
+{	 "idArt" : "750",
+	 "placeAut" : [ 
+		{ "place" : "Lens",
+		 "country" : "France",
+		 "location" : { "lat" :  50.42893000000001, 
+			 "lon" : 2.831829999999968 } },
+		{ "place" : "Yaoundé",
+		 "country" : "Cameroun",
+		 "location" : { "lat" :  3.866666999999999, 
+			 "lon" : 11.516666999999984 } }
+	 ]
+} 
+ 

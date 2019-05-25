@@ -1,0 +1,15 @@
+{
+"idArt": "1145",
+"series": "Revue des Nouvelles Technologies de l'Information",
+"booktitle": "EGC",
+"year": "2016",
+"title": "Khiops: outil d'apprentissage supervisé automatique pour la fouille de grandes bases de données multi-tables",
+"abstract": "Khiops est un outil d'apprentissage supervisé automatique pour lafouille de grandes bases de données multi-tables. L'importance prédictive desvariables est évaluée au moyen de modèles de discrétisation dans le cas numériqueet de groupement de valeurs dans le cas catégoriel. Dans le cas d'unebase multi-tables, par exemple des clients avec leurs achats, une table d'analyseindividus × variables est produite par construction automatique de variables.Le modèle de classification utilisé est un classifieur Bayésien naïf avec sélectionde variables et moyennage de modèles. L'outil est adapté à l'analyse desgrandes bases de données, avec des millions d'individus, des dizaines de milliersde variables et des centaines de millions d'enregistrements dans les tablessecondaires.",
+"authors": "Marc Boullé",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1002208",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1002208",
+"metaSession": "11",
+"place": "Reims",
+"Latitude": " 49.258370 ",
+"Longitude": "4.031737"
+}

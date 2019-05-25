@@ -1,0 +1,13 @@
+{	 "idArt" : "145",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2014",
+	 "place" : "Rennes",
+	 "location" : { "lat" :  48.117266, 
+		 "lon" : -1.6777926 }, 
+	 "title" : "Une heuristique pour le paramétrage automatique de l'algorithme de clustering spectral",
+	 "abstract" : "Trouver le nombre optimal de groupes dans le contexte d'un algorithmede clustering est un problème notoirement difficile. Dans cet article,nous en décrivons et évaluons une solution approchée dans le cas de l'algorithmespectral. Notre méthode présente l'avantage d'être déterministe, et peucoûteuse. Nous montrons qu'elle fonctionne de manière satisfaisante dans beaucoupde cas, même si quelques limites amènent des perspectives à ce travail.",
+	 "authors" : ["Pierrick Bruneau","Olivier Parisot","Philippe Pinheiro"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1001933" 
+} 
+ 

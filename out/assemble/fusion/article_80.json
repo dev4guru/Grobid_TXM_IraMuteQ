@@ -1,0 +1,22 @@
+{
+"year": "2014",
+"metaSession": "6",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1001945",
+"pdfarticle": "",
+"abstract": "Dans cet article, nous proposons un nouveau descripteurspatio-temporel appelé ST-SURF pour l'analyse et la reconnaissance d'actionsdans des flux vidéo. L'idée principale est d'enrichir le descripteur Speed UpRobust Feature (SURF) en intégrant l'information de mouvement issue du flotoptique. Seuls les points d'intérêts qui ont subi un déplacement sont pris encompte pour générer un dictionnaire de mots visuels (DMV) robuste basé surl'algorithme des k-moyennes (K-means). Le dictionnaire est utilisé lors du processusd'apprentissage et de reconnaissance d'actions basé sur la méthode desmachines à vecteurs supports (SVM). Les résultats obtenus confirment l'intérêtdu descripteur proposé ST-SURF pour l'analyse de scènes et en particulierpour la reconnaissance d'actions. La méthode atteind une précision de reconnaissancede l'ordre de 80.7%, équivalente aux performances des descripteursspatio-temporels de l'état de l'art.",
+"title": "Classification des actions humaines basée sur les descripteurs spatio-temporels",
+"placeAut":[{
+"place":"Paris",
+"country":"France",
+"location":{
+	"lat":"48.856614",
+	"lon":"2.3522219"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 48.117266, u'lon': -1.6777926}",
+"place": "Rennes",
+"booktitle": "EGC",
+"idArt": "80",
+"authors": "['Sameh Megrhi','Azeddine Beghdadi','Wided Souidène']"
+}

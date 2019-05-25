@@ -1,0 +1,13 @@
+{	 "idArt" : "73",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2014",
+	 "place" : "Rennes",
+	 "location" : { "lat" :  48.117266, 
+		 "lon" : -1.6777926 }, 
+	 "title" : "Apprentissage de fonctions de tri pour la prédiction d'interactions protéine-ARN",
+	 "abstract" : "Les fonctions biologiques dans la cellule mettent en jeu des interactions3D entre protéines et ARN. Les avancées des techniques exérimentalesrestent insuffisantes pour de nombreuse applications. Il faut alors pouvoir prédirein silico les interactions protéine-ARN. Dans ce contexte, nos travaux sontfocalisés sur la construction de fonctions de score permettant d'ordonner les solutionsgénérées par le programme d'amarrage protéine-ARN RosettaDock. Laméthodologie d'évaluation utilisée par RosettaDock impose de trouver une fonctionde score s'exprimant comme une combinaison linéaire de mesures physicochimiques.Avec une approche d'apprentissage supervisé par algorithme génétique,nous avons appris différentes fonctions de score en imposant descontraintes sur la nature des poids recherchés. Les résultats obtenus montrentl'importance de la signification des poids à apprendre et de l'espace de rechercheassocié.",
+	 "authors" : ["Adrien Guilhot-Gaudeffroy","Jérôme Azé","Julie Bernauer","Christine Froidevaux"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1001960" 
+} 
+ 

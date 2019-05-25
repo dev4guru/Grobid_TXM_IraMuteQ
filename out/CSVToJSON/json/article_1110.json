@@ -1,0 +1,15 @@
+{
+"idArt": "1110",
+"series": "Revue des Nouvelles Technologies de l'Information",
+"booktitle": "EGC",
+"year": "2016",
+"title": "Apprentissage du signal prix de l'électricité. Arbres de régression, séries temporelles et prédictions à long terme",
+"abstract": "Predicting the price of the electricity commodity in the long term is a challenge that currenttechniques do not meet satisfactorily (Karakatsani et Bunn, 2010; Weron, 2014). In this paper,we introduce a new regression tree based model that yields good predictions on a long-termperiod with low computational resources requirements. Our approach is validated by temporalseries collected from an electricity provider.",
+"authors": "Louis-Victor Pasquier, Antoine Cornuéjols, Suzanne Pinson",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1002222",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1002222",
+"metaSession": "11",
+"place": "Reims",
+"Latitude": " 49.258335 ",
+"Longitude": "4.031702"
+}

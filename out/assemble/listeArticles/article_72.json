@@ -1,0 +1,13 @@
+{	 "idArt" : "72",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2014",
+	 "place" : "Rennes",
+	 "location" : { "lat" :  48.117266, 
+		 "lon" : -1.6777926 }, 
+	 "title" : "Application du paradigme MapReduce aux données ouvertes Cas : Accessibilité des personnes à mobilité réduite aux musées",
+	 "abstract" : "Le modèle MapReduce est aujourd'hui l'un des modèles de programmationparallèle les plus utilisés. Définissant une architecture Maître-Esclave,il permet le traitement parallèle de grandes masses de données. Dans ce papier,nous proposons un algorithme basé sur MapReduce qui permet, à partir des donnéespubliques du Ministère Français de la Communication et de la Culture, dedéfinir un classement des galeries et musées nationaux selon leurs degré d'accessibilitéaux personnes handicapées. Tout en profitant de la puissance et de laflexibilité du paradigme MapReduce, les décideurs pourront mettre en place desstratégies efficaces à moindre coût et avoir ainsi une vision plus précise sur lesétablissements culturels et leurs limites relatives à cette catégorie de personnes.L'algorithme que nous proposons peut être exploité et appliqué à d'autres casd'études avec des jeux de données plus volumineux.",
+	 "authors" : ["Billel Arres","Nadia Kabachi","Fadila Bentayeb","Omar Boussaid"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1001963" 
+} 
+ 

@@ -1,0 +1,17 @@
+{	 "idArt" : "881",
+	 "placeAut" : [ 
+		{ "place" : "Villeneuve dAscq",
+		 "country" : "France",
+		 "location" : { "lat" :  50.6232523, 
+			 "lon" : 3.144265099999984 } },
+		{ "place" : "Nanterre",
+		 "country" : "France",
+		 "location" : { "lat" :  48.892423, 
+			 "lon" : 2.215330999999992 } },
+		{ "place" : "Châtenay-Malabry",
+		 "country" : "France",
+		 "location" : { "lat" :  48.771896, 
+			 "lon" : 2.270748000000026 } }
+	 ]
+} 
+ 

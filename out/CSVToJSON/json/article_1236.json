@@ -1,0 +1,15 @@
+{
+"idArt": "1236",
+"series": "Revue des Nouvelles Technologies de l'Information",
+"booktitle": "EGC",
+"year": "2017",
+"title": "Prototype de clustering exploratoire pour l'aide à la segmentation des clients",
+"abstract": "Le clustering est une technique largement répandue pour la définitionde profils dans le cadre de l'aide à la gestion de la relation client (CRM). Cepen-dant, les outils classiques sont généralement limités, car ils ne prennent pas encompte la connaissance métier de l'analyste et ne permettent pas l'explorationinteractive des données. Nous décrivons ici un prototype qui permet à un expertmarketing d'explorer interactivement les données pour la recherche de profilsdes clients, mais aussi d'analyser les profils construits à l'aide de différentesvisualisations synthétiques et d'étudier leurs évolutions au cours du temps.",
+"authors": "Adnan El Moussawi, Philippe De Guis, Arnaud Giacometti, Nicolas Labroche, Arnaud Soulet",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1002323",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1002323",
+"metaSession": "11",
+"place": "Grenoble",
+"Latitude": " 45.188577 ",
+"Longitude": "5.724572"
+}

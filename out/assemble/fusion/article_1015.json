@@ -1,0 +1,22 @@
+{
+"year": "2005",
+"metaSession": "2",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1000209",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1000209",
+"abstract": "La Sélection de Variable (SV) constitue une technique efficace pour réduire la dimension des espaces d'apprentissage et s'avère être une méthode essentielle pour le pré-traitement de données afin de supprimer les variables bruitées et/ou inutiles. Peu de méthodes de SV ont été proposées dans le cadre de l'apprentissage non supervisé, et, la plupart d'entre elles, sont des méthodes dites enveloppes nécessitant l'utilisation d'un algorithme d'apprentissage pour évaluer les sous ensembles de variables. Or, l'approche enveloppe est largement mal adaptée à une utilisation lors de cas réels. En effet, d'une part ces méthodes ne sont pas indépendantes vis à vis des algorithmes d'apprentissage non supervisé qui nécessitent le plus souvent de fixer un certain nombre de paramètres ; mais surtout, il n'existe pas de critères bien adaptés à l'évaluation de la qualité d'apprentissage non supervisé dans des sous espaces différents. Nous proposons et évaluons dans ce papier une méthode filtre et donc indépendante des algorithmes d'apprentissage non supervisé. Cette méthode s'appuie sur deux indices permettant d'évaluer l'adéquation entre deux ensembles de variables (entre deux sous espaces).",
+"title": "Une approche filtre pour la sélection de variables en apprentissage non supervisé",
+"placeAut":[{
+"place":"Bron",
+"country":"France",
+"location":{
+	"lat":"45.733316",
+	"lon":"4.911927"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 48.856614, u'lon': 2.3522219}",
+"place": "Paris",
+"booktitle": "EGC",
+"idArt": "1015",
+"authors": "['Pierre-Emmanuel Jouve','Nicolas Nicoloyannis']"
+}

@@ -1,0 +1,14 @@
+{	 "idArt" : "764",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2007",
+	 "place" : "Namur",
+	 "location" : { "lat" :  50.4673883, 
+		 "lon" : 4.8719854 }, 
+	 "title" : "Visualisation de graphes avec Tulip : exploration interactive de grandes masses de données en appui à la fouille de données et à l'extraction de connaissances",
+	 "abstract" : "Cet article décrit une étude de cas exhibant les qualités de la plateforme de visualisation de graphes Tulip, démontrant l'apport de la visualisation à la fouille de données interactive et à l'extraction de connaissances. Le calcul d'un graphe à partir d'indices de similarité est un exemple typique où l'exploration visuelle et interactive de graphes vient en appui au travail de fouille de données. Nous penchons sur le cas où l'on souhaite étudier une collection de documents afin d'avoir une idée des thématiques abordées dans la collection.",
+	 "authors" : ["David Auber","Yves Chiricota","Maylis Delest","Jean-Philippe Domenger","Patrick Mary","Guy Melançon"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1001330" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1001330" 
+} 
+ 

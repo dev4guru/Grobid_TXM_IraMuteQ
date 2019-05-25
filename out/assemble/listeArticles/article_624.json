@@ -1,0 +1,14 @@
+{	 "idArt" : "624",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC ",
+	 "year" : "2008",
+	 "place" : "Sophia Antipolis",
+	 "location" : { "lat" :  43.6163539, 
+		 "lon" : 7.0552218 }, 
+	 "title" : "Mesures hiérarchiques pondérées pour l'évaluation d'un système semi-automatique d'annotation de génomes utilisant des arbres de décision",
+	 "abstract" : "L'annotation d'une protéine consiste, entre autres, à lui attribuer une classe dans une hiérarchie fonctionnelle. Celle-ci permet d'organiser les connaissances biologiques et d'utiliser un vocabulaire contrôlé. Pour estimer la pertinence des annotations, des mesures telles que la précision, le rappel, la spécificité et le Fscore sont utilisées. Cependant ces mesures ne sont pas toujours bien adaptées à l'évaluation de données hiérarchiques, car elles ne permettent pas de distinguer les erreurs faites aux différents niveaux de la hiérarchie. Nous proposons ici une représentation formelle pour les différents types d'erreurs adaptés à notre problème.",
+	 "authors" : ["Lucie Gentils","Jérôme Azé","Claire Toffano-Nioche","Valentin Loux","Anne Poupon","Jean-François Gibrat","Christine Froidevaux"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1000565" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1000565" 
+} 
+ 

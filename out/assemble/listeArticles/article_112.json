@@ -1,0 +1,13 @@
+{	 "idArt" : "112",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2014",
+	 "place" : "Rennes",
+	 "location" : { "lat" :  48.117266, 
+		 "lon" : -1.6777926 }, 
+	 "title" : "Identification de rôles communautaires dans des réseaux orientés appliquée à Twitter",
+	 "abstract" : "La notion de structure de communautés est particulièrement utile pourétudier les réseaux complexes, car elle amène un niveau d'analyse intermédiaire,par opposition aux plus classiques niveaux local (voisinage des noeuds) et global(réseau entier). Le concept de rôle communautaire permet de décrire le positionnementd'un noeud en fonction de sa connectivité communautaire. Cependant,les approches existantes sont restreintes aux réseaux non-orientés, utilisentdes mesures topologiques ne considérant pas tous les aspects de la connectivitécommunautaire, et des méthodes d'identification des rôles non-généralisables àtous les réseaux. Nous proposons de résoudre ces problèmes en généralisant lesmesures existantes, et en utilisant une méthode non-supervisée pour déterminerles rôles. Nous illustrons l'intérêt de notre méthode en l'appliquant au réseaude Twitter. Nous montrons que nos modifications mettent en évidence les rôlesspécifiques d'utilisateurs particuliers du réseau, nommés capitalistes sociaux.",
+	 "authors" : ["Nicolas Dugué","Vincent Labatut","Anthony Perez"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1001921" 
+} 
+ 

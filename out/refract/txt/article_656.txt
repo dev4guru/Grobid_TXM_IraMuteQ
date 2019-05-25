@@ -1,0 +1,1 @@
+Nous proposons dans ce papier un nouveau système immunitaire artificiel (SIA) appelé système NK, pour la détection de comportement du soi non soi avec une approche non supervisée basée sur le mécanisme de cellule NK (Naturel Killer). Dans ce papier, le système NK est appliqué à la détection de fraude en téléphonie mobile.

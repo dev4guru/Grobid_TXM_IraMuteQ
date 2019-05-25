@@ -1,0 +1,22 @@
+{
+"year": "2008",
+"metaSession": "0",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1000595",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1000595",
+"abstract": "L'analyse de risques est un processus visant à décrire les scénarios conduisant à des phénomènes dangereux et à des accidents potentiels sur une installation industrielle. Pour réaliser une analyse de risques, un expert dispose de nombreuses ressources : rapports, études de dangers, bases d'accidents, etc. Ces ressources sont cependant souvent difficiles à exploiter parce qu'elles ne sont pas suffisamment structurées ni formalisées. Dans le cadre du projet KMGR (Knowledge Management pour la Gestion des Risques), mené en partenariat avec l'Institut National de l'Environnement industriel et des RISques (INERIS), nous proposons de traiter ce problème en développant un système de recherche d'information basé sur des ontologies, et de le compléter par un système de raisonnement à partir de cas (RàPC) pour tenir compte des expériences passées.",
+"title": "Ontologies et raisonnement à partir de cas : Application à l'analyse des risques industriels",
+"placeAut":[{
+"place":"Compiègne",
+"country":"France",
+"location":{
+	"lat":"49.417816",
+	"lon":"2.826145"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 43.6163539, u'lon': 7.0552218}",
+"place": "Sophia Antipolis",
+"booktitle": "EGC ",
+"idArt": "630",
+"authors": "['Amjad Abou Assali','Dominique Lenne','Bruno Debray']"
+}

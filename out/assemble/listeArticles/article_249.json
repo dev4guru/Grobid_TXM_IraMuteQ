@@ -1,0 +1,14 @@
+{	 "idArt" : "249",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2012",
+	 "place" : "Bordeaux",
+	 "location" : { "lat" :  44.837789, 
+		 "lon" : -0.57918 }, 
+	 "title" : "PLS path modeling and regularized generalized canonical correlation analysis for multi-block data analysis",
+	 "abstract" : "Regularized generalized canonical correlation analysis (RGCCA) is a generalization of regularizedcanonical correlation analysis to three or more sets of variables. It constitutes a generalframework for many multi-block data analysis methods. It combines the power of multi-blockdata analysis methods (maximization of well identified criteria) and the flexibility of PLS pathmodeling (the researcher decides which blocks are connected and which are not). Searchingfor a fixed point of the stationary equations related to RGCCA, a new monotone convergentalgorithm, very similar to the PLS algorithm proposed by Herman Wold, is obtained. Finally,a practical example is discussed.",
+	 "authors" : ["Michel Tenenhaus"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1001133" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1001133" 
+} 
+ 

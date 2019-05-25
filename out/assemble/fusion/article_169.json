@@ -1,0 +1,22 @@
+{
+"year": "2013",
+"metaSession": "8",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1001848",
+"pdfarticle": "",
+"abstract": "In this paper, we tackle the problem of detecting academic plagiarism, which is considered as a severe problem owing to the convenience of online publishing. Typical information retrieval methods, stopword-based methods and ngerprinting methods, are commonly used to detect plagiarism by using the sequence of words as they appear in the article. As such, they fail to detect plagiarism when an author reconstructs a source article by re-ordering and recombining phrases. Because graph structure fits for representing relationships between entities, we propose a novel plagiarism detection method, in which we use graphs to represent documents by modeling grammatical relationships between words. Experimental results show that our proposed method outperforms two n-gram methods and increases recall values by 10 to 20%.",
+"title": "Detecting Academic Plagiarism with Graphs",
+"placeAut":[{
+"place":"Fukuoka",
+"country":"Japan",
+"location":{
+	"lat":"33.5903547",
+	"lon":"130.4017155"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 43.604652, u'lon': 1.444209}",
+"place": "Toulouse",
+"booktitle": "EGC",
+"idArt": "169",
+"authors": "['Bin-Hui Chou','Einoshin Suzuki']"
+}

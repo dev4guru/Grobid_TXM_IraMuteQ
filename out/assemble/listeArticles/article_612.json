@@ -1,0 +1,14 @@
+{	 "idArt" : "612",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC ",
+	 "year" : "2008",
+	 "place" : "Sophia Antipolis",
+	 "location" : { "lat" :  43.6163539, 
+		 "lon" : 7.0552218 }, 
+	 "title" : "Industrialiser le data mining : enjeux et perspectives",
+	 "abstract" : "L'informatique décisionnelle est un secteur en forte croissance dans toutes les entreprises. Les techniques classiques (reporting simple & Olap), qui s'intéressent essentiellement à présenter les données, sont aujourd'hui très largement déployées. Le data mining commence à se répandre, apportant des capacités de prévision à forte valeur ajoutée pour les entreprises les plus compétitives. Ce développement est rendu possible par la disponibilité croissante de masses de données importantes et la puissance de calcul dorénavant disponible. Cependant, la mise en IJuvre industrielle des projets de data mining pose des contraintes tant théoriques (quels algorithmes utiliser pour produire des modèles d'analyses exploitant des milliers de variables pour des millions d'exemples) qu'opérationnelles (comment mettre en production et contrôler le bon fonctionnement de centaines de modèles). Je présenterai ces contraintes issues des besoins des entreprises ; je montrerai comment exploiter des résultats théoriques (provenant des travaux de Vladimir Vapnik) pour produire des modèles robustes ; je donnerai des exemples d'applications réelles en gestion de la relation client et en analyse de qualité. Je conclurai en présentant quelques perspectives (utilisation du texte et des réseaux sociaux).",
+	 "authors" : ["Françoise Fogelman-Soulié"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1000548" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1000548" 
+} 
+ 

@@ -1,0 +1,14 @@
+{	 "idArt" : "507",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2009",
+	 "place" : "Strasbourg",
+	 "location" : { "lat" :  48.5734053, 
+		 "lon" : 7.752111299999999 }, 
+	 "title" : "Classification des Images de Télédétection avec ENVI FX",
+	 "abstract" : "D'importants volumes d'images satellites et aériennes de tout type(panchromatiques, multispectrales, hyperspectrales) sont généréesquotidiennement, et leur classification par des méthodes semi-automatiquesdevient nécessaire. Le logiciel ENVI Feature eXtractionTM (ENVI FXTM) sebase sur une approche « objet » -par opposition à une approche pixelsclassique- et sur des algorithmes innovants, pour la segmentation et laclassification des images de télédétection avec un haut niveau de précision.",
+	 "authors" : ["Franck Le Gall","Damien Barache","Ahmed Belaidi"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1000813" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1000813" 
+} 
+ 

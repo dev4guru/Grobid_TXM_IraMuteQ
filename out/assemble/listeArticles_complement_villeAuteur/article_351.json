@@ -1,0 +1,9 @@
+{	 "idArt" : "351",
+	 "placeAut" : [ 
+		{ "place" : "Porto",
+		 "country" : "Portugal",
+		 "location" : { "lat" :  41.1579438, 
+			 "lon" : -8.629105299999992 } }
+	 ]
+} 
+ 

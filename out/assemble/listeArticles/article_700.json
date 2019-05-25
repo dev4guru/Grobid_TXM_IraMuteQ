@@ -1,0 +1,14 @@
+{	 "idArt" : "700",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2007",
+	 "place" : "Namur",
+	 "location" : { "lat" :  50.4673883, 
+		 "lon" : 4.8719854 }, 
+	 "title" : "Des fonctions d'oubli intelligentes dans les entrepôts de données",
+	 "abstract" : "Les entrepôts de données stockent des quantités de données de plus en plus massives et arrivent vite à saturation. Un langage de spécifications de fonctions d'oubli est défini pour résoudre ce problème. Dans le but d'offrir la possibilité d'effectuer des analyses sur l'historique des données, les spécifications définissent des résumés par agrégation et par échantillonnage à conserver parmi les données à oublier. Cette communication présente le langage de spécifications ainsi que les principes et les algorithmes pour assurer de façon mécanique la gestion des fonctions d'oubli.",
+	 "authors" : ["Aliou Boly","Sabine Goutier","Georges Hébrail"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1001380" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1001380" 
+} 
+ 

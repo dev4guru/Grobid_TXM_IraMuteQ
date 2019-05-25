@@ -1,0 +1,15 @@
+{
+"idArt": "1310",
+"series": "Revue des Nouvelles Technologies de l'Information",
+"booktitle": "EGC",
+"year": "2018",
+"title": "PerForecast : un outil de prévision de l'évolution de séries temporelles pour le planning capacitaire",
+"abstract": "Nous présentons PerForecast, un outil qui vise à automatiser le processusde planning capacitaire en utilisant des données temporelles univariéeset des modèles prédictifs configurés automatiquement. L'objectif est d'anticiperles problèmes de dimensionnement dans les infrastructures d'Orange quiassurent la délivrance d'un service aux clients. Il s'agira par exemple de prévoirau plus « tôt » la surcharge d'un serveur, afin de commander en avance de nouvellesmachines (avant la détérioration du service considéré). Les démarches dedimensionnent et d'achat étant longues et coûteuses, plus elles sont effectuéestôt, meilleure sera la qualité de service.",
+"authors": "Colin Leverger, Régis Marguerie, Vincent Lemaire, Thomas Guyet, Simon Malinowski",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1002424",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1002424",
+"metaSession": "11",
+"place": "Paris",
+"Latitude": " 48.8584 ",
+"Longitude": "2.3538"
+}

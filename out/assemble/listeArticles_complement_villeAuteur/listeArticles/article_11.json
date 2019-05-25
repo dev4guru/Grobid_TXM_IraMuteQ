@@ -1,0 +1,13 @@
+{	 "idArt" : "11",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2015",
+	 "place" : "Luxembourg",
+	 "location" : { "lat" :  49.815273, 
+		 "lon" : 6.129582999999999 }, 
+	 "title" : "Challenges and Opportunities in HCI, Visual Analytics and Knowledge Management for the development of Sustainable Cities",
+	 "abstract" : "While overtly exposed in the media, the challenges faced by our societies to transition towards sustainable energy use are quite formidable. A simple visual refresher of the cold hard facts should amply reveal the importance of visualization to assess the situation. Private companies, such as IBM, and public research centers are joining forces and investing to design and evaluate novel approaches to build and manage Cities, defined as the rational organisation of dense human habitat. Information and Communication technologies are certainly part of the answers, in particular in areas related to knowledge management, data mining, HCI and social computing. Illustrated with telltaling examples of research work carried at IBM, the CSTB and the Efficacity Institute, I will argue that Interactive Information Technologies can help managing the energy transition of cities in 3 key aspects:   -- to support the city design process, notably computer supported tooling and information infrastructure that help taming the complexity of the intertwinning actors and interests at play,   -- to help understand better the city's dynamics, identifiy inefficiencies and reveal optimization opportunities, where knowledge management and extraction is crucial,   -- and foremost, to ease the necessary changes that will have to happen in our mobility and housing habits with novel tools and services that alleviate our energy needs.",
+	 "authors" : ["Thomas Baudel"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1002058" 
+} 
+ 

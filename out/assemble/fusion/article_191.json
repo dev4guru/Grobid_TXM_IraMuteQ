@@ -1,0 +1,22 @@
+{
+"year": "2013",
+"metaSession": "1",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1001858",
+"pdfarticle": "",
+"abstract": "Nous décrivons la deuxième phase de réalisation d'un système d'intégration qui minimise l'intervention humaine habituellement nécessaire. Après la phase de construction semi-automatique du schéma (ontologie) global décrite dans de précédents articles, nous présentons ici le processus de ré-écriture de requêtes globales en des requêtes adressées aux sources.",
+"title": "Ré-écriture de requêtes dans un système d'intégration sémantique",
+"placeAut":[{
+"place":"Blois",
+"country":"France",
+"location":{
+	"lat":"47.5860921",
+	"lon":"1.3359475"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 43.604652, u'lon': 1.444209}",
+"place": "Toulouse",
+"booktitle": "EGC",
+"idArt": "191",
+"authors": "['Cheikh Niang','Béatrice Bouchou','Moussa Lo','Yacine Sam']"
+}

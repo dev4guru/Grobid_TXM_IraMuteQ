@@ -1,0 +1,22 @@
+{
+"year": "2011",
+"metaSession": "8",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1000998",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1000998",
+"abstract": "La fouille de données relationnelles considère des données contenues dans au moins deux tables reliées par une association un-à-plusieurs, par exemple des clients et leurs achats, ou des molécules et leurs atomes. Une façon de fouiller ces données consiste à transformer les données en une seule table attribut-valeur. Cette transformation est appelée propositionalisation. Les approches existantes gèrent principalement les attributs catégoriels. Une première solution est donc de discrétiser les attributs numériques pour les transformer en attributs catégoriels. Les approches alternatives, qui gèrent les attributs numériques, consistent à les agréger. Nous proposons une approche duale de la discrétisation, qui inverse l'ordre de traitement du nombre d'objets et du seuil, et dont la discrétisation généralise les quartiles. Nous pouvons ainsi construire des attributs que les approches existantes de propositionalisation ne peuvent pas construire, et qui ne peuvent pas non plus être obtenus par les systèmes complets de fouille de données.",
+"title": "Propositionaliser des attributs numériques sans les discrétiser, ni les agréger",
+"placeAut":[{
+"place":"Illkirch",
+"country":"France",
+"location":{
+	"lat":"48.52854",
+	"lon":"7.711011"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 48.390394, u'lon': -4.486076}",
+"place": "Brest",
+"booktitle": "EGC",
+"idArt": "350",
+"authors": "['Agnès Braud','Nicolas Lachiche']"
+}

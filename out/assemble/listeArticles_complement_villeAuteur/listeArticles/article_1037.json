@@ -1,0 +1,14 @@
+{	 "idArt" : "1037",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2004",
+	 "place" : "Clermont-Ferrand",
+	 "location" : { "lat" :  45.77722199999999, 
+		 "lon" : 3.087025 }, 
+	 "title" : "Caractérisation globale de l'exécution de jobs",
+	 "abstract" : "La caractérisation globale de l'exécution de jobs passe par l'exploitation de mesures recueillies sur les machines en production. Afin de répondre à la problématique, il est nécessaire de tenir compte des différents types de données, ainsi que de la dualité de la caractérisation : statique et dynamique. Une solution technique répondant aux contraintes est proposée. Elle repose sur l'utilisation de SVM afin de détecter des phases, et à un niveau supérieur, à un réseau bayésien afin d'automatiser l'analyse de modèles de Markov enrichis. Ceux-ci sont introduits comme la base formelle et synthétique de description du comportement du job, aussi bien sur un système batch, que parallèle. Enfin, les résultats obtenus à l'aide d'un prototype sont discutés.",
+	 "authors" : ["Fabrice Gadaud","Guillaume Duquesnay"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1001161" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1001161" 
+} 
+ 

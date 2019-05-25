@@ -1,0 +1,9 @@
+{	 "idArt" : "973",
+	 "placeAut" : [ 
+		{ "place" : "Mont-Saint-Aignan",
+		 "country" : "France",
+		 "location" : { "lat" :  49.459778, 
+			 "lon" : 1.0797979999999825 } }
+	 ]
+} 
+ 

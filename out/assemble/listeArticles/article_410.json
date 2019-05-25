@@ -1,0 +1,14 @@
+{	 "idArt" : "410",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2010",
+	 "place" : "Hammamet",
+	 "location" : { "lat" :  36.4, 
+		 "lon" : 10.616667 }, 
+	 "title" : "Construction de noyaux pour l'apprentissage supervisé à partir d'arbres aléatoires",
+	 "abstract" : "Nous montrons qu'un ensemble d'arbres de décision avec une composantealéatoire permet de construire un noyau efficace destiné à l'apprentissagesupervisé. Nous étudions théoriquement les propriétés d'un tel noyau et montronsque sous des conditions très souvent rencontrées en pratique, il existe uneséparabilité linéaire entre exemples de classes distinctes dans l'espace induit parcelui-ci. Parallèlement, nous observons également que le classique vote à la majoritéd'un ensemble d'arbres est un hyperplan (sans garantie d'optimalité) dansl'espace induit par le noyau. Enfin, comme le montrent nos expérimentations,l'utilisation conjointe d'un ensemble d'arbres et d'un séparateur à vaste marge(SVM) aboutit à des résultats extrêmement encourageants.",
+	 "authors" : ["Vincent Pisetta","Pierre-Emmanuel Jouve","Djamel Abdelkader Zighed"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1001351" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1001351" 
+} 
+ 

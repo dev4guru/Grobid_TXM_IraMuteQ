@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/josuah/Bureau/grobid/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="fr">
+		<encodingDesc>
+			<appInfo>
+				<application version="0.5.5-SNAPSHOT" ident="GROBID" when="2019-04-04T12:42+0000">
+					<ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Relaxation des Requêtes Skyline : Une Approche Centrée Utilisateur</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Djamal</forename><surname>Belkasmi</surname></persName>
+							<email>djamal.belkasmi@ensma.fr</email>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">DIF-FS UMBB Boumerdes</orgName>
+								<orgName type="department" key="dep2">LRIA/USTHB</orgName>
+								<orgName type="institution">LIAS-ENSMA</orgName>
+								<address>
+									<settlement>Poitiers, Alger</settlement>
+									<country>Algérie, France, Algérie</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Allel</forename><surname>Hadjali</surname></persName>
+							<email>allel.hadjali@ensma.fr</email>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">DIF-FS UMBB Boumerdes</orgName>
+								<orgName type="department" key="dep2">LRIA/USTHB</orgName>
+								<orgName type="institution">LIAS-ENSMA</orgName>
+								<address>
+									<settlement>Poitiers, Alger</settlement>
+									<country>Algérie, France, Algérie</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Hamid</forename><surname>Azzoune</surname></persName>
+							<email>azzoune@yahoo.fr</email>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">DIF-FS UMBB Boumerdes</orgName>
+								<orgName type="department" key="dep2">LRIA/USTHB</orgName>
+								<orgName type="institution">LIAS-ENSMA</orgName>
+								<address>
+									<settlement>Poitiers, Alger</settlement>
+									<country>Algérie, France, Algérie</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Relaxation des Requêtes Skyline : Une Approche Centrée Utilisateur</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<abstract>
+				<p>Les requêtes skyline constituent un outil puissant pour l&apos;analyse de données multidimensionnelles et la décision multicritère. En pratique, le calcul du skyline peut conduire à deux scénarios : soit (i) un nombre important d&apos;objets sont retournés, soit (ii) un nombre réduit d&apos;objets sont retournés, ce qui peut être insuffisant pour la prise de décisions. Dans cet article, nous abordons le second problème et proposons une approche permettant de le traiter. L&apos;idée consiste à rendre le skyline plus permissive en lui ajoutant les objets, non skyline, les plus préférés. L&apos;approche s&apos;appuie sur une nouvelle relation de dominance floue ap-pelée «Much Preferred». Un algorithme efficace pour calculer le skyline relaxé est proposé. Une série d&apos;expériences sont menées pour démontrer la pertinence de l&apos;approche et la performance de l&apos;algorithme proposé.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="fr">
+	</text>
+</TEI>

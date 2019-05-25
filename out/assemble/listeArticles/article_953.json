@@ -1,0 +1,14 @@
+{	 "idArt" : "953",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2005",
+	 "place" : "Paris",
+	 "location" : { "lat" :  48.856614, 
+		 "lon" : 2.3522219 }, 
+	 "title" : "Classifying XML Materialized Views for their maintenance on distributed Web sources",
+	 "abstract" : "Ces dernières années ont mis en évidence la croissance et la diversité des informations électroniques accessibles sur le web. C'est ainsi que les systèmes d'intégration de données tels que des médiateurs ont été conçus pour intégrer ces données distribuées et hétérogènes dans une vue uniforme. Pour faciliter l'intégration des données à travers différents systèmes, XML a été adopté comme format standard pour échanger des informations. XQuery est un langage d'intégration des données à travers différents systèmes, XML a été adopté comme format standard pour échanger des informations. XQuery est un langage d'interrogation pour XML qui s'est imposé pour les systèmes basés sur XML. Ainsi XQuery est employé sur des systèmes de médiation pour concevoir des vues définies sur plusieurs sources. Pour optimiser l'évaluation de requêtes, les vues sont matérialisées lors de la mise à jour des sources, car dans le contexte de sources web, très peu d'informations sont fournies par les sources. Les méthodes habituellement proposées ne peuvent pas être appliquées. Cet article étudie comment mettre à jour des vues matérialisées XML sur des sources web, au sein d'une architecture de médiation.",
+	 "authors" : ["Tuyet-Tram Dang-Ngoc","Virginie Sans","Dominique Laurent"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1000331" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1000331" 
+} 
+ 

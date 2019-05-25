@@ -1,0 +1,13 @@
+{	 "idArt" : "219",
+	 "placeAut" : [ 
+		{ "place" : "Villetaneuse",
+		 "country" : "France",
+		 "location" : { "lat" :  48.963476, 
+			 "lon" : 2.3473539999999957 } },
+		{ "place" : "Bry-sur-Marne",
+		 "country" : "France",
+		 "location" : { "lat" :  48.834913, 
+			 "lon" : 2.523648900000012 } }
+	 ]
+} 
+ 

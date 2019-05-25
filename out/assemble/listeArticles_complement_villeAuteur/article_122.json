@@ -1,0 +1,9 @@
+{	 "idArt" : "122",
+	 "placeAut" : [ 
+		{ "place" : "Tel-Aviv",
+		 "country" : "Israël",
+		 "location" : { "lat" :  32.0852999, 
+			 "lon" : 34.78176759999997 } }
+	 ]
+} 
+ 

@@ -1,0 +1,9 @@
+{	 "idArt" : "782",
+	 "placeAut" : [ 
+		{ "place" : "Metz",
+		 "country" : "France",
+		 "location" : { "lat" :  49.1193089, 
+			 "lon" : 6.1757155999999895 } }
+	 ]
+} 
+ 

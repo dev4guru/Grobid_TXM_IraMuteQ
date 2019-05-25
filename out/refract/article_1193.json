@@ -1,0 +1,15 @@
+{
+"idArt": "1193",
+"series": "Revue des Nouvelles Technologies de l'Information",
+"booktitle": "EGC",
+"year": "2017",
+"title": "Application mobile pour l'évaluation d'un algorithme de calcul de distance entre des items musicaux",
+"abstract": "Les systèmes de recommandation permettent de présenter à un utilisa-teur des éléments susceptibles de l'intéresser. La mise en place de tels systèmesdans les domaines culturels soulève souvent le questionnement de la place de ladiversité, de la nouveauté, et surtout de la découverte. Nous pensons que l'êtrehumain, bien qu'ayant ordinairement une tendance à se placer dans une zonede confort correspondant à ce qu'il connaît, apprécie occasionnellement d'êtrepoussé à des explorations le faisant sortir de sa routine. Nous avons développédans cette optique une méthode, basée sur la dissimilarité, qui élargit les centresd'intérêt des utilisateurs. Nous avons réussi à délimiter une zone intermédiaireentre des items « trop similaires » et des items « trop différents ». Afin de vali-der cette hypothèse, nous avons développé une application qui permet de testeret de valider cette méthode. Dans cet article de démonstration, nous expliquonsle concept de « zone intermédiaire », nous détaillons le fonctionnement de l'ap-plication, puis nous présentons les résultats obtenus à partir des tests effectués.",
+"authors": "Pierre-René Lhérisson, Fabrice Muhlenbach, Pierre Maret",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1002324",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1002324",
+"metaSession": "11",
+"place": "Grenoble",
+"Latitude": " 45.188534 ",
+"Longitude": "5.724529"
+}

@@ -1,0 +1,22 @@
+{
+"year": "2007",
+"metaSession": "8",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1001417",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1001417",
+"abstract": "Cet article montre l'intérêt de combiner des méthodes numériques et symboliques pour obtenir une annotation sémantique des images IRM du cerveau humain. Il s'agit d'identifier des structures anatomiques du cortex cérébral humain, en utilisant conjointement des connaissances a priori de nature numérique et une ontologie des structures corticales du cerveau représentée en OWL DL, étendue par des règles SWRL. Ces connaissances symboliques a priori représentées dans des langages standards du Web deviennent non seulement partageables mais permettent aussi un raisonnement automatique qui aide l'utilisateur à la labellisation des structures anatomiques mises en évidence dans des images IRM du cerveau d'un individu donné.",
+"title": "Vers un système hybride pour l'annotation sémantique d'images IRM du cerveau",
+"placeAut":[{
+"place":"Rennes",
+"country":"France",
+"location":{
+	"lat":"48.117266",
+	"lon":"-1.6777926"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 50.4673883, u'lon': 4.8719854}",
+"place": "Namur",
+"booktitle": "EGC",
+"idArt": "760",
+"authors": "['Ammar Mechouche','Christine Golbreich','Bernard Gibaud']"
+}

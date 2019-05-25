@@ -1,0 +1,22 @@
+{
+"year": "2009",
+"metaSession": "0",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1000808",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1000808",
+"abstract": "Structures heterogeneity in Web resources is a constant concern inelement retrieval (i.e. tag retrieval in semi-structured documents). In this paperwe present the SHIRI 1 querying approach which allows to reach more or lessstructured document parts without an a priori knowledge on their structuring.",
+"title": "Aggregative and Neighboring Approximations to Query Semi-Structured Documents",
+"placeAut":[{
+"place":"Orsay",
+"country":"France",
+"location":{
+	"lat":"48.697161",
+	"lon":"2.189617"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 48.5734053, u'lon': 7.752111299999999}",
+"place": "Strasbourg",
+"booktitle": "EGC",
+"idArt": "495",
+"authors": "['Yassine Mrabet','Nathalie Pernelle','Nacéra Bennacer','Mouhamadou Thiam']"
+}

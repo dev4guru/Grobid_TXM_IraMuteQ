@@ -1,0 +1,15 @@
+{
+"idArt": "1114",
+"series": "Revue des Nouvelles Technologies de l'Information",
+"booktitle": "EGC",
+"year": "2016",
+"title": "Caractérisation d'instances d'apprentissage pour un méta-mining évolutionnaire",
+"abstract": "Machine learning has proven to be a powerful tool in diverse fields, and is getting moreand more widely used by non-experts. One of the foremost difficulties they encounter liesin the choice and calibration of the machine learning algorithm to use. Our objective is thusto provide assistance in the matter, using a meta-learning approach based on an evolutionaryheuristic. We introduce here this approach as a potential solution to the limitation of currentdata characterization.",
+"authors": "William Raynaut, Chantal Soulé-Dupuy, Nathalie Vallès-Parlangeau, Cédric Dray, Philippe Valet",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1002221",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1002221",
+"metaSession": "11",
+"place": "Reims",
+"Latitude": " 49.258339 ",
+"Longitude": "4.031706"
+}

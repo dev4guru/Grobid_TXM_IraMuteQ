@@ -1,0 +1,9 @@
+{	 "idArt" : "809",
+	 "placeAut" : [ 
+		{ "place" : "Saint Etienne du Rouvray",
+		 "country" : "France",
+		 "location" : { "lat" :  49.380305, 
+			 "lon" : 1.108208999999988 } }
+	 ]
+} 
+ 

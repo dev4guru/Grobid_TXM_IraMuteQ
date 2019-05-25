@@ -1,0 +1,13 @@
+{	 "idArt" : "766",
+	 "placeAut" : [ 
+		{ "place" : "Gif-sur-Yvette",
+		 "country" : "France",
+		 "location" : { "lat" :  48.701844, 
+			 "lon" : 2.134078000000045 } },
+		{ "place" : "Orsay",
+		 "country" : "France",
+		 "location" : { "lat" :  48.697161, 
+			 "lon" : 2.1896169999999984 } }
+	 ]
+} 
+ 

@@ -1,0 +1,17 @@
+{	 "idArt" : "660",
+	 "placeAut" : [ 
+		{ "place" : "Bron",
+		 "country" : "France",
+		 "location" : { "lat" :  45.73331599999999, 
+			 "lon" : 4.9119269999999915 } },
+		{ "place" : "Chatenay-Malabry",
+		 "country" : "France",
+		 "location" : { "lat" :  48.771896, 
+			 "lon" : 2.270748000000026 } },
+		{ "place" : "Rennes",
+		 "country" : "France",
+		 "location" : { "lat" :  48.117266, 
+			 "lon" : -1.6777925999999752 } }
+	 ]
+} 
+ 

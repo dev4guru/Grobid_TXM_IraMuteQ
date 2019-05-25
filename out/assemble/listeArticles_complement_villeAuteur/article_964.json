@@ -1,0 +1,13 @@
+{	 "idArt" : "964",
+	 "placeAut" : [ 
+		{ "place" : "Paris",
+		 "country" : "France",
+		 "location" : { "lat" :  48.856614, 
+			 "lon" : 2.3522219000000177 } },
+		{ "place" : "Villeneuve d'Ascq",
+		 "country" : "France",
+		 "location" : { "lat" :  50.6232523, 
+			 "lon" : 3.144265099999984 } }
+	 ]
+} 
+ 

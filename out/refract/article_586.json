@@ -1,0 +1,22 @@
+{
+"year": "2008",
+"metaSession": "4",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1000665",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1000665",
+"abstract": "Dans de nombreuses applications, une co-classification est plus facile à interpréter qu'une classification mono-dimensionnelle. Il s'agit de calculer une bi-partition ou collection de co-clusters : chaque co-cluster est un groupe d'objets associé à un groupe d'attributs et les interprétations peuvent s'appuyer naturellement sur ces associations. Pour exploiter la connaissance du domaine et ainsi améliorer la pertinence des partitions, plusieurs méthodes de classification sous contraintes ont été proposées pour le cas mono-dimensionnel, e.g., l'exploitation de contraintes must-link et cannot-link. Nous considérons ici la co-classification sous contraintes avec la gestion de telles contraintes étendues aux dimensions des objets et des attributs, mais aussi l'expression de contraintes de contiguité dans le cas de domaines ordonnés. Nous proposons un algorithme itératif qui minimise la somme des résidus quadratiques et permet l'exploitation active des contraintes spécifiées par les analystes. Nous montrons la valeur ajoutée de ce type d'extraction sur deux applications en analyse du transcriptome.",
+"title": "Co-classification sous contraintes par la somme des résidus quadratiques",
+"placeAut":[{
+"place":"Pisa",
+"country":"Italy",
+"location":{
+	"lat":"43.7228386",
+	"lon":"10.4016888"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 43.6163539, u'lon': 7.0552218}",
+"place": "Sophia Antipolis",
+"booktitle": "EGC ",
+"idArt": "586",
+"authors": "['Ruggero G. Pensa','Jean-François Boulicaut']"
+}

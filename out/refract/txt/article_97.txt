@@ -1,0 +1,1 @@
+Twitter est à l'heure actuelle un des réseau sociaux les plus utilisé aumonde et analyser les opinions qui y sont contenues permet de fournir de précieusesinformations notamment aux entreprises commerciales. Dans cet article,nous décrivons une méthode permettant de déterminer l'opinion d'un tweet endétectant dans un premier temps sa subjectivité, puis sa polarité.

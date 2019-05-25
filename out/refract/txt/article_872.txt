@@ -1,0 +1,1 @@
+Dans cet article nous présentons une application des courbes de Peano pour la caractérisation de régions par leur texture et l'établissement d'inter-relations spatiales à des fins de CBIR. Les résultats obtenus sont comparables à ceux d'un humain sur une base de 330 images aériennes.

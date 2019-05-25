@@ -1,0 +1,9 @@
+{	 "idArt" : "52",
+	 "placeAut" : [ 
+		{ "place" : "Montigny-le-Bretonneux",
+		 "country" : "France",
+		 "location" : { "lat" :  48.7738734, 
+			 "lon" : 2.036015700000007 } }
+	 ]
+} 
+ 

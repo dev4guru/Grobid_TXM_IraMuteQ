@@ -1,0 +1,15 @@
+{
+"idArt": "1326",
+"series": "Revue des Nouvelles Technologies de l'Information",
+"booktitle": "EGC",
+"year": "2018",
+"title": "Une méthode pour l'estimation désagrégée de données de population à l'aide de données ouvertes",
+"abstract": "Nous présentons dans ce travail une méthode de désagrégation pour l'estimation de population à l'échelle locale à partir de données ouvertes globales. Notre but est d'estimer notamment le nombre de personnes résidant dans chaque bâtiment de la zone d'intérêt, à partir de données à plus grande échelle. Une description fine à l'échelle résidentielle est tout d'abord effectuée à partir des données d'OpenStreetMap. Les surfaces des bâtiments d'habitation ou d'usage mixte (habitation et activités) sont notamment identifiées. Nous effectuons ensuite une désagrégation à partir de données de grille de population à grande échelle (1km2 par carreau), guidée par les surfaces des bâtiments compris dans chaque carreau de la grille. Ensuite, nous effectuons une désagrégation à partir de données de grille de population à grande échelle (1km2 par carreau), guidée par les distributions spatiales découvertes à l'étape précédente. Nous utilisons exclusivement des données ouvertes pour favoriser la réplicabilité et pour pouvoir appliquer notre méthode à toute région d'intérêt, pour peu que la qualité des données soit suffisante. L'évaluation et la validation du résultat dans le cas de plusieurs villes Françaises sont effectuées à l'aide de données de recensement INSEE.",
+"authors": "Luciano Gervasoni, Serge Fenet, Peter Sturm",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1002371",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1002371",
+"metaSession": "5",
+"place": "Paris",
+"Latitude": " 48.8600 ",
+"Longitude": "2.3554"
+}

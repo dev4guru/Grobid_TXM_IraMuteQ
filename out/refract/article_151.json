@@ -1,0 +1,22 @@
+{
+"year": "2014",
+"metaSession": "",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1001987",
+"pdfarticle": "",
+"abstract": "Automatic processing of textual data enables users to analyze semi-automatically and on alarge scale the data. This analysis is based on two successive processes: (i) representation oftexts, (ii) gathering of textual data (clustering). The software described in this paper focuses onthe first step of the process by offering expert a parameterized representation of textual data.",
+"title": "Vectorisation paramétrée des données textuelles",
+"placeAut":[{
+"place":"Nice",
+"country":"France",
+"location":{
+	"lat":"43.7101728",
+	"lon":"7.2619532"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 48.117266, u'lon': -1.6777926}",
+"place": "Rennes",
+"booktitle": "EGC",
+"idArt": "151",
+"authors": "['Célia Da Costa Pereira','Mathieu Lafourcade','Patrick Lloret','Cédric Lopez','Mathieu Roche']"
+}

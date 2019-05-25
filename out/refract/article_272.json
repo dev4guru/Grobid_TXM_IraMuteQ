@@ -1,0 +1,22 @@
+{
+"year": "2012",
+"metaSession": "5",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1001158",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1001158",
+"abstract": "L'un des objectifs d'Observox est de traiter et gérer l'imprécisiondes données agronomiques tant spatialement (parcelles agricoles) et quantitativement(quantités de produits disséminées) et de toujours associer une évaluationde la qualité aux données. Aussi, nous avons choisi le cadre théorique desensembles flous. A partir d'un modèle conceptuel gérant l'imperfection, nousconstruisons une base de données gérant des entités spatiotemporelles imprécisesappelées « entités agronomiques floues ». Cependant, ce choix de représentationrend possible le chevauchement des composantes spatiales entre entités.Dans ce cas, nous propageons l'imprécision du spatial vers le quantitatif àl'aide d'un opérateur de caractère additif qui prend en compte à la fois l'informationspatiale et quantitative, et qui fournit une information quantitative localeet floue. Le système ainsi construit nous permet d'obtenir une représentationfloue des quantités de produits phytosanitaires disséminés à chaque endroit duterritoire étudié.",
+"title": "Vers la construction d'un observatoire des pratiques agricoles : gestion et propagation de l'imprécision des données agronomiques",
+"placeAut":[{
+"place":"Reims",
+"country":"France",
+"location":{
+	"lat":"49.258329",
+	"lon":"4.031696"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 44.837789, u'lon': -0.57918}",
+"place": "Bordeaux",
+"booktitle": "EGC",
+"idArt": "272",
+"authors": "['Asma Zoghlami','Karima Zayrit','Cyril de Runz','Eric Desjardin','Herman Akdag']"
+}

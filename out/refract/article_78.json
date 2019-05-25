@@ -1,0 +1,22 @@
+{
+"year": "2014",
+"metaSession": "2",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1001942",
+"pdfarticle": "",
+"abstract": "Concept drift is an important feature of real-world data streams thatcan make usual machine learning techniques rapidly become unsuitable. Thispaper addresses the problem of sudden concept drift in classification problemsfor which standard techniques may fail. To this end, support vector machines(SVMs) are automatically corrected to cope with a new suddenly drifted dataset.Results on real-world datasets with several types of sudden drift indicate that themethod is able to correct the SVM in order to better classify the new data afterthe concept drift, using a correction based on the difference between the initialdataset and the new drifted dataset, even when the new dataset is small.",
+"title": "Automatic correction of SVM for drifted data classification",
+"placeAut":[{
+"place":"Louvain-la-Neuve",
+"country":"Belgique",
+"location":{
+	"lat":"50.668081",
+	"lon":"4.6118324"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 48.117266, u'lon': -1.6777926}",
+"place": "Rennes",
+"booktitle": "EGC",
+"idArt": "78",
+"authors": "['Alexandra Degeest','Benoît Frénay','Michel Verleysen']"
+}

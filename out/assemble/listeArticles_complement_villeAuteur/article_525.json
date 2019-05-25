@@ -1,0 +1,13 @@
+{	 "idArt" : "525",
+	 "placeAut" : [ 
+		{ "place" : "Rennes",
+		 "country" : "France",
+		 "location" : { "lat" :  48.117266, 
+			 "lon" : -1.6777925999999752 } },
+		{ "place" : "Sophia Antipolis",
+		 "country" : "France",
+		 "location" : { "lat" :  43.6163539, 
+			 "lon" : 7.055221800000027 } }
+	 ]
+} 
+ 

@@ -1,0 +1,22 @@
+{
+"year": "2012",
+"metaSession": "",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1001207",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1001207",
+"abstract": "",
+"title": "Identification et caractérisation de différents types de boycott par des méthodes d'Analyse de Données",
+"placeAut":[{
+"place":"Sainte Clotilde",
+"country":"France",
+"location":{
+	"lat":"46.5357259",
+	"lon":"-0.592193"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 44.837789, u'lon': -0.57918}",
+"place": "Bordeaux",
+"booktitle": "EGC",
+"idArt": "243",
+"authors": "['Henri Ralambondrainy','Marinette Amirault-Thébault']"
+}

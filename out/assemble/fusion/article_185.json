@@ -1,0 +1,22 @@
+{
+"year": "2013",
+"metaSession": "3",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1001852",
+"pdfarticle": "",
+"abstract": "Les réseaux sociaux tels que Twitter font partie du phénomène de Déluge des données, expression utilisée pour décrire l'apparition de données de plus en plus volumineuses et complexes. Pour représenter ces réseaux, des graphes orientés sont souvent utilisés. Dans cet article, nous nous focalisons sur deux aspects de l'analyse du réseau social de Twitter. En premier lieu, notre but est de trouver une méthode efficace et haut niveau pour stocker et manipuler le graphe du réseau social en utilisant des ressources informatiques raisonnables. Cet axe de recherche constitue un enjeu majeur puisqu'il est ainsi possible de traiter des graphes à échelle réelle sur des machines potentiellement accessibles par tous. Ensuite, nous étudions les capitalistes sociaux, un type particulier d'utilisateurs de Twitter observé par Ghosh et al. (2012). Nous proposons une méthode pour détecter et classifier efficacement ces utilisateurs.",
+"title": "Les capitalistes sociaux sur Twitter : détection via des mesures de similarité",
+"placeAut":[{
+"place":"Orléans",
+"country":"France",
+"location":{
+	"lat":"47.902964",
+	"lon":"1.909251"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 43.604652, u'lon': 1.444209}",
+"place": "Toulouse",
+"booktitle": "EGC",
+"idArt": "185",
+"authors": "['Nicolas Dugué','Anthony Perez']"
+}

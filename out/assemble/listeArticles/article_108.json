@@ -1,0 +1,13 @@
+{	 "idArt" : "108",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2014",
+	 "place" : "Rennes",
+	 "location" : { "lat" :  48.117266, 
+		 "lon" : -1.6777926 }, 
+	 "title" : "Généralisation des k-moyennes pour produire des recouvrements ajustables",
+	 "abstract" : "La recherche de groupes non-disjoints à partir de données non-étiquetéesest une problématique importante en classification non-supervisée. Laclassification recouvrante (Overlapping clustering) contribue à la résolution deplusieurs problèmes réels qui nécessitent la détermination de groupes qui se chevauchent.Cependant, bien que les recouvrements entre groupes soient tolérésvoire encouragés dans ces applications, il convient de contrôler leur importance.Nous proposons dans ce papier des généralisations de k-moyennes offrant lecontrôle et le paramétrage des recouvrements. Deux principes de régulation sontmis en place, ils visent à contrôler les recouvrements relativement à leur tailleet à la dispersion des classes. Les expérimentations réalisées sur des jeux dedonnées réelles, montrent l'intérêt des principes proposés.",
+	 "authors" : ["Chiheb-Eddine Ben N'Cir","Guillaume Cleuziou","Nadia Essoussi"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1001932" 
+} 
+ 

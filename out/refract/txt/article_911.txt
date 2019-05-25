@@ -1,0 +1,1 @@
+Cet article présente OCGL (Ontology Conceptual Graph Language), un langage de représentation d'ontologie basé sur le modèle des Graphes Conceptuels. Il décrit en détail la façon dont une ontologie est modélisée en OCGL, et présente l'implémentation de ce langage dans l'atelier d'ingénierie ontologique TooCoM.

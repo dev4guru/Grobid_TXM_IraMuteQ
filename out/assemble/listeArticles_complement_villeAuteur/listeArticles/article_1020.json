@@ -1,0 +1,14 @@
+{	 "idArt" : "1020",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2005",
+	 "place" : "Paris",
+	 "location" : { "lat" :  48.856614, 
+		 "lon" : 2.3522219 }, 
+	 "title" : "Visualisation de la perception d'un site web par ses utilisateurs.",
+	 "abstract" : "Nous proposons dans cet article une méthode de visualisation de l'activité des utilisateurs d'un site web qui permet d'évaluer qualitativement l'adéquation entre son architecture logique et la perception de celle-ci par les internautes. Nous travaillons sur les parcours des internautes sur le site étudié, après reconstruction de ceux-ci grâce aux fichiers logs des serveurs concernés. Nous utilisons la structure logique des sites étudiés pour simplifier la représentation des parcours, en ne tenant pas compte de l'ordre de visite des catégories sémantiques du site. Les parcours simplifiés sont utilisés pour calculer une dissimilarité entre les catégories sémantiques qui sont ensuite représentées dans un plan par Multi Dimensional Scaling. Nous complétons cette visualisation d'ensemble par une représentation de l'arbre couvrant minimal des catégories sémantiques qui permet de mieux appréhender certaines interactions. Nous illustrons l'intérêt de la méthode en l'appliquant au site de l'INRIA.",
+	 "authors" : ["Fabrice Rossi","Yves Lechevallier","Aïcha El Golli"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1000381" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1000381" 
+} 
+ 

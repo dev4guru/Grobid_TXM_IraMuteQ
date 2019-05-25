@@ -1,0 +1,22 @@
+{
+"year": "2008",
+"metaSession": "",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1001237",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1001237",
+"abstract": "De larges corpus à fort ancrage territorial deviennent disponibles sousforme numérique dans les médiathèques et plus particulièrement dans les médiathèquesde dimension régionale. Les défis qu'offrent ces gigas octets de documentsbruts sont énormes en terme de traitement automatique des contenus.Nous proposons dans cet article deux modèles computationnels et une méthodecomplète permettant de réaliser un traitement automatique afin d'extraire des itinérairesdans des textes relatant des récits de voyage. Le premier modèle est unmodèle des attendus. Il s'intéresse au concept d'itinéraire et adopte le point devue du pédagogue et fait intervenir très tôt les usages envisagés. Le deuxièmemodèle est un modèle d'extraction, il permet de modéliser l'expression du déplacementdans des textes du genre récit de voyage. Nous proposons alors uneméthode automatique pour : d'une part extraire et interpréter automatiquementles déplacements d'un récit et d'autre part passer des déplacements à l'itinéraire,c'est-à-dire alimenter de manière automatique le modèle des attendus à partir dumodèle d'extraction. Nous montrons également comment les itinéraires extraitsinterviennent soit dans la phase de construction d'activités pédagogiques soitdirectement comme matériau dans une activité d'apprentissage. Nous présentonsenfin ¼R, un Prototype pour l'Interprétation d'Itinéraires dans des Récitsde voyages, qui implémente notre approche. Il prend en entrée un texte brut etfournit l'interprétation de l'itinéraire décrit dans le texte. Il permet également devisualiser sur un fond cartographique l'itinéraire extrait.",
+"title": "Interprétation automatique d'itinéraires à partir d'un corpus de récits de voyages pilotée par un usage pédagogique.",
+"placeAut":[{
+"place":"Pau",
+"country":"France",
+"location":{
+	"lat":"43.2951",
+	"lon":"-0.370797"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 43.6163539, u'lon': 7.0552218}",
+"place": "Sophia Antipolis",
+"booktitle": "EGC",
+"idArt": "615",
+"authors": "['Pierre Loustau','Mauro Gaio','Thierry Nodenot']"
+}

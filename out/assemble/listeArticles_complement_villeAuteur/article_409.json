@@ -1,0 +1,13 @@
+{	 "idArt" : "409",
+	 "placeAut" : [ 
+		{ "place" : "Nozay",
+		 "country" : "France",
+		 "location" : { "lat" :  47.564751, 
+			 "lon" : -1.6269159999999374 } },
+		{ "place" : "Evry",
+		 "country" : "France",
+		 "location" : { "lat" :  48.629828, 
+			 "lon" : 2.4417819999999892 } }
+	 ]
+} 
+ 

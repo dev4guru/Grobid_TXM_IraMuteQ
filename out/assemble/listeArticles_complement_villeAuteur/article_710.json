@@ -1,0 +1,9 @@
+{	 "idArt" : "710",
+	 "placeAut" : [ 
+		{ "place" : "Montpellier",
+		 "country" : "France",
+		 "location" : { "lat" :  43.610769, 
+			 "lon" : 3.8767159999999876 } }
+	 ]
+} 
+ 

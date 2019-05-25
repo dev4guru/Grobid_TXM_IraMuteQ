@@ -1,0 +1,1 @@
+Dans ce papier, une nouvelle plate-forme d'alignement et de visualisation des ontologies, appelée POVA (Prototype OWL-Lite Visual Alignment), est décrite. Le module d'alignement implémente une nouvelle approche d'alignement d'ontologies remédiant au problème de la circularité et de l'intervention de l'utilisateur.

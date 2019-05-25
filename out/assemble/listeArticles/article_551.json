@@ -1,0 +1,14 @@
+{	 "idArt" : "551",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2009",
+	 "place" : "Strasbourg",
+	 "location" : { "lat" :  48.5734053, 
+		 "lon" : 7.752111299999999 }, 
+	 "title" : "Privacy and Data Mining: New Developments and Challenges",
+	 "abstract" : "There is little doubt that data mining technologies create new challenges in the area of dataprivacy. In this talk, we will review some of the new developments in Privacy-preserving DataMining. In particular, we will discuss techniques in which data mining results can reveal per-sonal data, and how this can be prevented. We will look at the practically interesting situationswhere data to be mined is distributed among several parties. We will mention new applica-tions in which mining spatio-temporal data can lead to identification of personal information.We will argue that methods that effectively protect personal data, while at the same time pre-serve the quality of the data from the data analysis perspective, are some of the principal newchallenges before the field.",
+	 "authors" : ["Stan Matwin"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1000730" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1000730" 
+} 
+ 

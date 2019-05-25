@@ -1,0 +1,22 @@
+{
+"year": "2008",
+"metaSession": "1",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1000551",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1000551",
+"abstract": "Dans la perspective d'offrir un web sémantique, des travaux ont cherché à automatiser l'extraction des annotations sémantiques à partir de textes pour représenter au mieux la sémantique que vise à transmettre une page web. Dans cet article nous proposons une approche d'extraction des annotations qui représentent le plus précisément possible le contenu d'un document. Nous proposons de prendre en compte la notion de contexte modélisé par des relations contextuelles émanant, à la fois, de la structure et de la sémantique du texte.",
+"title": "Extraction et exploitation des annotations contextuelles",
+"placeAut":[{
+"place":"Sophia Antipolis",
+"country":"France",
+"location":{
+	"lat":"43.6163539",
+	"lon":"7.0552218"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 43.6163539, u'lon': 7.0552218}",
+"place": "Sophia Antipolis",
+"booktitle": "EGC ",
+"idArt": "604",
+"authors": "['Noureddine Mokhtari','Rose Dieng-Kuntz']"
+}

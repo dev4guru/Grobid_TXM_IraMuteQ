@@ -1,0 +1,1 @@
+The Automatic Identification System was initially designed for safety purposes. However,the system is not secured and the messages contain errors and undergo attacks and falsifications.This article proposes a methodological approach for the detection of falsified AISmessages.

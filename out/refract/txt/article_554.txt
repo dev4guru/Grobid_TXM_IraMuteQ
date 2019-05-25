@@ -1,0 +1,1 @@
+L'application présentée permet de regrouper les définitions de siglesissues des sciences du vivant par des mesures de proximité lexicale (approcheautomatique) et une intervention de l'expert (approche manuelle).

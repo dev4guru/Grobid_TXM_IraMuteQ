@@ -1,0 +1,22 @@
+{
+"year": "2015",
+"metaSession": "",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1002115",
+"pdfarticle": "",
+"abstract": "In this paper we present a new codicum stemma visualization method. Don Quentin's modeling is usec to classify the textual tradition.We supplement the genealogical editor's information of betweenness triplets obtained directly from the corpus. A pyramid depicting the family codicum stemma is then constructed on the basis of information obtained by the triplets",
+"title": "Utilisation des pyramides pour visualiser la contamination des manuscrits",
+"placeAut":[{
+"place":"Lyon",
+"country":"France",
+"location":{
+	"lat":"45.764043",
+	"lon":"4.835659"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 49.815273, u'lon': 6.129582999999999}",
+"place": "Luxembourg",
+"booktitle": "EGC",
+"idArt": "64",
+"authors": "Marc Le Pouliquen"
+}

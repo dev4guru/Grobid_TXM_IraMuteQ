@@ -1,0 +1,15 @@
+{
+"idArt": "1232",
+"series": "Revue des Nouvelles Technologies de l'Information",
+"booktitle": "EGC",
+"year": "2017",
+"title": "PORGY : a Visual Analytics Platform for System Modelling and Analysis Based on Graph Rewriting",
+"abstract": "PORGY est un environnement interactif utilisé pour la modélisationde systèmes obtenus àpartir de règles de réécriture, pilotés à l'aide de stratégies et basées sur des graphes utilisantdes noeuds à ports. Cette démonstration présente quelques uns des aspects de visualisation ana-lytique proposés par PORGY. Cette dernière facilite la modélisation du système, sa simulationainsi que l'analyse des résultats à différentes échelles.",
+"authors": "Bruno Pinaud, Oana Andrei, Maribel Fernández, Hélène Kirchner, Guy Melançon, Jason Vallet",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1002327",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1002327",
+"metaSession": "11",
+"place": "Grenoble",
+"Latitude": " 45.188573 ",
+"Longitude": "5.724568"
+}

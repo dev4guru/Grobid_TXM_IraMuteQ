@@ -1,0 +1,13 @@
+{	 "idArt" : "140",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2014",
+	 "place" : "Rennes",
+	 "location" : { "lat" :  48.117266, 
+		 "lon" : -1.6777926 }, 
+	 "title" : "Un système de détection de thématiques populaires sur Twitter",
+	 "abstract" : "With the ever-growing amount of messages exchanged via Twitter, there is an increasinginterest in filtering this information, which is delivered under the form of a stream of messages.In this paper, we present a system for detecting popular topics in Twitter. The system can beapplied to static corpora and can also handle the live Twitter stream.",
+	 "authors" : ["Adrien Guille","Cécile Favre"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1001990" 
+} 
+ 

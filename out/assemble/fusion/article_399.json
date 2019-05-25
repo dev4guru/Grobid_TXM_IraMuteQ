@@ -1,0 +1,22 @@
+{
+"year": "2010",
+"metaSession": "3",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1001264",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1001264",
+"abstract": "Cet article 1 présente un ensemble d'outils destiné à analyser des séquencesd'événements en sciences sociales et à visualiser les résultats obtenus.Nous commençons par formaliser la notion de séquence d'événements avant dedéfinir une mesure de dissimilarité entre ces séquences afin de construire destypologies et de tester les liens entre ces séquences et d'autres variables d'intérêts.Initialement définie par Moen (2000), cette mesure se base sur la notion dedistance d'édition entre séquences et permet d'identifier les différences d'ordonnancementet de temporalité des événements. Nous proposons une extension decelle-ci afin de pouvoir prendre en compte la simultanéité des événements ainsiqu'une méthode de normalisation qui garantit le respect de l'inégalité triangulaire.Dans un deuxième temps, nous présentons un ensemble d'outils destinésà interpréter les résultats. Nous proposons ainsi deux méthodes de visualisationd'un ensemble de séquences et nous introduisons la notion de sous-séquencediscriminante qui permet d'identifier les différences d'ordonnancement des événementsles plus significatives entre groupes. L'ensemble des outils présentés estdisponible au sein de la librairie R TraMineR.",
+"title": "Classer, discriminer et visualiser des séquences d'événements",
+"placeAut":[{
+"place":"Genève",
+"country":"Suisse",
+"location":{
+	"lat":"46.1983922",
+	"lon":"6.1422961"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 36.4, u'lon': 10.616667}",
+"place": "Hammamet",
+"booktitle": "EGC",
+"idArt": "399",
+"authors": "['Matthias Studer','Nicolas S. Müller','Gilbert Ritschard','Alexis Gabadinho']"
+}

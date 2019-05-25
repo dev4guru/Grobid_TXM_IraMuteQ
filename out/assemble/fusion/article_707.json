@@ -1,0 +1,22 @@
+{
+"year": "2007",
+"metaSession": "8",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1001433",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1001433",
+"abstract": "Nous nous intéressons à l'extraction d'entités nommées avec comme but d'exploiter un ensemble de rapports pour en extraire une liste de partenaires. À partir d'une liste initiale, nous utilisons un premier ensemble de documents pour identifier des schémas de phrase qui sont ensuite validés par apprentissage supervisé sur des documents annotés pour en mesurer l'efficacité avant d'être utilisés sur l'ensemble des documents à explorer. Cette approche est inspirée de celle utilisée pour l'extraction de données dans les documents semi-structurés (wrappers) et ne nécessite pas de ressources linguistiques particulières ni de larges collections de tests. Notre collection de documents évoluant annuellement, nous espérons de plus une amélioration de notre extraction dans le temps.",
+"title": "Extraction d'entités dans des collections évolutives",
+"placeAut":[{
+"place":"Le Chesnay",
+"country":"France",
+"location":{
+	"lat":"48.825415",
+	"lon":"2.130544"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 50.4673883, u'lon': 4.8719854}",
+"place": "Namur",
+"booktitle": "EGC",
+"idArt": "707",
+"authors": "['Thierry Despeyroux','Eduardo Fraschini','Anne-Marie Vercoustre']"
+}

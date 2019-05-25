@@ -1,0 +1,13 @@
+{	 "idArt" : "10",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2015",
+	 "place" : "Luxembourg",
+	 "location" : { "lat" :  49.815273, 
+		 "lon" : 6.129582999999999 }, 
+	 "title" : "Big Data is all about data that we don't have",
+	 "abstract" : "Big Data is now becoming a buzz word in information technology industry and research. Is Big Data only about large volume of data?, and if it is yes, why is it suddenly becoming a trend. Hasn't the growth of data volume been gigantic in the last decade? From a research point of view, it is not surprising to see researchers from all walks of computer science are trying to align their research to Big Data for the sake of being trendy. The question remains whether it tackles the real Big Data problems. In this talk, I will describe the misconceptions of Big Data, present motivating cases, and discuss the unavoidable challenges faced by industry and research.",
+	 "authors" : ["David Taniar"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1002055" 
+} 
+ 

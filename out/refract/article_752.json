@@ -1,0 +1,22 @@
+{
+"year": "2007",
+"metaSession": "2",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1001348",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1001348",
+"abstract": "Cet article présente une méthode permettant d'interpréter la sortie d'un modèle de classification ou de régression. L'interprétation se base sur l'importance de la variable et l'importance de la valeur de la variable. Cette approche permet d'interpréter la sortie du modèle pour chaque instance.",
+"title": "Une méthode d'interprétation de scores",
+"placeAut":[{
+"place":"Lannion",
+"country":"France",
+"location":{
+	"lat":"48.732084",
+	"lon":"-3.459144"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 50.4673883, u'lon': 4.8719854}",
+"place": "Namur",
+"booktitle": "EGC",
+"idArt": "752",
+"authors": "['Raphaël Feraud','Vincent Lemaire']"
+}

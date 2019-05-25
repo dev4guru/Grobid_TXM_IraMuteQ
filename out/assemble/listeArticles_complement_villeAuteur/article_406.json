@@ -1,0 +1,13 @@
+{	 "idArt" : "406",
+	 "placeAut" : [ 
+		{ "place" : "Galway",
+		 "country" : "Ireland",
+		 "location" : { "lat" :  53.270668, 
+			 "lon" : -9.056790500000034 } },
+		{ "place" : "Paris",
+		 "country" : "France",
+		 "location" : { "lat" :  48.856614, 
+			 "lon" : 2.3522219000000177 } }
+	 ]
+} 
+ 

@@ -1,0 +1,13 @@
+{	 "idArt" : "955",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2005",
+	 "place" : "Paris",
+	 "location" : { "lat" :  48.856614, 
+		 "lon" : 2.3522219 }, 
+	 "title" : "De la statistique des données à la statistique des connaissances : avancées récentes en analyse des données symboliques",
+	 "authors" : ["Edwin Diday"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1000437" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1000437" 
+} 
+ 

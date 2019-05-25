@@ -1,0 +1,22 @@
+{
+"year": "2015",
+"metaSession": "4",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1002070",
+"pdfarticle": "",
+"abstract": "Dans de nombreux problèmes d'apprentissage automatique la performance des algorithmes est évaluée à l'aide des mesures précision et rappel. Or ces deux mesures peuvent avoir une importance très différente en fonction du contexte. Dans cet article nous étudions le comportement des principaux indices de performance en fonction du couple précision-rappel. Nous proposons un nouvel outil de visualisation de performances et définissons l'espace de compromis qui représente les différents indices en fonction du compromis précision-rappel. Nous analysons les propriétés de ce nouvel espace et mettons en évidence ses avantages par rapport à l'espace précision-rappel.",
+"title": "Compromis précision-rappel dans l'évaluation des performances ",
+"placeAut":[{
+"place":"Paris",
+"country":"France",
+"location":{
+	"lat":"48.856614",
+	"lon":"2.3522219"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 49.815273, u'lon': 6.129582999999999}",
+"place": "Luxembourg",
+"booktitle": "EGC",
+"idArt": "18",
+"authors": "['Blaise Hanczar','Mohamed Nadif']"
+}

@@ -1,0 +1,13 @@
+{	 "idArt" : "392",
+	 "placeAut" : [ 
+		{ "place" : "Metz",
+		 "country" : "France",
+		 "location" : { "lat" :  49.1193089, 
+			 "lon" : 6.1757155999999895 } },
+		{ "place" : "Villetaneuse",
+		 "country" : "France",
+		 "location" : { "lat" :  48.963476, 
+			 "lon" : 2.3473539999999957 } }
+	 ]
+} 
+ 

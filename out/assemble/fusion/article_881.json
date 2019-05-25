@@ -1,0 +1,22 @@
+{
+"year": "2005",
+"metaSession": "",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1000277",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1000277",
+"abstract": "Les praticiens et les chercheurs dans le domaine d'extraction des connaissances de données (ECD) sont souvent confrontés à des difficultés qui sont relatives à la nature des données, à l'implication de l'opérateur humain et aux aspects algorithmiques. Aujourd'hui, s'il y a un consensus sur la complexité du processus d'ECD, ce n'est pas le cas pour la définition et la caractérisation de cette complexité. Définir la complexité de l'ECD, la caractériser et connaître ses sources sont des questions qui animent aujourd'hui la communauté de fouille de données. Dans cet article, pour répondre à ces questions, nous menons une réflexion sur la notion de complexité en ECD en utilisant l'approche systémique, une approche de modélisation de systèmes complexes.",
+"title": "Complexité de l'extraction des connaissances de données : une vison systémique",
+"placeAut":[{
+"place":"Villeneuve dAscq",
+"country":"France",
+"location":{
+	"lat":"50.6232523",
+	"lon":"3.1442651"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 48.856614, u'lon': 2.3522219}",
+"place": "Paris",
+"booktitle": "AEGC",
+"idArt": "881",
+"authors": "['Walid Ben Ahmed','Mounib Mekhilef','Michel Bigand','Yves Page']"
+}

@@ -1,0 +1,22 @@
+{
+"year": "2005",
+"metaSession": "2",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1000212",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1000212",
+"abstract": "Cet article décrit la génération automatique et l'utilisation d'une base de patterns pour le go 19x19. La représentation utilisée est celle des K plus proches voisins. Les patterns sont engendrés en parcourant des parties de professionnels. Les probabilités d'appariement et de jeu des patterns sont également estimées à ce moment là. La base créée est intégrée dans un programme existant, Indigo. Soit elle est utilisée comme un livre d'ouvertures en début de partie, soit comme une extension des bases pré-existantes du générateur de coups du programme. En terme de niveau de jeu, le gain résultant est estimé à 15 points en moyenne.",
+"title": "Extraction Bayésienne et intégration de patterns représentés suivant les K plus proches voisins pour le go 19x19",
+"placeAut":[{
+"place":"Paris",
+"country":"France",
+"location":{
+	"lat":"48.856614",
+	"lon":"2.3522219"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 48.856614, u'lon': 2.3522219}",
+"place": "Paris",
+"booktitle": "EGC",
+"idArt": "964",
+"authors": "['Bruno Bouzy','Guillaume Chaslot']"
+}

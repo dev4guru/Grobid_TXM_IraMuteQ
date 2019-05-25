@@ -1,0 +1,22 @@
+{
+"year": "2010",
+"metaSession": "",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1001447",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1001447",
+"abstract": "",
+"title": "SIAM: Système d'Indexation des Articles Médicaux",
+"placeAut":[{
+"place":"Tunis",
+"country":"Tunisie",
+"location":{
+	"lat":"36.8064948",
+	"lon":"10.1815316"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 36.4, u'lon': 10.616667}",
+"place": "Hammamet",
+"booktitle": "EGC",
+"idArt": "469",
+"authors": "['Jihen Majdoubi','Mohamed Tmar','Faïez Gargouri']"
+}

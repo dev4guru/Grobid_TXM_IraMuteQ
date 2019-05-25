@@ -1,0 +1,13 @@
+{	 "idArt" : "526",
+	 "placeAut" : [ 
+		{ "place" : "Châtenay-Malabry",
+		 "country" : "France",
+		 "location" : { "lat" :  48.771896, 
+			 "lon" : 2.270748000000026 } },
+		{ "place" : "Paris",
+		 "country" : "France",
+		 "location" : { "lat" :  48.856614, 
+			 "lon" : 2.3522219000000177 } }
+	 ]
+} 
+ 

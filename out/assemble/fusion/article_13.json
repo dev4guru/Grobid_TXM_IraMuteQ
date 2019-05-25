@@ -1,0 +1,22 @@
+{
+"year": "2015",
+"metaSession": "4",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1002071",
+"pdfarticle": "",
+"abstract": "Ce papier propose une version améliorée de l'algorithme de classification automatique évidentielle semi-supervisée SECM. Celui-ci bénéficie de l'introduction de données étiquetées pour améliorer la pertinence de ses résultats et utilise la théorie des fonctions de croyance afin de produire une partition crédale qui généralise notamment les concepts de partitions dures et floues. Le pendant de ce gain d'expressivité est une complexité qui est exponentielle avec le nombre de classes, ce qui impose en retour l'utilisation de schémas efficaces pour optimiser la fonction objectif. Nous proposons dans cet article une heuristique qui relâche la contrainte classique de positivité liée aux masses de croyances des méthodes évidentielles. Nous montrons sur un ensemble de jeux de données de test que notre méthode d'optimisation permet d'accélérer sensiblement l'algorithme SECM avec un schéma d'optimisation classique, tout en améliorant également la qualité de la fonction objectif.",
+"title": "Classification évidentielle avec contraintes d'étiquettes",
+"placeAut":[{
+"place":"Clermont-Ferrand",
+"country":"France",
+"location":{
+	"lat":"45.777222",
+	"lon":"3.087025"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 49.815273, u'lon': 6.129582999999999}",
+"place": "Luxembourg",
+"booktitle": "EGC",
+"idArt": "13",
+"authors": "['Violaine Antoine','Nicolas Labroche']"
+}

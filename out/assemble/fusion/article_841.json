@@ -1,0 +1,22 @@
+{
+"year": "2006",
+"metaSession": "8",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1000351",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1000351",
+"abstract": "Ce papier présente une approche qui s'appuie sur une ontologie pourreconnaître automatiquement des concepts spécifiques à un domaine dans uncorpus en langue naturelle. La solution proposée est non-supervisée et peuts'appliquer à tout domaine pour lequel une ontologie a été déjà construite. Uncorpus du domaine est utilisé dans lequel les concepts seront reconnus. Dansune première phase, des connaissances sont extraites de ce corpus en faisantappel à des fouilles de textes. Une ontologie du domaine est utilisée pour étiqueterces connaissance. Le papier donne un aperçu des techniques de fouillesemployées et décrit le processus d 'étiquetage. Les résultats d'une premièreexpérimentation dans le domaine de l'accidentologie sont aussi présentés",
+"title": "Reconnaissance automatique de concepts à partir d'une ontologie",
+"placeAut":[{
+"place":"Paris",
+"country":"France",
+"location":{
+	"lat":"48.856614",
+	"lon":"2.3522219"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 50.62925, u'lon': 3.057256}",
+"place": "Lille",
+"booktitle": "EGC",
+"idArt": "841",
+"authors": "['Valentina Ceausu','Sylvie Desprès']"
+}

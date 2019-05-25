@@ -1,0 +1,14 @@
+{	 "idArt" : "588",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC ",
+	 "year" : "2008",
+	 "place" : "Sophia Antipolis",
+	 "location" : { "lat" :  43.6163539, 
+		 "lon" : 7.0552218 }, 
+	 "title" : "Data mining for activity extraction in video data",
+	 "abstract" : "The exploration of large video data is a task which is now possible because of the advances made on object detection and tracking. Data mining techniques such as clustering are typically employed. Such techniques have mainly been applied for segmentation/indexation of video but knowledge extraction of the activity contained in the video has been only partially addressed. In this paper we present how video information is processed with the ultimate aim to achieve knowledge discovery of people activity in the video. First, objects of interest are detected in real time. Then, in an off-line process, we aim to perform knowledge discovery at two stages: 1) finding the main trajectory patterns of people in the video. 2) finding patterns of interaction between people and contextual objects in the scene. An agglomerative hierarchical clustering is employed at each stage. We present results obtained on real videos of the Torino metro (Italy).",
+	 "authors" : ["Monique Thonnat","Jose Luis Patino","Etienne Corvée","François Brémond"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1000632" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1000632" 
+} 
+ 

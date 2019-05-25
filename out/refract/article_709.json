@@ -1,0 +1,22 @@
+{
+"year": "2007",
+"metaSession": "5",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1001338",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1001338",
+"abstract": "Ce document décrit Retroweb, une boite à outils qui permet l'extraction de données structurées à partir de pages Web. Notre solution est semi-automatique car les données à extraire sont préalablement définies par l'utilisateur. L'intérêt de cette approche est qu'elle permet l'extraction de données ciblées et conformes aux besoins de l'application utilisatrice (migrateur, moteur de recherche, outil de veille). Retroweb se caractérise aussi par une grande facilité d'utilisation car il ne nécessite aucune connaissance de langage particulier, la définition des règles d'extraction se faisant directement de manière interactive dans le navigateur Internet. Ce document décrit les trois principaux processus de notre méthode.",
+"title": "Extraction de données sur Internet avec Retroweb",
+"placeAut":[{
+"place":"Charleroi",
+"country":"Belgique",
+"location":{
+	"lat":"50.4108095",
+	"lon":"4.444643"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 50.4673883, u'lon': 4.8719854}",
+"place": "Namur",
+"booktitle": "EGC",
+"idArt": "709",
+"authors": "['Fabrice Estievenart','Jean-Roch Meurisse']"
+}

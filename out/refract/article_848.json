@@ -1,0 +1,22 @@
+{
+"year": "2006",
+"metaSession": "8",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1000322",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1000322",
+"abstract": "Nous présentons un nouvel algorithme de SVM (Support VectorMachine ou Séparateur à Vaste Marge) linéaire et non-linéaire, parallèle etdistribué permettant le traitement de grands ensembles de données dans untemps restreint sur du matériel standard. A partir de l'algorithme de Newton-GSVM proposé par Mangasarian, nous avons construit un algorithmeincrémental, parallèle et distribué permettant d'améliorer les performances entemps d'exécution et mémoire en s'exécutant sur un groupe d'ordinateurs. Cenouvel algorithme a la capacité de classifier un million d'individus en 20dimensions et deux classes en quelques secondes sur un ensemble de dix PC",
+"title": "SVM incrémental, parallèle et distribué pour le traitement de grandes quantités de données",
+"placeAut":[{
+"place":"Cantho",
+"country":"Vietnam",
+"location":{
+	"lat":"10.0451618",
+	"lon":"105.7468535"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 50.62925, u'lon': 3.057256}",
+"place": "Lille",
+"booktitle": "EGC",
+"idArt": "848",
+"authors": "['Thanh-Nghi Do','François Poulet']"
+}

@@ -1,0 +1,22 @@
+{
+"year": "2014",
+"metaSession": "5",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1001920",
+"pdfarticle": "",
+"abstract": "La recherche de liens conceptuels fréquents (FCL) est une nouvelleapproche de clustering de réseaux, qui exploite à la fois la structure et les attributsdes noeuds. Bien que les travaux récents se soient déjà intéressés à l'optimisationdes algorithmes de recherche des FCL, peu de travaux sont aujourd'huimenés sur la complémentarité qui existe entre les liens conceptuels et l'approcheclassique de clustering qui consiste en l'extraction de communautés. Ainsi dansce papier, nous nous intéressons à ces deux approches. Notre objectif est d'évaluerles relations potentiellement existantes entre les communautés et les FCLpour comprendre la façon dont les motifs obtenus par chacune des méthodespeuvent correspondre ou s'intersecter ainsi que la connaissance utile résultantde la prise en compte de ces deux types de connaissance. Nous proposons pourcela un ensemble de mesures originales, basées sur la notion d'homogénéité, visantà évaluer le niveau d'intersection des FCL et des communautés lorsqu'ilssont extraits d'un même jeu de données. Notre approche est appliquée à deuxréseaux et démontre l'importance de considérer simultanément plusieurs typesde connaissance et leur intersection.",
+"title": "Clusters dans les réseaux sociaux : intersections entre liens conceptuels fréquents et communautés",
+"placeAut":[{
+"place":"Pointe-à-Pitre",
+"country":"France",
+"location":{
+	"lat":"44.079822",
+	"lon":"1.989462"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 48.117266, u'lon': -1.6777926}",
+"place": "Rennes",
+"booktitle": "EGC",
+"idArt": "85",
+"authors": "['Erick Stattner','Martine Collard']"
+}

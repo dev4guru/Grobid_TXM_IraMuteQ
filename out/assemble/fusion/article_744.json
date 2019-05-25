@@ -1,0 +1,22 @@
+{
+"year": "2007",
+"metaSession": "3",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1001385",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1001385",
+"abstract": "Les algorithmes de fouille de données sont maintenant capables de traiter de grands volumes de données mais les utilisateurs sont souvent submergés par la quantité de motifs générés. En outre, dans certains cas, que ce soit pour des raisons de confidentialité ou de coûts, les utilisateurs peuvent ne pas avoir accès directement aux données et ne disposer que des motifs. Les utilisateurs n'ont plus alors la possibilité d'approfondir à partir des données initiales le processus de fouille de façon à extraire des motifs plus spécifiques. Pour remédier à cette situation, une solution consiste à gérer les motifs. Ainsi, dans cet article, nous présentons un cadre théorique permettant à un utilisateur de manipuler, en post-traitement, une collection de motifs préalablement extraite. Nous proposons de représenter la collection sous la forme d'un graphe qu'un utilisateur pourra ensuite exploiter à l'aide d'opérateurs algébriques pour y retrouver des motifs ou en chercher de nouveaux.",
+"title": "Un cadre théorique pour la gestion de grandes bases de motifs",
+"placeAut":[{
+"place":"Saint-Etienne",
+"country":"France",
+"location":{
+	"lat":"45.439695",
+	"lon":"4.3871779"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 50.4673883, u'lon': 4.8719854}",
+"place": "Namur",
+"booktitle": "EGC",
+"idArt": "744",
+"authors": "['François Jacquenet','Baptiste Jeudy','Christine Largeron']"
+}

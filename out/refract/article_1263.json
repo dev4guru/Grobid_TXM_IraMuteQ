@@ -1,0 +1,15 @@
+{
+"idArt": "1263",
+"series": "Revue des Nouvelles Technologies de l'Information",
+"booktitle": "EGC",
+"year": "2018",
+"title": "Analyse des sentiments à partir des commentaires Facebook publiés en Arabe standard ou dialectal marocain par une approche d'apprentissage automatique",
+"abstract": "L'analyse des sentiments est un processus pendant lequel la polarité(positive, négative ou neutre) d'un texte donné est déterminée. Nous nous intéressonsdans ce travail à l'analyse des sentiments à partir des commentairesFacebook, réels, partagés en arabe standard ou dialectal marocain par une approchebasée sur l'apprentissage automatique. Ce processus commence par lacollecte des commentaires et leur annotation à l'aide du crowdsourcing suivid'une phase de prétraitement du texte afin d'extraire des mots arabes réduits àleur racine. Ces mots vont être utilisés pour la construction des variables d'entréeen utilisant plusieurs combinaisons de schémas d'extraction et de pondération.Pour réduire la dimensionnalité, une méthode de sélection de variables est appliquée.Les résultats obtenus des expérimentations sont très prometteurs.",
+"authors": "Abdeljalil Elouardighi, Mohcine Maghfour, Hafdalla Hammia, Fatima-Zahra Aazi",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1002397",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1002397",
+"metaSession": "7",
+"place": "Paris",
+"Latitude": " 48.8537 ",
+"Longitude": "2.3491"
+}

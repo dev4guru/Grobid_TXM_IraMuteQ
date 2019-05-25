@@ -1,0 +1,13 @@
+{	 "idArt" : "204",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2013",
+	 "place" : "Toulouse",
+	 "location" : { "lat" :  43.604652, 
+		 "lon" : 1.444209 }, 
+	 "title" : "Unsupervised Video Tag Correction System",
+	 "abstract" : "We present a new system for video auto tagging which aims at correcting and completing the tags provided by users for videos uploaded on the Internet. Unlike most existing systems, we do not learn any tag classifiers or use the questionable textual information to compare our videos. We propose to compare directly the visual content of the videos described by different sets of features such as Bag-of-visual-Words or frequent patterns built from them. Then, we propagate tags between visually similar videos according to the frequency of these tags in a given video neighborhood. We also propose a controlled experimental set up to evaluate such a system. Experiments show that with suitable features, we are able to correct a reasonable amount of tags in Web videos.",
+	 "authors" : ["Hoang-Tung Tran","Elisa Fromont","François Jacquenet","Baptiste Jeudy","Adrien Martins"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1001867" 
+} 
+ 

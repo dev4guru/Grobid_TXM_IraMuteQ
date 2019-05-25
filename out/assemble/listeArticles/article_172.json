@@ -1,0 +1,13 @@
+{	 "idArt" : "172",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2013",
+	 "place" : "Toulouse",
+	 "location" : { "lat" :  43.604652, 
+		 "lon" : 1.444209 }, 
+	 "title" : "Enrichissement d'ontologies grâce à l'annotation sémantique de pages web",
+	 "abstract" : "Nous présentons une approche pour enrichir automatiquement une ontologie à partir d'un ensemble de pages web structurées. Cette approche s'appuie sur un noyau d'ontologie initial. Son originalité est d'exploiter conjointement la structure des documents et des annotations sémantiques produites à l'aide du noyau d'ontologie pour identifier de nouveaux concepts et des spécialisations de relations qui enrichissent l'ontologie. Nous avons implémenté et évalué ce processus en réalisant une ontologie de plantes à partir de fiches de jardinage.",
+	 "authors" : ["Nathalie Aussenac-Gilles","Davide Buscaldi","Catherine Comparot","Mouna Kamel"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1001839" 
+} 
+ 

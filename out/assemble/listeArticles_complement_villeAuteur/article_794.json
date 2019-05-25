@@ -1,0 +1,13 @@
+{	 "idArt" : "794",
+	 "placeAut" : [ 
+		{ "place" : "Le-Chesnay",
+		 "country" : "France",
+		 "location" : { "lat" :  48.82541500000001, 
+			 "lon" : 2.1305439999999862 } },
+		{ "place" : "Recife",
+		 "country" : "Brésil",
+		 "location" : { "lat" :  -8.0578381, 
+			 "lon" : -34.88289689999999 } }
+	 ]
+} 
+ 

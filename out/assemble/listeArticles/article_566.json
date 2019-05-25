@@ -1,0 +1,14 @@
+{	 "idArt" : "566",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2009",
+	 "place" : "Strasbourg",
+	 "location" : { "lat" :  48.5734053, 
+		 "lon" : 7.752111299999999 }, 
+	 "title" : "Une méthode de classification supervisée sans paramètre pour l'apprentissage sur les grandes bases de données",
+	 "abstract" : "Dans ce papier, nous présentons une méthode de classification super-visée sans paramètre permettant d'attaquer les grandes volumétries. La méthodeest basée sur des estimateurs de densités univariés optimaux au sens de Bayes,sur un classifieur Bayesien naïf amélioré par une sélection de variables et unmoyennage de modèles exploitant un lissage logarithmique de la distribution aposteriori des modèles. Nous analysons en particulier la complexité algorith-mique de la méthode et montrons comment elle permet d'analyser des bases dedonnées nettement plus volumineuses que la mémoire vive disponible. Nous pré-sentons enfin les résultats obtenu lors du récent PASCAL Large Scale LearningChallenge, où notre méthode a obtenu des performances prédictives de premierplan avec des temps de calcul raisonnables.",
+	 "authors" : ["Marc Boullé"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1000770" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1000770" 
+} 
+ 

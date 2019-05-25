@@ -1,0 +1,22 @@
+{
+"year": "2005",
+"metaSession": "5",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1000430",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1000430",
+"abstract": "Dans cet article, nous présentons un outil de visualisation de séquences modélisées par des arbres de suffixes probabilistes (Prediction suffix trees - PST). Ce type d'arbre permet de représenter une chaîne de Markov d'ordre variable. Dans différentes application, il s'est avéré plus efficace qu'une chaîne de Markov d'ordre fixe avec un coût calculatoire moindre. Pour ces raisons, il nous a paru intéressant d'exploiter le caractère arborescent de ce mode de représentation non seulement d'un point de vue algorithmique, mais aussi d'un point de vue visuel.",
+"title": "SEQTREE, un outil de fouille de données séquentielles par visualisation",
+"placeAut":[{
+"place":"Saint-Etienne",
+"country":"France",
+"location":{
+	"lat":"45.439695",
+	"lon":"4.3871779"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 48.856614, u'lon': 2.3522219}",
+"place": "Paris",
+"booktitle": "EGC",
+"idArt": "1006",
+"authors": "Christine Largeron"
+}

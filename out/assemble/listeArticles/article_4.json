@@ -1,0 +1,13 @@
+{	 "idArt" : "4",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2015",
+	 "place" : "Luxembourg",
+	 "location" : { "lat" :  49.815273, 
+		 "lon" : 6.129582999999999 }, 
+	 "title" : "Analyse et visualisation d'opinions dans un cadre de veille sur leWeb",
+	 "abstract" : "L'analyse d'opinions est une tâche qui consiste en l'identification et la classification de textes subjectifs. Dans ce travail, nous nous intéressons au problème d'analyse d'opinions dans un contexte de veille sur le Web. Nous proposons une approche pour visualiser les résultats d'analyse d'opinions, basée sur l'utilisation de termes clés. Nous décrivons également la plateforme de veille sur leWeb AMIEI, au sein de laquelle notre approche a été implémentée. La démonstration consistera en une expérimentation de la plateforme de veille AMIEI et du module d'analyse d'opinions sur un corpus de tweets politiques.",
+	 "authors" : ["Mohamed Dermouche","Leila Khouas","Sabine Loudcher","Julien Velcin","Eric Fourboul"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1002110" 
+} 
+ 

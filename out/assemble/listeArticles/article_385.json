@@ -1,0 +1,14 @@
+{	 "idArt" : "385",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2010",
+	 "place" : "Hammamet",
+	 "location" : { "lat" :  36.4, 
+		 "lon" : 10.616667 }, 
+	 "title" : "Analyse globale du flux optique pour la détection d'évènements dans une scène de foule",
+	 "abstract" : "Les systèmes de vidéo-surveillance sont de plus en plus autonomesdans la détection des événements anormaux. Cet article présente une méthode dedétection des flux majeurs et des évènements qui surviennent dans une scène defoule. Ces détections sont effectuées en utilisant un modèle directionnel construità partir d'un mélange de lois de von Mises appliqué à l'orientation des vecteursde mouvement. Les flux majeurs sont alors calculés en récupérant les orientationsles plus importantes des mélanges. Divers évènements se produisant dansune foule sont aussi détectés en utilisant en plus du modèle d'orientation, unmodèle probabiliste de magnitude des vecteurs de mouvement. Les résultats del'expérimentation sur un échantillon de vidéos d'événements sont présentés.",
+	 "authors" : ["Yassine Benabbas","Nacim Ihaddadene","Thierry Urruty","Chabane Djeraba"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1001315" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1001315" 
+} 
+ 

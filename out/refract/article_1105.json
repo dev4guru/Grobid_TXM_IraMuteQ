@@ -1,0 +1,15 @@
+{
+"idArt": "1105",
+"series": "Revue des Nouvelles Technologies de l'Information",
+"booktitle": "EGC",
+"year": "2016",
+"title": "Adaptation des Mappings entre Systèmes d'Organisation de la Connaissance du domaine Biomédical",
+"abstract": "Cette thèse de doctorat propose une approche originale pour adapter les mappingsbasés sur les changements détectés dans l'évolution de SOCs du domaine biomédical.Notre proposition consiste à comprendre précisément les mappings entre SOCs, à exploiterles types de changements intervenant lorsque les SOCs évoluent, puis à proposerdes actions de modification des mappings appropriées. Nos contributions sont multiples: (i) nous avons réalisé un travail expérimental approfondi pour comprendre l'évolutiondes mappings entre SOCs; nous proposons des méthodes automatiques (ii) pour analyserles mappings affectés par l'évolution de SOCs, et (iii) pour reconnaître l'évolutiondes concepts impliqués dans les mappings via des patrons de changement; enfin (iv)nous proposons des techniques d'adaptation des mappings à base d'heuristiques. Nousproposons un cadre complet pour l'adaptation des mappings, appelé DyKOSMap, etun prototype logiciel. Nous avons évalué les méthodes proposées et le cadre formel avecdes jeux de données réelles contenant plusieurs versions de mappings entre SOCs du domaine biomédical. Les résultats des expérimentations ont démontré l'efficacité desprincipes sous-jacents à l'approche proposée. La maintenance des mappings, en grandepartie automatique, est de bonne qualité..",
+"authors": "Julio Cesar Dos Reis",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1002152",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1002152",
+"metaSession": "13",
+"place": "Reims",
+"Latitude": " 49.258330 ",
+"Longitude": "4.031697"
+}

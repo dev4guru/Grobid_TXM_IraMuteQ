@@ -1,0 +1,14 @@
+{	 "idArt" : "637",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC ",
+	 "year" : "2008",
+	 "place" : "Sophia Antipolis",
+	 "location" : { "lat" :  43.6163539, 
+		 "lon" : 7.0552218 }, 
+	 "title" : "Proposition d'une nouvelle approche de détection d'intrusions basée sur les règles associatives génériques de classification",
+	 "abstract" : "Les systèmes de détection d'intrusions (SDIs) ont pour objectif la sécurité des réseaux informatiques. Dans ce papier, nous proposons une nouvelle approche de détection d'intrusions basée sur des règles associatives génériques de classification pour améliorer la qualité de la détection d'intrusions.",
+	 "authors" : ["Imen Brahmi","Sadok Ben Yahia","Yahya Slimani"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1000589" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1000589" 
+} 
+ 

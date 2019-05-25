@@ -1,0 +1,15 @@
+{
+"idArt": "1189",
+"series": "Revue des Nouvelles Technologies de l'Information",
+"booktitle": "EGC",
+"year": "2017",
+"title": "Analyse des dynamiques spatio-temporelles à partir de séries temporelles d'images satellitaires",
+"abstract": "La télédétection est un domaine qui regroupe les techniques et lesoutils permettant l'observation de la terre, notamment l'acquisition d'images sa-tellitaires. La méthode proposée dans cet article permet une analyse automatiquede séries temporelles de telles images. Nos travaux introduisent un nouvelle ap-proche pour l'analyse et le clustering de Séries Temporelles d'Images Satelli-taire (STIS). Ce processus se divise en deux parties. Dans un premier temps,nous retraçons les changements radiométriques d'une zone en représentant sonévolution au cours du temps par un graphe dit graphe d'évolution. Dans undeuxième temps, nous introduisons une représentation synthétique des graphesd'évolutions afin de pouvoir appliquer un algorithme de clustering permettantun regroupement par types d'évolutions identifiées. Les expérimentations me-nées nous ont permis de valider notre approche sur une zone d'étude.",
+"authors": "Lynda Khiali, Dino Ienco, Maguelonne Teisseire",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1002286",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1002286",
+"metaSession": "13",
+"place": "Grenoble",
+"Latitude": " 45.188530 ",
+"Longitude": "5.724525"
+}

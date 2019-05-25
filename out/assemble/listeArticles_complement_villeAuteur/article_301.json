@@ -1,0 +1,13 @@
+{	 "idArt" : "301",
+	 "placeAut" : [ 
+		{ "place" : "Oran",
+		 "country" : "Algérie",
+		 "location" : { "lat" :  35.6976541, 
+			 "lon" : -0.6337376000000177 } },
+		{ "place" : "Orsay",
+		 "country" : "France",
+		 "location" : { "lat" :  48.697161, 
+			 "lon" : 2.1896169999999984 } }
+	 ]
+} 
+ 

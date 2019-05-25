@@ -1,0 +1,13 @@
+{	 "idArt" : "165",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2013",
+	 "place" : "Toulouse",
+	 "location" : { "lat" :  43.604652, 
+		 "lon" : 1.444209 }, 
+	 "title" : "Classifications croisées de données de trajectoires contraintes par un réseau routier",
+	 "abstract" : "Le clustering (ou classification non supervisée) de trajectoires a fait l'objet d'un nombre considérable de travaux de recherche. La majorité de ces travaux s'est intéressée au cas où les objets mobiles engendrant ces trajectoires se déplacent librement dans un espace euclidien et ne prennent pas en compte les contraintes liées à la structure sous-jacente du réseau qu'ils parcourent (ex. réseau routier). Dans le présent article, nous proposons au contraire la prise en compte explicite de ces contraintes. Nous représenterons les relations entre trajectoires et segments routiers par un graphe biparti et nous étudierons la classification de ses sommets. Nous illustrerons, sur un jeu de données synthétiques, l'utilité d'une telle étude pour comprendre la dynamique du mouvement dans le réseau routier et analyser le comportement des véhicules qui l'empruntent.",
+	 "authors" : ["Mohamed K. El Mahrsi","Romain Guigourès","Fabrice Rossi","Marc Boullé"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1001854" 
+} 
+ 

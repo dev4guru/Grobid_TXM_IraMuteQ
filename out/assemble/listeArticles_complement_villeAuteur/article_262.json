@@ -1,0 +1,13 @@
+{	 "idArt" : "262",
+	 "placeAut" : [ 
+		{ "place" : "Karachi",
+		 "country" : "Pakistan",
+		 "location" : { "lat" :  24.8614622, 
+			 "lon" : 67.00993879999999 } },
+		{ "place" : "Talence",
+		 "country" : "France",
+		 "location" : { "lat" :  44.802614, 
+			 "lon" : -0.5880540000000565 } }
+	 ]
+} 
+ 

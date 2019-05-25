@@ -1,0 +1,22 @@
+{
+"year": "2015",
+"metaSession": "1",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1002084",
+"pdfarticle": "",
+"abstract": "Les correspondances sémantiques entre ontologies (mappings) jouent un rôle essentiel dans les systèmes d'information. Cependant, en vertu de l'évolution des connaissances, les éléments ontologiques sont sujets à modification invalidant potentiellement les alignements préalablement établis. Des techniques de maintenance sont donc nécessaires pour maintenir la validité des mappings. Dans cet article, nous présentons un ensemble d'heuristiques guidant leur adaptation. Notre approche s'appuie sur l'explication des mappings existants, les informations provenant de l'évolution des ontologies ainsi que les adaptations possibles applicables aux mappings. Nous proposons une validation expérimentale à partir d'ontologies du domaine médical et des mappings qui leur sont associés.",
+"title": "Heuristiques pour l'adaptation des mappings entre ontologies dynamiques",
+"placeAut":[{
+"place":"Luxembourg-Kirchberg",
+"country":"Luxembourg",
+"location":{
+	"lat":"49.6278694",
+	"lon":"6.153422"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 49.815273, u'lon': 6.129582999999999}",
+"place": "Luxembourg",
+"booktitle": "EGC",
+"idArt": "32",
+"authors": "['Julio Cesar Dos Reis','Cédric Pruski','Chantal Reynaud-Delaître']"
+}

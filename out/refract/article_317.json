@@ -1,0 +1,22 @@
+{
+"year": "2011",
+"metaSession": "7",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1000988",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1000988",
+"abstract": "Dans un contexte d'entreprise, beaucoup d'informations importantes restent stockées dans des bases de données relationnelles, constituant une source riche pour construire des réseaux sociaux. Le réseau, ainsi extrait, a souvent une taille importante ce qui rend son analyse et sa visualisation difficiles. Dans ce travail, nous proposons une étape d'extraction suivie d'une étape d'agrégation des réseaux sociaux à partir des bases de données relationnelles. L'étape d'extraction ou de construction transforme une base de données relationnelle en base de données graphe, puis le réseau social est extrait. L'étape d'agrégation, qui est basée sur l'algorithme k-SNAP, produit un graphe résumé.",
+"title": "Extraction et Analyse de réseaux sociaux issus de Bases de Données Relationnelles",
+"placeAut":[{
+"place":"Chatenay-Malabry",
+"country":"France",
+"location":{
+	"lat":"48.771896",
+	"lon":"2.270748"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 48.390394, u'lon': -4.486076}",
+"place": "Brest",
+"booktitle": "EGC",
+"idArt": "317",
+"authors": "['Rania Soussi','Amine Louati','Marie-Aude Aufaure','Hajer Baazaoui Zghal','Yves Lechevallier','Henda Ben Ghezela Hadjami']"
+}

@@ -1,0 +1,9 @@
+{	 "idArt" : "511",
+	 "placeAut" : [ 
+		{ "place" : "Leuven",
+		 "country" : "Belgique",
+		 "location" : { "lat" :  50.883333, 
+			 "lon" : 4.7000000000000455 } }
+	 ]
+} 
+ 

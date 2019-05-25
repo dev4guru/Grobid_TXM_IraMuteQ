@@ -1,0 +1,22 @@
+{
+"year": "2004",
+"metaSession": "1",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1001086",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1001086",
+"abstract": "La découverte de connaissances à partir d'importantes masses de données hétérogènes débouche le plus souvent sur l'analyse relationnelle. La recherche d'informations stratégiques s'appuie en effet sur les liens fonctionnels et sémantiques entre documents, acteurs, terminologie et concepts d'un domaine sans oublier le paramètre temps. De nombreuses méthodes sont proposées pour identifier, analyser et visualiser les mécanismes mis à jour : analyse relationnelle, classifications supervisées et non supervisées, analyse factorielle, analyse sémantique, cartes, dendogrammes, ... Mais ces approches demandent souvent une expertise non négligeable pour être comprises et ne s'adressent donc pas aux non initiés. Par contre, la vue d'un graphe mettant en relation une ou deux classes d'éléments interdépendants est directement assimilable par tout le monde. Nous proposons donc un ensemble de visualisations interactives de graphes dont la manipulation doit permettre une découverte de connaissances intuitive et basée sur un langage graphique naturel. Nous illustrons notre propos de nombreux exemples tirés de cas réels d'analyses stratégiques qui ont permis d'évaluer cette approche sur un panel très large de données.",
+"title": "Analyse d'information relationnelle par des graphes interactifs de grandes tailles",
+"placeAut":[{
+"place":"Toulouse",
+"country":"France",
+"location":{
+	"lat":"43.604652",
+	"lon":"1.444209"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 45.77722199999999, u'lon': 3.087025}",
+"place": "Clermont-Ferrand",
+"booktitle": "EGC",
+"idArt": "1027",
+"authors": "['Saïd Karouach','Bernard Dousset']"
+}

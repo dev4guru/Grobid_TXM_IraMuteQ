@@ -1,0 +1,15 @@
+{
+"idArt": "1325",
+"series": "Revue des Nouvelles Technologies de l'Information",
+"booktitle": "EGC",
+"year": "2018",
+"title": "Une approche sémantique hybride pour la recommandation des articles d'actualité à large échelle",
+"abstract": "Les portails d'actualités en ligne produisent un flux d'informationayant un volume et une vélocité importants. Dans ce contexte, il devient plusdifficile de proposer en temps réel des recommandations dynamiques adaptéesaux intérêts de chaque utilisateur. Dans cet article, nous présentons une approchehybride pour la recommandation des articles d'actualité reposant sur l'analysesémantique du contenu disponible. L'approche est basée sur l'hybridation deplusieurs approches personnalisées et non personnalisées pour remédier au problèmede démarrage à froid. L'expérimentation de notre approche dans un environnementà large échelle et à fortes contraintes temps réel dans le cadre duchallenge NEWSREEL a permis d'évaluer la qualité de ses recommandations etde confirmer l'apport de la sémantique dans le processus de recommandation.",
+"authors": "Hemza Ficel, Mohamed Ramzi Haddad, Hajer Baazaoui Zghal",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1002392",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1002392",
+"metaSession": "3",
+"place": "Paris",
+"Latitude": " 48.8599 ",
+"Longitude": "2.3553"
+}

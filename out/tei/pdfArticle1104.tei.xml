@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/josuah/Bureau/grobid/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<encodingDesc>
+			<appInfo>
+				<application version="0.5.5-SNAPSHOT" ident="GROBID" when="2019-04-04T12:42+0000">
+					<ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">A Relevant Passage Retrieval and Re-ranking Approach for Open-Domain Question Answering</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Nouha</forename><surname>Othman</surname></persName>
+							<email>othmannouha@gmail.com</email>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Rim</forename><surname>Faiz</surname></persName>
+							<email>rim.faiz@ihec.rnu.tn</email>
+						</author>
+						<author>
+							<affiliation key="aff0">
+								<orgName type="laboratory">LARODEC</orgName>
+								<orgName type="institution" key="instit1">Université de Tunis</orgName>
+								<orgName type="institution" key="instit2">Institut Supérieur de Gestion de Tunis</orgName>
+								<address>
+									<country key="TN">Tunisia</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff1">
+								<orgName type="laboratory">LARODEC</orgName>
+								<orgName type="institution">Université de Carthage IHEC Carthage</orgName>
+								<address>
+									<country key="TN">Tunisia</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">A Relevant Passage Retrieval and Re-ranking Approach for Open-Domain Question Answering</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<abstract>
+				<p>Question answering systems (QAS)s aim to directly return precise answers to natural language questions. Retrieving and re-ranking passages are viewed as the most challenging tasks in a typical QAS and still require non-trivial effort. In this paper, we propose a novel approach for retrieving and re-ranking passages using n-grams and SVM. Our n-gram based passage retrieval engine relies on a new measure of similarity between a passage and a question. The retrieved passages are further re-ranked using a Ranking SVM model combining different text similarity measures in order to return the most relevant passage to a given question. Our experiments and results have shown promise and demonstrated that our approach is competitive.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+	</text>
+</TEI>

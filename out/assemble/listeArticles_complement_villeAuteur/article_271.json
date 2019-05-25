@@ -1,0 +1,9 @@
+{	 "idArt" : "271",
+	 "placeAut" : [ 
+		{ "place" : "Bordeaux",
+		 "country" : "France",
+		 "location" : { "lat" :  44.837789, 
+			 "lon" : -0.5791799999999512 } }
+	 ]
+} 
+ 

@@ -1,0 +1,13 @@
+{	 "idArt" : "1040",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2004",
+	 "place" : "Clermont-Ferrand",
+	 "location" : { "lat" :  45.77722199999999, 
+		 "lon" : 3.087025 }, 
+	 "title" : "Classification automatique d'images",
+	 "authors" : ["Mohamed Hammami","Boulbaba Ben Amor","Liming Chen"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1001027" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1001027" 
+} 
+ 

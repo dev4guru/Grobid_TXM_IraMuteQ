@@ -1,0 +1,22 @@
+{
+"year": "2004",
+"metaSession": "8",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1000893",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1000893",
+"abstract": "Nous nous plaçons dans le cadre d'un projet de constitution d'une plate-forme intégrative de données biomédicales pour l'étude génomique des cancers. La plate-forme comporte, entre autres, un certain nombre de scénarios d'analyse qui sont proposés à l'utilisateur. A chaque étape d'un scénario qu'il a choisi de réaliser pour les besoins de son étude, l'utilisateur peut être amené à poser une requête nécessitant d'accéder à différentes sources et il doit alors choisir les sources pertinentes. Nous proposons un guide à l'utilisateur sous forme d'un algorithme de sélection de sources adapté à sa requête et à ses préférences. Pour cela, nous explorons quelques spécificités des banques de données biomédicales et définissons différents critères de préférence utiles pour les biologistes. Nous illustrons notre démarche avec un exemple de requête biomédicale.",
+"title": "Interrogation de sources biomédicales : prise en compte des préférences de l'utilisateur",
+"placeAut":[{
+"place":"Orsay",
+"country":"France",
+"location":{
+	"lat":"48.697161",
+	"lon":"2.189617"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 45.77722199999999, u'lon': 3.087025}",
+"place": "Clermont-Ferrand",
+"booktitle": "EGC",
+"idArt": "1062",
+"authors": "['Sarah Cohen Boulakia','Christine Froidevaux','Séverine Lair']"
+}

@@ -1,0 +1,14 @@
+{	 "idArt" : "916",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "AEGC",
+	 "year" : "2005",
+	 "place" : "Paris",
+	 "location" : { "lat" :  48.856614, 
+		 "lon" : 2.3522219 }, 
+	 "title" : "Représentation contextualisée des pratiques des utilisateurs",
+	 "abstract" : "Le contexte intervient dans toue étude du comportement humain.Nous présentons les graphes contextuels qui sont utilisés dans de nombreuxdomaines comme l'intelligence artificielle, la psychologie, la sécuritéinformatique, la gestion d'incidents, le diagnostic médical, ... L'idée centralede ce formalisme est la représentation au même niveau des éléments decompréhension d'un utilisateur et des éléments contextuels dans lesquels leséléments de compréhension prennent un sens et ont une validité. Nousdonnons un exemple dans le domaine de la recherche d'information. Cettemodélisation de l'utilisateur au travers de ses actions offre un intérêt pourredéfinir les tâches prescrites dans le cadre du travail collaboratif.",
+	 "authors" : ["Patrick Brézillon","Charles Tijus"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1000230" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1000230" 
+} 
+ 

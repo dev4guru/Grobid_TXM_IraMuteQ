@@ -1,0 +1,13 @@
+{	 "idArt" : "619",
+	 "placeAut" : [ 
+		{ "place" : "Pointe-à-Pitre",
+		 "country" : "France",
+		 "location" : { "lat" :  44.079822, 
+			 "lon" : 1.9894620000000032 } },
+		{ "place" : "Nîmes",
+		 "country" : "France",
+		 "location" : { "lat" :  43.836699, 
+			 "lon" : 4.360053999999991 } }
+	 ]
+} 
+ 

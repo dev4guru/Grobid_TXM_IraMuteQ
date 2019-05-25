@@ -1,0 +1,14 @@
+{	 "idArt" : "380",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2010",
+	 "place" : "Hammamet",
+	 "location" : { "lat" :  36.4, 
+		 "lon" : 10.616667 }, 
+	 "title" : "Aide à la décision pour la maintenance ferroviaire préventive",
+	 "abstract" : "La maintenance de trains est un problème particulièrement délicat liéà de nombreux enjeux à la fois financiers, sécuritaires et énergétiques. Nous nousintéressons à la mise en place d'une maintenance préventive basée sur la détectionet la correction de tout comportement anormal susceptible de provoquer unproblème majeur dans un futur proche. Nous proposons ainsi un outil d'aide à ladécision afin de (i) dégager des connaissances utiles sur l'historique des trains,et (ii) détecter et étudier les anomalies comportementales, dans le but de prendredes décisions optimales en termes de maintenance ferroviaire",
+	 "authors" : ["Julien Rabatel","Sandra Bringay","Pascal Poncelet"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1001319" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1001319" 
+} 
+ 

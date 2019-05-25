@@ -1,0 +1,1 @@
+Cet article décrit une approche de création semi-automatique d'ontologies et d'annotations sémantiques à partir de messages électroniques échangés dans une liste de diffusion dédiée au support informatique. Les ressources sémantiques générées permettront d'identifier les questions fréquemment posées (FAQ) à travers une recherche guidée par cette ontologie.

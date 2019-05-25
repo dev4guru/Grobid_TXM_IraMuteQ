@@ -1,0 +1,9 @@
+{	 "idArt" : "730",
+	 "placeAut" : [ 
+		{ "place" : "Kyushu",
+		 "country" : "Japon",
+		 "location" : { "lat" :  33.0, 
+			 "lon" : 131.0 } }
+	 ]
+} 
+ 

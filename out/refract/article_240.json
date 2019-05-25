@@ -1,0 +1,22 @@
+{
+"year": "2012",
+"metaSession": "6",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1001190",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1001190",
+"abstract": "Indexer une vidéo consiste à rattacher un ou plusieurs concepts à dessegments de cette vidéo, un concept étant défini comme une représentation intellectuelled'une idée abstraite. L'indexation automatique se base sur l'extractionautomatique de caractéristiques fournies par un système de traitement d'images.Cependant, il est nécessaire de définir les index ou concepts. Pour cela il fautdéfinir le lien qui existe entre ces caractéristiques et ces concepts. Ce qui sépareles caractéristiques extraites sur lesquelles se base l'indexation automatique etles concepts est appelé fossé sémantique qui est le manque de concordance entreles informations que les machines peuvent extraire depuis les documents numériqueset les interprétations que les humaines en font. La définition d'un conceptpeut être faite automatiquement si l'on dispose d'une base d'apprentissage liéeau concept. Dans ce cas, il est possible d'apprendre le concept de manièrestatistique. Mais la construction de cette base d'apprentissage nécessite de faireintervenir un utilisateur ou un expert applicatif. En fait, il s'agit de s'appuyer surses connaissances pour extraire des segments vidéo représentatifs du conceptque l'on souhaite définir. On peut lui demander d'indexer manuellement la based'apprentissage, mais cette opération est longue et fastidieuse. Dans cet article,nous proposons une méthode qui permet d'extraire l'expertise pour que l'implicationde l'expert soit la plus simple et la plus limitée possible.",
+"title": "Extraction et gestion d'informations pour la construction d'une base vidéo d'apprentissage",
+"placeAut":[{
+"place":"Grenoble",
+"country":"France",
+"location":{
+	"lat":"45.188529",
+	"lon":"5.724524"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 44.837789, u'lon': -0.57918}",
+"place": "Bordeaux",
+"booktitle": "EGC",
+"idArt": "240",
+"authors": "Alain Simac-Lejeune"
+}

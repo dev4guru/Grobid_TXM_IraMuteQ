@@ -1,0 +1,22 @@
+{
+"year": "2004",
+"metaSession": "1",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1001061",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1001061",
+"abstract": "La classification suivant les plus proches voisins est une règle simple et attractive, basée sur une définition paramétrique du voisinage. Les graphes des proximité, quand à eux, induisent des notions plus souples de voisinage. Il s'agit ici d'effectuer la substitution.Les variantes obtenues, peu testées dans la bibliographie, ont été soumises à une expérimentation intensive, sur bases de données de l'UCI et de France Télécom. On a ainsi considéré divers types de prétraitement des données et plusieurs catégories de graphes. De plus, on a caractérisé les effets du piège de la dimension sur le comportement théorique de tous les graphes présentés, une quantification empirique du phénomène ayant été réalisée.Il ressort de notre étude que l'utilisation du voisinage de Gabriel provoque une amélioration en moyenne et que le prétraitement basé sur la statistique de rang est le plus adéquate. Quoiqu'il arrive, des précautions doivent être prises en grande dimension.",
+"title": "Utilisation des graphes de proximité dans le cadre de l'apprentissage basé sur les voisins",
+"placeAut":[{
+"place":"Lannion",
+"country":"France",
+"location":{
+	"lat":"48.732084",
+	"lon":"-3.459144"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 45.77722199999999, u'lon': 3.087025}",
+"place": "Clermont-Ferrand",
+"booktitle": "EGC",
+"idArt": "1100",
+"authors": "['Sylvain Ferrandiz','Marc Boullé']"
+}

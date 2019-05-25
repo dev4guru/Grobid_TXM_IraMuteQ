@@ -1,0 +1,13 @@
+{	 "idArt" : "105",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2014",
+	 "place" : "Rennes",
+	 "location" : { "lat" :  48.117266, 
+		 "lon" : -1.6777926 }, 
+	 "title" : "Extraire les motifs minimaux efficacement et en profondeur",
+	 "abstract" : "Les représentations condensées ont fait l'objet de nombreux travauxdepuis 15 ans. Tandis que les motifs maximaux des classes d'équivalence ontreçu beaucoup d'attention, les motifs minimaux sont restés dans l'ombre notammentà cause de la difficulté de leur extraction. Dans ce papier, nous présentonsun cadre générique concernant l'extraction de motifs minimaux en introduisantla notion de système minimisable d'ensembles. Il permet de considérer des langagesvariés comme les motifs ensemblistes ou les chaînes de caractères, maisaussi différentes métriques dont la fréquence. Ensuite, pour n'importe quel systèmeminimisable d'ensembles, nous introduisons un test de minimalité rapidepermettant d'extraire en profondeur les motifs minimaux. Nous démontrons quel'algorithme proposé est polynomial-delay et polynomial-space. Des expérimentationssur les benchmarks traditionnels complètent notre étude.",
+	 "authors" : ["Arnaud Soulet","François Rioult"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1001950" 
+} 
+ 

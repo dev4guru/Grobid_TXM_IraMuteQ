@@ -1,0 +1,14 @@
+{	 "idArt" : "645",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC ",
+	 "year" : "2008",
+	 "place" : "Sophia Antipolis",
+	 "location" : { "lat" :  43.6163539, 
+		 "lon" : 7.0552218 }, 
+	 "title" : "Semantics of Spatial Window over Spatio-Temporal Data Stream",
+	 "abstract" : "Dans les systèmes DSMS (Data Stream Management Systems), les données en entrée sont infinies et les requêtes sur celles-ci sont actives tout le temps. Dans le but de satisfaire ces caractéristiques, le fenêtrage temporel est largement utilisée pour convertir le flux infini de données sous forme de relations finies. Mais cette technique est inadaptée pour de nombreuses applications émergentes, en particulier les services de localisation. De nombreuses requêtes ne peuvent pas être traitées en utilisant le fenêtrage temporel, ou seraient traitées plus ecacement à l'aide d'un fenêtrage basé sur l'espace (fenêtrage spatial). Dans cet article, nous analysons la nécessité d'un fenêtrage spatial sur des flux de données spatio-temporels, et proposons, sur la base du langage de requêtes CQL (Continuous Query Language), une syntaxe et une sémantique associées au fenêtrage spatial.",
+	 "authors" : ["Yi Yu","Talel Abdessalem"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1000570" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1000570" 
+} 
+ 

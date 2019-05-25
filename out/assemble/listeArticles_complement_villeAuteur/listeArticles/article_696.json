@@ -1,0 +1,14 @@
+{	 "idArt" : "696",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2007",
+	 "place" : "Namur",
+	 "location" : { "lat" :  50.4673883, 
+		 "lon" : 4.8719854 }, 
+	 "title" : "Construction d'ontologie à partir de corpus de textes",
+	 "abstract" : "Cet article présente une méthode semi-automatique de construction d'ontologie à partir de corpus de textes sur un domaine spécifique. Cette méthode repose en premier lieu sur un analyseur syntaxique partiel et robuste des textes, et en second lieu, sur l'utilisation de l'analyse formelle de concepts FCA pour la construction de classes d'objets en un treillis de Galois. La construction de l'ontologie, c'est à dire d'une hiérarchie de concepts et d'instances, est réalisée par une transformation formelle de la structure du treillis. Cette méthode s'applique dans le domaine de l'astronomie.",
+	 "authors" : ["Amedeo Napoli","Yannick Toussaint","Rokia Bendaoud"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1001364" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1001364" 
+} 
+ 

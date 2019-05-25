@@ -1,0 +1,13 @@
+{	 "idArt" : "94",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2014",
+	 "place" : "Rennes",
+	 "location" : { "lat" :  48.117266, 
+		 "lon" : -1.6777926 }, 
+	 "title" : "Des humanités au numérique : interdisciplinarité et réciprocité",
+	 "abstract" : "Les Humanités Numériques, aussi contestable et critiquable que soit le terme, font maintenantpartie du paysage de la recherche en sciences humaines, institutionnalisées par la TrèsGrande Infrastructure de Recherche Huma-Num du CNRS. Elles sont généralement définiescomme la convergence de disciplines autour d'un matériau numérique, matériau inévitablementaccompagné d'un outillage tout aussi numérique. Ce matériau, suivant la discipline quil'observe pourra être considéré comme un objet éditorial, un objet analysable ou un objetcalculable. Nous tenterons de montrer que ce matériau peut aussi être perçu, voire construit,comme un dépôt voire un entrepôt de connaissances. Notre présentation s'appuiera sur diversprojets de recherche en humanités numériques auxquels nous contribuons afin de mettre enexergue le lien qui peut être fait entre extraction et gestion de connaissances d'une part ethumanités numériques d'autre part : le premier peut trouver un terrain expérimental dans lesecond tandis que le second peut tirer profit des méthodes et outils développés par le premier.Nous égrainerons par ailleurs d'autres problématiques inhérentes aux Humanités numériques :de la constitution à l'analyse du corpus en passant par la formalisation et la normalisationdes données. Enfin, nous tenterons de montrer par l'exemple que les questions posées par leshumanités numériques ne sont pas sans rappeler celles des industries de la connaissance.",
+	 "authors" : ["Thomas Lebarbé"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1001907" 
+} 
+ 

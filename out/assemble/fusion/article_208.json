@@ -1,0 +1,22 @@
+{
+"year": "2013",
+"metaSession": "4",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1001819",
+"pdfarticle": "",
+"abstract": "Dans cet article, nous proposons un cadre visant à automatiser la construction de variables pour l'apprentissage supervisé, en particulier dans le cadre multi-tables. La connaissance du domaine est spécifiée d'une part en structurant les données en variables, tables et liens entre tables, d'autre part en choisissant des règles de construction de variables. L'espace de construction de variables ainsi défini est potentiellement infini, ce qui pose des problèmes d'exploration combinatoire et de sur-apprentissage. Nous introduisons une distribution de probabilité a priori sur l'espace des variables constructibles, ainsi qu'un algorithme performant de tirage d'échantillons dans cette distribution. Des expérimentations intensives montrent que l'approche est robuste et performante.",
+"title": "Vers une Automatisation de la Construction de Variables pour la Classification Supervisée",
+"placeAut":[{
+"place":"Lannion",
+"country":"France",
+"location":{
+	"lat":"48.732084",
+	"lon":"-3.459144"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 43.604652, u'lon': 1.444209}",
+"place": "Toulouse",
+"booktitle": "EGC",
+"idArt": "208",
+"authors": "['Marc Boullé','Dhafer Lahbib']"
+}

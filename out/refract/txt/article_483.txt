@@ -1,0 +1,1 @@
+Dans cet article, une nouvelle stratégie d'apprentissage actif est proposée. Cette stratégie est fondée sur une méthode de discrétisation Bayésienne semi-supervisée. Des expériences comparatives sont menées sur des données unidimensionnelles, l'objectif étant d'estimer la position d'un échelon à partir de données bruitées.

@@ -1,0 +1,14 @@
+{	 "idArt" : "1032",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2004",
+	 "place" : "Clermont-Ferrand",
+	 "location" : { "lat" :  45.77722199999999, 
+		 "lon" : 3.087025 }, 
+	 "title" : "Approche binaire pour la génération de fortes règles d'association",
+	 "abstract" : "Dans ce papier, nous proposons une nouvelle méthode d'extraction des règles d'association dans des bases de données relationnelles basée sur la technologie des arbres de Peano (Ptree). La structure de données utilisée pour représenter la base de données est un ensemble de Ptrees de base représentant chacun un vecteur binaire et tous ces Ptrees sont stockés dans des fichiers binaires. Nous montrons que la structure Ptree combinée avec la technique de réduction appelée élagage par support minimum produisent des règles d'association fortes et réduisent considérablement le temps de construction de l'association. En effet, notre approche présente l'avantage de ne pas effectuer des parcours coûteux de la base de données. Cette approche a été testée à travers un prototype que nous avons implémenté. Les résultats expérimentaux montrent que les règles d'association fortes sont générées dans un temps minimum comparativement à d'autres travaux.",
+	 "authors" : ["Thabet Slimani","Boutheina Ben Yaghlane","Khaled Mellouli"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1001052" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1001052" 
+} 
+ 

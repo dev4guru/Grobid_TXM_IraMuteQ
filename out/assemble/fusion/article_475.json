@@ -1,0 +1,22 @@
+{
+"year": "2010",
+"metaSession": "3",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1001299",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1001299",
+"abstract": "Un grand nombre d'informations qui ont une structure complexeproviennent de diverses sources. Ces informations contiennent des connaissancestrès utiles pour l'aide à la décision. L'Extraction des Connaissances àpartir des Données (ECD), permet d'acquérir des informations pertinentes pourles systèmes interactifs d'aide à la décision (SIAD). Mais, dans plusieurs domaines,les données évoluent d'une manière dynamique et finissent par dépendrede plusieurs dimensions. Les Réseaux Bayésiens dynamiques (RBD)sont des modèles représentant des connaissances incertaines sur des phénomènescomplexes de processus dynamiques. Notre objectif revient à fixer lesmeilleures modèles de connaissances extraites par les RBD et à les utiliserpour la prise de décision dynamique. Ainsi, Nous proposons dans cet articleune démarche pour la mise en place d'un processus d'extraction des connaissancesà partir des données multidimensionnelles et temporelles.",
+"title": "Système d'extraction des connaissances à partir des données temporelles basé sur les Réseaux Bayésiens Dynamiques",
+"placeAut":[{
+"place":"Sfax",
+"country":"Tunisie",
+"location":{
+	"lat":"34.733333",
+	"lon":"10.766667"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 36.4, u'lon': 10.616667}",
+"place": "Hammamet",
+"booktitle": "EGC",
+"idArt": "475",
+"authors": "['Ghada Trabelsi','Mounir Ben Ayed','Adel M. Alimi']"
+}

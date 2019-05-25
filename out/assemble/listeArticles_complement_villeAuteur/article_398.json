@@ -1,0 +1,13 @@
+{	 "idArt" : "398",
+	 "placeAut" : [ 
+		{ "place" : "Villeurbanne",
+		 "country" : "France",
+		 "location" : { "lat" :  45.771944, 
+			 "lon" : 4.89017089999993 } },
+		{ "place" : "Jendouba",
+		 "country" : "Tunisie",
+		 "location" : { "lat" :  36.5, 
+			 "lon" : 8.78333299999997 } }
+	 ]
+} 
+ 

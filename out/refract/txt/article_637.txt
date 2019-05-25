@@ -1,0 +1,1 @@
+Les systèmes de détection d'intrusions (SDIs) ont pour objectif la sécurité des réseaux informatiques. Dans ce papier, nous proposons une nouvelle approche de détection d'intrusions basée sur des règles associatives génériques de classification pour améliorer la qualité de la détection d'intrusions.

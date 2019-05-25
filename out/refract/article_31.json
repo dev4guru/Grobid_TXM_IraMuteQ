@@ -1,0 +1,22 @@
+{
+"year": "2015",
+"metaSession": "",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1002116",
+"pdfarticle": "",
+"abstract": "The knowledge representation area needs some methods that allow to detect and handle uncertainty. Indeed, a lot of text hold information whose the veracity can be called into question. These information should be managed efficiently in order to represent the knowledge in an explicit way. As first step, we have identified the different forms of uncertainty during a knowledge extraction process, then we have introduce an RDF representation for these kind of knowledge based on an ontologie that we developped for this issue.",
+"title": "Gestion de l'incertitude dans le cadre d'une extraction des connaissances à partir de texte",
+"placeAut":[{
+"place":"Gentilly",
+"country":"France",
+"location":{
+	"lat":"48.8138999",
+	"lon":"2.344688"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 49.815273, u'lon': 6.129582999999999}",
+"place": "Luxembourg",
+"booktitle": "EGC",
+"idArt": "31",
+"authors": "['Fadhela Kerdjoudj','Olivier Curé']"
+}

@@ -1,0 +1,13 @@
+{	 "idArt" : "161",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2013",
+	 "place" : "Toulouse",
+	 "location" : { "lat" :  43.604652, 
+		 "lon" : 1.444209 }, 
+	 "title" : "Analyse des réclamations d'allocataires de la CAF : un cas d'étude en fouille de données",
+	 "abstract" : "La gestion des réclamations est un élément fondamental dans la relation client. C'est le cas en particulier pour la Caisse Nationale des Allocations Familiales qui veut mettre en place une politique nationale pour faciliter cette gestion. Dans cet article, nous décrivons la démarche que nous avons adoptée afin de traiter automatiquement les réclamations provenant d'allocataires de la CAF du Rhône. Les données brutes mises à notre disposition nécessitent une série importante de prétraitements pour les rendre utilisables. Une fois ces données correctement nettoyées, des techniques issues de l'analyse des données et de l'apprentissage non supervisé nous permettent d'extraire à la fois une typologie des réclamations basée sur leur contenu textuel mais aussi une typologie des allocataires réclamants. Après avoir présenté ces deux typologies, nous les mettons en correspondance afin de voir comment les allocataires se distribuent selon les différents types de réclamation.",
+	 "authors" : ["Sabine Loudcher","Julien Velcin","Vincent Forissier","Cyril Broilliard","Philippe Simonnot"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1001866" 
+} 
+ 

@@ -1,0 +1,13 @@
+{	 "idArt" : "138",
+	 "placeAut" : [ 
+		{ "place" : "Colombelles",
+		 "country" : "France",
+		 "location" : { "lat" :  49.2039, 
+			 "lon" : -0.29723200000000816 } },
+		{ "place" : "Lens",
+		 "country" : "France",
+		 "location" : { "lat" :  50.42893000000001, 
+			 "lon" : 2.831829999999968 } }
+	 ]
+} 
+ 

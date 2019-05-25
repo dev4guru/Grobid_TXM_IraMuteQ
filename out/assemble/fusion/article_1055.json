@@ -1,0 +1,22 @@
+{
+"year": "2004",
+"metaSession": "3",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1001011",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1001011",
+"abstract": "Les SVM (support vector machines) ont montré leur efficacité dans plusieurs domaines d'application. L'apprentissage des SVM se ramène à résoudre un programme quadratique, dont la mise en oeuvre est en général coûteuse en temps. Une reformulation plus récente des SVM (proximal SVM), proposée par Fung et Mangasarian, ne nécessite que la résolution d'un système linéaire, cet algorithme de PSVM est plus efficace et permet de traiter des données dont le nombre d'individus est très important (109) et le nombre d'attributs plus restreint (104). Nous proposons d'utiliser la formule de Sherman-Morrison-Woodbury pour adapter le PSVM à la fouille d'ensembles de données dont le nombre d'attributs est très important et le nombre d'individus plus restreint sur un matériel standard. Puis nous présentons un algorithme de boosting de PSVM pour classifier des données de très grandes tailles en nombre d'individus et d'attributs. Nous évaluons les performances du nouvel algorithme sur les ensembles de données de l'UCI, Twonorm, Ringnorm, Reuters-21578 et Ndc.",
+"title": "Fouille de grands ensembles de données avec un boosting proximal SVM",
+"placeAut":[{
+"place":"Laval",
+"country":"France",
+"location":{
+	"lat":"48.0785146",
+	"lon":"-0.7669906"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 45.77722199999999, u'lon': 3.087025}",
+"place": "Clermont-Ferrand",
+"booktitle": "EGC",
+"idArt": "1055",
+"authors": "['Thanh-Nghi Do','François Poulet']"
+}

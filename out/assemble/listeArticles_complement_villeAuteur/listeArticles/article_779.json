@@ -1,0 +1,13 @@
+{	 "idArt" : "779",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2006",
+	 "place" : "Lille",
+	 "location" : { "lat" :  50.62925, 
+		 "lon" : 3.057256 }, 
+	 "title" : "Archiview, un outil de visualisation topographique des paramètres d'un hôpital",
+	 "authors" : ["Pierre P. Lévy","Jean-Philippe Villaréal","Pierre-Paul Couka","Fabrice Gallois","Laurence Herbin","Antoine Flahault"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1000449" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1000449" 
+} 
+ 

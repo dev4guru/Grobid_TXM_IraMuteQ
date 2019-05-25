@@ -1,0 +1,9 @@
+{	 "idArt" : "548",
+	 "placeAut" : [ 
+		{ "place" : "Orléans",
+		 "country" : "France",
+		 "location" : { "lat" :  47.902964, 
+			 "lon" : 1.9092510000000402 } }
+	 ]
+} 
+ 

@@ -1,0 +1,13 @@
+{	 "idArt" : "283",
+	 "placeAut" : [ 
+		{ "place" : "Nantes",
+		 "country" : "France",
+		 "location" : { "lat" :  47.218371, 
+			 "lon" : -1.553621000000021 } },
+		{ "place" : "Lorient",
+		 "country" : "France",
+		 "location" : { "lat" :  47.7482524, 
+			 "lon" : -3.3702448999999888 } }
+	 ]
+} 
+ 

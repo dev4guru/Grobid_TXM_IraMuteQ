@@ -1,0 +1,13 @@
+{	 "idArt" : "168",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2013",
+	 "place" : "Toulouse",
+	 "location" : { "lat" :  43.604652, 
+		 "lon" : 1.444209 }, 
+	 "title" : "Découverte des soft-skypatterns avec une approche PPC",
+	 "abstract" : "Les skypatterns sont des motifs traduisant des préférences de l'utilisateur selon une relation de dominance. Dans cet article, nous introduisons la notion de souplesse dans la problématique des skypatterns et nous montrons comment celle-ci permet de découvrir des motifs intéressants qui seraient manqués autrement. Nous proposons une méthode efficace d'extraction de skypatterns ainsi que de soft-skypatterns, méthode fondée sur la programmation par contraintes. La pertinence de notre approche est illustrée à travers une étude de cas en chémoinformatique pour la découverte de toxicophores.",
+	 "authors" : ["Willy Ugarte","Patrice Boizumault","Samir Loudni","Bruno Crémilleux","Alban Lepailleur"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1001838" 
+} 
+ 

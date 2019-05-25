@@ -1,0 +1,22 @@
+{
+"year": "2015",
+"metaSession": "6",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1002078",
+"pdfarticle": "",
+"abstract": "Dans cet article nous proposons une modification pour l'algorithme Iterated Conditional Modes (ICM) appliqué à la segmentation d'images à très haute résolution. Pour ce faire, nous introduisons un nouveau critère de convergence basé sur la compacité des clusters et qui repose sur une fonction d'énergie adaptée aux modèles de voisinages irréguliers de ce type d'images. Grâce à cette méthode, nos premières expériences ont montré que nous obtenons des résultats plus fiables en terme de convergence et de meilleure qualité qu'en utilisant l'énergie globale comme critère d'arrêt.",
+"title": "Un algorithme ICM basé sur la compacité pour la segmentation des images satellites à très haute résolution",
+"placeAut":[{
+"place":"Paris",
+"country":"France",
+"location":{
+	"lat":"48.856614",
+	"lon":"2.3522219"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 49.815273, u'lon': 6.129582999999999}",
+"place": "Luxembourg",
+"booktitle": "EGC",
+"idArt": "56",
+"authors": "['Jérémie Sublime','Younès Bennani','Antoine Cornuéjols']"
+}

@@ -1,0 +1,22 @@
+{
+"year": "2005",
+"metaSession": "1",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1000299",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1000299",
+"abstract": "La gestion des ressources humaines repose d'une part sur la connaissance des individus et de leurs compétences et d'autre part sur la connaissance de l'organisation et de ses métiers. C'est par la mise en correspondance de ces connaissances qu'il est possible d'améliorer l'emploi, de valoriser les connaissances et les compétences individuelles et de mieux gérer l'organisation. Cette mise en correspondance nécessite une représentation explicite des connaissances, ce qui permet de répondre à de nouveaux besoins : annuaire de compétences, gestion des projets et des retours d'expériences, identification des connaissances à risques, etc.Nous verrons dans le cadre de cet article l'intérêt de l'approche ontologique tant d'un point de vue méthodologique pour la clarification des notions mises en jeu dans le cadre de la GPECC (Gestion Prévisionnelle des Emplois des Compétences et des Connaissances) que pour la construction, la représentation et la maintenance des référentiels des compétences, des connaissances et des métiers. Elle permet en particulier une gestion de l'information par la terminologie et le sens métier propre à l'organisation.",
+"title": "La démarche ontologique pour la gestion des compétences et des connaissances",
+"placeAut":[{
+"place":"Le Bourget-du-Lac",
+"country":"France",
+"location":{
+	"lat":"45.649392",
+	"lon":"5.859076"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 48.856614, u'lon': 2.3522219}",
+"place": "Paris",
+"booktitle": "EGC",
+"idArt": "978",
+"authors": "['Christophe Roche','Charles Foveau','Samah Reguigui']"
+}

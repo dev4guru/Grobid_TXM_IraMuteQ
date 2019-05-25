@@ -1,0 +1,1 @@
+Ce travail se situe dans le domaine de la Cybersécurité, le projet D113 permet de visualiser en temps réel les flux transitant sur des équipements de filtrage sans avoir recours au traitement manuel des journaux d'événements. Nous centrerons notre démonstration sur la visualisation de grands graphes et l'exploitation d'analyses statiques des flux.

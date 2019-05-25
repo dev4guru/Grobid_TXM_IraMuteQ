@@ -1,0 +1,14 @@
+{	 "idArt" : "983",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2005",
+	 "place" : "Paris",
+	 "location" : { "lat" :  48.856614, 
+		 "lon" : 2.3522219 }, 
+	 "title" : "Méthode de construction d'ontologie de termes à partir du treillis de l'iceberg de Galois",
+	 "abstract" : "L'approche présentée dans cet article a pour objectif la construction d'une ontologie à partir du treillis de l'iceberg de Galois. Nous entendons par ontologie un ensemble de termes structurés entre eux par un ensemble de liens de divers types. Dans notre cas d'étude, cette ontologie constitue un support de connaissances documentaires. En effet, elle peut être utilisée dans diverses applications en Recherche d'Information (RI), telles que l'indexation automatique et l'expansion de requêtes ainsi qu'en text-mining. La méthode de construction que nous proposons est fondée sur l'analyse formelle de concepts (AFC) et plus précisément, la structure du treillis de l'iceberg de Galois. En utilisant cette structure hiérarchique partiellement ordonnée, nous présentons une translation directe des relations laticielles vers celles ontologiques. Nous proposons ainsi d'enrichir l'ontologie dérivée par des règles associatives génériques entre termes, découvertes dans le cadre d'un processus de text-mining.",
+	 "authors" : ["Cherif Chiraz Latiri","Mehdi Mtir","Sadok Ben Yahia"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1000304" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1000304" 
+} 
+ 

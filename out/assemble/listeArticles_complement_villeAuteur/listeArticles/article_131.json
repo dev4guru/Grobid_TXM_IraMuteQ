@@ -1,0 +1,13 @@
+{	 "idArt" : "131",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2014",
+	 "place" : "Rennes",
+	 "location" : { "lat" :  48.117266, 
+		 "lon" : -1.6777926 }, 
+	 "title" : "Règles d'association inter-langues au service de la recherche d'information multilingue",
+	 "abstract" : "Dans cet article, nous proposons de montrer l'intérêt et l'utilité de déploiementdes règles d'association inter-langues (RAILs) dans le domaine de laRecherche d'Information Multilingue (RIM). Ces règles sont des connaissancesadditionnelles résultantes d'un processus de fouille de grands corpus parallèlesalignés au niveau de la phrase. En effet, leurs conclusions exprimées dans unelangue cible représentent des traductions potentielles de leurs prémisses, expriméesdans une langue source. Nous illus trons l'utilisation des RAILs dans lecontexte de la RIM à travers deux propositions, à savoir : (i) la traduction desrequêtes et (ii) la traduction des termes de l'index. L'évaluation expérimentale aété menée sur la collection de documents MUCHMORE. Les résultats ont montréune amélioration significative de la pertinence système.",
+	 "authors" : ["Belhaj Rhouma Sourour","Asma Ben Achour","Malek Hajjem","Chiraz Latiri"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1001927" 
+} 
+ 

@@ -1,0 +1,14 @@
+{	 "idArt" : "963",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2005",
+	 "place" : "Paris",
+	 "location" : { "lat" :  48.856614, 
+		 "lon" : 2.3522219 }, 
+	 "title" : "Extension des bases de données inductives pour la découverte de chroniques",
+	 "abstract" : "Les bases de données inductives intègrent le processus de fouille de données dans une base de données qui contient à la fois les données et les connaissances induites. Nous nous proposons d'étendre les données traitées afin de permettre l'extraction de motifs temporels fréquents et non fréquents à partir d'un ensemble de séquences d'évènements. Les motifs temporels visés sont des chroniques qui permettent d'exprimer des contraintes numériques sur les délais entre les occurrences d'évènements.",
+	 "authors" : ["Alexandre Vautier","Marie-Odile Cordier","Rene Quiniou"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1000314" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1000314" 
+} 
+ 

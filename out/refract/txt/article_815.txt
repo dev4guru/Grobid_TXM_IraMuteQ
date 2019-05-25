@@ -1,0 +1,1 @@
+Dans cet article, nous proposons une méthode de classification croiséepermettant de classer des protéines, d'une part, et de classer des descripteurs (3-grammes) selon leurs pertinences par rapport aux groupes de protéines obtenus,d'autres part.

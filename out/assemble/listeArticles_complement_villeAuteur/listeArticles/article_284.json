@@ -1,0 +1,14 @@
+{	 "idArt" : "284",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2011",
+	 "place" : "Brest",
+	 "location" : { "lat" :  48.390394, 
+		 "lon" : -4.486076 }, 
+	 "title" : "Analyse du comportement limite d'indices probabilistes pour une sélection discriminante",
+	 "abstract" : "Nous étudions ici le comportement de deux types d'indices probabilistes discriminants en présence de données dont le volume va en croissant. A cet égard, un modèle spécifique de croissance de la taille des données et de liaison entre variables est mis en oeuvre et celui-ci va permettre de déterminer le comportement limite des différents indices quel que soit le niveau de liaison entre la prémisse et la conclusion de la règle donnée. La clarté des résultats obtenus nous conduit à en chercher l'explication formelle. L'expérimentation a été effectuée avec la base de données UCI Wages.",
+	 "authors" : ["Sylvie Guillaume","Israël-César Lerman"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1001036" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1001036" 
+} 
+ 

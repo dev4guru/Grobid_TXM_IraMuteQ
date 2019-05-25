@@ -1,0 +1,14 @@
+{	 "idArt" : "242",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2012",
+	 "place" : "Bordeaux",
+	 "location" : { "lat" :  44.837789, 
+		 "lon" : -0.57918 }, 
+	 "title" : "Human Detection by a Small Autonomous Mobile Robot",
+	 "abstract" : "Nous proposons une méthode utilisant les histogrammes de gradientorienté (HOG) et les séparateurs à vaste marge (SVM) pour la détection de personnesà partir d'images prises depuis un petit robot mobile autonome. Les travauxantérieurs réalisés dans le domaine de la détection d'êtres humains à partird'images ne peuvent pas être employés pour ce type d'application car ils supposentque les images sont prises à partir d'une position élevée (au moins lahauteur d'un petit enfant) alors que la taille de notre robot n'est que de 15cm.Nous employons à la fois les HOG et les SVM car cette combinaison de méthodesest reconnue comme étant celle ayant le plus de succès pour la détectionde personnes. Pour traiter une grande variété de formes humaines, principalementen raison de la distance existant entre les personnes et le robot, nous avonsdéveloppé une nouvelleméthode de prédiction à deux étapes utilisant deux typesde classificateurs SVM qui reposent sur une estimation de la distance. L'estimationest basée sur une proportion de pixels de couleur de peau dans l'image, cequi nous permet de clairement séparer notre problème de la détection de corpsentier et de celle de corps partiel. Les essais réalisés dans un bureau ont montrédes résultats prometteurs de notre méthode avec une valeur de F de 0,93.",
+	 "authors" : ["Kouhei Takemoto","Shigeru Takano","Einoshin Suzuki"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1001172" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1001172" 
+} 
+ 

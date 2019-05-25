@@ -1,0 +1,22 @@
+{
+"year": "2005",
+"metaSession": "5",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1000413",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1000413",
+"abstract": "Le Catalogue et Index des Sites Médicaux Francophones (CISMeF) recense les principales ressources institutionnelles de santé en français. La description de ces ressources, puis leur accès par les utilisateurs, se fait grâce à la terminologie CISMeF, fondée sur le thésaurus américain Medical Subject Headings (MeSH). La version française du MeSH comprend tous les descripteurs MeSH, mais de nombreux synonymes américains restent à traduire. Afin d'enrichir la terminologie, nous proposons ici une méthode de traduction automatique de ces synonymes. Pour ce faire, nous avons constitué deux corpus parallèles anglais/français du domaine médical. Après alignement semi-automatique des corpus paragraphe à paragraphe, nous avons procédé automatiquement à l'appariement bilingue des termes. Pour cela, le lexique constitué des descripteurs MeSH américains et de leur traduction en français a fourni les couples amorces qui ont servi de point de départ à la propagation syntaxique des liens d'appariement. 217 synonymes ont pu être traduits, avec une précision de 70%.",
+"title": "Extraction bilingue de termes médicaux dans un corpus  parallèle anglais/français",
+"placeAut":[{
+"place":"Saint Etienne du Rouvray",
+"country":"France",
+"location":{
+	"lat":"49.380305",
+	"lon":"1.108209"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 48.856614, u'lon': 2.3522219}",
+"place": "Paris",
+"booktitle": "EGC",
+"idArt": "965",
+"authors": "['Aurélie Névéol','Sylwia Ozdowska']"
+}

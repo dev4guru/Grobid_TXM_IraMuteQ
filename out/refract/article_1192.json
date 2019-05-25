@@ -1,0 +1,15 @@
+{
+"idArt": "1192",
+"series": "Revue des Nouvelles Technologies de l'Information",
+"booktitle": "EGC",
+"year": "2017",
+"title": "Application du coclustering à l'analyse exploratoire d'une table de données",
+"abstract": "La classification croisée est une technique d'analyse non superviséequi permet d'extraire la structure sous-jacente existante entre les individus et lesvariables d'une table de données sous forme de blocs homogènes. Cette tech-nique se limitant aux variables de même nature, soit numériques soit catégo-rielles, nous proposons de l'étendre en proposant une méthodologie en deuxétapes. Lors de la première étape, toutes les variables sont binarisées selon unnombre de parties choisi par l'analyste, par discrétisation en fréquences égalesdans le cas numérique ou en gardant les valeurs les plus fréquentes dans le cascatégoriel. La deuxième étape consiste à utiliser une méthode de coclusteringentre individus et variables binaires, conduisant à des regroupements d'indivi-dus d'une part, et de parties de variables d'autre part. Nous appliquons cetteméthodologie sur plusieurs jeux de donnée en la comparant aux résultats d'uneanalyse par correspondances multiples ACM, appliquée aux même données bi-narisées.",
+"authors": "Aichetou Bouchareb, Marc Boullé, Fabrice Clérot, Fabrice Rossi",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1002279",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1002279",
+"metaSession": "6",
+"place": "Grenoble",
+"Latitude": " 45.188533 ",
+"Longitude": "5.724528"
+}

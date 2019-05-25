@@ -1,0 +1,14 @@
+{	 "idArt" : "326",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2011",
+	 "place" : "Brest",
+	 "location" : { "lat" :  48.390394, 
+		 "lon" : -4.486076 }, 
+	 "title" : "Les moteurs de wikis sémantiques : un état de l'art",
+	 "abstract" : "Cet article est un état de l'art sur les moteurs de wiki sémantique, en particulier sur leur utilisation des technologies du Web sémantique. Les principales notions liées aux wikis sémantiques sont d'abord présentées. Ensuite, plusieurs projets actifs de moteurs de wiki sont comparés selon différents points de vue. Finalement, des recommandations sont données pour le choix d'un moteur de wiki. En conclusion, les auteurs s'interrogent sur les perspectives des wikis sémantiques telles que la faible interopérabilité de certains moteurs.",
+	 "authors" : ["Thomas Meilender","Nicolas Jay","Jean Lieber","Fabien Palomares"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1001020" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1001020" 
+} 
+ 

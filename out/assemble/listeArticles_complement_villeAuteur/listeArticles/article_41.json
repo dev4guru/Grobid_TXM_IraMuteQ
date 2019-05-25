@@ -1,0 +1,13 @@
+{	 "idArt" : "41",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2015",
+	 "place" : "Luxembourg",
+	 "location" : { "lat" :  49.815273, 
+		 "lon" : 6.129582999999999 }, 
+	 "title" : "Mining Classes by Multi-label Classification",
+	 "abstract" : "We propose a new approach to mine potential classes in news documents by examining close relationship between new classes and probability vectors of multiple labeling of the documents. Using EM algorithm to obtain the distribution over linear mixture models, we make clustering and mine classes.",
+	 "authors" : ["Yuichiro Kase","Takao Miura"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1002066" 
+} 
+ 

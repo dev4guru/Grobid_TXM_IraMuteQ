@@ -1,0 +1,14 @@
+{	 "idArt" : "653",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2008",
+	 "place" : "Sophia Antipolis",
+	 "location" : { "lat" :  43.6163539, 
+		 "lon" : 7.0552218 }, 
+	 "title" : "Un cyber cartogramme gravitationnel pour l'analyse visuelle de données spatiotemporelles complexes",
+	 "abstract" : "Le cartogramme présenté dans cet article est destiné à faciliterl'analyse visuelle de données spatiotemporelles complexes. Pour cela, il offrela possibilité de représenter simultanément les trois dimensions nécessaires àtoute forme d'analyse géographique que sont les dimensions spatiale (où),thématique (quoi) et temporelle (quand), à partir de trois composantes principales: (1) une représentation unidimensionnelle (1D) de l'espace géographiquede forme semi-circulaire centrée sur une origine (ex. le Canada) ; (2) desentités géographiques (ex. pays) qui viennent graviter autour de cette origineen fonction de valeurs attributaires ; et (3) une ligne de temps interactive permettantd'explorer la dimension temporelle de l'information représentée. Lacombinaison de ces trois composantes offre de multiples potentialités pourl'analyse spatio-temporelle de différentes formes de proximités qu'elles soientéconomiques, culturelles, sociales ou démographiques. Les fonctionnalités etpotentialités de ce cartogramme développé en source ouverte sont illustrées àpartir d'exemples issus de l'atlas cybercartographique du commerce Canadien.Cet article reprend les grandes lignes d'une communication présentée lors de laconférence SAGEO 2007.",
+	 "authors" : ["Sébastien Caquard","Jean-Pierre Fiset"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1001229" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1001229" 
+} 
+ 

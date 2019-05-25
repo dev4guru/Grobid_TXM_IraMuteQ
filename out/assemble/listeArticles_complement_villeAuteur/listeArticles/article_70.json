@@ -1,0 +1,13 @@
+{	 "idArt" : "70",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2014",
+	 "place" : "Rennes",
+	 "location" : { "lat" :  48.117266, 
+		 "lon" : -1.6777926 }, 
+	 "title" : "Alignement d'ontologies : exploitation des ontologies liées sur le web de données",
+	 "abstract" : "Nous proposons dans cet article une méthode d'alignement d'une ontologiesource avec des ontologies cibles déjà publiées et liées sur le web dedonnées. Nous présentons ensuite un retour d'expérience sur l'alignement d'uneontologie dans le domaine des sciences du vivant et de l'environnement avecAGROVOC et NALT.",
+	 "authors" : ["Thomas Hecht","Patrice Buche","Juliette Dibie-Barthélemy","Liliana Ibanescu","Cássia Trojahn dos Santos"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1001911" 
+} 
+ 

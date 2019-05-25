@@ -1,0 +1,13 @@
+{	 "idArt" : "724",
+	 "placeAut" : [ 
+		{ "place" : "Saint-Etienne-du-Rouvray",
+		 "country" : "France",
+		 "location" : { "lat" :  49.380305, 
+			 "lon" : 1.108208999999988 } },
+		{ "place" : "Boos",
+		 "country" : "France",
+		 "location" : { "lat" :  49.38802099999999, 
+			 "lon" : 1.2015499000000318 } }
+	 ]
+} 
+ 

@@ -1,0 +1,13 @@
+{	 "idArt" : "670",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC ",
+	 "year" : "2008",
+	 "place" : "Sophia Antipolis",
+	 "location" : { "lat" :  43.6163539, 
+		 "lon" : 7.0552218 }, 
+	 "title" : "Vers l'intégration de la prédiction dans les cubes OLAP",
+	 "authors" : ["Anouck Bodin-Niemczuk","Riadh Ben Messaoud","Sabine Loudcher","Omar Boussaid"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1000584" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1000584" 
+} 
+ 

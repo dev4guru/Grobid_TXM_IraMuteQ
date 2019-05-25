@@ -1,0 +1,14 @@
+{	 "idArt" : "1083",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2004",
+	 "place" : "Clermont-Ferrand",
+	 "location" : { "lat" :  45.77722199999999, 
+		 "lon" : 3.087025 }, 
+	 "title" : "Recherche de règles d'association hiérarchiques par une approche anthropocentrée",
+	 "abstract" : "L'Extraction de Connaissances dans la Bases de Données est devenue, pour les banques, une alternative au problème lié à la quantité de données qui sont stockées et qui ne cessent d'augmenter. Ceci aboutit à un paradoxe puisqu'il faut mieux cibler la clientèle susceptible d'être intéressée par une offre en utilisant des méthodes qui ne permettent plus de traiter le nombre croissant d'enregistrements des bases de données. Nos travaux se situent dans la continuité d'une étude que nous avons réalisée sur la recherche de règles d'association appliquée au marketing bancaire. En effet, des premiers résultats encourageants nous ont conduit à approfondir nos travaux vers une recherche de règles d'association hiérarchiques utilisant non plus une approche automatique mais une approche anthropocentrée. Il s'agit d'une approche dans laquelle l'expert fait partie intégrante du processus en jouant le rôle d'heuristique évolutive. Cet article présente les résultats de notre démarche de recherche.",
+	 "authors" : ["Olivier Couturier","Engelbert Mephu Nguifo","Brigitte Noiret"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1001154" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1001154" 
+} 
+ 

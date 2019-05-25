@@ -1,0 +1,13 @@
+{	 "idArt" : "122",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2014",
+	 "place" : "Rennes",
+	 "location" : { "lat" :  48.117266, 
+		 "lon" : -1.6777926 }, 
+	 "title" : "Mining the Crowd",
+	 "abstract" : "Harnessing a crowd of Web users for data collection has recently become a wide-spreadphenomenon. A key challenge is that the human knowledge forms an open world and it is thusdifficult to know what kind of information we should be looking for. Classic databases haveaddressed this problem by data mining techniques that identify interesting data patterns. Thesetechniques, however, are not suitable for the crowd. This is mainly due to properties of thehuman memory, such as the tendency to remember simple trends and summaries rather thanexact details. Following these observations, we develop here a novel model for crowd mining.We will consider in the talk the logical, algorithmic, and methodological foundations neededfor such a mining process, as well as the applications that can benefit from the knowledgemined from crowd.",
+	 "authors" : ["Tova Milo"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1001908" 
+} 
+ 

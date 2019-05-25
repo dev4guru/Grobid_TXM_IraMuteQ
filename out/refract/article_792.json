@@ -1,0 +1,22 @@
+{
+"year": "2006",
+"metaSession": "5",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1000440",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1000440",
+"abstract": "",
+"title": "Comment formaliser les connaissances tacites d'une organisation ? Le cas de la conduite du changement à la SNCF",
+"placeAut":[{
+"place":"Evry",
+"country":"France",
+"location":{
+	"lat":"48.629828",
+	"lon":"2.441782"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 50.62925, u'lon': 3.057256}",
+"place": "Lille",
+"booktitle": "EGC",
+"idArt": "792",
+"authors": "['Anne Remillieux','Christian Blatter']"
+}

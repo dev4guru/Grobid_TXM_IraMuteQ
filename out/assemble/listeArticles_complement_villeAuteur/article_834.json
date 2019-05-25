@@ -1,0 +1,9 @@
+{	 "idArt" : "834",
+	 "placeAut" : [ 
+		{ "place" : "Alger",
+		 "country" : "Algérie",
+		 "location" : { "lat" :  36.752887, 
+			 "lon" : 3.0420480000000225 } }
+	 ]
+} 
+ 

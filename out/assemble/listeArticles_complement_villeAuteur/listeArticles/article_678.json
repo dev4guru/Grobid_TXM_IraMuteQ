@@ -1,0 +1,14 @@
+{	 "idArt" : "678",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2007",
+	 "place" : "Namur",
+	 "location" : { "lat" :  50.4673883, 
+		 "lon" : 4.8719854 }, 
+	 "title" : "Application des réseaux bayésiens à l'analyse des facteurs impliqués dans le cancer du Nasopharynx",
+	 "abstract" : "L'apprentissage de la structure des réseaux bayésien à partir de données est un problème NP-difficile. Une nouvelle heuristique de complexité polynômiale, intitulée Polynomial Max-Min Skeleton (PMMS), a été proposée en 2005 par Tsamardinos et al. et validée avec succès sur de nombreux bancs d'essai. PMMS présente, en outre, l'avantage d'être performant avec des jeux de données réduits. Néanmoins, comme tous les algorithmes sous contraintes, celui-ci échoue lorsque des dépendances fonctionnelles (déterministes) existent entre des groupes de variables. Il ne s'applique, par ailleurs, qu'aux données complètes. Aussi, dans cet article, nous apportons quelques modifications pour remédier à ces deux problèmes. Après validation sur le banc d'essai Asia, nous l'appliquons aux données d'une étude épidémiologique cas-témoins du cancer du nasopharynx (NPC) de 1289 observations, 61 variables et 5% de données manquantes issues d'un questionnaire. L'objectif est de dresser un profil statistique type de la population étudiée et d'apporter un éclairage utile sur les différents facteurs impliqués dans le NPC",
+	 "authors" : ["Alexandre Aussem","Sergio Rodrigues de Morais","Marilys Corbex"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1001318" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1001318" 
+} 
+ 

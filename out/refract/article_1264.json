@@ -1,0 +1,15 @@
+{
+"idArt": "1264",
+"series": "Revue des Nouvelles Technologies de l'Information",
+"booktitle": "EGC",
+"year": "2018",
+"title": "Analyse en rôles sémantiques pour le résumé automatique",
+"abstract": "Cet article présente une approche visant à extraire les informations expriméesdans un corpus de textes et en produire un résumé. Plusieurs variantes deméthodes extractives de résumé de texte ont été implémentées et évaluées. Leurprincipale originalité réside dans l'exploitation de structures appelées CDS (pourClause Description Structure) issues d'un composant d'annotation en rôles sémantiqueset non directement des phrases composant les textes. Le résumé obtenuest un sous-ensemble des CDS issus du corpus d'origine ; ce format permettradans la suite la détection d'incohérences textuelles. Dans ce travail, nous retransformonsles CDS résumés en texte pour permettre la comparaison de notreapproche avec celles de la littérature. Les premiers résultats sont très encourageants: les variantes que nous proposons obtiennent généralement de meilleursscores que des implémentations de méthodes de référence.",
+"authors": "Elyase Lassouli, Yasmine Mesbahi, Camille Pradel, Damien Sileo",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1002384",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1002384",
+"metaSession": "1",
+"place": "Paris",
+"Latitude": " 48.8538 ",
+"Longitude": "2.3492"
+}

@@ -1,0 +1,15 @@
+{
+"idArt": "1242",
+"series": "Revue des Nouvelles Technologies de l'Information",
+"booktitle": "EGC",
+"year": "2017",
+"title": "Suivi de l'évolution de Clusters de Liens dans des Réseaux Sociaux Dynamiques",
+"abstract": "De nombreuses méthodes ont été proposées pour extraire des clus-ters des réseaux sociaux. Si un travail important est aujourd'hui mené sur laconception de méthodes innovantes capables de rechercher des clusters de na-ture différente, la plupart des approches font l'hypothèse de réseaux statiques.L'une des récentes méthodes concerne notamment la recherche de liens concep-tuels. Il s'agit d'une nouvelle approche de clustering de liens, qui exploite à lafois la structure du réseau et les attributs des noeuds dans le but d'identifier desliens fréquents entre des groupes de noeuds au sein desquels les noeuds par-tagent des attributs communs. Dans ce travail, nous nous intéressons au suivides liens conceptuels dans des réseaux dynamiques, c'est-à-dire des réseaux quiconnaissent des changements structurels importants. Nous cherchons en parti-culier à comprendre comment les liens conceptuels se forment et évoluent aucours du développement du réseau. Pour ce faire, nous proposons un ensemblede mesures qui visent à capturer des comportements caractérisant l'évolutionde ces clusters. Notre approche est ainsi utilisée pour comprendre l'évolutiondes liens conceptuels extraits sur deux réseaux réels : un réseau de co-auteursd'articles scientifiques et un réseau de communications mobiles. Les résultatsobtenus permettent de mettre en lumière des tendances significatives dans l'évo-lution des clusters sur ces deux réseaux.",
+"authors": "Erick Stattner, Martine Collard",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1002280",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1002280",
+"metaSession": "7",
+"place": "Grenoble",
+"Latitude": " 45.188583 ",
+"Longitude": "5.724578"
+}

@@ -1,0 +1,14 @@
+{	 "idArt" : "862",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2006",
+	 "place" : "Lille",
+	 "location" : { "lat" :  50.62925, 
+		 "lon" : 3.057256 }, 
+	 "title" : "Une nouvelle mesure sémantique pour le calcul de la similarité entre deux concepts d'une même ontologie",
+	 "abstract" : "Les ontologies sont au coeur du processus de gestion des connaissances.Différentes mesures sémantiques ont été proposées dans la littératurepour évaluer quantitativement l'importance de la liaison sémantique entre pairesde concepts. Cet article propose une synthèse analytique des principales mesuressémantiques basées sur une ontologie modélisée par un graphe et restreinte iciaux liens hiérarchiques is-a. Après avoir mis en évidence différentes limites desmesures actuelles, nous en proposons une nouvelle, la PSS (Proportion of SharedSpecificity), qui sans corpus externe, tient compte de la densité des liens dans legraphe reliant deux concepts",
+	 "authors" : ["Emmanuel Blanchard","Mounira Harzallah","Pascale Kuntz","Henri Briand"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1000344" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1000344" 
+} 
+ 

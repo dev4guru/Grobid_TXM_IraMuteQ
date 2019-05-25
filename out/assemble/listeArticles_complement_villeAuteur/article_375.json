@@ -1,0 +1,9 @@
+{	 "idArt" : "375",
+	 "placeAut" : [ 
+		{ "place" : "Villetaneuse",
+		 "country" : "France",
+		 "location" : { "lat" :  48.963476, 
+			 "lon" : 2.3473539999999957 } }
+	 ]
+} 
+ 

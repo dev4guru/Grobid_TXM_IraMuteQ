@@ -1,0 +1,22 @@
+{
+"year": "2010",
+"metaSession": "",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1001406",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1001406",
+"abstract": "",
+"title": "Sélection par entropie de descripteurs textuels pour la catégorisation de documents",
+"placeAut":[{
+"place":"Bron",
+"country":"France",
+"location":{
+	"lat":"45.733316",
+	"lon":"4.911927"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 36.4, u'lon': 10.616667}",
+"place": "Hammamet",
+"booktitle": "EGC",
+"idArt": "466",
+"authors": "['Christophe Moulin','Christine Largeron']"
+}

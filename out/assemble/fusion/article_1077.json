@@ -1,0 +1,22 @@
+{
+"year": "2004",
+"metaSession": "7",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1001140",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1001140",
+"abstract": "Cet article présente un système de visualisation permettant l'observation des comportements collectifs implicites. Il s'agit de reconnaître et de représenter des communautés à partir des connexions Internet des utilisateurs : les utilisateurs sont répartis en communautés en fonction des similarités entre des listes de termes établies sur l'analyse des documents consultés par chacun d'eux. L'étude est rendue dynamique par la comparaison des communautés reconnues sur des périodes de temps connexes. L'outil décrit ci après offre deux représentations différentes de ces communautés : une vision des liaisons thématiques entre les utilisateurs sur chaque période étudiée et une vue comparative des communautés reconnues sur toute la durée de l'étude.",
+"title": "Outil de représentation des évolutions de communautés d'intérêts",
+"placeAut":[{
+"place":"Caen",
+"country":"France",
+"location":{
+	"lat":"49.182863",
+	"lon":"-0.370679"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 45.77722199999999, u'lon': 3.087025}",
+"place": "Clermont-Ferrand",
+"booktitle": "EGC",
+"idArt": "1077",
+"authors": "['Anne Lavallard','Luigi Lancieri']"
+}

@@ -1,0 +1,13 @@
+{	 "idArt" : "994",
+	 "placeAut" : [ 
+		{ "place" : "Saint-Herblain",
+		 "country" : "France",
+		 "location" : { "lat" :  47.210335, 
+			 "lon" : -1.6514439999999695 } },
+		{ "place" : "Nantes",
+		 "country" : "France",
+		 "location" : { "lat" :  47.218371, 
+			 "lon" : -1.553621000000021 } }
+	 ]
+} 
+ 

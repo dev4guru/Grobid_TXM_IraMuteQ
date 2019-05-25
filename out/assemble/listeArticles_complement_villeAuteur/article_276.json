@@ -1,0 +1,13 @@
+{	 "idArt" : "276",
+	 "placeAut" : [ 
+		{ "place" : "Paris",
+		 "country" : "France",
+		 "location" : { "lat" :  48.856614, 
+			 "lon" : 2.3522219000000177 } },
+		{ "place" : "Aix en Provence",
+		 "country" : "France",
+		 "location" : { "lat" :  43.529742, 
+			 "lon" : 5.4474270000000615 } }
+	 ]
+} 
+ 

@@ -1,0 +1,14 @@
+{	 "idArt" : "1058",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2004",
+	 "place" : "Clermont-Ferrand",
+	 "location" : { "lat" :  45.77722199999999, 
+		 "lon" : 3.087025 }, 
+	 "title" : "How well go Lattice algorithms on currently used machine leaning TestBeds ?",
+	 "abstract" : "Many research papers in classification or association rules increase the interest of Concept lattices structures for data mining (DM) and machine learning (ML). To increase the efficiency of concept lattice-bases algorithms in ML, it is necessary to make us of an efficient algorithms to build concept lattices. In fact, more than ten algorithms for generating concept lattices were published. As real data sets for data mining are very large, concept lattice structure suffers form its complexity issues on such data. The efficiency and performance of concept lattices algorithms are very different from one to another. So we need to compare the existing lattice algorithms with large data. We implemented the four first algorithms in Java environment and compared these algorithms on about 30 datasets of the UCI repository that are well established to be used to compare ML algorithms. Preliminary results give preference to Ganter's algorithm, and then to Bordat's algorithm, which do not fil well with the recommendations of Kuznetsov and Obiedkov. Furthermore, we analyzed the duality of lattice-based algorithms.",
+	 "authors" : ["Huaiguo Fu","Engelbert Mephu Nguifo"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1001078" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1001078" 
+} 
+ 

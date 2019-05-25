@@ -1,0 +1,22 @@
+{
+"year": "2012",
+"metaSession": "6",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1001180",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1001180",
+"abstract": "Nous nous intéressons dans cet article au problème de l'automatisation du processus de choix et de paramétrage des visualisations en fouille visuelle de données. Pour résoudre ce problème, nous avons développé un assistant utilisateur qui effectue deux étapes : à partir des objectifs annoncés par l'utilisateur et des caractéristiques de ses données, le système commence par proposer à l'utilisateur différents appariements entre la base de données à visualiser et les visualisations qu'il gère. Ces appariements sont générés par une heuristique utilisant une base de connaissances sur les visualisations et la perception visuelle. Ensuite, afin d'affiner les différents paramétrages suggérés par le système, nous utilisons un algorithme génétique interactif qui permet aux utilisateurs d'évaluer et d'ajuster visuellement ces paramétrages. Nous présentons une évaluation utilisateur qui montre l'intérêt de notre système pour deux tâches.",
+"title": "Un assistant utilisateur pour le choix et le paramétrage des méthodes de fouille visuelle de données",
+"placeAut":[{
+"place":"Tours",
+"country":"France",
+"location":{
+	"lat":"47.394144",
+	"lon":"0.68484"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 44.837789, u'lon': -0.57918}",
+"place": "Bordeaux",
+"booktitle": "EGC",
+"idArt": "265",
+"authors": "['Abdelheq Et-tahir Guettala','Fatma Bouali','Christiane Guinot','Gilles Venturini']"
+}

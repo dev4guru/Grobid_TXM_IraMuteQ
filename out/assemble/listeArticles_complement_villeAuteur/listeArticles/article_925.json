@@ -1,0 +1,14 @@
+{	 "idArt" : "925",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "AEGC",
+	 "year" : "2005",
+	 "place" : "Paris",
+	 "location" : { "lat" :  48.856614, 
+		 "lon" : 2.3522219 }, 
+	 "title" : "Un modèle d'adaptation pour les oeuvres médiatiques",
+	 "abstract" : "Les artistes en arts visuels et médiatiques explorent l'utilisation denouvelles technologies pour créer des oeuvres multimédia et qui sont diffuséesen ligne, lors d'expositions ou d'installations. L'utilisation des technologiesfaites par ces créateurs pose de nombreux défis en termes de mécanismes àmettre en oeuvre pour concevoir, créer, expérimenter et diffuser ces oeuvres.Dans cet article, nous nous intéressons aux mécanismes d'adaptation pour lacréation d'oeuvres médiatiques adaptatives et interactives. A travers un casconcret, nous proposons un modèle d'adaptation intégrant la gestion dedifférents types de métadonnées pour réaliser aussi bien l'adaptationsémantique que l'adaptation physique et qui peut être spécialisé selon lesbesoins spécifiques.",
+	 "authors" : ["Anis Ouali","Brigitte Kerhervé","Odile Marcotte","Paul Landon"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1000244" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1000244" 
+} 
+ 

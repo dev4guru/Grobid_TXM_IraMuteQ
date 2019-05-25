@@ -1,0 +1,15 @@
+{
+"idArt": "1262",
+"series": "Revue des Nouvelles Technologies de l'Information",
+"booktitle": "EGC",
+"year": "2018",
+"title": "ALGeoSPF: Un modèle de factorisation basé sur du clustering géographique pour la recommandation de POI",
+"abstract": "La recommandation de points d'intérêts est devenue une caractéristiqueessentielle des réseaux sociaux géo-localisés qui a accompagnél'émergence des échanges massifs de données digitales. Cependantles faibles densités de points d'intérêts visités par les utilisateurs rendentle problème difficile à traiter, d'autant plus que les espaces de mobilitédes utilisateurs sont très hétérogènes, allant de la ville au monde entier.Dans ce papier nous explorons l'impact d'une approche de clusteringspatial sur la qualité de la recommandation. Notre approche est baséesur un modèle de factorisation de matrices de Poisson et un réseau socialinféré des différents comportements de mobilité. Nous avons conduitune évaluation comparative des performances de notre approche sur unjeu de données réaliste. Les résultats expérimentaux montrent que notreapproche permet une précision supérieure aux techniques de recommandationalternatives.",
+"authors": "Jean-Benoît Griesner, Talel Abdesssalem, Hubert Naacke, Pierre Dosne",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1002380",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1002380",
+"metaSession": "3",
+"place": "Paris",
+"Latitude": " 48.8536 ",
+"Longitude": "2.3490"
+}

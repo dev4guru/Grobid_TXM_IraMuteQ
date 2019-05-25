@@ -1,0 +1,14 @@
+{	 "idArt" : "658",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC ",
+	 "year" : "2008",
+	 "place" : "Sophia Antipolis",
+	 "location" : { "lat" :  43.6163539, 
+		 "lon" : 7.0552218 }, 
+	 "title" : "Un système de vote pour la classification de textes d'opinion",
+	 "abstract" : "Les tâches de classification textuelle ont souvent pour objectif de regrouper thématiquement différents textes. Dans cet article, nous nous sommes intéressés à la classification de documents en fonction des opinions et jugements de valeurs qu'ils contiennent. L'approche proposée est fondée sur un système de vote utilisant plusieurs méthodes de classification.",
+	 "authors" : ["Michel Plantié","Mathieu Roche","Gérard Dray"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1000657" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1000657" 
+} 
+ 

@@ -1,0 +1,22 @@
+{
+"year": "2012",
+"metaSession": "1",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1001186",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1001186",
+"abstract": "Dans de nombreux domaines (e.g., fouille de données, entrepôts dedonnées), l'existence de hiérarchies sur certains attributs peut être extrêmementutile dans le processus analytique. Toutefois, cette connaissance n'est pas toujoursdisponible ou adaptée. Il est alors nécessaire de disposer d'un processusde découverte automatique pour palier ce problème. Dans cet article, nous combinonset adaptons des techniques issues de la théorie de l'information et duclustering pour proposer une technique orientée données de construction automatiquede taxonomies. Les deux principaux avantages d'une telle approchesont son caractère totalement non-supervisé et l'absence de paramètre utilisateurà spécifier. Afin de valider notre approche, nous l'avons appliquée sur desdonnées réelles et avons conduit plusieurs types d'expérimentation. D'abord,les hiérarchies obtenues ont été expertisées pour en examiner le pouvoir informatif.Ensuite, nous avons évalué l'apport de ces taxonomies comme support àdes tâches de fouille de données nécessitant une définition hiérarchique des valeursd'attributs : l'extraction de séquences fréquentes multidimensionnelles etmulti-niveaux ainsi que la construction de résumés de tables relationnelles. Lesrésultats obtenus permettent de conclure quant à l'intérêt de notre approche",
+"title": "Vers une méthode automatique de construction de hiérarchies contextuelles",
+"placeAut":[{
+"place":"Montpellier",
+"country":"France",
+"location":{
+	"lat":"43.610769",
+	"lon":"3.876716"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 44.837789, u'lon': -0.57918}",
+"place": "Bordeaux",
+"booktitle": "EGC",
+"idArt": "274",
+"authors": "['Dino Ienco','Yoann Pitarch','Pascal Poncelet','Maguelonne Teisseire']"
+}

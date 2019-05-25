@@ -1,0 +1,22 @@
+{
+"year": "2012",
+"metaSession": "8",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1001199",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1001199",
+"abstract": "Le but principal des systèmes de recherche d'informations (SRI) classiquesest de retrouver dans un corpus de documents l'information considéréecomme pertinente pour une requête utilisateur. Cette pertinence est souvent liéeà la fréquence d'apparition des termes dans le texte par rapport au corpus sanstenir compte du contexte de la recherche. Partant de ce constat, nous proposonsdans cet article une approche pour la recherche d'information contextuelle parsegmentation thématique de documents (RICSH). Cette approche s'appuie surla méthode de pondération tf-idf que nous avons adaptée dans notre cas pourindexer le corpus. Cette adaptation se situe au niveau de l'importance du termeet de son pouvoir de discrimination par rapport aux fragments de textes et nonau corpus. Ces fragments sont obtenus grâce à un processus d'identification desunités thématiques les plus pertinentes pour chaque document.",
+"title": "RICSH : Recherche d'information contextuelle par segmentation thématique de documents",
+"placeAut":[{
+"place":"Bron",
+"country":"France",
+"location":{
+	"lat":"45.733316",
+	"lon":"4.911927"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 44.837789, u'lon': -0.57918}",
+"place": "Bordeaux",
+"booktitle": "EGC",
+"idArt": "256",
+"authors": "['Fadila Bentayeb','Omar Boussaid','Rachid Aknouche']"
+}

@@ -1,0 +1,13 @@
+{	 "idArt" : "477",
+	 "placeAut" : [ 
+		{ "place" : "Namur",
+		 "country" : "Belgique",
+		 "location" : { "lat" :  50.4673883, 
+			 "lon" : 4.871985399999971 } },
+		{ "place" : "Louvain-la-neuve",
+		 "country" : "Belgique",
+		 "location" : { "lat" :  50.66808100000001, 
+			 "lon" : 4.611832400000026 } }
+	 ]
+} 
+ 

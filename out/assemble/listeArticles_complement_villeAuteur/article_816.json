@@ -1,0 +1,13 @@
+{	 "idArt" : "816",
+	 "placeAut" : [ 
+		{ "place" : "Guyancourt",
+		 "country" : "France",
+		 "location" : { "lat" :  48.762895, 
+			 "lon" : 2.075323000000026 } },
+		{ "place" : "Vélizy-Villacoublay",
+		 "country" : "France",
+		 "location" : { "lat" :  48.787899, 
+			 "lon" : 2.190407999999934 } }
+	 ]
+} 
+ 

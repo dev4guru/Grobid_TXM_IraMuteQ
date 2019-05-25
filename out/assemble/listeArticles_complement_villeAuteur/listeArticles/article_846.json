@@ -1,0 +1,13 @@
+{	 "idArt" : "846",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2006",
+	 "place" : "Lille",
+	 "location" : { "lat" :  50.62925, 
+		 "lon" : 3.057256 }, 
+	 "title" : "Sélection de variables et modélisation d'expression d'émotion dans les dialogues Homme-Machine",
+	 "authors" : ["Barbara Poulain"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1000438" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1000438" 
+} 
+ 

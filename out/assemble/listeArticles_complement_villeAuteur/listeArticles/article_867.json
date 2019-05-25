@@ -1,0 +1,14 @@
+{	 "idArt" : "867",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2006",
+	 "place" : "Lille",
+	 "location" : { "lat" :  50.62925, 
+		 "lon" : 3.057256 }, 
+	 "title" : "Visualisation interactive de données avec des méthodes à base de points d'intérêt",
+	 "abstract" : "Nous présentons dans cet article une méthode de visualisation interactivede données numériques ou symboliques permettant à un utilisateur expertdu domaine d'obtenir des informations et des connaissances pertinentes. Nousproposons une approche nouvelle en adaptant l'utilisation des points d'intérêtsdans un contexte de fouille visuelle de données. A partir d'un ensemble de pointsd'intérêt disposés sur un cercle, les données sont visualisées à l'intérieur de cecercle en fonction de leur similarité à ces points d'intérêt. Des opérations interactivessont alors définies : sélectionner, zoomer, changer dynamiquement lespoints d'intérêts. Nous évaluons les propriétés d'une telle visualisation sur desdonnées aux caractéristiques connues. Nous décrivons une application réelle encours dans le domaine de l'exploration de données issues d'enquêtes de satisfaction.",
+	 "authors" : ["David Da Costa","Gilles Venturini"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1000367" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1000367" 
+} 
+ 

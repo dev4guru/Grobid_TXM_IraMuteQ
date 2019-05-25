@@ -1,0 +1,22 @@
+{
+"year": "2011",
+"metaSession": "1",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1000985",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1000985",
+"abstract": "Avec l'explosion du multimedia, l'utilisation des métadonnées est devenue cruciale pour assurer une bonne gestion des contenus. Cependant, il est nécessaire d assurer un accès uniforme aux métadonnées. Plusieurs techniques ont ainsi été développées afin de réaliser cette interopérabilité. La plupart d'entre elles sont spécifiques à un seul langage de description. Les systèmes de matching existants présentent certaines limites, en particulier dans le traitement des informations structurelles. Nous présentons dans cet article un nouveau système d'intégration qui supporte des schémas provenant de langages descriptifs différents. De plus, la méthode de matching proposée a recours à plusieurs types d'information de façon à augmenter la précision de matching",
+"title": "MuMIe: Une Approche Automatique pour l'Interopérabilité des Métadonnées",
+"placeAut":[{
+"place":"Villeneuve dAscq",
+"country":"France",
+"location":{
+	"lat":"50.6232523",
+	"lon":"3.1442651"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 48.390394, u'lon': -4.486076}",
+"place": "Brest",
+"booktitle": "EGC",
+"idArt": "339",
+"authors": "['Samir Amir','Ioan Marius Bilasco','Thierry Urruty','Chabane Djeraba']"
+}

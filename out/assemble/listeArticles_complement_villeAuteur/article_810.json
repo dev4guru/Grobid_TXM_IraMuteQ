@@ -1,0 +1,13 @@
+{	 "idArt" : "810",
+	 "placeAut" : [ 
+		{ "place" : "Cherbourg",
+		 "country" : "France",
+		 "location" : { "lat" :  49.6337308, 
+			 "lon" : -1.622137000000066 } },
+		{ "place" : "Caen",
+		 "country" : "France",
+		 "location" : { "lat" :  49.182863, 
+			 "lon" : -0.37067899999999554 } }
+	 ]
+} 
+ 

@@ -1,0 +1,9 @@
+{	 "idArt" : "247",
+	 "placeAut" : [ 
+		{ "place" : "Los Angeles",
+		 "country" : "USA",
+		 "location" : { "lat" :  34.0522342, 
+			 "lon" : -118.2436849 } }
+	 ]
+} 
+ 

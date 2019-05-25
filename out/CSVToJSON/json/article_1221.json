@@ -1,0 +1,15 @@
+{
+"idArt": "1221",
+"series": "Revue des Nouvelles Technologies de l'Information",
+"booktitle": "EGC",
+"year": "2017",
+"title": "Génération de RDF à partir de sources de données aux formats hétérogènes",
+"abstract": "Contrairement à ce que promeut le Web des données, les données exposéespar la plupart des organisations sont dans des formats non-RDF tels queCSV, JSON, ou XML. De plus sur le Web des objets, les objets contraints préférerontdes formats binaires tels que EXI ou CBOR aux formats RDF textuels.Dans ce contexte, RDF peut toutefois servir de lingua franca pour l'interopérabilitésémantique, l'intégration de données aux formats hétérogènes, le raisonnement,et le requêtage. Dans ce but, plusieurs outils et formalismes permettentde transformer des documents non-RDF vers RDF, les plus flexibles étant baséssur des langages de transformation ou de correspondance (GRDDL, XSPARQL,R2RML, RML, CSVW, etc.). Cet article définit un nouveau langage, SPARQLGenerate,qui permet de générer du RDF à partir: (i) d'une base de données RDF,et (ii) d'un nombre quelconque de documents aux formats arbitraires. L'originalitéde SPARQL-Generate est qu'il étend SPARQL 1.1, et peut donc (i) êtreappris facilement par les ingénieurs de la connaissance familiers de SPARQL,(ii) être implémenté au dessus de n'importe quel moteur SPARQL existant, (iii)tirer parti des mécanismes d'extension de SPARQL pour prendre en compte defuturs formats.",
+"authors": "Maxime Lefrançois, Antoine Zimmermann, Noorani Bakerally",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1002272",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1002272",
+"metaSession": "8",
+"place": "Grenoble",
+"Latitude": " 45.188562 ",
+"Longitude": "5.724557"
+}

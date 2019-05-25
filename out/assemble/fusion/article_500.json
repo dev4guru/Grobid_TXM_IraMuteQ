@@ -1,0 +1,22 @@
+{
+"year": "2009",
+"metaSession": "8",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1000768",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1000768",
+"abstract": "Les systèmes décisionnels reposent sur des bases de données multidimensionnellesqui offrent un cadre adéquat aux analyses OLAP. L'articleprésente un nouvel opérateur OLAP nommé « BLEND » rendant possible desanalyses multigraduelles. Il s'agit de transformer la structuration multidimensionnellelors des interrogations pour analyser les mesures selon des niveauxde granularité différents recombinées comme un même paramètre. Nous menonsune étude des combinaisons valides de l'opération dans le contexte deshiérarchies strictes. Enfin, une première série d'expérimentations implantel'opération dans le contexte R-OLAP en montrant le faible coût de l'opération.",
+"title": "Analyse multigraduelle OLAP",
+"placeAut":[{
+"place":"Toulouse",
+"country":"France",
+"location":{
+	"lat":"43.604652",
+	"lon":"1.444209"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 48.5734053, u'lon': 7.752111299999999}",
+"place": "Strasbourg",
+"booktitle": "EGC",
+"idArt": "500",
+"authors": "['Gilles Hubert','Olivier Teste']"
+}

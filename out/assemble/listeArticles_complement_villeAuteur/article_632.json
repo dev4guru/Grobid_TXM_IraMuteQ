@@ -1,0 +1,13 @@
+{	 "idArt" : "632",
+	 "placeAut" : [ 
+		{ "place" : "Bron",
+		 "country" : "France",
+		 "location" : { "lat" :  45.73331599999999, 
+			 "lon" : 4.9119269999999915 } },
+		{ "place" : "Villeurbanne",
+		 "country" : "France",
+		 "location" : { "lat" :  45.771944, 
+			 "lon" : 4.89017089999993 } }
+	 ]
+} 
+ 

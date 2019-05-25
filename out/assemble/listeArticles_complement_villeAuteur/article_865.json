@@ -1,0 +1,17 @@
+{	 "idArt" : "865",
+	 "placeAut" : [ 
+		{ "place" : "Vandoeuvre-lès-Nancy",
+		 "country" : "France",
+		 "location" : { "lat" :  48.66111799999999, 
+			 "lon" : 6.173760000000016 } },
+		{ "place" : "Nancy",
+		 "country" : "France",
+		 "location" : { "lat" :  48.692054, 
+			 "lon" : 6.184416999999939 } },
+		{ "place" : "Bruz",
+		 "country" : "France",
+		 "location" : { "lat" :  48.024538, 
+			 "lon" : -1.7471480000000383 } }
+	 ]
+} 
+ 

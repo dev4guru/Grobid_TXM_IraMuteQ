@@ -1,0 +1,22 @@
+{
+"year": "2006",
+"metaSession": "5",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1000428",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1000428",
+"abstract": "La technique des motifs fréquents a été utilisée pour améliorer lepouvoir prédictif des stratégies quantitatives. Innovant dans le contexte desmarchés financiers, notre méthode associe une signature aux configurations demarché fréquentes. Un système de « trading » automatique sélectionne lesmeilleures signatures par une procédure de « back testing » itérative et les utiliseen combinaison avec l'indicateur technique pour améliorer sa performance.L'application des motifs fréquents à cette problématique des indicateurstechniques est une contribution originale. Au sens du test t de Student,notre méthode améliore nettement les approches sans signatures. La techniquea été testé sur des données journalières type taux d'intérêt et actions. Notreanalyse des indicateurs (Williams%R, BN et croisement des moments) a montréque qu'une approche par signatures est particulièrement bien adaptée auxstratégies à mémoire courte.",
+"title": "Amélioration des indicateurs techniques pour l'analyse du marché financier",
+"placeAut":[{
+"place":"Villeurbanne",
+"country":"France",
+"location":{
+	"lat":"45.771944",
+	"lon":"4.8901709"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 50.62925, u'lon': 3.057256}",
+"place": "Lille",
+"booktitle": "EGC",
+"idArt": "772",
+"authors": "['Hunor Albert-Lorincz','Jean-François Boulicaut']"
+}

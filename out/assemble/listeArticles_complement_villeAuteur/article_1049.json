@@ -1,0 +1,13 @@
+{	 "idArt" : "1049",
+	 "placeAut" : [ 
+		{ "place" : "Namur",
+		 "country" : "Belgique",
+		 "location" : { "lat" :  50.4673883, 
+			 "lon" : 4.871985399999971 } },
+		{ "place" : "Bruxelles",
+		 "country" : "Belgique",
+		 "location" : { "lat" :  50.8503396, 
+			 "lon" : 4.351710300000036 } }
+	 ]
+} 
+ 

@@ -1,0 +1,22 @@
+{
+"year": "2011",
+"metaSession": "3",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1000999",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1000999",
+"abstract": "Nous proposons une méthode de fouille de données sur des graphes ayant un ensemble d'étiquettes associé à chaque sommet. Une application est, par exemple, d'analyser un réseau social de chercheurs co-auteurs lorsque des étiquettes précisent les conférences dans lesquelles ils publient.Nous définissons l'extraction sous contraintes d'ensembles de cliques tel que chaque sommet des cliques impliquées partage suffisamment d'étiquettes. Nous proposons une méthode pour calculer tous les Ensembles Maximaux de Cliques dits Homogènes qui satisfont une conjonction de contraintes fixée par l'analyste et concernant le nombre de cliques séparées, la taille des cliques ainsi que le nombre d'étiquettes partagées. Les expérimentations montrent que l'approche fonctionne sur de grands graphes construits à partir de données réelles et permet la mise en évidence de structures intéressantes",
+"title": "Extraction sous contraintes d'ensembles de cliques homogènes",
+"placeAut":[{
+"place":"Écully",
+"country":"France",
+"location":{
+	"lat":"45.774657",
+	"lon":"4.77867"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 48.390394, u'lon': -4.486076}",
+"place": "Brest",
+"booktitle": "EGC",
+"idArt": "318",
+"authors": "['Pierre-Nicolas Mougel','Marc Plantevit','Christophe Rigotti','Olivier Gandrillon','Jean-François Boulicaut']"
+}

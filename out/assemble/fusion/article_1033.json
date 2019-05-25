@@ -1,0 +1,22 @@
+{
+"year": "2004",
+"metaSession": "7",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1001129",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1001129",
+"abstract": "Il existe de nombreuses techniques qui permettent de classifier les documents textuels en fonction de l'intérêt d'un utilisateur (kNN, SVM, ...). Malheureusement, l'intégration de ces méthodes dans les plates-formes de textmining est souvent très statique au cours du temps. Le but de cet article est de présenter une plate-forme de webmining dans laquelle les données hétérogènes sont représentées uniformément selon un formalisme XML/TEI et où l'utilisateur peut interagir sur les processus de récupération et d'analyse de ces données. Pour cela, les modules de traitements sont représentés par des agents fonctionnant sur la plate-forme MadKit et l'apprentissage se fait par une méthode dérivée de VSM et TFIDF utilisant un principe de listes noires pondérées permettant la reconnaissance de documents indésirables. La dynamique de la plate-forme repose principalement sur la possibilité d'ajouter à la volée des agents de traitement et de pouvoir modifier l'ordre et les paramètres d'analyse des documents.",
+"title": "Approche innovante pour la recherche et l'extractin coopérative et dynamique d'informations sur Internet",
+"placeAut":[{
+"place":"Le-Havre",
+"country":"France",
+"location":{
+	"lat":"49.49437",
+	"lon":"0.107929"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 45.77722199999999, u'lon': 3.087025}",
+"place": "Clermont-Ferrand",
+"booktitle": "EGC",
+"idArt": "1033",
+"authors": "['Xavier Denis','Gaële Simon','Nicolas Chanchevrier']"
+}

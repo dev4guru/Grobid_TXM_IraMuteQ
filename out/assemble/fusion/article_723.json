@@ -1,0 +1,22 @@
+{
+"year": "2007",
+"metaSession": "2",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1001426",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1001426",
+"abstract": "Les critères servant à l'évaluation de modèles d'apprentissage supervisé ainsi que ceux utilisés pour bâtir des arbres de décision sont, pour la plupart, symétriques. De manière pragmatique, cela signifie que chacune des modalités de la variable endogène se voit assigner une importance identique. Or, dans nombre de cas pratiques cela n'est pas le cas. Ainsi, on peut notamment prendre l'exemple de jeux de données fortement déséquilibrés pour lesquels l'objectif principal est l'identification des objets représentatifs de la modalité minoritaire (Aide au diagnostic, identification de phénomènes inhabituels : fraudes, pannes...). Dans ce type de situation il apparaît clairement qu'assigner une importance identique aux erreurs de prédiction ne constitue pas la meilleure des solutions. Nous proposons dans cet article un critère (pouvant servir à la fois pour l'évaluation de modèles d'apprentissage supervisé ou encore de critère utilisé pour bâtir des arbres de décision) prenant en compte cet aspect non symétrique de l'importance associée à chacune des modalités de la variable endogène. Nous proposons ensuite une évolution des modèles de type forêts aléatoires utilisant ce critère pour les jeux de données fortement déséquilibrés.",
+"title": "Mesure non symétrique pour l'évaluation de modèles, utilisation pour les jeux de données déséquilibrés",
+"placeAut":[{
+"place":"Bron",
+"country":"France",
+"location":{
+	"lat":"45.733316",
+	"lon":"4.911927"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 50.4673883, u'lon': 4.8719854}",
+"place": "Namur",
+"booktitle": "EGC",
+"idArt": "723",
+"authors": "['Julien Thomas','Pierre-Emmanuel Jouve','Nicolas Nicoloyannis']"
+}

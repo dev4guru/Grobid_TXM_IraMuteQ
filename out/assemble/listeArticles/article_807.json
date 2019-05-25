@@ -1,0 +1,14 @@
+{	 "idArt" : "807",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2006",
+	 "place" : "Lille",
+	 "location" : { "lat" :  50.62925, 
+		 "lon" : 3.057256 }, 
+	 "title" : "Exploration interactive de bases de connaissances : un retour d'expérience",
+	 "abstract" : "La navigation au sein de bases de connaissances reste un problèmeouvert. S'il existe plusieurs paradigmes de visualisation, peu de travaux sur lesretours d'expérience sont disponibles. Dans le cadre de cet article nous noussommes intéressés aux différents paradigmes de navigation interactive au seinde bases documentaires annotées sémantiquement ; l'accès à la base deconnaissances s'effectuant à travers l'ontologie du domaine d'application. Cesparadigmes ont été évalués dans le cadre d'une application industrielle(mécanique des fluides et échangeurs thermiques) en fonction de critèresdéfinis par les utilisateurs. L'analyse des retours d'expérience1 nous a permisde spécifier et de réaliser un nouveau navigateur dédié à la gestion dedocuments techniques annotés par une ontologie de domaine : le « Eye Tree »,navigateur de type « polar fisheye view ».",
+	 "authors" : ["Christophe Tricot","Christophe Roche"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1000362" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1000362" 
+} 
+ 

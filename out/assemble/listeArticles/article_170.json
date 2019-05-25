@@ -1,0 +1,13 @@
+{	 "idArt" : "170",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2013",
+	 "place" : "Toulouse",
+	 "location" : { "lat" :  43.604652, 
+		 "lon" : 1.444209 }, 
+	 "title" : "Détection efficace des traverses minimales d'un hypergraphe par élimination de la redondance",
+	 "abstract" : "L'extraction des traverses minimales d'un hypergraphe est une problématique réputée comme particulièrement difficile et qui a fait l'objet de plusieurs travaux dans la littérature. Dans cet article, nous établissons un lien entre les concepts de la fouille de données et ceux de la théorie des hypergraphes, proposant ainsi un cadre méthodologique pour le calcul des traverses minimales. Le nombre de ces traverses minimales étant, souvent, exponentiel même pour des hypergraphes simples, nous proposons d'en représenter l'ensemble de manière concise et exacte. Pour ce faire, nous introduisons la notion de traverses minimales irrédondantes, à partir desquelles nous pouvons retrouver l'ensemble global de toutes les traverses minimales, à l'aide de l'algorithme IMT-EXTRACTOR. Une étude expérimentale de ce nouvel algorithme a confirmé l'intérêt de l'approche introduite.",
+	 "authors" : ["Mohamed Nidhal Jelassi","Christine Largeron","Sadok Ben Yahia"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1001833" 
+} 
+ 

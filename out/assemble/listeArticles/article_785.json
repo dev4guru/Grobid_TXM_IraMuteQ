@@ -1,0 +1,14 @@
+{	 "idArt" : "785",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2006",
+	 "place" : "Lille",
+	 "location" : { "lat" :  50.62925, 
+		 "lon" : 3.057256 }, 
+	 "title" : "Classification de documents XML à partir d'une représentation linéaire des arbres de ces documents",
+	 "abstract" : "Cet article présente un nouveau modèle de représentation pour la classificationde documents XML. Notre approche permet de prendre en compte soitla structure seule, soit la structure et le contenu de ces documents. L'idée estde représenter un document par l'ensemble des sous-chemins de l'arbre XMLde longueur comprise entre n et m, deux valeurs fixées a priori. Ces cheminssont ensuite considérés comme de simples mots sur lesquels on peut appliquerdes méthodes standards de classification, par exemple K-means. Nous évaluonsnotre méthode sur deux collections: la collection INEX et les rapports d'activitéde l'INRIA. Nous utilisons un ensemble de mesures bien connues dans le domainede la recherche d'information lorsque les classes sont connues a priori.Lorsqu'elles ne sont pas connues, nous proposons une analyse qualitative desrésultats qui s'appuie sur les mots (chemins) les plus caractéristiques des classesgénérées.",
+	 "authors" : ["Anne-Marie Vercoustre","Mounir Fegas","Yves Lechevallier","Thierry Despeyroux"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1000384" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1000384" 
+} 
+ 

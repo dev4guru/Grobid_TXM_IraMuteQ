@@ -1,0 +1,22 @@
+{
+"year": "2014",
+"metaSession": "",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1001974",
+"pdfarticle": "",
+"abstract": "Cet article compare deux représentations de données spatiales, lesgraphes de voisinages et les chemins de Hilbert-Peano, utilisées par des algorithmesde fouille. Cette comparaison s'appuie sur la mise en oeuvre d'une méthoded'énumération de « sacs de noeuds », qui permet d'obtenir des caractérisationshomogènes à partir des deux représentations. La méthode est appliquée àla caractérisation de parcellaires agricoles et les résultats tendent à montrer quela linéarisation de l'espace capte la majorité de l'information, à l'exception deséléments rares, sur cet exemple particulier.",
+"title": "Comparaison des chemins de Hilbert adaptatif et des graphes de voisinage pour la caractérisation d'un parcellaire agricole",
+"placeAut":[{
+"place":"Rennes",
+"country":"France",
+"location":{
+	"lat":"48.117266",
+	"lon":"-1.6777926"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 48.117266, u'lon': -1.6777926}",
+"place": "Rennes",
+"booktitle": "EGC",
+"idArt": "88",
+"authors": "['Thomas Guyet','Sébastien Da Silva','Claire Lavigne','Florence Le Ber']"
+}

@@ -1,0 +1,9 @@
+{	 "idArt" : "137",
+	 "placeAut" : [ 
+		{ "place" : "Amiens",
+		 "country" : "France",
+		 "location" : { "lat" :  49.894067, 
+			 "lon" : 2.2957529999999906 } }
+	 ]
+} 
+ 

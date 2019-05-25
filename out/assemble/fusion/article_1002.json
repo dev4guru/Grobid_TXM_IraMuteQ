@@ -1,0 +1,22 @@
+{
+"year": "2005",
+"metaSession": "1",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1000307",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1000307",
+"abstract": "Le développement du Web Sémantique a conduit à l'élaboration de standards pour la représentation des connaissances sur le Web. RDF, comme un de ces standards, est devenu une recommandation du W3C. Même s'il a été conçu pour être interprétable par l'homme et la machine (encodage XML, triplets, graphes étiquetés), RDF n'a pas été fourni avec des services d'interrogation et de raisonnement. La plupart des travaux concernant l'interrogation de documents RDF se sont concentrés sur l'usage de techniques issues de la programmation logique et sur des extensions de SQL. Nous portons un nouveau regard sur les techniques d'interrogation et de raisonnement sur les documents RDF et nous montrons que la sémantique des termes OSF (Order Sorted Features) est compatible avec la représentation isomorphique (triplets) des propositions RDF. Cette transformation permet l'ordonnancement des ressources en ontologies et, à travers ceci, des meilleurs mécanismes de réponses (par approximation et recouvrement) aux interrogations de documents RDF.",
+"title": "Réponses coopératives dans l'interrogation de documents RDF",
+"placeAut":[{
+"place":"Villeurbanne",
+"country":"France",
+"location":{
+	"lat":"45.771944",
+	"lon":"4.8901709"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 48.856614, u'lon': 2.3522219}",
+"place": "Paris",
+"booktitle": "EGC",
+"idArt": "1002",
+"authors": "['Adrian Tanasescu','Mohand-Said Hacid']"
+}

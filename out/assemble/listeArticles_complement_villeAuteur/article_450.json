@@ -1,0 +1,17 @@
+{	 "idArt" : "450",
+	 "placeAut" : [ 
+		{ "place" : "Montpellier",
+		 "country" : "France",
+		 "location" : { "lat" :  43.610769, 
+			 "lon" : 3.8767159999999876 } },
+		{ "place" : "Villejuif",
+		 "country" : "France",
+		 "location" : { "lat" :  48.792716, 
+			 "lon" : 2.359279000000015 } },
+		{ "place" : "Grenoble",
+		 "country" : "France",
+		 "location" : { "lat" :  45.188529, 
+			 "lon" : 5.724523999999974 } }
+	 ]
+} 
+ 

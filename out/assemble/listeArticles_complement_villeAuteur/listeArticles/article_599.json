@@ -1,0 +1,14 @@
+{	 "idArt" : "599",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC ",
+	 "year" : "2008",
+	 "place" : "Sophia Antipolis",
+	 "location" : { "lat" :  43.6163539, 
+		 "lon" : 7.0552218 }, 
+	 "title" : "Évaluation des critères asymétriques pour les arbres de décision",
+	 "abstract" : "Pour construire des arbres de décision sur des données déséquilibrées, des auteurs ont proposés des mesures d'entropie asymétriques. Le problème de l'évaluation de ces arbres se pose ensuite. Cet article propose d'évaluer la qualité d'arbres de décision basés sur une mesure d'entropie asymétrique.",
+	 "authors" : ["Gilbert Ritschard","Simon Marcellin","Djamel Abdelkader Zighed"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1000587" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1000587" 
+} 
+ 

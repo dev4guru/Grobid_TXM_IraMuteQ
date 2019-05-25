@@ -1,0 +1,15 @@
+{
+"idArt": "1329",
+"series": "Revue des Nouvelles Technologies de l'Information",
+"booktitle": "EGC",
+"year": "2018",
+"title": "Utilisation de techniques de modélisation thématiques pour la détection de nouveauté dans des flux de données textuelles.",
+"abstract": "Avec l'avènement des réseaux sociaux et la multiplication des messagesproduits au sujet des entreprises, mieux comprendre les retours clients estdevenu un enjeu primordial. Des techniques de classification automatique et demodélisation thématique permettent d'ors déjà d'observer les principales tendancesobservées dans ces données. Il est intéressant, dans une optique d'anticipation,d'observer les thématiques émergentes et de les identifier avant qu'ellesne prennent de l'ampleur. Afin de résoudre cette problématique, nous avons étudiéla piste de l'utilisation de modèles LDA pour détecter les documents relatifsà ces thématiques émergentes. Nous avons testé trois systèmes sur plusieurs scénariosd'arrivées de la nouveauté dans le flux de données. Nous montrons queles modèles thématiques permettent de détecter cette nouveauté mais que celadépend du scénario envisagé.",
+"authors": "Clément Christophe, Julien Velcin, Manel Boumghar",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1002383",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1002383",
+"metaSession": "1",
+"place": "Paris",
+"Latitude": " 48.8603 ",
+"Longitude": "2.3557"
+}

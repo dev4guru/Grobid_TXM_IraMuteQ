@@ -1,0 +1,22 @@
+{
+"year": "2008",
+"metaSession": "0",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1000584",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1000584",
+"abstract": "",
+"title": "Vers l'intégration de la prédiction dans les cubes OLAP",
+"placeAut":[{
+"place":"Bron",
+"country":"France",
+"location":{
+	"lat":"45.733316",
+	"lon":"4.911927"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 43.6163539, u'lon': 7.0552218}",
+"place": "Sophia Antipolis",
+"booktitle": "EGC ",
+"idArt": "670",
+"authors": "['Anouck Bodin-Niemczuk','Riadh Ben Messaoud','Sabine Loudcher','Omar Boussaid']"
+}

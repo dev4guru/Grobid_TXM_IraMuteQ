@@ -1,0 +1,22 @@
+{
+"year": "2006",
+"metaSession": "5",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1000447",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1000447",
+"abstract": "",
+"title": "Un modèle métier extensible adapté à la gestion de dépêches d'agences de presse",
+"placeAut":[{
+"place":"La Rochelle",
+"country":"France",
+"location":{
+	"lat":"46.160329",
+	"lon":"-1.151139"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 50.62925, u'lon': 3.057256}",
+"place": "Lille",
+"booktitle": "EGC",
+"idArt": "856",
+"authors": "['Frédéric Bertrand','Cyril Faucher','Marie-Christine Lafaye','Jean-Yves Lafaye','Alain Bouju']"
+}

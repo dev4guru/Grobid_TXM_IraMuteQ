@@ -1,0 +1,13 @@
+{	 "idArt" : "362",
+	 "placeAut" : [ 
+		{ "place" : "Sophia Antipolis",
+		 "country" : "France",
+		 "location" : { "lat" :  43.6163539, 
+			 "lon" : 7.055221800000027 } },
+		{ "place" : "Nice",
+		 "country" : "France",
+		 "location" : { "lat" :  43.7101728, 
+			 "lon" : 7.261953199999994 } }
+	 ]
+} 
+ 

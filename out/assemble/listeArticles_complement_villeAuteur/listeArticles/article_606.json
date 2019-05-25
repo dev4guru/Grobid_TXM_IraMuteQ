@@ -1,0 +1,14 @@
+{	 "idArt" : "606",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC ",
+	 "year" : "2008",
+	 "place" : "Sophia Antipolis",
+	 "location" : { "lat" :  43.6163539, 
+		 "lon" : 7.0552218 }, 
+	 "title" : "FIASCO : un nouvel algorithme d'extraction d'itemsets fréquents dans les flots de données",
+	 "abstract" : "Nous présentons dans cet article un nouvel algorithme permettant la construction et la mise à jour incrémentale du FIA : FIASCO. Notre algorithme effectue un seul passage sur les données et permet de prendre en compte les nouveaux batches, itemset par itemset et pour chaque itemset, item par item.",
+	 "authors" : ["Lionel Vinceslas","Jean-Emile Symphor","Alban Mancheron","Pascal Poncelet"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1000603" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1000603" 
+} 
+ 

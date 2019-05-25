@@ -1,0 +1,22 @@
+{
+"year": "2006",
+"metaSession": "1",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1000329",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1000329",
+"abstract": "Les systèmes d'informations géographiques (SIG) sont utilisés pouraméliorer l'efficacité des entreprises et des services publics, en associantméthodes d'optimisation et prise en compte de la dimension géographique.Cependant, les bases de données géographiques (BDG) stockées dans les SIGsont restreintes à l'application pour laquelle elles ont été conçues. Souvent, lesutilisateurs demeurent contraints de l'existant et se trouvent dans le besoin dedonnées complémentaires pour une prise de décision adéquate. D'où, l'idée del'enrichissement de l'aspect descriptif des BDG existantes. Pour atteindre cetobjectif, nous proposons une approche qui consiste à intégrer un module defouille de données textuelles au SIG lui même. Il s'agit de proposer uneméthode distribuée de résumé de documents multiples à partir de corpus enligne.L'idée est de faire coopérer un ensemble d'agents s'entraidant afind'aboutir à un résumé optimal.",
+"title": "Une approche distribuée pour l'extraction de connaissances : Application à l'enrichissement de l'aspect factuel des BDG",
+"placeAut":[{
+"place":"Tunis",
+"country":"Tunisie",
+"location":{
+	"lat":"36.8064948",
+	"lon":"10.1815316"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 50.62925, u'lon': 3.057256}",
+"place": "Lille",
+"booktitle": "EGC",
+"idArt": "857",
+"authors": "['Khaoula Mahmoudi','Sami Faiz']"
+}

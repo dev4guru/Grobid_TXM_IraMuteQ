@@ -1,0 +1,14 @@
+{	 "idArt" : "800",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2006",
+	 "place" : "Lille",
+	 "location" : { "lat" :  50.62925, 
+		 "lon" : 3.057256 }, 
+	 "title" : "De l'analyse didactique à la modélisation informatique pour la conception d'un EIAH en chirurgie orthopédique",
+	 "abstract" : "L'objet de la recherche présentée est de concevoir un environnementinformatique d'apprentissage qui permette de réduire l'écart entre la formationthéorique des chirurgiens et leur formation pratique, qui se dérouleprincipalement sur le mode du compagnonnage. L'article expose laméthodologie et quelques illustrations du travail didactique d'analyse desconnaissances et du système d'enseignement / apprentissage en milieuhospitalier (chirurgie orthopédique) ainsi que partie de la formalisationinformatique de cette connaissance. Cette modélisation permet la prise encompte dans l'environnement informatique de connaissances pragmatiquespour le diagnostic des connaissances de l'utilisateur en fonction des actionsqu'il effectue à l'interface pendant la résolution d'un problème (pose de visdans le bassin), et la prise de décision didactique qui suit : quelle rétroactionfournir pour affiner le diagnostic, et/ou permettre l'apprentissage souhaité.",
+	 "authors" : ["Vanda Luengo","Lucile Vadcard","Dima Mufti-Alchawafa"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1000422" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1000422" 
+} 
+ 

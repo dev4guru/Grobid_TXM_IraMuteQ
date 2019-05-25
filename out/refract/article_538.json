@@ -1,0 +1,22 @@
+{
+"year": "2009",
+"metaSession": "0",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1000732",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1000732",
+"abstract": "The amount of data in free form by far surpasses the structured records in databases in theirnumber. However, standard learning algorithms require observations in the form of vectorsgiven a fixed set of attributes. For texts, there is no such fixed set of attributes. The bag ofwords representation yields vectors with as many components as there are words in a language.Hence, the classification of documents represented as bag of word vectors demands efficientlearning algorithms. The TCat model for the support vector machine (Joachims 2002) offers asound performance estimation for text classification.The huge mass of documents, in principle, offers answers to many questions and is oneof the most important sources of knowledge. However, information retrieval and text classi-fication deliver merely the document, in which the answer can be found by a human reader ?not the answer itself. Hence, information extraction has become an important topic: if we canextract information from text, we can apply standard machine learning to the extracted facts(Craven et al. 1998). First, information extraction has to recognize Named Entities (see, e.g.,Roessler, Morik 2005). Second, relations between these become the nucleus of events. Ex-tracting events from a complex web site with long documents allows to automatically discoverregularities which are otherwise hidden in the mass of sentences (see, e.g., Jungermann, Morik2008).",
+"title": "Handling Texts ? A Challenge for Data Mining",
+"placeAut":[{
+"place":"Dortmund",
+"country":"Germany",
+"location":{
+	"lat":"51.5135872",
+	"lon":"7.4652981"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 48.5734053, u'lon': 7.752111299999999}",
+"place": "Strasbourg",
+"booktitle": "EGC",
+"idArt": "538",
+"authors": "Katharina Morik"
+}

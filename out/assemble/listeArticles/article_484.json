@@ -1,0 +1,14 @@
+{	 "idArt" : "484",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2010",
+	 "place" : "Hammamet",
+	 "location" : { "lat" :  36.4, 
+		 "lon" : 10.616667 }, 
+	 "title" : "Une Ontologie pour l'Acquisition et l'Exploitation des Connaissances en Conception Inventive",
+	 "abstract" : "L'acquisition des connaissances en vue de résoudre des problèmesconcernant l'évolution des artefacts, comme elle se doit d'être pratiquée enconception inventive, a des caractéristiques spécifiques. Elle nécessite lasélection de certaines des connaissances qui peuvent induire des évolutions,elle amène à reformuler le problème initial afin de construire un modèleabstrait de l'artefact concerné. La méthode de conception inventive induite parla théorie de la Résolution des Problèmes Inventifs (aussi connue sousl'acronyme TRIZ) n'a pas encore fait l'objet d'une véritable formalisation.Nous proposons ici une ontologie des notions principales des concepts liés àl'acquisition des connaissances dans ce cadre. Cette ontologie, outre laclarification des notions en jeu, est utilisée comme support d'un environnementinformatique d'aide à la mise en oeuvre d'une méthode pour acquérir lesconnaissances et formuler les problèmes.",
+	 "authors" : ["François Rousselot","Cecilia Zanni","Denis Cavallucci"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1001470" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1001470" 
+} 
+ 

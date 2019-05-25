@@ -1,0 +1,22 @@
+{
+"year": "2006",
+"metaSession": "4",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1000375",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1000375",
+"abstract": "",
+"title": "Classification non-supervisée de données relationnelles",
+"placeAut":[{
+"place":"Orsay",
+"country":"France",
+"location":{
+	"lat":"48.697161",
+	"lon":"2.189617"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 50.62925, u'lon': 3.057256}",
+"place": "Lille",
+"booktitle": "EGC",
+"idArt": "788",
+"authors": "['Jérôme Maloberti','Shin Ando','Einoshin Suzuki']"
+}

@@ -1,0 +1,22 @@
+{
+"year": "2009",
+"metaSession": "0",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1000799",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1000799",
+"abstract": "La RFID (Radio Frequency IDentification) est une technologie avancée d'enregistrementde données spatio-temporelles de traçabilité. L'objectif de ce travail est de transformer cesdonnées spatio-temporelles en connaissances exploitables par les utilisateurs par l'intermé-diaire d'une méthode de classification automatique des données. Les systèmes RFID peuventêtre utilisés pour étudier les sociétés animales, qui sont des systèmes dynamiques complexescaractérisés par beaucoup d'interactions entre les individus (Fresneau et al., 1989). Le cadreapplicatif choisi pour ce travail est l'étude de la structure d'un groupe d'individus en interactionsociale et en particulier la division du travail au sein d'une colonie de fourmis1.La RFID générant d'importants volumes de données, il est nécessaire de développer desméthodes appropriées afin d'en comprendre le sens. Nous proposons pour cela un algorithmede classification topographique non-supervisée pour l'exploration de ce type de données, ca-pable de détecter les groupes d'individus exprimant le même comportement. L'algorithmeDS2L-SOM (Density-based Simultaneous Two-Level - SOM, Cabanes et Bennani (2008)) estcapable de détecter non seulement les groupes définis par une zone vide de donnée, grâce àune estimation de la pertinence des connexions entre référents, mais aussi les groupes défi-nis seulement par une diminution de densité, grâce à une estimation de la densité autour desréférents pendant l'apprentissage.",
+"title": "Exploration de données de traçabilité issues de la RFID par apprentissage non-supervisé",
+"placeAut":[{
+"place":"Villetaneuse",
+"country":"France",
+"location":{
+	"lat":"48.963476",
+	"lon":"2.347354"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 48.5734053, u'lon': 7.752111299999999}",
+"place": "Strasbourg",
+"booktitle": "EGC",
+"idArt": "527",
+"authors": "['Guénaël Cabanes','Younès Bennani','Dominique Fresneau']"
+}

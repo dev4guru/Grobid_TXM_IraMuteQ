@@ -1,0 +1,15 @@
+{
+"idArt": "1116",
+"series": "Revue des Nouvelles Technologies de l'Information",
+"booktitle": "EGC",
+"year": "2016",
+"title": "Clustering par apprentissage de distance guidé par des préférences sur les attributs",
+"abstract": "Ces dernières années de nombreuses méthodes semi-supervisées declustering ont intégré des contraintes entre paires d'objets ou d'étiquettes declasse, afin que le partitionnement final soit en accord avec les besoins de l'utilisateur.Pourtant dans certains cas où les dimensions d'études sont clairementdéfinies, il semble opportun de pouvoir directement exprimer des contraintessur les attributs pour explorer des données. De plus, une telle formulation permettraitd'éviter les écueils classiques de la malédiction de la dimensionnalitéet de l'interprétation des clusters. Cet article propose de prendre en compte lespréférences de l'utilisateur sur les attributs afin de guider l'apprentissage de ladistance pendant le clustering. Plus précisément, nous montrons comment paramétrerla distance euclidienne par une matrice diagonale dont les coefficientsdoivent être au plus proche des poids fixés par l'utilisateur. Cette approche permetd'ajuster le clustering pour obtenir un compromis entre les approches guidéespar les données et par l'utilisateur. Nous observons que l'ajout des préférencesest parfois essentiel pour atteindre un clustering de meilleure qualité.",
+"authors": "Adnan El Moussawi, Ahmed Cheriat, Arnaud Giacometti, Nicolas Labroche, Arnaud Soulet",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1002185",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1002185",
+"metaSession": "4",
+"place": "Reims",
+"Latitude": " 49.258341 ",
+"Longitude": "4.031708"
+}

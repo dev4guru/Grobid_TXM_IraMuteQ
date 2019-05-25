@@ -1,0 +1,13 @@
+{	 "idArt" : "93",
+	 "placeAut" : [ 
+		{ "place" : "Aimargues",
+		 "country" : "France",
+		 "location" : { "lat" :  43.6850809, 
+			 "lon" : 4.2088489999999865 } },
+		{ "place" : "Paris",
+		 "country" : "France",
+		 "location" : { "lat" :  48.856614, 
+			 "lon" : 2.3522219000000177 } }
+	 ]
+} 
+ 

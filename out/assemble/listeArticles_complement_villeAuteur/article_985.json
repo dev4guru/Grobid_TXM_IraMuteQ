@@ -1,0 +1,17 @@
+{	 "idArt" : "985",
+	 "placeAut" : [ 
+		{ "place" : "Cergy-Pontoise",
+		 "country" : "France",
+		 "location" : { "lat" :  49.047117, 
+			 "lon" : 2.095950000000016 } },
+		{ "place" : "Orsay",
+		 "country" : "France",
+		 "location" : { "lat" :  48.697161, 
+			 "lon" : 2.1896169999999984 } },
+		{ "place" : "Saint-Louis",
+		 "country" : "Sénégal",
+		 "location" : { "lat" :  16.049722, 
+			 "lon" : -16.46083299999998 } }
+	 ]
+} 
+ 

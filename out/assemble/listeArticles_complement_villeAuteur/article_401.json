@@ -1,0 +1,13 @@
+{	 "idArt" : "401",
+	 "placeAut" : [ 
+		{ "place" : "Villeneuve dAscq",
+		 "country" : "France",
+		 "location" : { "lat" :  50.6232523, 
+			 "lon" : 3.144265099999984 } },
+		{ "place" : "Glasgow",
+		 "country" : "United Kingdom",
+		 "location" : { "lat" :  55.864237, 
+			 "lon" : -4.251805999999988 } }
+	 ]
+} 
+ 

@@ -1,0 +1,13 @@
+{	 "idArt" : "8",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2015",
+	 "place" : "Luxembourg",
+	 "location" : { "lat" :  49.815273, 
+		 "lon" : 6.129582999999999 }, 
+	 "title" : "Approche relationnelle de l'apprentissage de séquences",
+	 "abstract" : "We observe an increasing amount of sequential data, for instance open data sources provide real-time information. In order to apply classical learning algorithms, sequential data are often modelled in an attribute-value setting using a sliding window. In this paper, we propose a relational approach. A first advantage is to let the relational algorithm choose the length of the window. A second advantage is to allow to consider conditions based on the existential quantifier and aggregates. A third advantage is to be able to consider several granularities at the same time.",
+	 "authors" : ["Clément Charnay","Nicolas Lachiche","Agnès Braud"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1002118" 
+} 
+ 

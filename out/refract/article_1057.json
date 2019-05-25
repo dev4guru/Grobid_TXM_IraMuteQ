@@ -1,0 +1,22 @@
+{
+"year": "2004",
+"metaSession": "1",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1001094",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1001094",
+"abstract": "",
+"title": "GVSR : un annuaire de logiciels de manipulation et d'édition de graphes",
+"placeAut":[{
+"place":"Nantes",
+"country":"France",
+"location":{
+	"lat":"47.218371",
+	"lon":"-1.553621"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 45.77722199999999, u'lon': 3.087025}",
+"place": "Clermont-Ferrand",
+"booktitle": "EGC",
+"idArt": "1057",
+"authors": "['Bruno Pinaud','Pascale Kuntz','Magalie Delépine','Julien Barberet']"
+}

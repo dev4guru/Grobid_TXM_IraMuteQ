@@ -1,0 +1,22 @@
+{
+"year": "2012",
+"metaSession": "8",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1001198",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1001198",
+"abstract": "L'objectif de ce travail est de prédire l'état de vigilance d'un individuà partir de l'étude de son activité cérébrale (signaux d'électro-encéphalographieEEG). La variable à prédire est binaire (état de vigilance normal ou relaxé).Des EEG de 44 participants dans les deux états (88 enregistrements), ont étérecueillis via un casque à 58 électrodes. Après une étape de prétraitement et devalidation des données, un critère nommé critère des pentes a été choisi. Desméthodes de classification supervisée usuelles (k plus proches voisins, arbresbinaires de décision (CART), forêts aléatoires, PLS et sparse PLS discriminante)ont été appliquées afin de fournir des prédictions de l'état des participants. Lecritère utilisé a ensuite été raffiné grâce à un algorithme génétique, ce qui apermis de construire un modèle fiable (taux de bon classement moyen par CARTégal à 86.68 ± 1.87%) et de sélectionner une électrode parmi les 58 initiales.",
+"title": "Classification de données EEG par algorithme évolutionnaire pour l'étude d'états de vigilance",
+"placeAut":[{
+"place":"Bordeaux",
+"country":"France",
+"location":{
+	"lat":"44.837789",
+	"lon":"-0.57918"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 44.837789, u'lon': -0.57918}",
+"place": "Bordeaux",
+"booktitle": "EGC",
+"idArt": "217",
+"authors": "['Laurent Vezard','Pierrick Legrand','Marie Chavent','Frédérique Faïta-Aïnseba','Julien Clauzel']"
+}

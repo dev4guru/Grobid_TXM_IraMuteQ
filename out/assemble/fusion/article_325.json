@@ -1,0 +1,22 @@
+{
+"year": "2011",
+"metaSession": "",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1000960",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1000960",
+"abstract": "",
+"title": "ISICIL : Intégration Sémantique d'Informations à travers des Communautés d'Intelligence en Ligne",
+"placeAut":[{
+"place":"Sophia Antipolis",
+"country":"France",
+"location":{
+	"lat":"43.6163539",
+	"lon":"7.0552218"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 48.390394, u'lon': -4.486076}",
+"place": "Brest",
+"booktitle": "EGC",
+"idArt": "325",
+"authors": "['Pavel Arapov','Sébastien Comos','Olivier Corby','Nicolas Delaforge','Guillaume Erétéo','Catherine Faron-Zucker','Michel Buffa','Fabien Gandon','Guillaume Husson','Freddy Limpens']"
+}

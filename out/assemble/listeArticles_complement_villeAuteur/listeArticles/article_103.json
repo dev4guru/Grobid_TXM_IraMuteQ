@@ -1,0 +1,13 @@
+{	 "idArt" : "103",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2014",
+	 "place" : "Rennes",
+	 "location" : { "lat" :  48.117266, 
+		 "lon" : -1.6777926 }, 
+	 "title" : "Extraction de motifs dans des graphes orientés attribués en présence d'automorphisme",
+	 "abstract" : "Les graphes orientés attribués sont des graphes orientés dans lesquelsles noeuds sont associés à un ensemble d'attributs. De nombreuses données, issuesdu monde réel, peuvent être représentées par ce type de structure, maisencore peu d'algorithmes sont capables de les traiter directement. La fouille desgraphes attribués est difficile, car elle nécessite de combiner l'exploration de lastructure du graphe avec l'identification d'itemsets fréquents. De plus, du fait del'explosion combinatoire des itemsets, les isomorphismes de sous-graphes, dontla présence impacte énormément les performances des algorithmes de fouille,sont beaucoup plus nombreux que dans les graphes étiquetés.Dans cet article, nous présentons une nouvelle méthode de fouille de donnéesqui permet d'extraire des motifs fréquents à partir d'un ou de plusieurs graphesorientés attribués. Nous montrons comment réduire l'explosion combinatoireprovoquée par les isomorphismes de sous-graphes en traitant de manière particulièreles motifs automorphes.",
+	 "authors" : ["Claude Pasquier","Frédéric Flouvat","Jérémy Sanhes","Nazha Selmaoui-Folcher"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1001949" 
+} 
+ 

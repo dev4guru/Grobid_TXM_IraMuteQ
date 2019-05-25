@@ -1,0 +1,9 @@
+{	 "idArt" : "169",
+	 "placeAut" : [ 
+		{ "place" : "Fukuoka",
+		 "country" : "Japan",
+		 "location" : { "lat" :  33.5903547, 
+			 "lon" : 130.40171550000002 } }
+	 ]
+} 
+ 

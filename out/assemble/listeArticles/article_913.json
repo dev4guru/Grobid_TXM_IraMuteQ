@@ -1,0 +1,14 @@
+{	 "idArt" : "913",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "AEGC",
+	 "year" : "2005",
+	 "place" : "Paris",
+	 "location" : { "lat" :  48.856614, 
+		 "lon" : 2.3522219 }, 
+	 "title" : "Recherche d'image par le contenu : requête partielle ou globale, apprentissage en ligne",
+	 "abstract" : "Nous présentons dans cet article deux méthodes d'élaboration dessignatures, une méthode globale à l'aide d'histogrammes et une méthode dedescription des régions et de leur disposition dans l'image. Nous exposonsensuite une méthode dédiée à la requête partielle qui est basée sur la mise encorrespondance de graphes de régions et une méthode interactive basée surl'apprentissage statistique.",
+	 "authors" : ["Sylvie Philipp-Foliguet"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1000295" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1000295" 
+} 
+ 

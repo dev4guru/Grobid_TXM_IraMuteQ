@@ -1,0 +1,14 @@
+{	 "idArt" : "827",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2006",
+	 "place" : "Lille",
+	 "location" : { "lat" :  50.62925, 
+		 "lon" : 3.057256 }, 
+	 "title" : "Le forage distribué des données : une méthode simple, rapide et efficace",
+	 "abstract" : "Dans cet article nous nous attaquons au problème du forage de trèsgrandes bases de données distribuées. Le résultat visé est un modèle qui soit etprédictif et descriptif, appelé méta-classificateur. Pour ce faire, nous proposonsde miner à distance chaque base de données indépendamment. Puis, il s'agitde regrouper les modèles produits (appelés classificateurs de base), sachant quechaque forage produira un modèle prédictif et descriptif, représenté pour nos besoinspar un ensemble de règles de classification. Afin de guider l'assemblage del'ensemble final de règles, qui sera l'union des ensembles individuels de règles,un coefficient de confiance est attribué à chaque règle de chaque ensemble. Cecoefficient, calculé par des moyens statistiques, représente la confiance que nouspouvons avoir dans chaque règle en fonction de sa couverture et de son taux d'erreurface à sa capacité d'être appliquée correctement sur de nouvelles données.Nous démontrons dans cet article que, grâce à ce coefficient de confiance, l'agrégationpure et simple de tous les classificateurs de base pour obtenir un agrégatde règles produit un méta-classificateur rapide et efficace par rapport aux techniquesexistantes.",
+	 "authors" : ["Mohamed Aounallah","Guy Mineau"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1000328" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1000328" 
+} 
+ 

@@ -1,0 +1,22 @@
+{
+"year": "2015",
+"metaSession": "3",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1002064",
+"pdfarticle": "",
+"abstract": "La prédiction de séquences de symboles est une tâche ayant de multiples applications. Plusieurs modèles de prédiction ont été proposés tels que DG, All-k-order markov et PPM. Récemment, il a été montré qu'un nouveau modèle nommé Compact Prediction Tree (CPT) utilisant une structure en arbre et un algorithme de prédiction plus complexe, offre des prédictions plus exactes que plusieurs approches de la littérature. Néanmoins, une limite importante de CPT est sa complexité temporelle et spatiale élevée. Dans cet article, nous pallions ce problème en proposant trois stratégies pour réduire la taille et le temps de prédiction de CPT. Les résultats expérimentaux sur 7 jeux de données réels montrent que le modèle résultant nommé CPT+ est jusqu'à 98 fois plus compact et est 4.5 fois plus rapide que CPT, tout en conservant une exactitude très élevée par rapport à All-K-order Markov, DG, Lz78, PPM et TDAG.",
+"title": "Réduction de la complexité spatiale et temporelle du Compact Prediction Tree pour la prédiction de séquences",
+"placeAut":[{
+"place":"Moncton",
+"country":"Canada",
+"location":{
+	"lat":"46.0878165",
+	"lon":"-64.7782313"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 49.815273, u'lon': 6.129582999999999}",
+"place": "Luxembourg",
+"booktitle": "EGC",
+"idArt": "48",
+"authors": "['Ted Gueniche','Philippe Fournier-Viger']"
+}

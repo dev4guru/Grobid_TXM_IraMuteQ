@@ -1,0 +1,22 @@
+{
+"year": "2008",
+"metaSession": "4",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1000666",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1000666",
+"abstract": "La classification recouvrante désigne les techniques de regroupements de données en classes pouvant s'intersecter. Particulièrement adaptés à des domaines d'application actuels (e.g. Recherche d'Information, Bioinformatique) quelques modèles théoriques de classification recouvrante ont été proposés très récemment parmi lesquels le modèle MOC (Banerjee et al. (2005a)) utilisant les modèles de mélanges et l'approche OKM (Cleuziou (2007)) consistant à généraliser l'algorithme des k-moyennes. La présente étude vise d'une part à étudier les limites théoriques et pratiques de ces deux modèles, et d'autre part à proposer une formulation de l'approche OKM en terme de modèles de mélanges gaussiens, laissant ainsi entrevoir des perspectives intéressantes quant à la variabilité des schémas de recouvrements envisageables.",
+"title": "Étude comparative de deux approches de classification recouvrante : MOC vs. OKM",
+"placeAut":[{
+"place":"Orléans",
+"country":"France",
+"location":{
+	"lat":"47.902964",
+	"lon":"1.909251"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 43.6163539, u'lon': 7.0552218}",
+"place": "Sophia Antipolis",
+"booktitle": "EGC ",
+"idArt": "597",
+"authors": "['Guillaume Cleuziou','Jacques-Henri Sublemontier']"
+}

@@ -1,0 +1,13 @@
+{	 "idArt" : "71",
+	 "placeAut" : [ 
+		{ "place" : "Agadir",
+		 "country" : "Maroc",
+		 "location" : { "lat" :  30.4277547, 
+			 "lon" : -9.598107199999959 } },
+		{ "place" : "La Rochelle",
+		 "country" : "France",
+		 "location" : { "lat" :  46.160329, 
+			 "lon" : -1.1511390000000574 } }
+	 ]
+} 
+ 

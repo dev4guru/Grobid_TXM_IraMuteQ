@@ -1,0 +1,22 @@
+{
+"year": "2005",
+"metaSession": "2",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1000207",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1000207",
+"abstract": "La notion de règles entre attributs est très générale, allant des règles d'association en fouille de données aux dépendances fonctionnelles (DF) en bases de données. Malgré cette diversité, la syntaxe des règles est toujours la même, seule leur sémantique diffère. Pour une sémantique donnée, en fonction des propriétés induites, des techniques algorithmiques sont mises en oeuvre pour découvrir les règles à partir des données. A partir d'un ensemble de règles, il est aussi utile en pratique de raisonner sur ces règles, comme cela est le cas par exemple avec les axiomes d'Armstrong pour les dépendances fonctionnelles. Dans cet article, nous proposons un cadre qui permet de s'assurer qu'une sémantique donnée pour les règles est bien-formée, i.e. les axiomes d'Armstrong sont justes et complets pour cette sémantique. Les propositions faites dans ce papier proviennent du contexte applicatif de l'analyse de données de biopuces. A partir de plusieurs sémantiques pour les données d'expression de gènes, nous montrons comment ces sémantiques s'intègrent dans le cadre présenté.",
+"title": "Notion de sémantiques bien-formées pour les règles",
+"placeAut":[{
+"place":"Aurillac",
+"country":"France",
+"location":{
+	"lat":"44.930953",
+	"lon":"2.444997"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 48.856614, u'lon': 2.3522219}",
+"place": "Paris",
+"booktitle": "EGC",
+"idArt": "993",
+"authors": "['Marie Agier','Jean-Marc Petit']"
+}

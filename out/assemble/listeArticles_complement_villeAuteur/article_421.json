@@ -1,0 +1,17 @@
+{	 "idArt" : "421",
+	 "placeAut" : [ 
+		{ "place" : "Clermont-Ferrand",
+		 "country" : "France",
+		 "location" : { "lat" :  45.77722199999999, 
+			 "lon" : 3.0870250000000397 } },
+		{ "place" : "Jendouba",
+		 "country" : "Tunisie",
+		 "location" : { "lat" :  36.5, 
+			 "lon" : 8.78333299999997 } },
+		{ "place" : "Gafsa",
+		 "country" : "Tunisie",
+		 "location" : { "lat" :  34.416667, 
+			 "lon" : 8.78333299999997 } }
+	 ]
+} 
+ 

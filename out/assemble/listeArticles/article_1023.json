@@ -1,0 +1,14 @@
+{	 "idArt" : "1023",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2004",
+	 "place" : "Clermont-Ferrand",
+	 "location" : { "lat" :  45.77722199999999, 
+		 "lon" : 3.087025 }, 
+	 "title" : "A metric approach to supervised discretization",
+	 "abstract" : "Nous présentons une nouvelle approche à la discrétisation supervisée des attributs continues qui se sert de l'espace métrique des partitions d'un ensemble fini. Nous discutons deux nouvelles idées fondamentales : une généralisation des techniques de discrétisation de Fayyad-Irani basée sur une distance sur des partitions, dérivée de l'entropie généralisée de Daroczy, et un nouveau critère géométrique pour arrêter l'algorithme de discrétisation. Les arbres de décision résultants sont plus petits, ont moins de feuilles, et montrent des niveaux plus élevés d'exactitude établis par la validation croisée stratifiée.",
+	 "authors" : ["Dan A. Simovici","Richard Butterworth"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1000966" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1000966" 
+} 
+ 

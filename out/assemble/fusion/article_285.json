@@ -1,0 +1,22 @@
+{
+"year": "2011",
+"metaSession": "8",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1000941",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1000941",
+"abstract": "Nous proposons un outil graphique interactif qui permet de visualiser et d'extraire des connaissances à partir des résultats de l'Analyse Factorielle des Correspondances (AFC) sur les images. L'AFC est une technique descriptive développée pour analyser des tableaux de contingence. L'AFC est originellement utilisée dans l'Analyse des Données Textuelles (ADT) où le corpus est représenté par un tableau de contingence croisant des documents et des mots. Dans la fouille d'images, nous définissons d'abord les « mots visuels » dans les images (analogues aux mots textuels). Ces mots visuels sont construits à partir des descripteurs locaux SIFT (Scale Invariant Feature Transform) dans l'image. Ensuite, nous appliquons l'AFC sur le tableau de contingence obtenu. Notre outil (appelé HCAViz) analyse ce tableau de contingence de façon récursive et aide l'utilisateur à interpréter et interagir avec les résultats de l'AFC. D'abord, les résultats de la première AFC sur les images sont visualisés. L'utilisateur sélectionne ensuite un groupe d'images et fait une deuxième AFC sur le nouveau tableau de contingence. Ce processus peut continuer jusqu'à ce qu'un thème « pur » se dévoile. Ceci permet de découvrir une arborescence des thèmes dans une collection d'images. Une application sur la base Caltech-4 illustre l'intérêt de HCAViz dans la fouille d'images.",
+"title": "Analyse factorielle des correspondances hiérarchique pour la fouille d'images",
+"placeAut":[{
+"place":"Cantho",
+"country":"Vietnam",
+"location":{
+	"lat":"10.0451618",
+	"lon":"105.7468535"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 48.390394, u'lon': -4.486076}",
+"place": "Brest",
+"booktitle": "EGC",
+"idArt": "285",
+"authors": "['Nguyen-Khang Pham','Annie Morin','François Poulet','Patrick Gros']"
+}

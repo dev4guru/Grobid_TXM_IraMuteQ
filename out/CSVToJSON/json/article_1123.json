@@ -1,0 +1,15 @@
+{
+"idArt": "1123",
+"series": "Revue des Nouvelles Technologies de l'Information",
+"booktitle": "EGC",
+"year": "2016",
+"title": "Découverte de motifs intelligibles et caractéristiques d'anomalies dans les traces unitaires",
+"abstract": "De nombreuses industries manufacturières s'intéressent aujourd'hui àl'exploitation des grandes collections de traces unitaires. Les applications sontmultiples et vont du simple "reporting" à la détection de fraudes en passant parla gestion de retours ou encore la mise en évidence d'incohérences dans lescircuits de distribution. Une étape importante consiste à détecter des anomaliesdans des collections de traces. Si les travaux concernant la détection d'anomaliessont assez nombreux, peu permettent de caractériser les anomalies détectées parune description intelligible. Étant donné un ensemble de traces unitaires, nousdéveloppons une méthode d'extraction de motifs pour détecter et contextualiserdes comportements non conformes à un modèle expert (fourni ou construit àpartir des données). Le degré d'anomalie est alors quantifié grâce à la proportiondu nombre de mouvements des objets qui ne sont pas prévus dans le modèleexpert. Cette recherche est financée partiellement par un programme industrielqui ne permet ni de dévoiler le contexte concret ni de parler des données réelles.Ainsi, nous validons empiriquement la valeur ajoutée de la méthode proposéepar l'étude de traces de mobilité dans un jeu vidéo : nous pouvons alors discuterd'un motif qui explicite les raisons de l'inexpérience de certains joueurs.",
+"authors": "Olivier Cavadenti, Victor Codocedo, Mehdi Kaytoue, Jean-François Boulicaut",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1002153",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1002153",
+"metaSession": "3",
+"place": "Reims",
+"Latitude": " 49.258348 ",
+"Longitude": "4.031715"
+}

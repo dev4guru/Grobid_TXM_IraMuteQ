@@ -1,0 +1,22 @@
+{
+"year": "2004",
+"metaSession": "8",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1001095",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1001095",
+"abstract": "Nous proposons une méthode automatique de comparaison de textes reposant sur une technique de transformation d'un texte en une image de taille donnée et l'analyse à l'aide des outils de la géométrie fractale. Nous présentons une application à l'étude d'un corpus de 90 textes longs.",
+"title": "Étude de textes par leur image",
+"placeAut":[{
+"place":"Tours",
+"country":"France",
+"location":{
+	"lat":"47.394144",
+	"lon":"0.68484"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 45.77722199999999, u'lon': 3.087025}",
+"place": "Clermont-Ferrand",
+"booktitle": "EGC",
+"idArt": "1046",
+"authors": "['Hubert Marteau','Alexandre Lefevre','Nicole Vincent']"
+}

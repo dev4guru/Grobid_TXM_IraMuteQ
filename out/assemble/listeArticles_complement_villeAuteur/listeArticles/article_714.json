@@ -1,0 +1,14 @@
+{	 "idArt" : "714",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2007",
+	 "place" : "Namur",
+	 "location" : { "lat" :  50.4673883, 
+		 "lon" : 4.8719854 }, 
+	 "title" : "Fusion des approches visuelles et contextuelles pour l'annotation des images médicales",
+	 "abstract" : "Dans le contexte de la recherche d'information sur Internet, nous proposons une architecture d'annotation automatique des images médicales, extraites à partir des documents de santé en ligne. Notre système est conçu pour extraire des informations médicales spécifiques (i.e. modalité médicale, région anatomique) à partir du contenu et du contexte des images. Nous proposons une architecture de fusion des approches contenu/contexte adaptée aux images médicales. L'approche orientée sur le contenu des images, consiste à annoter des images inconnues par la catégorisation des représentations visuelles compactes. Nous utilisons en même temps le contexte des images (les régions textuelles) ainsi que des ontologies médicales spécialement adaptées aux informations recherchées. Finalement, nous démontrons qu'en fusionnant les décisions des deux approches, nous améliorons les performances globales du système d'annotation.",
+	 "authors" : ["Filip Florea","Valeriu Cornea","Alexandrina Rogozan","Abdelaziz Bensrhair","Stéfan Jacques Darmoni"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1001416" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1001416" 
+} 
+ 

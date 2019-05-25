@@ -1,0 +1,14 @@
+{	 "idArt" : "708",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2007",
+	 "place" : "Namur",
+	 "location" : { "lat" :  50.4673883, 
+		 "lon" : 4.8719854 }, 
+	 "title" : "Extraction de connaissances d'adaptation par analyse de la base de cas",
+	 "abstract" : "En raisonnement à partir de cas, l'adaptation d'un cas source pour résoudre un problème cible est une étape à la fois cruciale et difficile à réaliser. Une des raisons de cette difficulté tient au fait que les connaissances d'adaptation sont généralement dépendantes du domaine d'application. C'est ce qui motive la recherche sur l'acquisition de connaissances d'adaptation (ACA). Cet article propose une approche originale de l'ACA fondée sur des techniques d'extraction de connaissances dans des bases de données (ECBD). Nous présentons CABAMAKA, une application qui réalise l'ACA par analyse de la base de cas, en utilisant comme technique d'apprentissage l'extraction de motifs fermés fréquents. L'ensemble du processus d'extraction des connaissances est détaillé, puis nous examinons comment organiser les résultats obtenus de façon à faciliter la validation des connaissances extraites par l'analyste.",
+	 "authors" : ["Amedeo Napoli","Jean Lieber","Fadi Badra"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1001464" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1001464" 
+} 
+ 

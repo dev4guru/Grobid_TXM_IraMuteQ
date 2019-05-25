@@ -1,0 +1,1 @@
+We propose a meta-model, called SArEM, that specifies the basic elements of the softwarearchitecture extraction. SArEM serves as a tool to compare the different software architectureextraction approaches that aim to extract a system architecture from the source code.

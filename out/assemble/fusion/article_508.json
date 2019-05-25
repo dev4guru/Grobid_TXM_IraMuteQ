@@ -1,0 +1,22 @@
+{
+"year": "2009",
+"metaSession": "5",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1000776",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1000776",
+"abstract": "Intrusion detection is an important topic dealing with security of in-formation systems. Most successful Intrusion Detection Systems (IDS) rely onsignature detection and need to update their signature as fast as new attacks areemerging. On the other hand, anomaly detection may be utilized for this purpose,but it suffers from a high number of false alarms. Actually, any behaviour whichis significantly different from the usual ones will be considered as dangerousby an anomaly based IDS. Therefore, isolating true intrusions in a set of alarmsis a very challenging task for anomaly based intrusion detection. In this paper,we consider to add a new feature to such isolated behaviours before they can beconsidered as malicious. This feature is based on their possible repetition fromone information system to another. We propose a new outlier mining principleand validate it through a set of experiments.",
+"title": "Collaborative Outlier Mining for Intrusion Detection",
+"placeAut":[{
+"place":"Sophia Antipolis",
+"country":"France",
+"location":{
+	"lat":"43.6163539",
+	"lon":"7.0552218"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 48.5734053, u'lon': 7.752111299999999}",
+"place": "Strasbourg",
+"booktitle": "EGC",
+"idArt": "508",
+"authors": "['Goverdhan Singh','Florent Masseglia','Céline Fiot','Alice Marascu','Pascal Poncelet']"
+}

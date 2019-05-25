@@ -1,0 +1,13 @@
+{	 "idArt" : "436",
+	 "placeAut" : [ 
+		{ "place" : "San Sebastian",
+		 "country" : "Spain",
+		 "location" : { "lat" :  43.318334, 
+			 "lon" : -1.9812312999999904 } },
+		{ "place" : "Tripoli",
+		 "country" : "Lebanon",
+		 "location" : { "lat" :  34.4380941, 
+			 "lon" : 35.83083710000005 } }
+	 ]
+} 
+ 

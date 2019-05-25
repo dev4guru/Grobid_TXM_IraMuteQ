@@ -1,0 +1,22 @@
+{
+"year": "2005",
+"metaSession": "",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1000285",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1000285",
+"abstract": "Nous décrivons un processus de fouille de données en bioinfor-matique. Il se traduit par la spécification de modèles de Markov cachésdu second-ordre, leur apprentissage et leur utilisation pour permettre unesegmentation de grandes séquences d'ADN en différentes classes qui tra-duisent chacune un état organisationnel et structural des motifs d'ADNlocaux sous-jacents. Nous ne supposons aucune connaissance a priori surles séquences que nous étudions. Dans le domaine informatique, ce tra-vail est dédié à la définition d'observations structurées (les k-d-k-mers)permettant la localisation en contexte d'irrégularités, ainsi qu'à la des-cription d'une méthode de classfication utilisant plusieurs classifieurs.Dans le domaine biologique, cet article décrit une méthode pour prédiredes ensembles de gènes co-régulés, donc susceptibles d'avoir des fonctionsliées en réponse à des conditions environnementales spécifiques.",
+"title": "Fouille de données du génome à l'aide de modèles de Markov cachés",
+"placeAut":[{
+"place":"Vandoeuvre-lès-Nancy",
+"country":"France",
+"location":{
+	"lat":"48.661118",
+	"lon":"6.17376"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 48.856614, u'lon': 2.3522219}",
+"place": "Paris",
+"booktitle": "AEGC",
+"idArt": "894",
+"authors": "['Sébastien Hergalant','Bertrand Aigle','Pierre Leblond','Jean-François Mari']"
+}

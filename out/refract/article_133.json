@@ -1,0 +1,22 @@
+{
+"year": "2014",
+"metaSession": "6",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1001944",
+"pdfarticle": "",
+"abstract": "Dans cet article, nous nous intéressons à la recherche des points lesplus intéressants au sens de l'ordre de Pareto, i.e., à l'évaluation de requêtes« skyline » , dans des jeux de données présentant des anomalies. Il n'est pas rareque les données, de petites annonces par exemple, soient peuplées d'erreurs oud'exceptions qui peuvent perturber la recherche des meilleurs points car cellescisont susceptibles de dominer les autres points. L'approche présentée vise àcalculer les requêtes skyline malgré la présence de ces exceptions, sans pourautant les écarter définitivement, et à présenter graphiquement les résultats defaçon à identifier rapidement les points d'intérêt et les anomalies potentielles.",
+"title": "Requêtes skyline en présence d'exceptions",
+"placeAut":[{
+"place":"Rennes",
+"country":"France",
+"location":{
+	"lat":"48.117266",
+	"lon":"-1.6777926"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 48.117266, u'lon': -1.6777926}",
+"place": "Rennes",
+"booktitle": "EGC",
+"idArt": "133",
+"authors": "['Hélène Jaudoin','Olivier Pivert','Daniel Rocacher']"
+}

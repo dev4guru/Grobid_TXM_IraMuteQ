@@ -1,0 +1,22 @@
+{
+"year": "2008",
+"metaSession": "2",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1000623",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1000623",
+"abstract": "La réduction de l'erreur en généralisation est l'une des principales motivations de la recherche en apprentissage automatique. De ce fait, un grand nombre de travaux ont été menés sur les méthodes d'agrégation de classifieurs afin d'améliorer, par des techniques de vote, les performances d'un classifieur unique. Parmi ces méthodes d'agrégation, le boosting est sans doute le plus performant grâce à la mise à jour adaptative de la distribution des exemples visant à augmenter de façon exponentielle le poids des exemples mal classés. Cependant, en cas de données fortement bruitées, cette méthode est sensible au sur-apprentissage et sa vitesse de convergence est affectée. Dans cet article, nous proposons une nouvelle approche basée sur des modifications de la mise à jour des exemples et du calcul de l'erreur apparente effectuées au sein de l'algorithme classique d'AdaBoost. Une étude expérimentale montre l'intérêt de cette nouvelle approche, appelée Approche Hybride, face à AdaBoost et à BrownBoost, une version d'AdaBoost adaptée aux données bruitées.",
+"title": "Une nouvelle approche du boosting face aux données bruitées",
+"placeAut":[{
+"place":"Bron",
+"country":"France",
+"location":{
+	"lat":"45.733316",
+	"lon":"4.911927"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 43.6163539, u'lon': 7.0552218}",
+"place": "Sophia Antipolis",
+"booktitle": "EGC ",
+"idArt": "664",
+"authors": "['Emna Bahri','Mondher Maddouri']"
+}

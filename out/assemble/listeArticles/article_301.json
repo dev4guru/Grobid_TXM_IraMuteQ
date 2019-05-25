@@ -1,0 +1,13 @@
+{	 "idArt" : "301",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2011",
+	 "place" : "Brest",
+	 "location" : { "lat" :  48.390394, 
+		 "lon" : -4.486076 }, 
+	 "title" : "Construction ontologique à partir de séquences d'expression de champignons",
+	 "authors" : ["Houda Fyad","Karim Bouamrane","Baghdad Atmani","Claire Toffano-Nioche"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1000968" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1000968" 
+} 
+ 

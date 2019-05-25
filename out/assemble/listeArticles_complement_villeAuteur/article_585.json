@@ -1,0 +1,9 @@
+{	 "idArt" : "585",
+	 "placeAut" : [ 
+		{ "place" : "Meylan",
+		 "country" : "France",
+		 "location" : { "lat" :  45.209786, 
+			 "lon" : 5.77762800000005 } }
+	 ]
+} 
+ 

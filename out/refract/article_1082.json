@@ -1,0 +1,22 @@
+{
+"year": "2004",
+"metaSession": "8",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1000895",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1000895",
+"abstract": "Une base d'images fixes peut être décrite de plusieurs façons, notamment par des descripteurs visuels globaux de couleur, de texture, ou de forme. Les requêtes les plus fréquentes impliquent et combinent les résultats de plusieurs types de descripteurs : par exemple, retrouver toutes les images ayant une couleur et une texture semblables à celles d'une image requête donnée. Pour retrouver plus efficacement et plus rapidement une image dans une grande base, nous exploitons des combinaisons appropriées de descripteurs et étudions l'intérêt des règles d'association entre clusters de descripteurs pour accélérer le temps de réponse à des requêtes sur de grandes bases d'images fixes.",
+"title": "Recherche dans de grandes bases d'images fixes : une nouvelle approche guidée par les règles d'association",
+"placeAut":[{
+"place":"Rennes",
+"country":"France",
+"location":{
+	"lat":"48.117266",
+	"lon":"-1.6777926"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 45.77722199999999, u'lon': 3.087025}",
+"place": "Clermont-Ferrand",
+"booktitle": "EGC",
+"idArt": "1082",
+"authors": "['Anicet Kouomou Choupo','Annie Morin','Laure Berti-Equille']"
+}

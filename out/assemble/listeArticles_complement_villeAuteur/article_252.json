@@ -1,0 +1,13 @@
+{	 "idArt" : "252",
+	 "placeAut" : [ 
+		{ "place" : "Toulouse",
+		 "country" : "France",
+		 "location" : { "lat" :  43.604652, 
+			 "lon" : 1.4442090000000007 } },
+		{ "place" : "Tunis",
+		 "country" : "Tunisie",
+		 "location" : { "lat" :  36.8064948, 
+			 "lon" : 10.181531599999971 } }
+	 ]
+} 
+ 

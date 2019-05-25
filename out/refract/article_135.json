@@ -1,0 +1,22 @@
+{
+"year": "2014",
+"metaSession": "2",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1001941",
+"pdfarticle": "",
+"abstract": "L'objectif de cet article est d'évaluer la capacité de 12 algorithmesde classification multi-label à apprendre, en peu de temps, avec peu d'exemplesd'apprentissage. Les résultats expérimentaux montrent des différences importantesentre les méthodes analysées, pour les 3 mesures d'évaluation choisies:Log-Loss, Ranking-Loss et Temps d'apprentissage/prédiction, et les meilleursrésultats sont obtenus avec: multi-label k Nearest neighbours (ML-kNN), suivide Ensemble de Classifier Chains (ECC) et Ensemble de Binary Relevance (EBR).",
+"title": "Sélection d'une méthode de classification multi-label pour un système interactif",
+"placeAut":[{
+"place":"Lannion",
+"country":"France",
+"location":{
+	"lat":"48.732084",
+	"lon":"-3.459144"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 48.117266, u'lon': -1.6777926}",
+"place": "Rennes",
+"booktitle": "EGC",
+"idArt": "135",
+"authors": "['Noureddine Yacine Nair Benrekia','Pascale Kuntz','Franck Meyer']"
+}

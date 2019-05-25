@@ -1,0 +1,14 @@
+{	 "idArt" : "291",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2011",
+	 "place" : "Brest",
+	 "location" : { "lat" :  48.390394, 
+		 "lon" : -4.486076 }, 
+	 "title" : "Apprentissage génératif de la structure de réseaux logiques de Markov à partir d'un graphe des prédicats",
+	 "abstract" : "Les Réseaux Logiques de Markov (MLNs) combinent l'apport statistique des Réseaux de Markov à la logique du premier ordre. Dans cette approche, chaque clause logique se voit affectée d'un poids, l'instanciation des clauses permettant alors de produire un Réseau deMarkov. L'apprentissage d'un MLN consiste à apprendre d'une part sa structure (la liste de clauses logiques) et d'autre part les poids de celles-ci. Nous proposons ici une méthode d'apprentissage génératif de Réseau Logique de Markov. Cette méthode repose sur l'utilisation d'un graphe des prédicats, produit à partir d'un ensemble de prédicats et d'une base d'apprentissage. Une méthode heuristique de variabilisation est mise en oeuvre afin de produire le jeu de clauses candidates. Les résultats présentés montrent l'intérêt de notre approche au regard de l'état de l'art.",
+	 "authors" : ["Quang-Thang Dinh","Matthieu Exbrayat","Christel Vrain"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1000993" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1000993" 
+} 
+ 

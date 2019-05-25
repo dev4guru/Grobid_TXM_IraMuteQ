@@ -1,0 +1,22 @@
+{
+"year": "2008",
+"metaSession": "3",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1000653",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1000653",
+"abstract": "Dans un contexte d'ingénierie de la connaissance, l'analyse des données relationnelles évolutives est une question centrale. La représentation de ce type de données sous forme de graphe optimisé en facilite l'analyse et l'interprétation par l'utilisateur non expert. Cependant, ces graphes peuvent rapidement devenir trop complexes pour être étudiés dans leur globalité, il faut alors les décomposer de manière à en faciliter la lecture et l'analyse. Pour cela, une solution est de les simplifier, dans un premier temps, en un graphe réduit dont les sommets représentent chacun un groupe distinct de sommets : acteurs ou termes du domaine étudié. Dans un second temps, il faut les décomposer en instances (un graphe par période) afin de prendre en compte la dimension temporelle.La plateforme de veille stratégique Tétralogie, développée dans notre laboratoire, permet de synthétiser les données relationnelles évolutives sous forme de matrices de cooccurrence 3D et VisuGraph, son module de visualisation, permet de les représenter sous forme de graphes évolutifs.VisuGraph assimile les différentes périodes à des repères temporels et chaque sommet est placé en fonction de son degré d'appartenance aux différentes périodes. Ce prototype est aussi doté d'un module de la classification interactive de données relationnelles basé sur une technique de Markov Clustering, qui conduit à une visualisation sous forme de graphe réduit. Nous proposons ici de prendre en compte la dimension temporelle dans notre processus de classification des données. Ainsi, par la visualisation successive des différentes instances, il devient plus facile d'analyser l'évolution des classes au niveau intra mais aussi au niveau inter classes.",
+"title": "La prise en compte de la dimension temporelle dans la classification de données",
+"placeAut":[{
+"place":"Toulouse",
+"country":"France",
+"location":{
+	"lat":"43.604652",
+	"lon":"1.444209"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 43.6163539, u'lon': 7.0552218}",
+"place": "Sophia Antipolis",
+"booktitle": "EGC ",
+"idArt": "618",
+"authors": "['Eloïse Loubier','Bernard Dousset']"
+}

@@ -1,0 +1,22 @@
+{
+"year": "2014",
+"metaSession": "8",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1001929",
+"pdfarticle": "",
+"abstract": "Nous proposons une nouvelle méthode de clustering et d'analyse deséquences temporelles basée sur les modèles en grille à trois dimensions. Lesséquences sont partitionnées en clusters, la dimension temporelle est discrétiséeen intervalles et la dimension évènement est partitionnée en groupes. La grille decellules 3D forme ainsi un estimateur non-paramétrique constant par morceauxde densité jointe des séquences et des dimensions des évènements temporels.Les séquences d'un cluster sont ainsi groupés car elles suivent une distributionsimilaire d'évènements au cours du temps. Nous proposons aussi une méthoded'exploitation du clustering par simplification de la grille ainsi que des indicateurspermettant d'interpréter les clusters et de caractériser les séquences quiles composent. Les expériences sur des données artificielles ainsi que sur desdonnées réelles issues de DBLP démontrent le bien-fondé de notre approche.",
+"title": "Clustering de séquences d'évènements temporels",
+"placeAut":[{
+"place":"Paris",
+"country":"France",
+"location":{
+	"lat":"48.856614",
+	"lon":"2.3522219"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 48.117266, u'lon': -1.6777926}",
+"place": "Rennes",
+"booktitle": "EGC",
+"idArt": "84",
+"authors": "['Romain Guigourès','Dominique Gay','Marc Boullé','Fabrice Clérot']"
+}

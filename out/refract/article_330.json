@@ -1,0 +1,22 @@
+{
+"year": "2011",
+"metaSession": "8",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1000935",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1000935",
+"abstract": "Nous proposons d'extraire des connaissances lexicales en exploitant les « gloses » de mot, ces descriptions spontanées de sens, repérables par des marqueurs lexicaux et des configurations morpho-syntaxiques spécifiques. Ainsi dans l'extrait suivant, le mot testing est suivi d'une glose en c'est-à dire : « 10 % de ces embauches vont porter sur un métier qui monte : le «testing», c'est-à-dire la maîtrise des méthodologies rigoureuses de test des logiciels». Cette approche ouvre des perspectives pour l'acquisition lexicale et terminologique, fondamentale pour de nombreuses tâches. Dans cet article, nous comparons deux façons d'extraire les unités en relation de glose : patrons et statistiques d'associations d'unités sur le web, en les évaluant sur des données réelles.",
+"title": "Mixer les moyens pour extraire les gloses",
+"placeAut":[{
+"place":"Montpellier",
+"country":"France",
+"location":{
+	"lat":"43.610769",
+	"lon":"3.876716"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 48.390394, u'lon': -4.486076}",
+"place": "Brest",
+"booktitle": "EGC",
+"idArt": "330",
+"authors": "['Augusta Mela','Mathieu Roche','Mohamed el Amine Bekhtaoui']"
+}

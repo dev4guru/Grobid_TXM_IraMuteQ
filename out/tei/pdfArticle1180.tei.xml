@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/josuah/Bureau/grobid/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="fr">
+		<encodingDesc>
+			<appInfo>
+				<application version="0.5.5-SNAPSHOT" ident="GROBID" when="2019-04-04T12:42+0000">
+					<ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Une approche combinée pour l&apos;enrichissement d&apos;ontologie à partir de textes et de données du LOD</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Céline</forename><surname>Alec</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution" key="instit1">LRI</orgName>
+								<orgName type="institution" key="instit2">Univ. Paris-Sud</orgName>
+								<orgName type="institution" key="instit3">CNRS</orgName>
+								<orgName type="institution" key="instit4">Université Paris-Saclay</orgName>
+								<address>
+									<postCode>F-91405</postCode>
+									<settlement>Orsay</settlement>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Chantal</forename><surname>Reynaud-Delaître</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution" key="instit1">LRI</orgName>
+								<orgName type="institution" key="instit2">Univ. Paris-Sud</orgName>
+								<orgName type="institution" key="instit3">CNRS</orgName>
+								<orgName type="institution" key="instit4">Université Paris-Saclay</orgName>
+								<address>
+									<postCode>F-91405</postCode>
+									<settlement>Orsay</settlement>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Brigitte</forename><surname>Safar</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution" key="instit1">LRI</orgName>
+								<orgName type="institution" key="instit2">Univ. Paris-Sud</orgName>
+								<orgName type="institution" key="instit3">CNRS</orgName>
+								<orgName type="institution" key="instit4">Université Paris-Saclay</orgName>
+								<address>
+									<postCode>F-91405</postCode>
+									<settlement>Orsay</settlement>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Une approche combinée pour l&apos;enrichissement d&apos;ontologie à partir de textes et de données du LOD</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<abstract>
+				<p>Cet article porte sur l&apos;étiquetage automatique de documents décrivant des produits, avec des concepts très spécifiques traduisant des besoins précis d&apos;utilisateurs. La particularité du contexte est qu&apos;il se confronte à une triple dif-ficulté : 1) les concepts utilisés pour l&apos;étiquetage n&apos;ont pas de réalisations ter-minologiques directes dans les documents, 2) leurs définitions formelles ne sont pas connues au départ, 3) toutes les informations nécessaires ne sont pas for-cément présentes dans les documents mêmes. Pour résoudre ce problème, nous proposons un processus d&apos;annotation en deux étapes, guidé par une ontologie. La première consiste à peupler l&apos;ontologie avec les données extraites des documents , complétées par d&apos;autres issues de ressources externes. La deuxième est une étape de raisonnement sur les données extraites qui recouvre soit une phase d&apos;apprentissage de définitions de concepts, soit une phase d&apos;application des définitions apprises. L&apos;approche SAUPODOC est ainsi une approche originale d&apos;enrichissement d&apos;ontologie qui exploite les fondements du Web sémantique, en combinant les apports du LOD et d&apos;outils d&apos;analyse de texte, d&apos;apprentissage automatique et de raisonnement. L&apos;évaluation, sur deux domaines d&apos;application, donne des résultats de qualité et démontre l&apos;intérêt de l&apos;approche.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="fr">
+	</text>
+</TEI>

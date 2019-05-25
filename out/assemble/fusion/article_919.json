@@ -1,0 +1,22 @@
+{
+"year": "2005",
+"metaSession": "",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1000225",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1000225",
+"abstract": "",
+"title": "Réseaux bayésiens pour le filtrage d'alarmes dans les systèmes de détection d'intrusions",
+"placeAut":[{
+"place":"Beyrouth",
+"country":"Liban",
+"location":{
+	"lat":"33.8886289",
+	"lon":"35.4954794"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 48.856614, u'lon': 2.3522219}",
+"place": "Paris",
+"booktitle": "AEGC",
+"idArt": "919",
+"authors": "['Ahmad Faour','Philippe Leray','Cédric Foll']"
+}

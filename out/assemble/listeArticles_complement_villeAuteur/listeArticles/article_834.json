@@ -1,0 +1,13 @@
+{	 "idArt" : "834",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2006",
+	 "place" : "Lille",
+	 "location" : { "lat" :  50.62925, 
+		 "lon" : 3.057256 }, 
+	 "title" : "Outil de datamining spatial appliqué à l'analyse des risques liés au territoire",
+	 "authors" : ["Schahrazed Zeghache","Farida Admane","Kamel Elaraba Ziane"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1000442" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1000442" 
+} 
+ 

@@ -1,0 +1,14 @@
+{	 "idArt" : "793",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2006",
+	 "place" : "Lille",
+	 "location" : { "lat" :  50.62925, 
+		 "lon" : 3.057256 }, 
+	 "title" : "Comparaison de deux modes de représentation de données faiblement structurées en sciences du vivant",
+	 "abstract" : "Cet article présente deux modes de représentation de l'informationdans le cadre d'une problématique en sciences du vivant. Le premier, appliqué àla microbiologie prévisionnelle, s'appuie sur deux formalismes, le modèle relationnelet les graphes conceptuels, interrogés uniformément via une même interface.Le second, appliqué aux technologies des céréales, utilise le seul modèlerelationnel. Cet article décrit les caractéristiques des données et compare les solutionsde représentation adoptées dans les deux systèmes.",
+	 "authors" : ["Rallou Thomopoulos","Patrice Buche","Ollivier Haemmerlé","Frédéric Mabille","Nongyao Mueangdee"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1000332" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1000332" 
+} 
+ 

@@ -1,0 +1,13 @@
+{	 "idArt" : "825",
+	 "placeAut" : [ 
+		{ "place" : "Angers",
+		 "country" : "France",
+		 "location" : { "lat" :  47.478419, 
+			 "lon" : -0.5631660000000238 } },
+		{ "place" : "Nantes",
+		 "country" : "France",
+		 "location" : { "lat" :  47.218371, 
+			 "lon" : -1.553621000000021 } }
+	 ]
+} 
+ 

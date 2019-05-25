@@ -1,0 +1,14 @@
+{	 "idArt" : "311",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2011",
+	 "place" : "Brest",
+	 "location" : { "lat" :  48.390394, 
+		 "lon" : -4.486076 }, 
+	 "title" : "Equivalence topologique entre mesures de proximité",
+	 "abstract" : "Le choix d'une mesure de proximité entre objets a un impact direct sur les résultats de toute opération de classification, de comparaison, d'évaluation ou de structuration d'un ensemble d'objets. Pour un problème donné, l'utilisateur est amené à choisir une parmi les nombreuses mesures de proximité existantes. Or, selon la notion d'équivalence choisie, comme celle basée sur les préordonnances, certaines sont plus ou moins équivalentes. Dans cet article, nous proposons une nouvelle approche pour comparer les mesures de proximité. Celle-ci est basée sur l'équivalence topologique. A cet effet, nous introduisons un nouveau concept baptisé équivalence topologique. Ce dernier fait appel à la structure de voisinage local. Nous proposons alors de définir l'équivalence topologique entre deux mesures de proximité à travers la structure topologique induite par chaque mesure. Nous établissons ensuite des liens formels avec l'équivalence en préordonnance. Les deux approches sont comparées sur le plan théorique et sur le plan empirique. Nous illustrons le principe de cette comparaison sur un exemple simple pour une quinzaine de mesures de proximités de la littérature.",
+	 "authors" : ["Djamel Abdelkader Zighed","Rafik Abdesselam","Ahmed Bounekkar"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1000928" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1000928" 
+} 
+ 

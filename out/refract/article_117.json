@@ -1,0 +1,22 @@
+{
+"year": "2014",
+"metaSession": "5",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1001958",
+"pdfarticle": "",
+"abstract": "Les acteurs et usagers du domaine médical (médecins, infirmiers, patients,internes, pharmaciens, etc.) ne sont pas issus de la même catégorie socioprofessionnelleet ne présentent pas le même niveau de maîtrise du domaine.Leurs écrits en témoignent et véhiculent, de plus, la subjectivité qui leur estpropre. Nous nous intéressons à l'étude automatisée de la subjectivité dans lediscours médical dans des textes en langue française. Nous confrontons le discoursdes médecins (articles scientifiques, rapports cliniques) à celui des patients(messages de forums de santé) en analysant contrastivement les différencesd'emploi des descripteurs tels que les marqueurs d'incertitude et de polarité,les marques émotives non lexicales (smileys, ponctuations répétées, etc.)et lexicales, et les termes médicaux relatifs aux pathologies, traitements et procédures.Nous effectuons une annotation et catégorisation automatiques des documentsafin de mieux observer les spécificités que présentent les discours médicauxciblés.",
+"title": "La subjectivité dans le discours médical : sur les traces de l'incertitude et des émotions",
+"placeAut":[{
+"place":"Lille",
+"country":"France",
+"location":{
+	"lat":"50.62925",
+	"lon":"3.057256"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 48.117266, u'lon': -1.6777926}",
+"place": "Rennes",
+"booktitle": "EGC",
+"idArt": "117",
+"authors": "['Pierre Chauveau Thoumelin','Natalia Grabar']"
+}

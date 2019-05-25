@@ -1,0 +1,14 @@
+{	 "idArt" : "1001",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2005",
+	 "place" : "Paris",
+	 "location" : { "lat" :  48.856614, 
+		 "lon" : 2.3522219 }, 
+	 "title" : "Règles de propagation pour la création d'ontologies d'annotation de ressources",
+	 "abstract" : "L'annotation se distingue de l'indexation automatique par l'utilisation d'une ou plusieurs ontologies qui définissent un domaine global de référence permettant de cadrer et de normaliser les annotations effectuées, par ailleurs une ressource annotée doit l'être non pas par une liste de mots clefs, mais bien par une ou plusieurs ontologies. Malheureusement, il est peu réaliste de penser que les centaines de millions de ressources mises à disposition sur le Web puissent être annotées par leurs auteurs. Pour résoudre ce problème, notre démarche consiste à indexer les documents en se basant sur l'ontologie globale et ensuite propager les annotations en utilisant des documents déjà annotés pour annoter d'autres documents référencés par ceux-ci. La propagation des annotations suit des règles que nous proposons dans cet article. L'illustration est effectuée sur un corpus de livres dont le thème relève de l'informatique.",
+	 "authors" : ["Lylia Abrouk","Pierre Pompidor","Danièle Hérin","Michel Sala"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1000305" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1000305" 
+} 
+ 

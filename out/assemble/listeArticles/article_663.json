@@ -1,0 +1,14 @@
+{	 "idArt" : "663",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC ",
+	 "year" : "2008",
+	 "place" : "Sophia Antipolis",
+	 "location" : { "lat" :  43.6163539, 
+		 "lon" : 7.0552218 }, 
+	 "title" : "Une mesure de similarité contextuelle pour l'aide à la navigation dans un treillis",
+	 "abstract" : "La recherche d'information et la navigation dans les pages web s'avèrent complexes du fait du volume croissant des données et de leur manque de structure. La formalisation conceptuelle d'un contexte associé à une ontologie rend possible l'amélioration de ce processus. Nous définissons un contexte conceptuel comme étant l'association d'un treillis de concepts construit à partir de pages web avec des ontologies. La recherche et la navigation peuvent alors s'effectuer à plusieurs niveaux d'abstraction : le niveau des données, le niveau conceptuel et le niveau sémantique. Cet article s'intéresse essentiellement au niveau conceptuel grâce à une représentation par les treillis de concepts des documents selon les termes qu'ils ont en commun. Notre objectif est de proposer une mesure de similarité permettant à l'utilisateur de mieux naviguer dans le treillis. En effet, une bonne interprétation du treillis devrait passer par un choix rigoureux des concepts, objets, relations et propriétés les plus intéressants. Pour faciliter la navigation, il faut pouvoir indiquer à l'utilisateur les concepts les plus pertinents par rapport au concept correspondant à sa requête ou pouvoir lui proposer un point de départ. L'originalité de notre proposition réside dans le fait de considérer un lien sémantique entre les concepts du treillis, basé sur une extension des mesures de similarité utilisées dans le cadre des ontologies, afin de permettre une meilleure exploitation de ce treillis. Nous présentons les résultats expérimentaux de l'application de cette mesure sur des treillis construits à partir de pages web dans le domaine du tourisme.",
+	 "authors" : ["Saoussen Sakji","Marie-Aude Aufaure","Géraldine Polaillon","Bénédicte Le Grand","Michel Soto"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1000561" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1000561" 
+} 
+ 

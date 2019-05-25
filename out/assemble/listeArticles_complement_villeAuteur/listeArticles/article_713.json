@@ -1,0 +1,14 @@
+{	 "idArt" : "713",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2007",
+	 "place" : "Namur",
+	 "location" : { "lat" :  50.4673883, 
+		 "lon" : 4.8719854 }, 
+	 "title" : "Finding interesting queries in relational databases",
+	 "abstract" : "La découverte de motifs dans des bases de données relationnelles quelconques est un problème intéressant pour lequel il existe très peu de méthodes efficaces. Nous présentons un cadre dans lequel des paires de requêtes sur les données sont utilisées comme des motifs et nous discutons du problème de la découverte d'associations utiles entre elles. Plus spécifiquement, nous considérons des petites sous-classes de requêtes conjonctives qui nous permettent de découvrir des motifs intéressants de manière efficace.",
+	 "authors" : ["Bart Goethals"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1001285" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1001285" 
+} 
+ 

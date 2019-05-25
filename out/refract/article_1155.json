@@ -1,0 +1,15 @@
+{
+"idArt": "1155",
+"series": "Revue des Nouvelles Technologies de l'Information",
+"booktitle": "EGC",
+"year": "2016",
+"title": "Nouvelle méthode de calcul de la réputation dans les forums de santé",
+"abstract": "De plus en plus de forums, tels que Slashdot ou Stack Exchange, proposentdes systèmes de réputations qui se basent sur le vote collaboratif. Lesutilisateurs peuvent ainsi donner un score à chaque message posté selon sa pertinenceou son utilité. Cependant, ces fonctionnalités de vote sont rarement utiliséesdans de nombreuses communautés en ligne tels que les forums de santé.Dans ces forums, les utilisateurs préfèrent poster un nouveau message exprimantde l'accord ou du remerciement vis à vis des messages pertinents plutôtque de cliquer sur un bouton de vote. Dans ce travail, nous proposons d'utiliserces formes implicites d'expression de la confiance pour estimer la réputation desutilisateurs dans les forums de santé.",
+"authors": "Amine Abdaoui",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1002173",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1002173",
+"metaSession": "7",
+"place": "Reims",
+"Latitude": " 49.258380 ",
+"Longitude": "4.031747"
+}

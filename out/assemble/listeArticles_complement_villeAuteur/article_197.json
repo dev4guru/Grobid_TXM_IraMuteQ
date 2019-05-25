@@ -1,0 +1,13 @@
+{	 "idArt" : "197",
+	 "placeAut" : [ 
+		{ "place" : "Montpellier",
+		 "country" : "France",
+		 "location" : { "lat" :  43.610769, 
+			 "lon" : 3.8767159999999876 } },
+		{ "place" : "Pau",
+		 "country" : "France",
+		 "location" : { "lat" :  43.2951, 
+			 "lon" : -0.3707970000000387 } }
+	 ]
+} 
+ 

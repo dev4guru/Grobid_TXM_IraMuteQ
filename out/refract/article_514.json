@@ -1,0 +1,22 @@
+{
+"year": "2009",
+"metaSession": "3",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1000763",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1000763",
+"abstract": "L'analyse formelle de concepts est une méthode fondée sur la correspondancede Galois et qui permet de construire des hiérarchies de conceptsformels à partir de tableaux de données binaires. Cependant de nombreux problèmesréels abordés en fouille de données comportent des données plus complexes.Afin de traiter de tels problèmes, nous proposons une conversion de donnéesfloues multi-valuées en attributs histogrammes et une correspondance deGalois adaptée à ce format. Notre propos est illustré avec un jeu de donnéessimples. Enfin, nous évaluons brièvement les résultats et les apports de cettecorrespondance de Galois par rapport à l'approche classique",
+"title": "Correspondances de Galois pour la manipulation de contextes flous multi-valués",
+"placeAut":[{
+"place":"Strasbourg",
+"country":"France",
+"location":{
+	"lat":"48.5734053",
+	"lon":"7.7521113"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 48.5734053, u'lon': 7.752111299999999}",
+"place": "Strasbourg",
+"booktitle": "EGC",
+"idArt": "514",
+"authors": "['Aurélie Bertaux','Florence Le Ber','Agnès Braud']"
+}

@@ -1,0 +1,1 @@
+Dans cette démonstration, nous proposons une application de visualisationdes résultats de la fouille de données séquentielles. Pour illustrer le fonctionnementde cette application, nous avons utilisé des données PMSI hospitalières,plus précisément dans le cas de l'infarctus du myocarde (IM). Les résultatsobtenus ont été soumis à un spécialiste pour discussion et validation.

@@ -1,0 +1,22 @@
+{
+"year": "2006",
+"metaSession": "0",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1000316",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1000316",
+"abstract": "Basel 2 regulations brought new interest in supervised classification methodologies for predicting default probability for loans. An important feature of consumer credit is that predictors are generally categorical. Logistic regression and linear discriminant analysis are the most frequently used techniques but are often unduly opposed. Vapnik's statistical learning theory explains why a prior dimension reduction (eg by means of multiple correspondence analysis) improves the robustness of the score function. Ridge regression, linear SVM, PLS regression are also valuable competitors. Predictive capability is measured by AUC or Gini's index which are related to the well known non-parametric Wilcoxon-Mann-Whitney test. Among methodological problems, reject inference is an important one, since most samples are subject to a selection bias. There are many methods, none being satisfactory. Distinguish between good and bad customers is not enough, especially for long-term loans. The question is then not only if, but when the customers default. Survival analysis provides new types of scores.",
+"title": "Credit scoring, statistique et apprentissage",
+"placeAut":[{
+"place":"Paris",
+"country":"France",
+"location":{
+	"lat":"48.856614",
+	"lon":"2.3522219"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 50.62925, u'lon': 3.057256}",
+"place": "Lille",
+"booktitle": "EGC",
+"idArt": "798",
+"authors": "Gilbert Saporta"
+}

@@ -1,0 +1,15 @@
+{
+"idArt": "1107",
+"series": "Revue des Nouvelles Technologies de l'Information",
+"booktitle": "EGC",
+"year": "2016",
+"title": "Analyse exploratoire par k-Coclustering avec Khiops CoViz",
+"abstract": "En analyse exploratoire, l'identification et la visualisation des interactionsentre variables dans les grandes bases de données est un défi (Dhillon et al.,2003; Kolda et Sun, 2008). Nous présentons Khiops CoViz, un outil qui permetd'explorer par visualisation les relations importantes entre deux (ou plusieurs)variables, qu'elles soient catégorielles et/ou numériques. La visualisation d'unrésultat de coclustering de variables prend la forme d'une grille (ou matrice) dontles dimensions sont partitionnées: les variables catégorielles sont partitionnéesen clusters et les variables numériques en intervalles. L'outil permet plusieurs variantesde visualisations à différentes échelles de la grille au moyen de plusieurscritères d'intérêt révélant diverses facettes des relations entre les variables.",
+"authors": "Bruno Guerraz, Marc Boullé, Dominique Gay, Vincent Lemaire, Fabrice Clérot",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1002206",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1002206",
+"metaSession": "11",
+"place": "Reims",
+"Latitude": " 49.258332 ",
+"Longitude": "4.031699"
+}

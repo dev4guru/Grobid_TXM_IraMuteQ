@@ -1,0 +1,21 @@
+{	 "idArt" : "376",
+	 "placeAut" : [ 
+		{ "place" : "Bobigny",
+		 "country" : "France",
+		 "location" : { "lat" :  48.908612, 
+			 "lon" : 2.439711999999986 } },
+		{ "place" : "Bondy",
+		 "country" : "France",
+		 "location" : { "lat" :  48.906008, 
+			 "lon" : 2.4818749999999454 } },
+		{ "place" : "Ha Noi",
+		 "country" : "Vietnam",
+		 "location" : { "lat" :  21.0277644, 
+			 "lon" : 105.83415979999995 } },
+		{ "place" : "Paris",
+		 "country" : "France",
+		 "location" : { "lat" :  48.856614, 
+			 "lon" : 2.3522219000000177 } }
+	 ]
+} 
+ 

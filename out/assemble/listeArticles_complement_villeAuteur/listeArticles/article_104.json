@@ -1,0 +1,13 @@
+{	 "idArt" : "104",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2014",
+	 "place" : "Rennes",
+	 "location" : { "lat" :  48.117266, 
+		 "lon" : -1.6777926 }, 
+	 "title" : "Extraction de règles d'épisodes minimales dans des séquences complexes",
+	 "abstract" : "Les messages déposés quotidiennement sur les réseaux sociaux et lesblogs sont très nombreux et constituent une source d'informations précieuse.Leur fouille peut être utilisée dans un but de prédiction d'informations. Notreobjectif dans cet article est de proposer un algorithme permettant la prédictiond'informations au plus tôt et de façon fiable, par le biais de l'identification derègles d'épisodes.",
+	 "authors" : ["Lina Fahed","Armelle Brun","Anne Boyer"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1001975" 
+} 
+ 

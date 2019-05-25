@@ -1,0 +1,14 @@
+{	 "idArt" : "676",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2007",
+	 "place" : "Namur",
+	 "location" : { "lat" :  50.4673883, 
+		 "lon" : 4.8719854 }, 
+	 "title" : "Annotation et navigation de données archéologiques",
+	 "abstract" : "Dans cet article, nous proposons un cadre et un outil pour l'annotation et la navigation de données archéologiques. L'objectif principal est de structurer les annotations de façon à permettre une navigation incrémentale où l'utilisateur peut, à partir d'un ensemble d'objets initialement retournés par une requête, découvrir des liens approximatifs avec d'autres objets de la base. L'approche a été implémentée et est en cours de validation.",
+	 "authors" : ["Bernardo Lopez","Samira Hammiche","Samir Sebahi","Mohand-Said Hacid"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1001350" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1001350" 
+} 
+ 

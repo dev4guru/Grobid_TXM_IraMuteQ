@@ -1,0 +1,14 @@
+{	 "idArt" : "594",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC ",
+	 "year" : "2008",
+	 "place" : "Sophia Antipolis",
+	 "location" : { "lat" :  43.6163539, 
+		 "lon" : 7.0552218 }, 
+	 "title" : "Echantillonnage pour l'extraction de motifs séquentiels : des bases de données statiques aux flots de données",
+	 "abstract" : "Depuis quelques années, la communauté fouille de données s'est intéressée à la problématique de l'extraction de motifs séquentiels à partir de grandes bases de données en considérant comme hypothèse que les données pouvaient être chargées en mémoire centrale. Cependant, cette hypothèse est mise en défaut lorsque les bases manipulées sont trop volumineuses. Dans cet article, nous étudions une technique d'échantillonnage basée sur des réservoirs et montrons comment cette dernière est particulièrement bien adaptée pour résumer de gros volumes de données. Nous nous intéressons ensuite à la problématique plus récente de la fouille sur des données disponibles sous la forme d'un flot continu et éventuellement infini (data stream). Nous étendons l'approche d'échantillonnage à ce nouveau contexte et montrons que nous sommes à même d'extraire des motifs séquentiels de flots tout en garantissant les taux d'erreurs sur les résultats. Les différentes expérimentations menées confirment nos résultats théoriques.",
+	 "authors" : ["Chedy Raïssi","Pascal Poncelet"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1000567" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1000567" 
+} 
+ 

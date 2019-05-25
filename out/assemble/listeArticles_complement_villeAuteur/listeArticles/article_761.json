@@ -1,0 +1,14 @@
+{	 "idArt" : "761",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2007",
+	 "place" : "Namur",
+	 "location" : { "lat" :  50.4673883, 
+		 "lon" : 4.8719854 }, 
+	 "title" : "Vers une base de connaissances biographique : extraction d'information et ontologie",
+	 "abstract" : "Le projet B-Ontology a pour but l'extraction, l'organisation et l'exploitation de connaissances biographiques à partir de dépêches de presse. Sa réalisation requiert l'intégration de diverses technologies, principalement l'extraction d'information, les ontologies et bases de connaissances, les techniques de data mining. Cet article propose un aperçu des choix réalisés dans le cadre du projet. Cette démarche permet également de définir un environnement d'outils utiles pour les applications d'extraction et de gestion de connaissances.",
+	 "authors" : ["Laurent Kevers","Cédrick Fairon"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1001400" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1001400" 
+} 
+ 

@@ -1,0 +1,14 @@
+{	 "idArt" : "478",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2010",
+	 "place" : "Hammamet",
+	 "location" : { "lat" :  36.4, 
+		 "lon" : 10.616667 }, 
+	 "title" : "Un système d'aide à l'extraction de relations sémantiques pour la construction d'ontologies à partir de textes",
+	 "abstract" : "Cet article présente une méthode d'extraction de relations sémantiquespour la construction d'ontologies à partir de corpus de textes. Notre objectif estde proposer une méthode générique, qui soit indépendante du domaine et de lalangue. Elle repose sur une analyse distributionnelle des unités sémantiques ducorpus pour faire émerger des relations sémantiques candidates. Cette méthodene fait aucune hypothèse sur les types de relations recherchées ni sur leur formelinguistique. Il s'agit de regrouper les associations de termes dans des classesqui représentent des relations sémantiques candidates. L'hypothèse sous-jacenteest que les occurrences de ces associations réunies sur la base des éléments decontexte qu'elles partagent ont des chances de relever d'une même relation sémantiqueet que les relations candidates ainsi proposées peuvent aider le travailde conceptualisation de l'ontologue",
+	 "authors" : ["Rim Bentebibel","Adeline Nazarenko","Sylvie Szulman"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1001343" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1001343" 
+} 
+ 

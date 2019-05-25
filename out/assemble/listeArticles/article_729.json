@@ -1,0 +1,14 @@
+{	 "idArt" : "729",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2007",
+	 "place" : "Namur",
+	 "location" : { "lat" :  50.4673883, 
+		 "lon" : 4.8719854 }, 
+	 "title" : "Partitionnement d'un réseau de sociabilité à fort coefficient de clustering",
+	 "abstract" : "Afin de comparer l'organisation sociale d'une paysannerie médiévale avant et après la guerre de Cent Ans nous étudions la structure de réseaux sociaux construits à partir d'un corpus de contrats agraires. Faibles diamètres et fort clustering révèlent des graphes en petit monde. Comme beaucoup de grands réseaux d'interaction étudiés ces dernières années ces graphes sont sans échelle typique. Les distributions des degrés de leurs sommets sont bien ajustées par une loi de puissance tronquée par une coupure exponentielle. Ils possèdent en outre un club-huppé, c'est à dire un noyau dense et de faible diamètre regroupant les individus à forts degrés. La forme particulière des éléments propres du laplacien permet d'extraire des communautés qui se répartissent en étoile autour du club huppé.",
+	 "authors" : ["Romain Boulet","Bertrand Jouve"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1001438" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1001438" 
+} 
+ 

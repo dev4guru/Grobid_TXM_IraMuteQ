@@ -1,0 +1,22 @@
+{
+"year": "2007",
+"metaSession": "1",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1001450",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1001450",
+"abstract": "Les ontologies et les annotations sémantiques sont deux composants importants dans un système de gestion des connaissances basé sur le Web sémantique. Dans l'environement dynamique et distribué du Web sémantique, les ontologies et les annotations pourraient être changées pour s'adapter à l'évolution de l'organisation concernée. Ces changements peuvent donc entraîner des inconsistances à détecter et traiter. Dans cet article, nous nous focalisons principalement sur l'évolution des annotations sémantiques en soulignant le contexte où les modifications de l'ontologie entraînent des inconsistances sur ces annotations. Nous présentons une approche basée sur des règles permettant de détecter les inconsistances dans les annotations sémantiques devenues obsolètes par rapport à l'ontologie modifiée. Nous décrivons aussi les stratégies d'évolution nécessaires pour guider le processus de résolution de ces inconsistances grâce à des règles correctives.",
+"title": "Evolution de l'ontologie et gestion des annotations sémantiques inconsistantes",
+"placeAut":[{
+"place":"Sophia Antipolis",
+"country":"France",
+"location":{
+	"lat":"43.6163539",
+	"lon":"7.0552218"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 50.4673883, u'lon': 4.8719854}",
+"place": "Namur",
+"booktitle": "EGC",
+"idArt": "705",
+"authors": "['Phuc-Hiep Luong','Rose Dieng-Kuntz','Alain Boucher']"
+}

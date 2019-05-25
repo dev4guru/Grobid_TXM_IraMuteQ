@@ -1,0 +1,15 @@
+{
+"idArt": "1214",
+"series": "Revue des Nouvelles Technologies de l'Information",
+"booktitle": "EGC",
+"year": "2017",
+"title": "Extraction de chroniques discriminantes",
+"abstract": "L'extraction de motifs séquentiels vise à extraire des comportementsrécurrents dans un ensemble de séquences. Lorsque ces séquences sont étique-tées, l'extraction de motifs discriminants engendre des motifs caractéristiquesde chaque classe de séquences. Cet article s'intéresse à l'extraction des chro-niques discriminantes où une chronique est un type de motif temporel représen-tant des durées inter-évènements quantitatives. L'article présente l'algorithmeDCM dont l'originalité réside dans l'utilisation de méthodes d'apprentissageautomatique pour extraire les intervalles temporels. Les performances compu-tationnelles et le pouvoir discriminant des chroniques extraites sont évalués surdes données synthétiques et réelles.",
+"authors": "Yann Dauxais, David Gross-Amblard, Thomas Guyet, André Happe",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1002278",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1002278",
+"metaSession": "8",
+"place": "Grenoble",
+"Latitude": " 45.188555 ",
+"Longitude": "5.724550"
+}

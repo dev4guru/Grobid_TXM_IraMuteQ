@@ -1,0 +1,9 @@
+{	 "idArt" : "902",
+	 "placeAut" : [ 
+		{ "place" : "Valenciennes",
+		 "country" : "France",
+		 "location" : { "lat" :  50.357113, 
+			 "lon" : 3.5183319999999867 } }
+	 ]
+} 
+ 

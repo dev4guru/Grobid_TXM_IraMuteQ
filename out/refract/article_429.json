@@ -1,0 +1,22 @@
+{
+"year": "2010",
+"metaSession": "3",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1001291",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1001291",
+"abstract": "L'extraction d'itemsets distinctifs est un sujet de recherche récent quiconnait plusieurs algorithmes pour les données statiques (Knobbe et Ho, 2006;Heikinheimo et al., 2007). Ces solutions ne sont toutefois pas conçues pour lecas des flux de données, pour lesquels les temps de réponse doivent être aussifaibles que possible. Nous considérons le problème de l'extraction d'itemsetsdistinctifs dans les flux, qui peut avoir de nombreuses applications dans la sélectionde variables, la classification ou encore la recherche d'information. Nousproposons l'heuristique IDkF (Itemsets Distinctifs dans les Flux) et des résultatsd'expérimentations en comparaison d'une technique de la littérature.",
+"title": "Extraction d'itemsets distinctifs dans les flux de données",
+"placeAut":[{
+"place":"Sophia Antipolis",
+"country":"France",
+"location":{
+	"lat":"43.6163539",
+	"lon":"7.0552218"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 36.4, u'lon': 10.616667}",
+"place": "Hammamet",
+"booktitle": "EGC",
+"idArt": "429",
+"authors": "['Chongsheng Zhang','Florent Masseglia']"
+}

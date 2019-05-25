@@ -1,0 +1,14 @@
+{	 "idArt" : "989",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2005",
+	 "place" : "Paris",
+	 "location" : { "lat" :  48.856614, 
+		 "lon" : 2.3522219 }, 
+	 "title" : "Modélisation des interactions entre individus avec AgentUML",
+	 "abstract" : "Pour faciliter l'étude de certains phénomènes, des outils de simulation ont été créés dans de nombreux domaines. L'étude du comportement humain à jusque là échappé à cette tendance. Aujourd'hui, les systèmes multi-agents couplés aux avancées des sciences humaines fournissent les bases nécessaires à l'élaboration de ce type d'outil. Cet article s'inscrit ainsi dans cette dynamique avec l'objectif de développer un outil de simulation du comportement d'individus traumatisés crâniens sur une chaîne de production. Cet outil doit permettre la collecte de la connaissance relative au système étudié et fournir une aide à la décision pour les responsables de l'entreprise. Cet article propose une modélisation des interactions entre individus dans le formalisme AgentUML. Une implémentation du modèle au sein d'un outil de simulation fonctionnel et les résultats obtenus seront également présentés. A terme, le but est la production de données de simulation exploitables par des techniques d'ECD.",
+	 "authors" : ["Stéphane Daviet","Fabrice Guillet","Henri Briand","Adina Magda Florea","Vincent Philippé"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1000399" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1000399" 
+} 
+ 

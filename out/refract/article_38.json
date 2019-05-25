@@ -1,0 +1,22 @@
+{
+"year": "2015",
+"metaSession": "",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1002056",
+"pdfarticle": "",
+"abstract": "Multidimensional database concepts such as cubes, dimensions with hierarchies, and measures have been a cornerstone of analytical business intelligence tools for decades. However, the standard data models and system implementations (OLAP) for multidimensional databases cannot handle Big Multidimensional Data, very large amounts of complex and highly dynamic multidimensional data that occur in a number of emerging domains such as energy, transport, logistics, as well as science. This talk will discuss similarities and differences between traditional Business Intelligence (BI) and Big Data, present examples of Big Multidimensional data with the characteristics of large volume, high velocity (fast data), and/or high variety (complex data) and discuss how to manage Big Multidimensional Data, including modeling, algorithmic, implementation, as well as practical, issues.",
+"title": "Managing Big Multidimensional Data",
+"placeAut":[{
+"place":"Aalborg",
+"country":"Danemark",
+"location":{
+	"lat":"57.0488195",
+	"lon":"9.921747"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 49.815273, u'lon': 6.129582999999999}",
+"place": "Luxembourg",
+"booktitle": "EGC",
+"idArt": "38",
+"authors": "Torben Bach Pedersen"
+}

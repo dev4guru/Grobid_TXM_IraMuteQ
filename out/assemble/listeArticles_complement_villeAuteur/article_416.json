@@ -1,0 +1,17 @@
+{	 "idArt" : "416",
+	 "placeAut" : [ 
+		{ "place" : "Bron",
+		 "country" : "France",
+		 "location" : { "lat" :  45.73331599999999, 
+			 "lon" : 4.9119269999999915 } },
+		{ "place" : "Cluj-Napoca",
+		 "country" : "Roumanie",
+		 "location" : { "lat" :  46.766667, 
+			 "lon" : 23.58333300000004 } },
+		{ "place" : "Chicago",
+		 "country" : "USA",
+		 "location" : { "lat" :  41.8781136, 
+			 "lon" : -87.62979819999998 } }
+	 ]
+} 
+ 

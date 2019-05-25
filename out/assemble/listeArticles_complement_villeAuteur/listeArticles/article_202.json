@@ -1,0 +1,13 @@
+{	 "idArt" : "202",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2013",
+	 "place" : "Toulouse",
+	 "location" : { "lat" :  43.604652, 
+		 "lon" : 1.444209 }, 
+	 "title" : "Une approche en programmation par contraintes pour la classification non supervisée",
+	 "abstract" : "Dans cet article, nous abordons le problème de classification non supervisée sous contraintes fondé sur la programmation par contraintes (PPC). Nous considérons comme critère d'optimisation la minimisation du diamètre maximal des clusters. Nous proposons un modèle pour cette tâche en PPC et nous montrons aussi l'importance des stratégies de recherche pour améliorer son efficacité. Notre modèle basé sur la distance entre les objets permet de traiter des données qualitatives et quantitatives. Des contraintes supplémentaires sur les clusters et les instances peuvent directement être ajoutées. Des expériences sur des ensembles de données classiques montrent l'intérêt de notre approche.",
+	 "authors" : ["Thi-Bich-Hanh Dao","Khanh-Chuong Duong","Christel Vrain"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1001822" 
+} 
+ 

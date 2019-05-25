@@ -1,0 +1,1 @@
+En s'appuyant sur la théorie de l'activité, nous avons mis au point une méthodologie de gestion des connaissances à base de e-services sur un plateau de créativité visant à faire piloter le processus de fabrication métier par celui des usages. Nous l'avons testé avec la réalisation d'un e-service d'apprentissage instrumental de pièces de musique à la guitare (E-guitare).

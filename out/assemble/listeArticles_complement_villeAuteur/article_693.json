@@ -1,0 +1,9 @@
+{	 "idArt" : "693",
+	 "placeAut" : [ 
+		{ "place" : "Aachen",
+		 "country" : "Allemagne",
+		 "location" : { "lat" :  50.7753455, 
+			 "lon" : 6.083886799999959 } }
+	 ]
+} 
+ 

@@ -1,0 +1,17 @@
+{	 "idArt" : "1091",
+	 "placeAut" : [ 
+		{ "place" : "Kuala Lumpur",
+		 "country" : "Malaysie",
+		 "location" : { "lat" :  3.139003, 
+			 "lon" : 101.68685499999992 } },
+		{ "place" : "Montpellier",
+		 "country" : "France",
+		 "location" : { "lat" :  43.610769, 
+			 "lon" : 3.8767159999999876 } },
+		{ "place" : "Cergy-Pontoise",
+		 "country" : "France",
+		 "location" : { "lat" :  49.047117, 
+			 "lon" : 2.095950000000016 } }
+	 ]
+} 
+ 

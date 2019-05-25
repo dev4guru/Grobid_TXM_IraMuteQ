@@ -1,0 +1,22 @@
+{
+"year": "2013",
+"metaSession": "8",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1001842",
+"pdfarticle": "",
+"abstract": "Nous proposons dans cet article un Système de Recherche d'Information (SRI) qui se base sur des techniques d'indexation de textes en langue naturelle. Nous présentons une méthode d'indexation de documents qui repose sur une approche hybride pour la sélection de descripteurs textuels. Cette approche emploie des traitements du langage naturel pour l'extraction des syntagmes nominaux et sur un filtrage statistique basé sur l'information mutuelle pour sélectionner les syntagmes nominaux les plus informatifs pour le processus d'indexation. Nous effectuons des expérimentations en utilisant le corpus Le Monde 94 de la collection CLEF 2001 et sur le SRI Lemur pour évaluer l'approche proposée.",
+"title": "Extraction et filtrage de syntagmes nominaux pour la Recherche d'Information",
+"placeAut":[{
+"place":"Tunis",
+"country":"Tunisie",
+"location":{
+	"lat":"36.8064948",
+	"lon":"10.1815316"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 43.604652, u'lon': 1.444209}",
+"place": "Toulouse",
+"booktitle": "EGC",
+"idArt": "179",
+"authors": "['Chedi Bechikh Ali','Hatem Haddad']"
+}

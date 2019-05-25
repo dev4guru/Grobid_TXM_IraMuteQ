@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/josuah/Bureau/grobid/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="fr">
+		<encodingDesc>
+			<appInfo>
+				<application version="0.5.5-SNAPSHOT" ident="GROBID" when="2019-04-04T12:42+0000">
+					<ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Intégration des Influences Géographique et Temporelle pour la Recommandation de Points d&apos;Intérêt</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Jean-Benoît</forename><surname>Griesner</surname></persName>
+							<email>griesner@telecom-paristech.fr</email>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Talel</forename><surname>Abdessalem</surname></persName>
+							<email>talel.abdessalem@telecom-paristech.fr</email>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Hubert</forename><surname>Naacke</surname></persName>
+							<email>hubert.naacke@lip6.fr</email>
+						</author>
+						<author>
+							<affiliation key="aff0">
+								<orgName type="department">School of Computing</orgName>
+								<orgName type="laboratory">UMR CNRS LTCI</orgName>
+								<orgName type="institution" key="instit1">Télécom ParisTech</orgName>
+								<orgName type="institution" key="instit2">UMI CNRS IPAL Paris</orgName>
+								<address>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff1">
+								<orgName type="institution" key="instit1">National University of Singapore</orgName>
+								<orgName type="institution" key="instit2">UPMC Université</orgName>
+								<address>
+									<addrLine>Paris 06</addrLine>
+									<postCode>LIP6</postCode>
+									<settlement>Paris</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Intégration des Influences Géographique et Temporelle pour la Recommandation de Points d&apos;Intérêt</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<abstract>
+				<p>La recommandation de points d&apos;intérêts (ou POI), est devenue un pro-blème majeur avec l&apos;émergence des réseaux sociaux (ou LBSN). À la différence des approches de recommandation traditionnelles, les données des LBSN pré-sentent des caractéristiques géographique et temporelle importantes qui limitent les performances des algorithmes traditionnels existant. L&apos;intégration de ces ca-ractéristiques dans un unique modèle de factorisation pour augmenter la qualité de la recommandation n&apos;a pas été un problème très étudié jusqu&apos;à présent. Dans ce papier nous présentons GeoMF-TD, une extension d&apos;un modèle de factori-sation géographique avec des dépendances temporelles. Nos expérimentations sur un jeu de données réel montre jusqu&apos;à 20% de gain sur la précision de la recommandation.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="fr">
+	</text>
+</TEI>

@@ -1,0 +1,14 @@
+{	 "idArt" : "839",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2006",
+	 "place" : "Lille",
+	 "location" : { "lat" :  50.62925, 
+		 "lon" : 3.057256 }, 
+	 "title" : "Recherche de sous-structures fréquentes pour l'intégration de schémas XML",
+	 "abstract" : "La recherche d'un schéma médiateur à partir d'un ensemble de schémasXML est une problématique actuelle où les résultats de recherche issusde la fouille de données arborescentes peuvent être adoptés. Dans ce contexte,plusieurs propositions ont été réalisées mais les méthodes de représentation desarborescences sont souvent trop coûteuses pour permettre un véritable passageà l'échelle. Dans cet article, nous proposons des algorithmes de recherche desous-schémas fréquents basés sur une méthode originale de représentation deschémas XML. Nous décrivons brièvement la structure adoptée pour ensuitedétailler les algorithmes de recherche de sous-arbres fréquents s'appuyant surune telle structure. La représentation proposée et les algorithmes associés ontété évalués sur différentes bases synthétiques de schémas XML montrant ainsil'intérêt de l'approche proposée",
+	 "authors" : ["Federico Del Razo López","Anne Laurent","Pascal Poncelet","Maguelonne Teisseire"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1000393" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1000393" 
+} 
+ 

@@ -1,0 +1,22 @@
+{
+"year": "2010",
+"metaSession": "6",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1001322",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1001322",
+"abstract": "Les techniques d'extraction de connaissances appliquées aux gros volumesde données, issus de l'analyse de puces ADN, permettent de découvrirdes connaissances jusqu'alors inconnues. Or, ces techniques produisent de trèsnombreux résultats, difficilement exploitables par les experts. Nous proposonsun outil dédié à l'accompagnement de ces experts dans l'appropriation et l'exploitationde ces résultats. Cet outil est basé sur trois techniques de visualisation(nuages, systèmes solaire et treemap) qui permettent aux biologistes d'appréhenderde grandes quantités de motifs séquentiels (séquences ordonnées de gènes).",
+"title": "SequencesViewer : comment rendre accessible des motifs séquentiels de gènes trop nombreux",
+"placeAut":[{
+"place":"Montpellier",
+"country":"France",
+"location":{
+	"lat":"43.610769",
+	"lon":"3.876716"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 36.4, u'lon': 10.616667}",
+"place": "Hammamet",
+"booktitle": "EGC",
+"idArt": "468",
+"authors": "['Arnaud Sallaberry','Nicolas Pecheur','Sandra Bringay','Mathieu Roche','Maguelonne Teisseire']"
+}

@@ -1,0 +1,13 @@
+{	 "idArt" : "589",
+	 "placeAut" : [ 
+		{ "place" : "Montpellier",
+		 "country" : "France",
+		 "location" : { "lat" :  43.610769, 
+			 "lon" : 3.8767159999999876 } },
+		{ "place" : "Alès",
+		 "country" : "France",
+		 "location" : { "lat" :  44.127204, 
+			 "lon" : 4.083351999999991 } }
+	 ]
+} 
+ 

@@ -1,0 +1,22 @@
+{
+"year": "2010",
+"metaSession": "8",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1001366",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1001366",
+"abstract": "L'écriture logosyllabique des anciens Mayas comprend plus de 500signes et est en bonne partie déchiffrée, avec des degrés de certitude divers.Nous avons appliqué au codex de Dresde, l'un des trois seuls manuscrits quinous soient parvenus, codé sous LATEXavec le systèmemayaTEX, notre méthodede représentation graduée, par apprentissage non supervisé hybride entre clusteringet analyse factorielle oblique, sous la métrique de Hellinger, afin d'obtenirune image nuancée des thèmes traités : les individus statistiques sont les 212segments de folio du codex, et leurs attributs sont les 1687 bigrammes de signesextraits. Pour comparaison, nous avons introduit dans cette approche endogèneun élément exogène, la décomposition en éléments des signes composites, pourpréciser plus finement les contenus. La rétro-visualisation dans le texte originaldes résultats et expressions dégagées éclaire la signification de certains glyphespeu compris, en les situant dans des contextes clairement interprétables.",
+"title": "Codage et classification non supervisée d'un corpus maya : extraire des contextes pour situer l'inconnu par rapport au connu",
+"placeAut":[{
+"place":"Courbevoie",
+"country":"France",
+"location":{
+	"lat":"48.900552",
+	"lon":"2.25929"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 36.4, u'lon': 10.616667}",
+"place": "Hammamet",
+"booktitle": "EGC",
+"idArt": "404",
+"authors": "['Mohamed Hallab','Bruno Delprat','Alain Lelu']"
+}

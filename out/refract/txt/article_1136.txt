@@ -1,0 +1,1 @@
+This paper introduces a software factory for developing social networks. This factory takesan abstract social network and creates a concrete one, using mechanisms such as sub-typingand behavior overloading.

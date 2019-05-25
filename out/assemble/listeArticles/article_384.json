@@ -1,0 +1,14 @@
+{	 "idArt" : "384",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2010",
+	 "place" : "Hammamet",
+	 "location" : { "lat" :  36.4, 
+		 "lon" : 10.616667 }, 
+	 "title" : "Analyse en ligne d'objets complexes avec l'analyse factorielle",
+	 "abstract" : "Les entrepôts de données et l'analyse en ligne OLAP (On-line AnalysisProcessing) présentent des solutions reconnues et efficaces pour le processusd'aide à la décision. Notamment l'analyse en ligne, grâce aux opérateurs OLAP,permet de naviguer et de visualiser des données représentées dans un cube multidimensionnel.Mais lorsque les données ou les objets à analyser sont complexes,il est nécessaire de redéfinir et d'enrichir ces opérateurs OLAP. Dans cet article,nous proposons de combiner l'analyse OLAP et la fouille de données (data mining)afin de créer un nouvel opérateur de visualisation d'objets complexes. Cetopérateur utilise l'analyse factorielle des correspondances.",
+	 "authors" : ["Loïc Mabit","Sabine Loudcher","Omar Boussaid"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1001321" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1001321" 
+} 
+ 

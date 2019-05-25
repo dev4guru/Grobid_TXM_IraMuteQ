@@ -1,0 +1,22 @@
+{
+"year": "2008",
+"metaSession": "",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1001235",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1001235",
+"abstract": "L'introduction de l'information spatiale dans les modèlesmultidimensionnels a donné naissance au concept de Spatial OLAP (SOLAP).Dans cet article, nous montrons en quoi les spécificités de l'informationgéographique et de l'analyse spatiale ne sont pas entièrement prises en comptedans l'analyse et les modèles multidimensionnels SOLAP. Pour pallier ceslimites, nous proposons le concept de dimension géographique et décrivons lesdifférents types de hiérarchies associées. Nous proposons l'introduction denouveaux opérateurs qui permettent d'adapter les opérateurs d'analyse spatialeau paradigme multidimensionnel. Enfin, nous présentons notre prototype quioffre une interface web de navigation spatiale et multidimensionnelle, etpermet l'intégration de ces nouveaux concepts.",
+"title": "Proposition pour l'intégration de l'analyse spatiale et de l'analyse multidimensionnelle",
+"placeAut":[{
+"place":"Villeurbanne",
+"country":"France",
+"location":{
+	"lat":"45.771944",
+	"lon":"4.8901709"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 43.6163539, u'lon': 7.0552218}",
+"place": "Sophia Antipolis",
+"booktitle": "EGC",
+"idArt": "638",
+"authors": "['Sandro Bimonte',' Anne Tchounikine','Maryvonne Miquel','Robert Laurini']"
+}

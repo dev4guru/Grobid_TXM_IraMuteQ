@@ -1,0 +1,9 @@
+{	 "idArt" : "415",
+	 "placeAut" : [ 
+		{ "place" : "Clamart",
+		 "country" : "France",
+		 "location" : { "lat" :  48.799815, 
+			 "lon" : 2.2572890000000143 } }
+	 ]
+} 
+ 

@@ -1,0 +1,22 @@
+{
+"year": "2009",
+"metaSession": "5",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1000775",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1000775",
+"abstract": "Pour pallier le problème des attaques sur les réseaux de nouvelles ap-proches de détection d'anomalies ou d'abus ont été proposées ces dernières an-nées et utilisent des signatures d'attaques pour comparer une nouvelle requêteet ainsi déterminer s'il s'agit d'une attaque ou pas. Cependant ces systèmes sontmis à défaut quand la requête n'existe pas dans la base de signature. Généra-lement, ce problème est résolu via une expertise humaine afin de mettre à jourla base de signatures. Toutefois, il arrive fréquemment qu'une attaque ait déjàété détectée dans une autre organisation et il serait utile de pouvoir bénéficier decette connaissance pour enrichir la base de signatures mais cette information estdifficile à obtenir car les organisations ne souhaitent pas forcément indiquer lesattaques qui ont eu lieu sur le site. Dans cet article nous proposons une nouvelleapproche de détection d'intrusion dans un environnement collaboratif sécurisé.Notre approche permet de considérer toute signature décrite sous la forme d'ex-pressions régulières et de garantir qu'aucune information n'est divulguée sur lecontenu des différents sites.",
+"title": "Détection d'intrusions dans un environnement collaboratif sécurisé",
+"placeAut":[{
+"place":"Nîmes",
+"country":"France",
+"location":{
+	"lat":"43.836699",
+	"lon":"4.360054"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 48.5734053, u'lon': 7.752111299999999}",
+"place": "Strasbourg",
+"booktitle": "EGC",
+"idArt": "522",
+"authors": "['Nischal Verma','François Trousset','Pascal Poncelet','Florent Masseglia']"
+}

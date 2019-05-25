@@ -1,0 +1,13 @@
+{	 "idArt" : "225",
+	 "placeAut" : [ 
+		{ "place" : "Gafsa",
+		 "country" : "Tunisia",
+		 "location" : { "lat" :  34.416667, 
+			 "lon" : 8.78333299999997 } },
+		{ "place" : "Lannion",
+		 "country" : "France",
+		 "location" : { "lat" :  48.732084, 
+			 "lon" : -3.4591440000000375 } }
+	 ]
+} 
+ 

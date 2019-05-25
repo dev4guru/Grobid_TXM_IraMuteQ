@@ -1,0 +1,15 @@
+{
+"idArt": "1162",
+"series": "Revue des Nouvelles Technologies de l'Information",
+"booktitle": "EGC",
+"year": "2016",
+"title": "Relaxation des Requêtes Skyline : Une Approche Centrée Utilisateur",
+"abstract": "Les requêtes skyline constituent un outil puissant pour l'analyse dedonnées multidimensionnelles et la décision multicritère. En pratique, le calculdu skyline peut conduire à deux scénarios : soit (i) un nombre important d'objetssont retournés, soit (ii) un nombre réduit d'objets sont retournés, ce qui peut êtreinsuffisant pour la prise de décisions. Dans cet article, nous abordons le secondproblème et proposons une approche permettant de le traiter. L'idée consiste àrendre le skyline plus permissive en lui ajoutant les objets, non skyline, les pluspréférés. L'approche s'appuie sur une nouvelle relation de dominance floue appelée«Much Preferred». Un algorithme efficace pour calculer le skyline relaxéest proposé. Une série d'expériences sont menées pour démontrer la pertinencede l'approche et la performance de l'algorithme proposé.",
+"authors": "Djamal Belkasmi, Allel HadjAli, Hamid Azzoune",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1002188",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1002188",
+"metaSession": "4",
+"place": "Reims",
+"Latitude": " 49.258387 ",
+"Longitude": "4.031754"
+}

@@ -1,0 +1,15 @@
+{
+"idArt": "1281",
+"series": "Revue des Nouvelles Technologies de l'Information",
+"booktitle": "EGC",
+"year": "2018",
+"title": "Définir les catégories de DBpédia avec des règles d'associations et des redescriptions",
+"abstract": "DBpédia, qui encode les connaissances de Wikipédia, est devenue unebase de référence pour le web des données. Les ressources peuvent y être répertoriéespar des catégories définies manuellement, dont la sémantique n'est pasdirectement accessible par des machines. Dans cet article, nous proposons deremédier à cette lacune au moyen de méthodes de fouille de données, à savoirla recherche de règles d'associations et de motifs apparentés. Nous présentonsune étude comparative de ces variantes sur une partie de DBpédia et discutonsle potentiel des différentes approches.",
+"authors": "Justine Reynaud, Esther Galbrun, Mehwish Alam, Yannick Toussaint, Amedeo Napoli",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1002398",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1002398",
+"metaSession": "8",
+"place": "Paris",
+"Latitude": " 48.8555 ",
+"Longitude": "2.3509"
+}

@@ -1,0 +1,22 @@
+{
+"year": "2006",
+"metaSession": "3",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1000405",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1000405",
+"abstract": "Cet article propose une comparaison graphique de certains indices depertinence pour évaluer l'intérêt des règles d'association. Nous nous sommesappuyés sur une étude existante pour sélectionner quelques indices auxquelsnous avons ajouté l'indice de Jaccard et l'indice d'accords désaccords (IAD).Ces deux derniers nous semblent plus adaptés pour discriminer les règles intéressantesdans le cas où les items sont des événements peu fréquents. Une applicationest réalisée sur des données réelles issues du secteur automobile",
+"title": "Une comparaison de certains indices de pertinence des règles d'association",
+"placeAut":[{
+"place":"Poissy",
+"country":"France",
+"location":{
+	"lat":"48.929584",
+	"lon":"2.046982"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 50.62925, u'lon': 3.057256}",
+"place": "Lille",
+"booktitle": "EGC",
+"idArt": "860",
+"authors": "['Marie Plasse','Ndeye Niang','Gilbert Saporta','Laurent Leblond']"
+}

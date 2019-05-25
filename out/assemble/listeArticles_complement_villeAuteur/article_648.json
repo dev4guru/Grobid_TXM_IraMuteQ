@@ -1,0 +1,9 @@
+{	 "idArt" : "648",
+	 "placeAut" : [ 
+		{ "place" : "Le Chesnay",
+		 "country" : "France",
+		 "location" : { "lat" :  48.82541500000001, 
+			 "lon" : 2.1305439999999862 } }
+	 ]
+} 
+ 

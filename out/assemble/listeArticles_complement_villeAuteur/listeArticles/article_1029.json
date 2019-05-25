@@ -1,0 +1,13 @@
+{	 "idArt" : "1029",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2004",
+	 "place" : "Clermont-Ferrand",
+	 "location" : { "lat" :  45.77722199999999, 
+		 "lon" : 3.087025 }, 
+	 "title" : "Apprentissage des réseaux bayésiens avec des graphes chaînés maximaux",
+	 "authors" : ["Paul Munteanu","Mohamed Bendou"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1001093" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1001093" 
+} 
+ 

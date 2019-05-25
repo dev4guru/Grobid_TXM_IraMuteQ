@@ -1,0 +1,15 @@
+{
+"idArt": "1131",
+"series": "Revue des Nouvelles Technologies de l'Information",
+"booktitle": "EGC",
+"year": "2016",
+"title": "Extension de C-SPARQL pour l'échantillonnage de flux de graphes RDF",
+"abstract": "Les technologies du web sémantique sont de plus en plus utiliséespour la gestion de flux de données. Plusieurs systèmes de traitement de fluxRDF ont été proposés : C-SPARQL, CQELS, SPARQLstream, EP-SPARQL,SPARKWAVE, etc. Ces derniers étendent tous à la base, le langage d'interrogationsémantique SPARQL. Les données à l'entrée du système sont volumineuseset générées en continu à un rythme rapide et variable. De ce fait, le stockage etle traitement de la totalité du flux deviennent coûteux et le raisonnement presqueimpossible. Par conséquent, le recours à des techniques permettant de réduire lacharge tout en conservant la sémantique des données, permet d'optimiser les traitementsvoire le raisonnement. Cependant, aucune des extensions de SPARQLn'inclut cette fonctionnalité. Ainsi, dans cet article, nous proposons d'étendre lesystème C-SPARQL pour générer des échantillons à la volée sur flux de graphesRDF. Nous ajoutons trois opérateurs d'échantillonnage (UNIFORM, RESERVOIRet CHAIN) à la syntaxe de C-SPARQL. Les expérimentations montrent laperformance de notre extension en terme de temps d'exécution, et de la préservationde la sémantique des données.",
+"authors": "Amadou Fall Dia, Zakia Kazi Aoul, Aliou Boly",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1002167",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1002167",
+"metaSession": "1",
+"place": "Reims",
+"Latitude": " 49.258356 ",
+"Longitude": "4.031723"
+}

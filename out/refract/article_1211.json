@@ -1,0 +1,15 @@
+{
+"idArt": "1211",
+"series": "Revue des Nouvelles Technologies de l'Information",
+"booktitle": "EGC",
+"year": "2017",
+"title": "Evolution temporelle de communautés représentatives : mesures et visualisation",
+"abstract": "La problématique de ce papier est d'identifier dans un graphe dyna-mique les communautés les plus représentatives sur une période donnée, de me-surer leur stabilité, et d'en visualiser les évolutions majeures. Notre cas d'usageconcerne l'étude de la visibilité médiatique des communautés et des individusgrâce aux données relatives aux émissions télévisuelles et radiophoniques entre2011 et 2015. A partir d'une détection de communautés sur l'intégralité de lapériode, nous proposons des mesures de stabilité et d'activité des communautéset proposons une visualisation de leur évolution temporelle.",
+"authors": "Haolin Ren, Marie-Luce Viaud, Guy Melançon",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1002308",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1002308",
+"metaSession": "6",
+"place": "Grenoble",
+"Latitude": " 45.188552 ",
+"Longitude": "5.724547"
+}

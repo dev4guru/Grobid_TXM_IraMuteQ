@@ -1,0 +1,13 @@
+{	 "idArt" : "1084",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2004",
+	 "place" : "Clermont-Ferrand",
+	 "location" : { "lat" :  45.77722199999999, 
+		 "lon" : 3.087025 }, 
+	 "title" : "Réduction d'un jeu de règles d'association par des méta-règles issues de la logique du ",
+	 "authors" : ["Martine Cadot","Joseph Di Martino","Amedeo Napoli"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1001058" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1001058" 
+} 
+ 

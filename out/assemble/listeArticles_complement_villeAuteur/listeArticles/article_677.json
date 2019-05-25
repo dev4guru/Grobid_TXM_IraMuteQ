@@ -1,0 +1,14 @@
+{	 "idArt" : "677",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2007",
+	 "place" : "Namur",
+	 "location" : { "lat" :  50.4673883, 
+		 "lon" : 4.8719854 }, 
+	 "title" : "Annotation sémantique floue de tableaux guidée par une ontologie",
+	 "abstract" : "Nous présentons dans cet article différentes étapes de l'annotation de tableaux de données à l'aide d'une ontologie. Tout d'abord, nous distinguons les colonnes de données numériques et symboliques. Les données symboliques sont ensuite annotées de manière floue à l'aide des termes de l'ontologie. Cette annotation nous permet de déduire le type des colonnes de données symboliques. Pour trouver le type des colonnes de données numériques, nous utilisons à la fois le titre de la colonne et les valeurs numériques et unités présentes dans la colonne. Chaque étape de notre annotation est validée expérimentalement.",
+	 "authors" : ["Gaëlle Hignette","Patrice Buche","Juliette Dibie-Barthélemy","Ollivier Haemmerlé"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1001441" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1001441" 
+} 
+ 

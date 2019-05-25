@@ -1,0 +1,13 @@
+{	 "idArt" : "356",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2011",
+	 "place" : "Brest",
+	 "location" : { "lat" :  48.390394, 
+		 "lon" : -4.486076 }, 
+	 "title" : "Structuration automatique des flux télévisuels par apprentissage non supervisé des répétitions",
+	 "authors" : ["Rakia Jaziri","Mustapha Lebbah","Younès Bennani","Jean-Hugues Chenot"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1000974" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1000974" 
+} 
+ 

@@ -1,0 +1,13 @@
+{	 "idArt" : "860",
+	 "placeAut" : [ 
+		{ "place" : "Poissy",
+		 "country" : "France",
+		 "location" : { "lat" :  48.929584, 
+			 "lon" : 2.046982000000071 } },
+		{ "place" : "Paris",
+		 "country" : "France",
+		 "location" : { "lat" :  48.856614, 
+			 "lon" : 2.3522219000000177 } }
+	 ]
+} 
+ 

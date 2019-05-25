@@ -1,0 +1,15 @@
+{
+"idArt": "1220",
+"series": "Revue des Nouvelles Technologies de l'Information",
+"booktitle": "EGC",
+"year": "2017",
+"title": "Faciliter les contributions personnelles pour préserver la mémoire des événements historiques",
+"abstract": "Un aspect essentiel dans la préservation du patrimoine culturel résidedans la collecte et l'assemblage des témoignages provenant de citoyens ordi-naires. Dans cet article, nous présentons une architecture logicielle facilitant lasaisie et le partage de témoignages concernant la période de la construction eu-ropéenne au Luxembourg. En rédigeant son témoignage, l'utilisateur obtient lesrésultats d'une extraction de connaissances sur le contenu saisi, indiquant no-tamment des entités et informations liées.",
+"authors": "Pierrick Bruneau, Olivier Parisot, Thomas Tamisier",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1002290",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1002290",
+"metaSession": "13",
+"place": "Grenoble",
+"Latitude": " 45.188561 ",
+"Longitude": "5.724556"
+}

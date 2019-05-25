@@ -1,0 +1,9 @@
+{	 "idArt" : "228",
+	 "placeAut" : [ 
+		{ "place" : "Villejuif",
+		 "country" : "France",
+		 "location" : { "lat" :  48.792716, 
+			 "lon" : 2.359279000000015 } }
+	 ]
+} 
+ 

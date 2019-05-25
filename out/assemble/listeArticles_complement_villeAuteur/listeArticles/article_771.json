@@ -1,0 +1,14 @@
+{	 "idArt" : "771",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2006",
+	 "place" : "Lille",
+	 "location" : { "lat" :  50.62925, 
+		 "lon" : 3.057256 }, 
+	 "title" : "Alignement extensionnel et asymétrique de hiérarchies conceptuelles par découverte d'implications entre concepts",
+	 "abstract" : "Dans la littérature, de nombreux travaux traitent de méthodes d'alignementd'ontologies. Ils utilisent, pour la plupart, des relations basées sur desmesures de similarité qui ont la particularité d'être symétriques. Cependant, peude travaux évaluent l'intérêt d'utiliser des mesures d'appariement asymétriquesdans le but d'enrichir l'alignement produit. Ainsi, nous proposons dans ce papierune méthode d'alignement extensionnelle et asymétrique basée sur la découvertedes implications significatives entre deux ontologies. Notre approche,basée sur le modèle probabiliste d'écart à l'indépendance appelé intensité d'implication,est divisée en deux parties consécutives : (1) l'extraction, à partir ducorpus textuel associé à l'ontologie, et l'association des termes aux concepts;(2) la découverte et sélection des implications génératrices les plus significativesentre les concepts. La méthode proposée est évaluée sur deux jeux de donnéesréels portant respectivement sur des profils d'entreprises et sur des cataloguesde cours d'universités. Les résultats obtenus montrent que l'on peut trouver desrelations pertinentes qui sont ignorées par un alignement basé seulement sur desmesures de similarité.",
+	 "authors" : ["Jérôme David","Fabrice Guillet","Régis Gras","Henri Briand"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1000337" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1000337" 
+} 
+ 

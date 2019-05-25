@@ -1,0 +1,15 @@
+{
+"idArt": "1119",
+"series": "Revue des Nouvelles Technologies de l'Information",
+"booktitle": "EGC",
+"year": "2016",
+"title": "Concept drift vs suicide: comment l'un peut prévenir l'autre?",
+"abstract": "Le suicide devient d'année en année une problématique plus préoccupante.Les organismes de santé tels que l'OMS se sont engagés à réduire lenombre de suicides de 10% dans l'ensemble des pays membres d'ici 2020. Sile suicide est généralement un geste impulsif, il existe souvent des actes et desparoles qui peuvent révéler un mal être et représenter des signes précurseurs deprédispositions au suicide. L'objectif de cette étude est de mettre en place unsystème pour détecter semi-automatiquement ces comportements et ces parolesau travers des réseaux sociaux. Des travaux précédents ont proposé la classificationde messages issus de Twitter suivant des thèmes liés au suicide : tristesse,blessures psychologiques, état mental, etc. Dans cette étude, nous ajoutons la dimensiontemporelle pour prendre en compte l'évolution de l'état des personnesmonitorées. Nous avons implémenté pour cela différentes méthodes d'apprentissagedont une méthode originale de concept drift. Nous avons expérimenté avecsuccès cette méthode sur des données réelles issues du réseau social Facebook.",
+"authors": "Cédric Maigrot, Sandra Bringay, Jérôme Azé",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1002172",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1002172",
+"metaSession": "7",
+"place": "Reims",
+"Latitude": " 49.258344 ",
+"Longitude": "4.031711"
+}

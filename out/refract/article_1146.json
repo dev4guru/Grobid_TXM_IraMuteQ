@@ -1,0 +1,15 @@
+{
+"idArt": "1146",
+"series": "Revue des Nouvelles Technologies de l'Information",
+"booktitle": "EGC",
+"year": "2016",
+"title": "L'analyse relationnelle de concepts pour la fouille de données temporelles  Application à l'étude de données hydroécologiques",
+"abstract": "Cet article présente une méthode d'exploration de données temporelles,fondée sur l'analyse relationnelle de concepts (ARC) et appliquée à desdonnées séquentielles construites à partir d'échantillons physico-chimiques etbiologiques prélevés dans des cours d'eau. Notre but est de mettre au jour dessous-séquences pertinentes et hiérarchisées, associant les deux types de paramètres.Pour faciliter la lecture, ces sous-séquences sont représentées sous laforme de motifs partiellement ordonnés (po-motifs). Le processus de fouille dedonnées se décompose en plusieurs étapes : construction d'un modèle temporelad hoc et mise en oeuvre de l'ARC ; extraction des sous-séquences synthétiséessous la forme de po-motifs ; sélection des po-motifs intéressants grâce à unemesure exploitant la distribution des extensions de concepts. Le processus a ététesté sur un jeu de données réelles et évalué quantitativement et qualitativement.",
+"authors": "Cristina Nica, Agnès Braud, Xavier Dolques, Marianne Huchard, Florence Le Ber",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1002178",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1002178",
+"metaSession": "13",
+"place": "Reims",
+"Latitude": " 49.258371 ",
+"Longitude": "4.031738"
+}

@@ -1,0 +1,13 @@
+{	 "idArt" : "24",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2015",
+	 "place" : "Luxembourg",
+	 "location" : { "lat" :  49.815273, 
+		 "lon" : 6.129582999999999 }, 
+	 "title" : "Deux approches pour catégoriser le risque",
+	 "abstract" : "Le risque chimique ou alimentaire couvre les situations où les produits chimiques sont dangereux pour la santé et consommation humaine ou animale, et pour l'environnement. Les experts qui assurent le contrôle et la gestion de ces substances se retrouvent face à de gros volumes de littérature scientifique, qui doit être analysée pour appuyer la prise de décisions. Nous proposons une aide automatique pour l'analyse de cette littérature. Nous abordons la tâche comme une problématique de catégorisation: il s'agit de catégoriser les phrases des textes dans les classes du risque lié aux substances. Nous utilisons deux approches: par apprentissage supervisé et la recherche d'information. Les résultats obtenus avec l'apprentissage supervisé (toute classe confondue, F-mesure autour de 0,8 pour le risque alimentaire, entre 0,61 et 0,64 pour le risque chimique) sont meilleurs que ceux obtenus avec par recherche d'information (toute classe confondue, F-mesure entre 0,18 et 0,226 pour le risque alimentaire, entre 0,20 et 0,32 pour le risque chimique). Le rappel est compétitif avec les deux approches.",
+	 "authors" : ["Natalia Grabar","Niña Kerry"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1002067" 
+} 
+ 

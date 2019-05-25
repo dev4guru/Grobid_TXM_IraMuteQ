@@ -1,0 +1,14 @@
+{	 "idArt" : "557",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2009",
+	 "place" : "Strasbourg",
+	 "location" : { "lat" :  48.5734053, 
+		 "lon" : 7.752111299999999 }, 
+	 "title" : "SPAMS, une nouvelle approche incrémentale pour l'extraction de motifs séquentiels fréquents dans les Data streams",
+	 "abstract" : "L'extraction de motifs séquentiels fréquents dans les datastreams est un enjeu important traité par la communauté des chercheursen fouille de données. Plus encore que pour les bases de données, denombreuses contraintes supplémentaires sont à considérer de par la na-ture intrinsèque des streams. Dans cet article, nous proposons un nouvelalgorithme en une passe : SPAMS, basé sur la construction incrémentale,avec une granularité très fine par transaction, d'un automate appelé SPA,permettant l'extraction des motifs séquentiels dans les streams. L'infor-mation du stream est apprise à la volée, au fur et à mesure de l'insertionde nouvelles transactions, sans pré-traitement a priori. Les résultats ex-périmentaux obtenus montrent la pertinence de la structure utilisée ainsique l'efficience de notre algorithme appliqué à différents jeux de données.",
+	 "authors" : ["Lionel Vinceslas","Jean-Emile Symphor","Alban Mancheron","Pascal Poncelet"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1000765" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1000765" 
+} 
+ 

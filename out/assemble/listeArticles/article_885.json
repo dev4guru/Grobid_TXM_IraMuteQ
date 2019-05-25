@@ -1,0 +1,14 @@
+{	 "idArt" : "885",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "AEGC",
+	 "year" : "2005",
+	 "place" : "Paris",
+	 "location" : { "lat" :  48.856614, 
+		 "lon" : 2.3522219 }, 
+	 "title" : "Exploration visuelle d'images IRMf basée sur des Gaz Neuronaux Croissants",
+	 "abstract" : "Les algorithmes actuels de fouille de données ne supportent que de façon très limitée les mécanismes de guidage et d'engagement d'expert dans le processus de découverte. Dans cet article, nous présentons une nouvelle approche interactive de fouille des images IRMf, guidée par les données, permettant l'observation du fonctionnement cérébral. La discrimination des voxels d'image du cerveau qui présentent une réelle activité est en général très difficile à cause d'un faible rapport signal sur bruit et de la présence d'artefacts. L'exploration de donnée visuelle se focalise sur l'intégration de l'utilisateur dans le processus de découverte de connaissance en utilisant des techniques de visualisation efficaces, d'interaction et de transfert de connaissances. Dans ce travail, nous montrons sur les données réelles, que l'exploration visuelle permet d'accélérer le processus d'exploration d'images IRMf et aboutit à de meilleurs résultats dotées d'une confiance accrue.",
+	 "authors" : ["Jerzy Korczak","Jean Hommet","Nicolas Lachiche","Christian Scheiber"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1000289" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1000289" 
+} 
+ 

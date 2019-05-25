@@ -1,0 +1,15 @@
+{
+"idArt": "1191",
+"series": "Revue des Nouvelles Technologies de l'Information",
+"booktitle": "EGC",
+"year": "2017",
+"title": "Anonymiser des données multidimensionnelles à l'aide du coclustering",
+"abstract": "Dans cet article, nous proposons une méthodologie pour anonymiserune table de données multidimensionnelles contenant des données individuelles(soit n individus décrits par m variables). L'objectif est de publier une table ano-nyme construite à partir d'une table initiale qui protège contre le risque de ré-identification. En d'autres termes, on ne doit pas pouvoir retrouver dans les don-nées publiées un individu présent dans la table originale. La solution proposéeconsite à agréger les données à l'aide d'une technique de coclustering, puis à uti-liser le modèle produit pour générer une table de données synthétiques du mêmeformat que les données initiales. Les données synthétiques, qui contiennent desindividus fictifs, peuvent maintenant être publiées. Les données produites sontévaluées en termes d'utilité pour différentes tâches de fouille (analyse explora-toire, classification) et de niveau de protection.",
+"authors": "Françoise Fessant, Tarek Benkhelif, Fabrice Clérot",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1002277",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1002277",
+"metaSession": "8",
+"place": "Grenoble",
+"Latitude": " 45.188532 ",
+"Longitude": "5.724527"
+}

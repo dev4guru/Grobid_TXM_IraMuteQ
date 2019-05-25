@@ -1,0 +1,13 @@
+{	 "idArt" : "181",
+	 "placeAut" : [ 
+		{ "place" : "Lannion",
+		 "country" : "France",
+		 "location" : { "lat" :  48.732084, 
+			 "lon" : -3.4591440000000375 } },
+		{ "place" : "Villeneuve dAscq",
+		 "country" : "France",
+		 "location" : { "lat" :  50.6232523, 
+			 "lon" : 3.144265099999984 } }
+	 ]
+} 
+ 

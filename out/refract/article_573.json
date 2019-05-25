@@ -1,0 +1,22 @@
+{
+"year": "2008",
+"metaSession": "2",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1000617",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1000617",
+"abstract": "Les algorithmes de boosting de Newton Support Vector Machine (NSVM), Proximal Support Vector Machine (PSVM) et Least-Squares Support Vector Machine (LS-SVM) que nous présentons visent à la classification de très grands ensembles de données sur des machines standard. Nous présentons une extension des algorithmes de NSVM, PSVM et LS-SVM, pour construire des algorithmes de boosting. A cette fin, nous avons utilisé un terme de régularisation de Tikhonov et le théorème Sherman-Morrison- Woodbury pour adapter ces algorithmes au traitement d'ensembles de données ayant un grand nombre de dimensions. Nous les avons ensuite étendus par construction d'algorithmes de boosting de NSVM, PSVM et LS-SVM afin de traiter des données ayant simultanément un grand nombre d'individus et de dimensions. Les performances des algorithmes sont évaluées sur des grands ensembles de données de l'UCI comme Adult, KDDCup 1999, Forest Covertype, Reuters-21578 et RCV1-binary sur une machine standard (PC-P4, 2,4 GHz, 1024 Mo RAM).",
+"title": "Algorithmes rapides de boosting de SVM",
+"placeAut":[{
+"place":"Orsay",
+"country":"France",
+"location":{
+	"lat":"48.697161",
+	"lon":"2.189617"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 43.6163539, u'lon': 7.0552218}",
+"place": "Sophia Antipolis",
+"booktitle": "EGC ",
+"idArt": "573",
+"authors": "['Thanh-Nghi Do','Jean-Daniel Fekete','François Poulet']"
+}

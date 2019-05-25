@@ -1,0 +1,13 @@
+{	 "idArt" : "735",
+	 "placeAut" : [ 
+		{ "place" : "Brest",
+		 "country" : "France",
+		 "location" : { "lat" :  48.390394, 
+			 "lon" : -4.4860760000000255 } },
+		{ "place" : "Rabat",
+		 "country" : "Maroc",
+		 "location" : { "lat" :  33.9715904, 
+			 "lon" : -6.849812899999961 } }
+	 ]
+} 
+ 

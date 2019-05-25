@@ -1,0 +1,13 @@
+{	 "idArt" : "935",
+	 "placeAut" : [ 
+		{ "place" : "Meknes",
+		 "country" : "Maroc",
+		 "location" : { "lat" :  33.895, 
+			 "lon" : -5.55472199999997 } },
+		{ "place" : "Rabat",
+		 "country" : "Maroc",
+		 "location" : { "lat" :  33.9715904, 
+			 "lon" : -6.849812899999961 } }
+	 ]
+} 
+ 

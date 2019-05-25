@@ -1,0 +1,22 @@
+{
+"year": "2010",
+"metaSession": "3",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1001310",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1001310",
+"abstract": "L'inférence des dépendances fonctionnelles est l'une des problématiquesles plus étudiées en bases de données. Elle a fait l'objet de plusieurstravaux qui ont proposé des algorithmes afin d'inférer, efficacement, les dépendancesfonctionnelles pour les utiliser dans différents domaines : administrationde bases de données, ré-ingénierie, optimisation des requêtes,etc. Toutefois,pour les application réelles, les bases de données sont évolutives et les relationssont fréquemment augmentées ou diminuées de tuples. Par conséquent, afin des'adapter à ce cadre dynamique, une solution consiste à appliquer l'un des algorithmes,disponibles dans la littérature, pour inférer les dépendances fonctionnelles,après chaque mise à jour. Cette solution étant coûteuse, nous proposons,dans cet article, d'inférer les dépendances fonctionnelles d'une manière incrémentale.À cet effet, nous introduisons un nouvel algorithme, appelé INCFDS, etnous évaluons ses performances par rapport à l'approche classique d'inférencedes dépendances fonctionnelles à partir d'une relation dynamique.",
+"title": "IncFDs: un nouvel algorithme d'inférence incrémentale des dépendances fonctionnelles",
+"placeAut":[{
+"place":"Tunis",
+"country":"Tunisie",
+"location":{
+	"lat":"36.8064948",
+	"lon":"10.1815316"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 36.4, u'lon': 10.616667}",
+"place": "Hammamet",
+"booktitle": "EGC",
+"idArt": "433",
+"authors": "Ghada Gasmi"
+}

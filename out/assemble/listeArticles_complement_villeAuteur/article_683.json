@@ -1,0 +1,17 @@
+{	 "idArt" : "683",
+	 "placeAut" : [ 
+		{ "place" : "Villeurbanne",
+		 "country" : "France",
+		 "location" : { "lat" :  45.771944, 
+			 "lon" : 4.89017089999993 } },
+		{ "place" : "Bobigny",
+		 "country" : "France",
+		 "location" : { "lat" :  48.908612, 
+			 "lon" : 2.439711999999986 } },
+		{ "place" : "Lyon",
+		 "country" : "France",
+		 "location" : { "lat" :  45.764043, 
+			 "lon" : 4.835658999999964 } }
+	 ]
+} 
+ 

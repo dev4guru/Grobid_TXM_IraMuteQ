@@ -1,0 +1,14 @@
+{	 "idArt" : "248",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2012",
+	 "place" : "Bordeaux",
+	 "location" : { "lat" :  44.837789, 
+		 "lon" : -0.57918 }, 
+	 "title" : "Modèle de supervision d'interactions non-intrusif basé sur les ontologies",
+	 "abstract" : "L'automatisation et la supervision des systèmes pervasifs est à l'heureactuelle principalement basée sur l'utilisation massive de capteurs distribuésdans l'environnement. Dans cet article, nous proposons un modèle de supervisiond'interactions basé sur l'analyse sémantique des logs domotiques (commandesémises par l'utilisateur), visant à limiter l'utilisation de ces capteurs :le principe est d'utiliser des outils d'inférences avancés, afin de déduire les informationshabituellement captées. Pour cela, une ontologie, automatiquementdérivée d'un processus dirigé par les modèles, définit les interactions utilisateursystème.L'utilisation d'un système de règles permet ensuite d'inférer des informationssur la localisation et l'intention de l'utilisateur, dans le but de réaliserdu monitoring et de proposer des services domotiques adaptés.",
+	 "authors" : ["Willy Allègre","Thomas Burger","Pascal Berruet","Jean-Yves Antoine"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1001148" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1001148" 
+} 
+ 

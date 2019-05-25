@@ -1,0 +1,14 @@
+{	 "idArt" : "459",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2010",
+	 "place" : "Hammamet",
+	 "location" : { "lat" :  36.4, 
+		 "lon" : 10.616667 }, 
+	 "title" : "Réduction bi-directionnelle d'images - Vers une méthode d'extraction de caractéristiques multi-niveaux",
+	 "abstract" : "Inspiré des performances du cerveau humain à identifier les élémentspar la vue, le problème de la réduction de la dimension dans le domaine de laperception visuelle consiste à extraire une quantité réduite des caractéristiquesd'un ensemble d'images afin de les identifier.Ce papier présente une approche innovante bi-directionnelle d'extraction de caractéristiquesd'images fondée sur l'utilisation partielle d'une méthode spatiotemporelle.Les expériences numériques appliquées sur 70000 images représentantdes chiffres écrits à la main ainsi que sur 698 images illustrant un visagesous différentes postures démontrent l'efficacité de notre approche à fortementréduire la dimension tout en conservant les relations intelligibles entre les objetsdes données, permettant même d'obtenir une meilleure classification à partir desversions réduites des images qu'à partir des versions originales",
+	 "authors" : ["Marc Joliveau"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1001279" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1001279" 
+} 
+ 

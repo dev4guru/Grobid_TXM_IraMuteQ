@@ -1,0 +1,22 @@
+{
+"year": "2007",
+"metaSession": "3",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1001383",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1001383",
+"abstract": "Nous introduisons la notion de sous-base k-faible pour les règles d'association valides au sens de la confiance. Ces sous-bases k-faibles sont caractérisées en termes d'opérateurs de fermeture correspondant à des familles de Moore k-faiblement hiérarchiques.",
+"title": "Sous-bases k-faibles pour des règles d'association valides au sens de la confiance",
+"placeAut":[{
+"place":"Saint-Denis",
+"country":"France",
+"location":{
+	"lat":"48.936181",
+	"lon":"2.357443"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 50.4673883, u'lon': 4.8719854}",
+"place": "Namur",
+"booktitle": "EGC",
+"idArt": "738",
+"authors": "['Jean Diatta','Régis Girard']"
+}

@@ -1,0 +1,22 @@
+{
+"year": "2006",
+"metaSession": "5",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1000426",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1000426",
+"abstract": "La problématique générale présentée dans ce papier concerne lessystèmes intelligents, dédiés pour l'aide à la prise de décision dans le domaineradar. Les premiers travaux ont donc consisté après avoir adapté le processusd'extraction de connaissances à partir de données (ECD) au domaine radar, àmettre en oeuvre les étapes en amont de la phase de fouille de données. Nousnous limitons dans ce papier à la phase de préparation des données (imagesISAR : Inverse Synthetic Aperture Radar). Nous introduisons ainsi la notion dequalité comme moyen d'évaluer l'imperfection dans les données radarsexpérimentales.",
+"title": "Préparation des données Radar pour la reconnaissance/identification de cibles aériennes",
+"placeAut":[{
+"place":"Brest",
+"country":"France",
+"location":{
+	"lat":"48.390394",
+	"lon":"-4.486076"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 50.62925, u'lon': 3.057256}",
+"place": "Lille",
+"booktitle": "EGC",
+"idArt": "836",
+"authors": "['Abdelmalek Toumi','Brigitte Hoeltzener','Ali Khenchaf']"
+}

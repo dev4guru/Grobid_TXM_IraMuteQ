@@ -1,0 +1,9 @@
+{	 "idArt" : "807",
+	 "placeAut" : [ 
+		{ "place" : "Le Bourget du Lac",
+		 "country" : "France",
+		 "location" : { "lat" :  45.649392, 
+			 "lon" : 5.859075999999959 } }
+	 ]
+} 
+ 

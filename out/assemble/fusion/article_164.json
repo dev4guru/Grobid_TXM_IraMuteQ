@@ -1,0 +1,22 @@
+{
+"year": "2013",
+"metaSession": "5",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1001864",
+"pdfarticle": "",
+"abstract": "Cet article présente une application de classification multi-étiquettes permettant de déterminer le programme à utiliser pour construire un alignement multiple d'un ensemble de séquences protéiques donné. Dans un premier temps, nous avons réussi à améliorer le système existant, Alexsys en ajoutant des attributs. Dans un second temps, nous déterminons pour un ensemble de séquences protéiques donné le ou les aligneurs capable de produire les alignements de meilleur score, à epsilon près. Les mesures de performances propres à la classification multi-étiquette nous permettent d'analyser l'influence de epsilon et de choisir une valeur assez petite pour distinguer les meilleurs aligneurs des autres.",
+"title": "Classification multi-étiquettes pour l'alignement multiple de séquences protéiques",
+"placeAut":[{
+"place":"Illkirch",
+"country":"France",
+"location":{
+	"lat":"48.52854",
+	"lon":"7.711011"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 43.604652, u'lon': 1.444209}",
+"place": "Toulouse",
+"booktitle": "EGC",
+"idArt": "164",
+"authors": "['Lina Fahed','Gabriel Frey','Julie Dawn Thompson','Nicolas Lachiche']"
+}

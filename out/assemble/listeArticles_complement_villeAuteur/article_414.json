@@ -1,0 +1,13 @@
+{	 "idArt" : "414",
+	 "placeAut" : [ 
+		{ "place" : "Grenoble",
+		 "country" : "France",
+		 "location" : { "lat" :  45.188529, 
+			 "lon" : 5.724523999999974 } },
+		{ "place" : "Tokyo",
+		 "country" : "Japan",
+		 "location" : { "lat" :  35.7090259, 
+			 "lon" : 139.73199249999993 } }
+	 ]
+} 
+ 

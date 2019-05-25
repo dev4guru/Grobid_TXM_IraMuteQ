@@ -1,0 +1,13 @@
+{	 "idArt" : "16",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2015",
+	 "place" : "Luxembourg",
+	 "location" : { "lat" :  49.815273, 
+		 "lon" : 6.129582999999999 }, 
+	 "title" : "Cohérence des données de bases RDF en évolution constante",
+	 "abstract" : "Le maintien de la qualité et de la fiabilité de bases de connaissances RDF du Web Sémantique est un problème courant. De nombreuses propositions pour l'intégration de « bonnes » données ont été faites, se basant soit sur les ontologies de ces bases, soit sur des méta-données additionnelles. Dans cet article, nous proposons une approche originale, basée exclusivement sur l'étude des données de la base. Le principe est de déterminer si les modifications apportées par la mise à jour candidate rendent la partie ciblée de la base plus similaire - selon certains critères - à d'autres parties existantes dans la base. La mise à jour est considérée cohérente avec cette base et peut être appliquée.",
+	 "authors" : ["Pierre Maillot","Thomas Raimbault","David Genest"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1002085" 
+} 
+ 

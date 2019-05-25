@@ -1,0 +1,13 @@
+{	 "idArt" : "207",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2013",
+	 "place" : "Toulouse",
+	 "location" : { "lat" :  43.604652, 
+		 "lon" : 1.444209 }, 
+	 "title" : "Vers une architecture multicouche d'ontologies dédiée à la résolution mixte de problèmes",
+	 "abstract" : "Dans cet article, nous nous intéressons à la gestion d'expériences générées au sein des processus de résolution mixte (individuelle et/ou collective) de problèmes afin d'assister la capitalisation et le partage des connaissances dans les environnements collaboratifs. Dans ce contexte, nous proposons un cadre ontologique générique par rapport au domaine dédié à la modélisation formelle et consensuelle de ces expériences en adoptant une architecture multicouche basée sur quatre strates. La première strate est basée sur la spécialisation d'ontologies fondationnelles. La deuxième strate est basée sur la conception de trois patrons conceptuels ontologiques (PCO) noyaux (le PCO organisationnel, le PCO téléologique et le PCO argumentatif modélisant respectivement les acteurs, le problème et les solutions proposées). La troisième strate est basée sur la spécialisation des PCO noyaux dans un domaine particulier et la dernière strate est basée sur l'instanciation du modèle ontologique de domaine pour la représentation d'une situation du monde réel.",
+	 "authors" : ["Nesrine Ben Yahia","Narjès Bellamine Ben Saoud","Henda Hajjami Ben Ghezala"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1001844" 
+} 
+ 

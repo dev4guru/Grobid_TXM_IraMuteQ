@@ -1,0 +1,15 @@
+{
+"idArt": "1165",
+"series": "Revue des Nouvelles Technologies de l'Information",
+"booktitle": "EGC",
+"year": "2016",
+"title": "SArEM: Un méta-modèle pour la spécification des processus d'extraction d'architectures logicielles",
+"abstract": "We propose a meta-model, called SArEM, that specifies the basic elements of the softwarearchitecture extraction. SArEM serves as a tool to compare the different software architectureextraction approaches that aim to extract a system architecture from the source code.",
+"authors": "Mira Abboud, Hala Naja, Mourad Oussalah, Mohamad Dbouk",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1002211",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1002211",
+"metaSession": "11",
+"place": "Reims",
+"Latitude": " 49.258390 ",
+"Longitude": "4.031757"
+}

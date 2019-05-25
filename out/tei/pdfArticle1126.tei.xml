@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/josuah/Bureau/grobid/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="fr">
+		<encodingDesc>
+			<appInfo>
+				<application version="0.5.5-SNAPSHOT" ident="GROBID" when="2019-04-04T12:42+0000">
+					<ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Détection de données aberrantes à partir de motifs fréquents sans énumération exhaustive</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Arnaud</forename><surname>Giacometti</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution" key="instit1">Université François-Rabelais de Tours</orgName>
+								<orgName type="institution" key="instit2">EA 6300 Campus de Blois</orgName>
+								<address>
+									<postCode>41000</postCode>
+									<settlement>Blois</settlement>
+									<region>LI</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Arnaud</forename><surname>Soulet</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution" key="instit1">Université François-Rabelais de Tours</orgName>
+								<orgName type="institution" key="instit2">EA 6300 Campus de Blois</orgName>
+								<address>
+									<postCode>41000</postCode>
+									<settlement>Blois</settlement>
+									<region>LI</region>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Détection de données aberrantes à partir de motifs fréquents sans énumération exhaustive</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<abstract>
+				<p>La détection de données aberrantes (outliers) consiste à détecter des observations anormales au sein des données. Durant la dernière décennie, des méthodes de détection d&apos;outliers utilisant les motifs fréquents ont été proposées. Elles extraient dans une première phase tous les motifs fréquents, puis assignent à chaque transaction un score mesurant son degré d&apos;aberration (en fonction du nombre de motifs fréquents qui la couvre). Dans cet article, nous proposons deux nouvelles méthodes pour calculer le score d&apos;aberration fondé sur les motifs fré-quents (FPOF). La première méthode retourne le FPOF exact de chaque transaction sans extraire le moindre motif. Cette méthode s&apos;avère en temps polynomial par rapport à la taille du jeu de données. La seconde méthode est une méthode approchée où l&apos;utilisateur final peut contrôler l&apos;erreur maximale sur l&apos;estimation du FPOF. Une étude expérimentale montre l&apos;intérêt des deux méthodes pour les jeux de données volumineux où une approche exhaustive échoue à calculer une solution exacte. Pour un même nombre de motifs, la précision de notre méthode approchée est meilleure que celle de la méthode classique.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="fr">
+	</text>
+</TEI>

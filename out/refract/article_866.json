@@ -1,0 +1,22 @@
+{
+"year": "2006",
+"metaSession": "6",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1000364",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1000364",
+"abstract": "Les systèmes de gestion des connaissances servent de support pour lacréation et la diffusion de mémoires d'entreprises qui permettent de capitaliser,conserver et enrichir les connaissances des experts. Dans ces systèmes, l'interactionavec les experts est effectuée avec des outils adaptés dans lesquels uneformalisation graphique des connaissances est utilisée. Cette formalisation estsouvent basée au niveau théorique sur des modèles de graphes mais de façonpratique, les représentations visuelles sont souvent des arbres et des limitationsapparaissent par rapport aux représentations basées sur des graphes. Dans cetarticle nous présentons le modèle utilisé par le serveur de connaissances Atanorqui utilise des arbres pour visualiser les connaissances, et nous développons unenouvelle approche qui permet de représenter les mêmes connaissances sous laforme de graphes en niveaux. Une analyse comparative des deux méthodes dansun contexte industriel de maintenance permet de mettre en valeur l'apport desgraphes dans le processus de visualisation graphique des connaissances.",
+"title": "Visualisation en Gestion des Connaissances Développement d'un nouveau modèle graphique Graph'Atanor",
+"placeAut":[{
+"place":"Carquefou",
+"country":"France",
+"location":{
+	"lat":"47.296241",
+	"lon":"-1.486812"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 50.62925, u'lon': 3.057256}",
+"place": "Lille",
+"booktitle": "EGC",
+"idArt": "866",
+"authors": "['Bruno Pinaud','Pascale Kuntz','Fabrice Guillet','Vincent Philippé']"
+}

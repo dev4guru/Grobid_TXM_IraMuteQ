@@ -1,0 +1,14 @@
+{	 "idArt" : "607",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC ",
+	 "year" : "2008",
+	 "place" : "Sophia Antipolis",
+	 "location" : { "lat" :  43.6163539, 
+		 "lon" : 7.0552218 }, 
+	 "title" : "Fouille de données audio pour la classification automatique de mots homophones",
+	 "abstract" : "Cet article présente une contribution à la modélisation acoustique des mots à partir de grands corpus oraux, faisant appel aux techniques de fouilles de données. En transcription automatique, de nombreuses erreurs concernent des mots fréquents homophones. Deux paires de mots (quasi-)homophones à/a et et/est sont sélectionnées dans les corpus, pour lesquels sont définis et examinés 41 descripteurs acoustiques permettant potentiellement de les distinguer. 17 algorithmes de classification, mis à l'épreuve pour la discrimination automatique de ces deux paires de mots, donnent en moyenne 77% de classification correcte sur les 5 meilleurs algorithmes. En réduisant le nombre de descripteurs à 10 (sélectionnés par l'algorithme le plus performant), les résultats de classification restent proches du résultat obtenu avec 41 attributs. Cette comparaison met en évidence le caractère discriminant de certains attributs, qui pourront venir enrichir à la fois la modélisation acoustique et nos connaissances des prononciations de l'oral.",
+	 "authors" : ["Rena Nemoto","Martine Adda-Decker","Iona Vasilescu"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1000633" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1000633" 
+} 
+ 

@@ -1,0 +1,15 @@
+{
+"idArt": "1108",
+"series": "Revue des Nouvelles Technologies de l'Information",
+"booktitle": "EGC",
+"year": "2016",
+"title": "Analyse géographique de séries de publications : application aux conférences EGC",
+"abstract": "Dans cet article, nous présentons une méthodologie originale permettantde faire des analyses scientométriques basées sur trois dimensions (spatiale,temporelle et thématique) à partir d'un corpus de publications. Cette méthodologiecomporte 3 étapes : (1) la préparation et la validation des données pourcompléter les critères usuels tels que les noms d'auteurs, affiliation, ... par descritères spatiaux, temporels et thématiques ; (2) l'indexation des contenus despublications et métadonnées associées ; (3) l'analyse et/ou la recherche d'informationmultidimentionnelle. Les expérimentations sont menées sur la série depublications des conférences EGC de 2004 à 2015.",
+"authors": "Eric Kergosien, Marie-Noëlle Bessagnet, Christian Sallaberry, Annig Le Parc - Lacayrelle, Albert Royer",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1002190",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1002190",
+"metaSession": "9",
+"place": "Reims",
+"Latitude": " 49.258333 ",
+"Longitude": "4.031700"
+}

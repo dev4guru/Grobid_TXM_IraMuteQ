@@ -1,0 +1,22 @@
+{
+"year": "2010",
+"metaSession": "",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1001467",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1001467",
+"abstract": "Le paradigme des flots de données rend impossible la conservation de l'intégralitéde l'historique d'un flot qu'il faut alors résumer. L'extraction d'itemsets fréquentssur des fenêtres temporelles semble tout à fait adaptée mais l'amoncellement des résultatsindépendants rend impossible l'exploitation de ces résultats. Nous proposons une structurebasée sur les hiérarchies des données afin d'unifiant ces résultats. De plus, puisque laplupart des données d'un flot présentent un caractère multidimensionnel, nous intégronsla prise en compte d'itemsets multidimensionnels. Enfin, nous pallions une faiblesse majeuredes Tilted TimeWindows (TTW) en prenant en compte la distribution des données.",
+"title": "Une structure basée sur les hiérarchies pour synthétiser les itemsets fréquents extraits dans des fenêtres temporelles",
+"placeAut":[{
+"place":"Montpellier",
+"country":"France",
+"location":{
+	"lat":"43.610769",
+	"lon":"3.876716"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 36.4, u'lon': 10.616667}",
+"place": "Hammamet",
+"booktitle": "EGC",
+"idArt": "485",
+"authors": "['Yoann Pitarch','Anne Laurent','Pascal Poncelet']"
+}

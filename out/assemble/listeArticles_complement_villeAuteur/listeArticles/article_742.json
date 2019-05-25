@@ -1,0 +1,14 @@
+{	 "idArt" : "742",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2007",
+	 "place" : "Namur",
+	 "location" : { "lat" :  50.4673883, 
+		 "lon" : 4.8719854 }, 
+	 "title" : "Traitement et exploration du fichier Log du Serveur Web pour l'extraction des connaissances : Web Usage Mining",
+	 "abstract" : "Le but dans ce travail consiste à concevoir et réaliser un Outil Logiciel, en utilisant les concepts du Web Usage Mining pour offrir aux web masters l'ensemble des connaissances, y inclut les statistiques sur leurs sites, afin de prendre les décisions adéquates. Il s'agit en fait, d'extraire de l'information à partir du fichier log du serveur Web, hébergeant le site Web, et de prendre les décisions pour découvrir les habitudes des internautes, et de répondre à leurs besoins en adaptant le contenu, la forme et l'agencement des pages web.",
+	 "authors" : ["Mostafa Hanoune","Faouzia Benabbou"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1001344" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1001344" 
+} 
+ 

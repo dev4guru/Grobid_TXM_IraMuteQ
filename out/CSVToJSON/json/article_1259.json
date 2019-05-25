@@ -1,0 +1,15 @@
+{
+"idArt": "1259",
+"series": "Revue des Nouvelles Technologies de l'Information",
+"booktitle": "EGC",
+"year": "2017",
+"title": "Engage moi: From retrieval effectiveness, user satisfaction to user engagement",
+"abstract": "The effective prediction of a click remains a primary challenge in the areas of search, digitalmedia and online advertising. In the context of search, satisfying a userâ&#728;A ´ Zs information needby returning results that they will click on is an important objective in any information retrievalsystem. Consequently, information retrieval systems have had a long and varied history of howto evaluate their effectiveness of responding to a given query. However, building such a systemthat not only only returns relevant results to a user query but also encourages a long-termrelationship between the user and the system is far more challenging. In this talk, we reviewthe current state-of-the-art evaluation approaches for search before exploring other ways ofquantifying more long-term engagement measures. Finally, the talk ends with a proposal ofhow the two approaches can be considered together to create a service that optimises for thequery and the longer term engagement aspects.",
+"authors": "Mounia Lalmas",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1002261",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1002261",
+"metaSession": "0",
+"place": "Grenoble",
+"Latitude": " 45.188600 ",
+"Longitude": "5.724595"
+}

@@ -1,0 +1,9 @@
+{	 "idArt" : "541",
+	 "placeAut" : [ 
+		{ "place" : "Roissy",
+		 "country" : "France",
+		 "location" : { "lat" :  49.00363, 
+			 "lon" : 2.5169779999999946 } }
+	 ]
+} 
+ 

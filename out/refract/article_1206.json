@@ -1,0 +1,15 @@
+{
+"idArt": "1206",
+"series": "Revue des Nouvelles Technologies de l'Information",
+"booktitle": "EGC",
+"year": "2017",
+"title": "Deep Dive on Smart Cities by Scaling Reasoning and Interpreting the Semantics of IoT",
+"abstract": "Modern cities are facing tremendous amount of information, captured from internal in-frastructures and/or exogenous sensors, humanincluded. This talk presents how big and het-erogenous city data has been captured, represented, unified to serve one of the most pressingcity objective: improving quality of city, in particular how understanding and reducing traf-fic congestion. We will also present lessons learnt from the deployment of our system andexperimentation in Dublin (Ireland), Bologna (Italy), Miami (USA) and Rio (Brazil).",
+"authors": "Freddy Lécué",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1002264",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1002264",
+"metaSession": "0",
+"place": "Grenoble",
+"Latitude": " 45.188547 ",
+"Longitude": "5.724542"
+}

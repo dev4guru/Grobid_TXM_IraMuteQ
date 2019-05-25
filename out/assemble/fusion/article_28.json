@@ -1,0 +1,22 @@
+{
+"year": "2015",
+"metaSession": "6",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1002093",
+"pdfarticle": "",
+"abstract": "Les systèmes de recommandation ont pour objectif de sélectionner et présenter d'abord les informations susceptibles d'intéresser les utilisateurs. Ce travail expose un système de recommandation qui s'appuie sur deux concepts: des relations sémantiques sur les données et une technique de filtrage collaboratif distribué basée sur la factorisation des matrices (MF). D'une part, les techniques sémantiques peuvent extraire des relations entre les données, et par conséquent, améliorer la précision des recommandations. D'autre part, MF donne des prévisions très précises avec un algorithme facilement parralélisable. Notre proposition utilise cette technique en ajoutant des relations sémantiques au processus. En effet, nous analysons en profondeur les intérêts cachés des utilisateurs dans les attributs des items à recommander. Nous utilisons dans nos expérimentations le jeu de données MovieLens enrichi par la base de données IMDb. Nous comparons notre travail à une technique MF classique. Les résultats montrent une précision dans les recommandations, tout en préservant un niveau élevé d'abstraction du domaine. En outre, nous améliorons le passage à l'échelle du système en utilisant des techniques parallélisables.",
+"title": "Extraction de l'intérêt implicite des utilisateurs dans les attributs des items pour améliorer les systèmes de recommandations",
+"placeAut":[{
+"place":"Paris",
+"country":"France",
+"location":{
+	"lat":"48.856614",
+	"lon":"2.3522219"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 49.815273, u'lon': 6.129582999999999}",
+"place": "Luxembourg",
+"booktitle": "EGC",
+"idArt": "28",
+"authors": "['Manuel Pozo','Raja Chiky','Elisabeth Métais']"
+}

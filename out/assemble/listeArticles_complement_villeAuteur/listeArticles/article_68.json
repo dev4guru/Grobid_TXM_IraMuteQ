@@ -1,0 +1,13 @@
+{	 "idArt" : "68",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2014",
+	 "place" : "Rennes",
+	 "location" : { "lat" :  48.117266, 
+		 "lon" : -1.6777926 }, 
+	 "title" : "1d-SAX : une nouvelle représentation symbolique pour les séries temporelles",
+	 "abstract" : "SAX (Symbolic Aggregate approXimation) est une des techniquesmajeures de symbolisation des séries temporelles. La non prise en compte destendances dans la symbolisation est une limitation bien connue de SAX. Cet articleprésente 1d-SAX, une méthode pour représenter une série temporelle parune séquence de symboles contenant des informations sur la moyenne et la tendancedes fenêtres successives de la série segmentée. Nous comparons l'efficacitéde 1d-SAX vs SAX dans une tâche de classification de séries temporellesd'images satellites. Les résultats montrent que 1d-SAX améliore les taux de classificationpour une quantité d'information identique utilisée.",
+	 "authors" : ["Simon Malinowski","Thomas Guyet","Rene Quiniou","Romain Tavenard"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1001930" 
+} 
+ 

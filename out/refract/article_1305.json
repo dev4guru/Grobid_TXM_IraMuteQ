@@ -1,0 +1,15 @@
+{
+"idArt": "1305",
+"series": "Revue des Nouvelles Technologies de l'Information",
+"booktitle": "EGC",
+"year": "2018",
+"title": "Modélisation des métadonnées d'un data lake en data vault",
+"abstract": "Avec l'avènement des mégadonnées, l'informatique décisionnelle adû trouver des solutions pour gérer des données de très grands volume et variété.Les lacs de données (data lakes) répondent à ces besoins du point du vuedu stockage, mais nécessitent la gestion de métadonnées adéquates pour garantirun accès efficace aux données. Sur la base d'un modèle multidimensionnelde métadonnées conçu pour un lac de données présentant un défaut d'évolutivitéde schéma, nous proposons l'utilisation d'un data vault pour traiter ceproblème. Pour montrer la faisabilité de cette approche, nous instancions notremodèle conceptuel de métadonnées en modèles logiques et physiques relationnelet orienté document. Nous comparons également les modèles physiques entermes de stockage et de temps de réponse aux requêtes sur les métadonnées.",
+"authors": "Iuri D. Nogueira, Maram Romdhane, Jérôme Darmont",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1002385",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1002385",
+"metaSession": "8",
+"place": "Paris",
+"Latitude": " 48.8579 ",
+"Longitude": "2.3533"
+}

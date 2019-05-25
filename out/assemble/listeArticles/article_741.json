@@ -1,0 +1,14 @@
+{	 "idArt" : "741",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2007",
+	 "place" : "Namur",
+	 "location" : { "lat" :  50.4673883, 
+		 "lon" : 4.8719854 }, 
+	 "title" : "Traitement de données de consommation électrique par un Système de Gestion de Flux de Données",
+	 "abstract" : "Avec le développement de compteurs communicants, les consommations d'énergie électrique pourront à terme être télérelevées par les fournisseurs d'électricité à des pas de temps pouvant aller jusqu'à la seconde. Ceci générera des informations en continu, à un rythme rapide et en quantité importante. Les Systèmes de Gestion de Flux de Données (SGFD), aujourd'hui disponibles sous forme de prototypes, ont vocation à faciliter la gestion de tels flux. Cette communication décrit une étude expérimentale pour analyser les avantages et limites de l'utilisation de deux prototypes de SGFD (STREAM et TelegraphCQ) pour la gestion de données de consommation électrique.",
+	 "authors" : ["Talel Abdessalem","Raja Chiky","Georges Hébrail","Jean Louis Vitti"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1001432" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1001432" 
+} 
+ 

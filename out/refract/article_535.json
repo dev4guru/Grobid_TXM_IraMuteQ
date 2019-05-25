@@ -1,0 +1,22 @@
+{
+"year": "2009",
+"metaSession": "0",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1000796",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1000796",
+"abstract": "Nous proposons une approche générique pour la fusion d'informa-tions qui repose sur l'utilisation du modèle des Graphes Conceptuels et l'opé-ration de jointure maximale. Nous validons notre approche par le biais d'ex-périmentations. Ces expérimentations soulignent l'importance des heuristiquesmises en place.",
+"title": "Fusion Symbolique pour la Recommandation de Programmes Télévisées",
+"placeAut":[{
+"place":"Palaiseau",
+"country":"France",
+"location":{
+	"lat":"48.714509",
+	"lon":"2.245748"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 48.5734053, u'lon': 7.752111299999999}",
+"place": "Strasbourg",
+"booktitle": "EGC",
+"idArt": "535",
+"authors": "['Claire Laudy','Jean-Gabriel Ganascia']"
+}

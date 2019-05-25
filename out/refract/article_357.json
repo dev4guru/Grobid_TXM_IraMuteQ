@@ -1,0 +1,22 @@
+{
+"year": "2011",
+"metaSession": "",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1000962",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1000962",
+"abstract": "Dans le cadre de nos travaux sur le portage linguistique des systèmes de gestion de contenu traitant des énoncés spontanés en langue naturelle, nous présentons ici une évaluation du portage d'IMRS (système de recherche de morceau de musique en langue naturelle) Kumamoto (2007) du japonais vers le français. Cette évaluation peut se faire au niveau des représentations internes en les comparant, ou au niveau de la tâche. Ici, nous nous intéressons à une évaluation liée à la tâche en proposant un service Web qui permet de mesurer la performance globale de la nouvelle version obtenue. Nous avons par la suite cherché à améliorer et ajouter de nouvelles fonctionnalités en proposant un service de recherche de musique adaptable à la perception de chaque utilisateur. En effet, un même morceau de musique peut être jugé calme pour un premier auditeur, très calme pour un deuxième, et assez calme pour un troisième, etc. On se demande l'impression finale que porte ce dernier morceau de musique. C'est naturel que les utilisateurs évaluent différemment un même morceau de musique car ils ont des perceptions différentes. Devant cette situation, nous proposons un service de recherche de musique basé des méthodes simples et automatisées et qui sont adaptables à la perception de chaque utilisateur.",
+"title": "Système de recherche de musique adaptable à la perception de chaque utilisateur",
+"placeAut":[{
+"place":"Grenoble",
+"country":"France",
+"location":{
+	"lat":"45.188529",
+	"lon":"5.724524"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 48.390394, u'lon': -4.486076}",
+"place": "Brest",
+"booktitle": "EGC",
+"idArt": "357",
+"authors": "Najeh Hajlaoui"
+}

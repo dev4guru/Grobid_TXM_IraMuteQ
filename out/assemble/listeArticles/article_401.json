@@ -1,0 +1,14 @@
+{	 "idArt" : "401",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2010",
+	 "place" : "Hammamet",
+	 "location" : { "lat" :  36.4, 
+		 "lon" : 10.616667 }, 
+	 "title" : "Classification et Selection de caracteristique basees sur les concepts semantiques pour la recherche d'information multimedia",
+	 "abstract" : "Le besoin récent de nombreuses applications multimédia basées sur le contenu a engendré une demande croissante de technologies dans le domaine de la recherche d'information multimédia. Basée sur l'état de l'art des techniques existantes, nous proposons dans cet article une approche de recherche d'information multimédia qui prend en compte les informations de scène et exploite un modèle de sélection de caractéristiques. Les principaux avantages de notre modèle de recherche par rapport aux modèles existants sont : (i) une méthode de classification basée sur des catégories de concept sémantique; (ii) un modèle de recherche par rapport aux modèles existants sont : (i) une méthode de classification basée sur des catégories de concept sémantique; (ii) un modèle de sélection de caractéristiques; (iii) un index multidimensionnel. Notre framework propose un bon compromis entre précision et rapidité de la recherche",
+	 "authors" : ["Thierry Urruty","Ismail Elsayad","Adel Lablack","Yue Feng","Jose M. Joemon"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1001271" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1001271" 
+} 
+ 

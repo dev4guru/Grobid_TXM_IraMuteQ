@@ -1,0 +1,22 @@
+{
+"year": "2015",
+"metaSession": "4",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1002066",
+"pdfarticle": "",
+"abstract": "We propose a new approach to mine potential classes in news documents by examining close relationship between new classes and probability vectors of multiple labeling of the documents. Using EM algorithm to obtain the distribution over linear mixture models, we make clustering and mine classes.",
+"title": "Mining Classes by Multi-label Classification",
+"placeAut":[{
+"place":"Tokyo",
+"country":"Japan",
+"location":{
+	"lat":"35.7090259",
+	"lon":"139.7319925"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 49.815273, u'lon': 6.129582999999999}",
+"place": "Luxembourg",
+"booktitle": "EGC",
+"idArt": "41",
+"authors": "['Yuichiro Kase','Takao Miura']"
+}

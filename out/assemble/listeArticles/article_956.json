@@ -1,0 +1,14 @@
+{	 "idArt" : "956",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2005",
+	 "place" : "Paris",
+	 "location" : { "lat" :  48.856614, 
+		 "lon" : 2.3522219 }, 
+	 "title" : "Élagage et aide à l'interprétation symbolique et graphique d'une pyramide",
+	 "abstract" : "Le but de ce travail est de faciliter l'interprétation d'une classification pyramidale construite sur un tableau de données symboliques. Alors que dans une hiérarchie binaire le nombre de paliers est égal à n-1, si n est le nombre d'individus à classer, dans le cas d'une pyramide ce dernier peut atteindre n(n-1)/2. Afin de réduire ce nombre, on élague la pyramide et on utilise un critère de sélection de paliers basé sur la hauteur. De plus on décrit tous les paliers retenus par des variables que l'on sélectionne également en utilisant le degré de généralité ainsi que des mesures de dissimilarités de type symbolique-numérique. L'aide à l'interprétation se sert d'outils graphiques et interactifs grâce à la bibliothèque OpenGL. Enfin une simulation montre comment évoluent ces sélections quand le nombre de classes et de variables croit.",
+	 "authors" : ["Kutluhan Kemal Pak","Mohamed Cherif Rahal","Edwin Diday"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1000226" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1000226" 
+} 
+ 

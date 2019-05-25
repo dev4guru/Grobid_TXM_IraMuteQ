@@ -1,0 +1,14 @@
+{	 "idArt" : "685",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2007",
+	 "place" : "Namur",
+	 "location" : { "lat" :  50.4673883, 
+		 "lon" : 4.8719854 }, 
+	 "title" : "Calcul et représentation efficace de cubes de données pour une visualisation orientée pixel",
+	 "abstract" : "Les cubes de données fournissent une aide non négligeable lorsqu'il s'agit d'interroger des entrepôts de données. Un cube de données représente un pré-calcul de toutes les requêtes OLAP et ainsi améliore leur temps de réponses. Les approches proposées jusqu'à présent réduisent les temps de calcul et d'entrée sortie mais leur utilisation reste très coûteuse. D'autres travaux de recherche se sont intéressés à la visualisation de données pour les exploiter de façon interactive.Nous proposons une adaptation de la représentation condensée des cubes de données basée sur le modèle partitionnel. Cette technique nous permet de calculer efficacement un cube de données et de représenter les liens entre les données pour la visualisation. La visualisation proposée dans cet article est basée sur des techniques de visualisation orientée pixel et sur des techniques de diagramme de liens entre noeuds pour offrir à la fois une vision globale et locale pour l'exploitation. Cette nouvelle approche utilise d'une part les calculs efficaces de cubes de données et d'autre part les techniques avancées de visualisation.",
+	 "authors" : ["Noel Novelli","David Auber"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1001362" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1001362" 
+} 
+ 

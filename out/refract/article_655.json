@@ -1,0 +1,22 @@
+{
+"year": "2008",
+"metaSession": "1",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1000670",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1000670",
+"abstract": "Nous présentons ici une approche pour la gestion de bases d'ontologies basée sur un modèle comprenant, outre la définition formelle des concepts (sous forme d'axiomes de logique de description), d'autres éléments descriptifs (termes, commentaires et arguments), ainsi que leurs liens d'alignement avec des concepts d'autres ontologies. L'adaptation ou la combinaison d'ontologies se font grâce à une algèbre comprenant des opérations telles que la sélection, la projection, l'union ou la jointure d'ontologies. Ces opérations agissent au niveau des axiomes, des éléments descriptifs et des liens d'alignement.",
+"title": "Un modèle et une algèbre pour les systèmes de gestion d'ontologies",
+"placeAut":[{
+"place":"Genève",
+"country":"Suisse",
+"location":{
+	"lat":"46.1983922",
+	"lon":"6.1422961"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 43.6163539, u'lon': 7.0552218}",
+"place": "Sophia Antipolis",
+"booktitle": "EGC ",
+"idArt": "655",
+"authors": "['Gilles Falquet','Claire-Lise Mottaz Jiang','Jacques Guyot']"
+}

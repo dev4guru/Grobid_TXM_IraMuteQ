@@ -1,0 +1,14 @@
+{	 "idArt" : "227",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2012",
+	 "place" : "Bordeaux",
+	 "location" : { "lat" :  44.837789, 
+		 "lon" : -0.57918 }, 
+	 "title" : "Découverte de règles d'association pour l'aide à la prévision des accidents maritimes",
+	 "abstract" : "Les systèmes de surveillance maritime permettent la récupération et lafusion des informations sur les navires (position, vitesse, etc.) à des fins de suividu trafic maritime sur un dispositif d'affichage. Aujourd'hui, l'identification desrisques à partir de ces systèmes est difficilement automatisable compte-tenu del'expertise à formaliser, du nombre important de navires et de la multiplicité desrisques (collision, échouement, etc). De plus, le remplacement périodique desopérateurs de surveillance complique la reconnaissance d'événements anormauxqui sont éparses et parcellaires dans le temps et l'espace. Dans l'objectif de faireévoluer ces systèmes de surveillance maritime, nous proposons dans cet article,une approche originale fondée sur le data mining pour l'extraction de motifsfréquents. Cette approche se focalise sur des règles de prévision et de ciblagepour l'identification automatique des situations induisant ou constituant le cadredes accidents maritimes.",
+	 "authors" : ["Bilal Idiri","Aldo Napoli"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1001192" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1001192" 
+} 
+ 

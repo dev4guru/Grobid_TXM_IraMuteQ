@@ -1,0 +1,1 @@
+Le modèle des cartes cognitives offre une représentation graphiqued'un réseau d'influences entre différentes notions. Nous proposons un nouveaumodèle de cartes cognitives qui intègre la partie représentation desconnaissances et l'opération de projection du modèle des graphes conceptuels

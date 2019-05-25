@@ -1,0 +1,15 @@
+{
+"idArt": "1267",
+"series": "Revue des Nouvelles Technologies de l'Information",
+"booktitle": "EGC",
+"year": "2018",
+"title": "Apport des modèles locaux pour les K-moyennes prédictives",
+"abstract": "Dans le cadre du clustering prédictif, pour attribuer la classe aux groupesformés à la fin de la phase d'apprentissage, le vote majoritaire est la méthodecommunément utilisée. Cependant, cette approche comporte certaines limitationsqui influent directement sur la qualité des résultats obtenus en termes deprédiction. Pour surmonter ce problème, nous proposons d'incorporer des modèlesprédictifs localement dans les clusters formés afin d'améliorer la qualitéprédictive du modèle global. Les résultats expérimentaux montrent que cette incorporationpermet d'obtenir des résultats (en termes de prédiction) significativementmeilleurs par rapport à ceux obtenus en utilisant le vote majoritaire ainsique des résultats très compétitifs avec ceux obtenus par des algorithmes performantsd'apprentissage supervisé similaires. Ceci est effectué sans dégrader lepouvoir descriptif (explicatif) du modèle global.",
+"authors": "Vincent Lemaire, Oumaima Alaoui Ismaili",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1002379",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1002379",
+"metaSession": "2",
+"place": "Paris",
+"Latitude": " 48.8541 ",
+"Longitude": "2.3495"
+}

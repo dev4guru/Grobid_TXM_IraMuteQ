@@ -1,0 +1,15 @@
+{
+"idArt": "1167",
+"series": "Revue des Nouvelles Technologies de l'Information",
+"booktitle": "EGC",
+"year": "2016",
+"title": "Sélection topologique de variables dans un contexte de discrimination",
+"abstract": "En apprentissage automatique, la présence d'un grand nombre de variablesexplicatives conduit à une plus grande complexité des algorithmes et àune forte dégradation des performances des modèles de prédiction. Pour cela,une sélection d'un sous-ensemble optimal discriminant de ces variables s'avèrenécessaire. Dans cet article, une approche topologique est proposée pour la sélectionde ce sous-ensemble optimal. Elle utilise la notion de graphe de voisinagepour classer les variables par ordre de pertinence, ensuite, une méthode pas à pasde type ascendante "forward" est appliquée pour construire une suite de modèlesdont le meilleur sous-ensemble est choisi selon son degré d'équivalence topologiquede discrimination. Pour chaque sous-ensemble, le degré d'équivalence estmesuré en comparant la matrice d'adjacence induite par la mesure de proximitéchoisie à celle induite par la "meilleure" mesure de proximité discriminante ditede référence. Les performances de cette approche sont évaluées à l'aide de donnéessimulées et réelles. Des comparaisons de sélection de variables en discriminationavec une approche métrique montrent une bien meilleure sélection àpartir de l'approche topologique proposée.",
+"authors": "Fatima-Zahra Aazi, Rafik Abdesselam",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1002162",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1002162",
+"metaSession": "2",
+"place": "Reims",
+"Latitude": " 49.258392 ",
+"Longitude": "4.031759"
+}

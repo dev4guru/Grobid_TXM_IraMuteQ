@@ -1,0 +1,22 @@
+{
+"year": "2006",
+"metaSession": "8",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1000353",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1000353",
+"abstract": "La fouille de données textuelles constitue un champ majeur dutraitement automatique des données. Une large variété de conférences, commeTREC, lui sont consacrées. Dans cette étude, nous nous intéressons à la fouillede textes juridiques, dans l'objectif est le classement automatique de ces textes.Nous utilisons des outils d'analyses linguistiques (extraction de terminologie)dans le but de repérer les concepts présents dans le corpus. Ces conceptspermettent de construire un espace de représentation de faible dimensionnalité,ce qui nous permet d'utiliser des algorithmes d'apprentissage basés sur desmesures de similarité entre individus, comme les graphes de voisinage. Nouscomparons les résultats issus du graphe et de C4.5 avec les SVM qui eux sontutilisés sans réduction de la dimensionnalité.",
+"title": "Multi-catégorisation de textes juridiques et retour de pertinence",
+"placeAut":[{
+"place":"Bron",
+"country":"France",
+"location":{
+	"lat":"45.733316",
+	"lon":"4.911927"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 50.62925, u'lon': 3.057256}",
+"place": "Lille",
+"booktitle": "EGC",
+"idArt": "833",
+"authors": "['Vincent Pisetta','Hakim Hacid','Djamel Abdelkader Zighed']"
+}

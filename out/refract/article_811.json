@@ -1,0 +1,22 @@
+{
+"year": "2006",
+"metaSession": "3",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1000418",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1000418",
+"abstract": "Ces dernières années, de nouvelles contraintes sont apparues pour lestechniques de fouille de données. Ces contraintes sont typiques d'un nouveaugenre de données : les data streams. Dans un processus de fouille appliquésur un data stream, l'utilisation de la mémoire est limitée, de nouveaux élémentssont générés en permanence et doivent être traités le plus rapidement possible,aucun opérateur bloquant ne peut être appliqué sur les données et celles-ci nepeuvent être observées qu'une seule fois. A l'heure actuelle, la majorité des travauxrelatifs à l'extraction de motifs dans les data streams ne concernent pas lesmotifs temporels. Nous montrons dans cet article que cela est principalement dûau phénomène combinatoire qui est lié à l'extraction de motifs séquentiels. Nousproposons alors un algorithme basé sur l'alignement de séquences pour extraireles motifs séquentiels dans les data streams. Afin de respecter la contrainte d'unepasse unique sur les données, une heuristique gloutonne est proposée pour segmenterles séquences. Nous montrons enfin que notre proposition est capabled'extraire des motifs pertinents avec un support très faible.",
+"title": "Extraction de motifs séquentiels dans les flots de données d'usage du Web",
+"placeAut":[{
+"place":"Sophia Antipolis",
+"country":"France",
+"location":{
+	"lat":"43.6163539",
+	"lon":"7.0552218"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 50.62925, u'lon': 3.057256}",
+"place": "Lille",
+"booktitle": "EGC",
+"idArt": "811",
+"authors": "['Florent Masseglia','Alice Marascu']"
+}

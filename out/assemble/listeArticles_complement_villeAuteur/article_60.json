@@ -1,0 +1,9 @@
+{	 "idArt" : "60",
+	 "placeAut" : [ 
+		{ "place" : "Talence",
+		 "country" : "France",
+		 "location" : { "lat" :  44.802614, 
+			 "lon" : -0.5880540000000565 } }
+	 ]
+} 
+ 

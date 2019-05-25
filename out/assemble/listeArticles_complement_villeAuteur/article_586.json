@@ -1,0 +1,13 @@
+{	 "idArt" : "586",
+	 "placeAut" : [ 
+		{ "place" : "Pisa",
+		 "country" : "Italy",
+		 "location" : { "lat" :  43.7228386, 
+			 "lon" : 10.401688799999988 } },
+		{ "place" : "Villeurbanne",
+		 "country" : "France",
+		 "location" : { "lat" :  45.771944, 
+			 "lon" : 4.89017089999993 } }
+	 ]
+} 
+ 

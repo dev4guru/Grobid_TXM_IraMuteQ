@@ -1,0 +1,22 @@
+{
+"year": "2011",
+"metaSession": "",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1000980",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1000980",
+"abstract": "",
+"title": "Prise en compte du réseau de sources pour la fusion d'informations",
+"placeAut":[{
+"place":"Paris",
+"country":"France",
+"location":{
+	"lat":"48.856614",
+	"lon":"2.3522219"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 48.390394, u'lon': -4.486076}",
+"place": "Brest",
+"booktitle": "EGC",
+"idArt": "349",
+"authors": "['Thomas Bärecke','Marie-Jeanne Lesot','Herman Akdag','Bernadette Bouchon-Meunier']"
+}

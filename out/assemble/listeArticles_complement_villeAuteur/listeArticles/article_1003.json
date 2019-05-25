@@ -1,0 +1,14 @@
+{	 "idArt" : "1003",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2005",
+	 "place" : "Paris",
+	 "location" : { "lat" :  48.856614, 
+		 "lon" : 2.3522219 }, 
+	 "title" : "Restructuration automatique de documents dans les corpus semi-structurés hétérogènes",
+	 "abstract" : "L'interrogation de grandes bases de documents semi-structurés (type XML) est un problème ouvert important. En effet, pour interroger un document dont le schéma est nouveau, un système doit pouvoir soit adapter la requête posée au document, soit adapter le document pour pouvoir lui appliquer la requête. Nous nous positionnons ici dans le cadre de la restructuration de documents qui consiste à transformer des documents semi-structurés issus de diverses sources dans un schéma de médiation connu. Nous proposons un cadre statistique général à la problématique de la restructuration de documents et détaillons une instance d'un modèle stochastique de documents structurés appliquée à cette problématique. Nous détaillons enfin un ensemble d'expériences effectuées sur les documents du corpus INEX afin de mesurer la capacité de notre modèle.",
+	 "authors" : ["Guillaume Wisniewski","Ludovic Denoyer","Patrick Gallinari"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1000260" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1000260" 
+} 
+ 

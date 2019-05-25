@@ -1,0 +1,15 @@
+{
+"idArt": "1234",
+"series": "Revue des Nouvelles Technologies de l'Information",
+"booktitle": "EGC",
+"year": "2017",
+"title": "Prédiction du montant levé lors d'une campagne de financement participatif par la méthode des plus proches voisins",
+"abstract": "Le financement participatif est un mode de financement d'unprojet faisant appel à un grand nombre de personnes, contrairement auxmodes de financement traditionnels. Il a connu une forte croissance avecl'émergence d'Internet et des réseaux sociaux. Cependant plus de 60 %des projets ne sont pas financés, il est donc important de bien préparersa campagne de financement. De plus, en cours de campagne, il est cru-cial d'avoir une estimation rapide de son succès afin de pouvoir réagirrapidement (restructuration, communication) : des outils de prédictionsont alors indispensables. Nous proposons dans cet article une méthodede prédiction du montant final levé lors d'une campagne de financementparticipatif utilisant l'algorithme k-NN : en utilisant l'historique de cam-pagnes passées, nous déterminons celles qui sont les plus similaires à unecampagne en cours. Nous utilisons alors les montants finaux pour faireune estimation. Nous comparons plusieurs mesures de distance pour dé-terminer les plus proches voisins. Nos résultats indiquent que le dernierétat d'une campagne seul est suffisant pour obtenir une bonne prédiction.",
+"authors": "Alexandre Blansché, Dylan Da Conceicao, Dylan Koby",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1002303",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1002303",
+"metaSession": "2",
+"place": "Grenoble",
+"Latitude": " 45.188575 ",
+"Longitude": "5.724570"
+}

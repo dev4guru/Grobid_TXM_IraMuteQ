@@ -1,0 +1,14 @@
+{	 "idArt" : "392",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2010",
+	 "place" : "Hammamet",
+	 "location" : { "lat" :  36.4, 
+		 "lon" : 10.616667 }, 
+	 "title" : "Approche biomimétique coopérative pour la visualisation de grands graphes multidimensionels",
+	 "abstract" : "Face à la quantité sans cesse grandissante de données stockées, les algorithmes de fouille etde visualisation de données doivent pouvoir être capable de traiter de grandes quantités de données.Une des solutions est d'effectuer un prétraitement des données permettant la réductionde la dimension des données sans perte significative d'informations. L'idée est donc de réduirel'ensemble de descripteurs avant de faire appel à la méthode de visualisation sous forme d'ungraphe.",
+	 "authors" : ["Lydia Boudjeloud","Hanane Azzag"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1001412" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1001412" 
+} 
+ 

@@ -1,0 +1,14 @@
+{	 "idArt" : "212",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2012",
+	 "place" : "Bordeaux",
+	 "location" : { "lat" :  44.837789, 
+		 "lon" : -0.57918 }, 
+	 "title" : "Apprentissage d'ensemble d'opérateurs de projection orthogonale pour la détection de nouveauté",
+	 "abstract" : "Dans ce papier, nous proposons une approche de détection de nouveautéfondée sur les opérateurs de projection orthogonale et l'idée de doublebootstrap (bi- bootstrap). Notre approche appelée Random Subspace NoveltyDetection Filter (RS-NDF), combine une technique de rééchantillonnage etl'idée d'apprentissage d'ensemble. RS-NDF est un ensemble de filtres NDF(Novelty Detection Filter), induits à partir d'échantillons bootstrap des donnéesd'apprentissage, en utilisant une sélection aléatoire des variables pour l'apprentissagedes filtres. RS-NDF utilise donc un double bootstrap, c'est à dire unrééchantillonnage avec remise sur les observations et un rééchantillonnage sansremise sur les variables. La prédiction est faite par l'agrégation des prédictionsde l'ensemble des filtres. RS-NDF présente généralement une importante améliorationdes performances par rapport au modèle de base NDF unique. Grâce àson algorithme d'apprentissage en ligne, l'approche RS-NDF est également enmesure de suivre les changements dans les données au fil du temps. Plusieursmétriques de performance montrent que l'approche proposée est plus efficace,robuste et offre de meilleures performances pour la détection de nouveauté comparéeaux autres techniques existantes.",
+	 "authors" : ["Fatma Hamdi","Younès Bennani"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1001156" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1001156" 
+} 
+ 

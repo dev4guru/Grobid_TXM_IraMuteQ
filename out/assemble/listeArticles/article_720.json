@@ -1,0 +1,14 @@
+{	 "idArt" : "720",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2007",
+	 "place" : "Namur",
+	 "location" : { "lat" :  50.4673883, 
+		 "lon" : 4.8719854 }, 
+	 "title" : "Les itemsets essentiels fermés : une nouvelle représentation concise",
+	 "abstract" : "Devant l'accroissement constant des grandes bases de données, plusieurs travaux de recherche en fouille de données s'orientent vers le développement de techniques de représentation compacte. Ces recherches se développent suivant deux axes complémentaires : l'extraction de bases génériques de règles d'association et l'extraction de représentations concises d'itemsets fréquents.Dans ce papier, nous introduisons une nouvelle représentation concise exacte des itemsets fréquents. Elle se situe au croisement de chemins de deux autres représentations concises, à savoir les itemsets fermés et ceux dits essentiels. L'idée intuitive est de profiter du fait que tout opérateur de fermeture induit une fonction surjective. Dans ce contexte, nous introduisons un nouvel opérateur de fermeture permettant de calculer les fermetures des itemsets essentiels. Ceci a pour but d'avoir une représentation concise de taille réduite tout en permettant l'extraction des supports négatif et disjonctif d'un itemset en plus de son support conjonctif. Un nouvel algorithme appelé D-CLOSURE permettant d'extraire les itemsets essentiels fermés est aussi présenté. L'étude expérimentale que nous avons menée a permis de confirmer que la nouvelle approche présente un bon taux de compacité comparativement aux autres représentations concises exactes.",
+	 "authors" : ["Tarek Hamrouni","Islem Denden","Sadok Ben Yahia","Engelbert Mephu Nguifo","Yahya Slimani"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1001384" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1001384" 
+} 
+ 

@@ -1,0 +1,14 @@
+{	 "idArt" : "687",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2007",
+	 "place" : "Namur",
+	 "location" : { "lat" :  50.4673883, 
+		 "lon" : 4.8719854 }, 
+	 "title" : "Cartographie de l'organisation : une approche topologique des connaissances",
+	 "abstract" : "La gestion des connaissances est devenue aujourd'hui un enjeu majeur pour toute organisation. Celle-ci a pour but de capitaliser et de rendre accessible à ses acteurs la connaissance détenue par l'organisation. Cet article s'intéresse particulièrement à la visualisation à deux niveaux de ces connaissances (macroscopique - relatif aux connaissances globales détenues par l'organisation - et microscopique - relatif aux connaissances locales détenues par chaque membre organisationnel). La caractérisation des connaissances détenues par les acteurs repose sur quatre dimensions complémentaires (formelle, conative, cognitive, et socio-cognitive). Les deux types de visualisation proposés s'appuient sur les cartes auto-organisatrices et permettent une navigation dans différentes représentations des connaissances de l'organisation.",
+	 "authors" : ["Marc Boyer","Marie-Françoise Canut","Max Chevalier","André Péninou","Florence Sedes"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1001437" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1001437" 
+} 
+ 

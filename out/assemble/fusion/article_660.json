@@ -1,0 +1,22 @@
+{
+"year": "2008",
+"metaSession": "2",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1000624",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1000624",
+"abstract": "En classification supervisée, de nombreuses méthodes ensemblistes peuvent combiner plusieurs hypothèses de base afin de créer une règle de décision finale plus performante. Ainsi, il a été montré que des méthodes comme le bagging ou le boosting pouvaient se révéler intéressantes, tant dans la phase d'apprentissage qu'en généralisation. Dès lors, il est tentant de vouloir s'inspirer des grands principes d'une méthode comme le boosting en classification non supervisée. Or, il convient préalablement de se confronter aux difficultés connues de la thématique des ensembles de regroupeurs (correspondance des classes, agrégation des résultats, qualité) puis d'introduire l'idée du boosting dans un processus itératif. Cet article propose une méthode ensembliste inspirée du boosting, qui, à partir d'un partitionnement flou obtenu par les c-moyennes floues (fuzzy-c-means), va insister itérativement sur les exemples difficiles pour former une partition dure finale plus pertinente.",
+"title": "Une approche ensembliste inspirée du boosting en classification non supervisée",
+"placeAut":[{
+"place":"Bron",
+"country":"France",
+"location":{
+	"lat":"45.733316",
+	"lon":"4.911927"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 43.6163539, u'lon': 7.0552218}",
+"place": "Sophia Antipolis",
+"booktitle": "EGC ",
+"idArt": "660",
+"authors": "['Romain Billot','Henri-Maxime Suchier','Stéphane Lallich']"
+}

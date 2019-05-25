@@ -1,0 +1,22 @@
+{
+"year": "2013",
+"metaSession": "3",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1001836",
+"pdfarticle": "",
+"abstract": "L'extraction de motifs fréquents est une tâche importante en fouille de données. Initialement centrés sur la découverte d'ensembles d'items fréquents, les premiers travaux ont été étendus pour extraire des motifs structurels comme des séquences, des arbres ou des graphes. Dans cet article, nous proposons une nouvelle méthode de fouille de données qui consiste à extraire de nouveaux types de motifs à partir d'une collection d'arbres attribués. Les arbres attribués sont des arbres dans lesquels les noeuds sont associés à des ensembles d'attributs. L'extraction de ces motifs (appelés sous-arbres attribués) combine une recherche d'ensembles d'items fréquents à une recherche de sous-arbres et nécessite d'explorer un immense espace de recherche. Nous présentons plusieurs nouveaux algorithmes d'extraction d'arbres attribués et montrons que leurs implémentations peuvent efficacement extraire des motifs fréquents à partir de grands jeux de données.",
+"title": "Extraction de motifs fréquents dans des arbres attribués",
+"placeAut":[{
+"place":"Nouméa",
+"country":"Nouvelle Caledonie",
+"location":{
+	"lat":"-22.2758",
+	"lon":"166.458"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 43.604652, u'lon': 1.444209}",
+"place": "Toulouse",
+"booktitle": "EGC",
+"idArt": "177",
+"authors": "['Claude Pasquier','Jérémy Sanhes','Frédéric Flouvat','Nazha Selmaoui-Folcher']"
+}

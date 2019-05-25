@@ -1,0 +1,14 @@
+{	 "idArt" : "682",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2007",
+	 "place" : "Namur",
+	 "location" : { "lat" :  50.4673883, 
+		 "lon" : 4.8719854 }, 
+	 "title" : "Apprentissage statistique de la topologie d'un ensemble de données étiquetées",
+	 "abstract" : "Découvrir la topologie d'un ensemble de données étiquetées dans un espace Euclidien peut aider à construire un meilleur système de décision. Dans ce papier, nous proposons un modèle génératif basé sur le graphe de Delaunay de plusieurs prototypes représentant les données étiquetées dans le but d'extraire de ce graphe la topologie des classes.",
+	 "authors" : ["Pierre Gaillard","Michaël Aupetit","Gérard Govaert"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1001419" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1001419" 
+} 
+ 

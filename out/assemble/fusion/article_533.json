@@ -1,0 +1,22 @@
+{
+"year": "2009",
+"metaSession": "0",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1000804",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1000804",
+"abstract": "",
+"title": "FCP-Growth, une adaptation de FP-Growth pour générer des règles d'association de classe",
+"placeAut":[{
+"place":"Bron",
+"country":"France",
+"location":{
+	"lat":"45.733316",
+	"lon":"4.911927"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 48.5734053, u'lon': 7.752111299999999}",
+"place": "Strasbourg",
+"booktitle": "EGC",
+"idArt": "533",
+"authors": "['Emna Bahri','Stéphane Lallich']"
+}

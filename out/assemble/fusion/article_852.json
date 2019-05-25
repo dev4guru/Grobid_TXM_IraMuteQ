@@ -1,0 +1,22 @@
+{
+"year": "2006",
+"metaSession": "4",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1000370",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1000370",
+"abstract": "L'analyse statistique implicative traite des tableaux sujets xvariables afin d'extraire règles et métarègles statistiques entre les variables.L'article interroge les structures obtenues représentées par graphe et hiérarchieorientés afin de dégager la responsabilité des sujets ou des groupes de sujets(variables supplémentaires) dans la constitution des chemins du graphe ou desclasses de la hiérarchie. On distingue les concepts de typicalité pour signifier laproximité des sujets avec le comportement moyen de la population envers lesrègles statistiques extraites, puis de contribution pour quantifier le rôlequ'auraient les sujets par rapport aux règles strictes associées. Un exemple dedonnées réelles, traité à l'aide du logiciel CHIC, illustre et montre l'intérêt deces deux concepts.",
+"title": "Typicalité et contribution des sujets et des variables supplémentaires en Analyse Statistique Implicative",
+"placeAut":[{
+"place":"Nantes",
+"country":"France",
+"location":{
+	"lat":"47.218371",
+	"lon":"-1.553621"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 50.62925, u'lon': 3.057256}",
+"place": "Lille",
+"booktitle": "EGC",
+"idArt": "852",
+"authors": "['Régis Gras','Jérôme David','Jean-Claude Régnier','Fabrice Guillet']"
+}

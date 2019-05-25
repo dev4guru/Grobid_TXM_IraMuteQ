@@ -1,0 +1,13 @@
+{	 "idArt" : "789",
+	 "placeAut" : [ 
+		{ "place" : "Rome",
+		 "country" : "Italie",
+		 "location" : { "lat" :  41.9027835, 
+			 "lon" : 12.496365500000024 } },
+		{ "place" : "Villeneuve-dAscq",
+		 "country" : "France",
+		 "location" : { "lat" :  50.6232523, 
+			 "lon" : 3.144265099999984 } }
+	 ]
+} 
+ 

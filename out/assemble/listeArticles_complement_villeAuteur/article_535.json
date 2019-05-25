@@ -1,0 +1,13 @@
+{	 "idArt" : "535",
+	 "placeAut" : [ 
+		{ "place" : "Palaiseau",
+		 "country" : "France",
+		 "location" : { "lat" :  48.714509, 
+			 "lon" : 2.2457480000000487 } },
+		{ "place" : "Paris",
+		 "country" : "France",
+		 "location" : { "lat" :  48.856614, 
+			 "lon" : 2.3522219000000177 } }
+	 ]
+} 
+ 

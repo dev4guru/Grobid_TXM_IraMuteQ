@@ -1,0 +1,14 @@
+{	 "idArt" : "632",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC ",
+	 "year" : "2008",
+	 "place" : "Sophia Antipolis",
+	 "location" : { "lat" :  43.6163539, 
+		 "lon" : 7.0552218 }, 
+	 "title" : "Optimisation incrémentale de réseaux de neurones RBF pour la régression via un algorithme évolutionnaire : RBF-Gene",
+	 "abstract" : "Les réseaux de neurones RBF sont d'excellents régresseurs. Ils sont cependant difficiles à utiliser en raison du nombre de paramètres libres : nombre de neurones, poids des connexions, ... Des algorithmes évolutionnaires permettent de les optimiser mais ils sont peu nombreux et complexes.Nous proposons ici un nouvel algorithme, RBF-Gene, qui permet d'optimiser la structure et les poids du réseau, grâce à une inspiration biologique. Il est compétitif avec les autres techniques de régression mais surtout l'évolution peut choisir dynamiquement le nombre de neurones et la précision des différents paramètres.",
+	 "authors" : ["Virginie Lefort","Guillaume Beslon"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1000620" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1000620" 
+} 
+ 

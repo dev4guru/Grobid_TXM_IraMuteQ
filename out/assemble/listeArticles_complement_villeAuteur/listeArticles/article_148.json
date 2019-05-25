@@ -1,0 +1,13 @@
+{	 "idArt" : "148",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2014",
+	 "place" : "Rennes",
+	 "location" : { "lat" :  48.117266, 
+		 "lon" : -1.6777926 }, 
+	 "title" : "Une méthode pour la détection de thématiques populaires sur Twitter",
+	 "abstract" : "L'explosion du volume de messages échangés via Twitter entraîne unphénomène de surcharge informationnelle pour ses utilisateurs. Il est donc crucialde doter ces derniers de moyens les aidant à filtrer l'information brute, laquelleest délivrée sous la forme d'un flux de messages. Dans cette optique, nousproposons une méthode basée sur la modélisation de l'anomalie dans la fréquencede création de liens dynamiques entre utilisateurs pour détecter les picsde popularité et extraire une liste ordonnée de thématiques populaires. Les expérimentationsmenées sur des données réelles montrent que la méthode proposéeest capable d'identifier et localiser efficacement les thématiques populaires.",
+	 "authors" : ["Adrien Guille","Cécile Favre"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1001917" 
+} 
+ 

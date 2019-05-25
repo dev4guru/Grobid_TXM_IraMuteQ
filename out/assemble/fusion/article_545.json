@@ -1,0 +1,22 @@
+{
+"year": "2009",
+"metaSession": "5",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1000782",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1000782",
+"abstract": "Ce travail s'inscrit dans la problématique de l'apprentissage non su-pervisé. Dans ce cadre se retrouvent les méthodes de classification automatiquenon paramétriques qui reposent sur l'hypothèse que plus des individus sontproches dans l'espace de représentation, plus ils ont de chances de faire par-tie de la même classe. Cet article propose une nouvelle méthode de ce type quiconsidère la proximité à travers la structure fournie par un graphe de voisinage.",
+"title": "Méthode de regroupement par graphe de voisinage",
+"placeAut":[{
+"place":"Saint-Etienne",
+"country":"France",
+"location":{
+	"lat":"45.439695",
+	"lon":"4.3871779"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 48.5734053, u'lon': 7.752111299999999}",
+"place": "Strasbourg",
+"booktitle": "EGC",
+"idArt": "545",
+"authors": "Fabrice Muhlenbach"
+}

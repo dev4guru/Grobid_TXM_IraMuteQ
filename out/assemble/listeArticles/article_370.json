@@ -1,0 +1,14 @@
+{	 "idArt" : "370",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2011",
+	 "place" : "Brest",
+	 "location" : { "lat" :  48.390394, 
+		 "lon" : -4.486076 }, 
+	 "title" : "Une nouvelle approche visuelle pour la classification hiérarchique et topologique",
+	 "abstract" : "Nous proposons dans cet article une nouvelle méthode de classification hiérarchique et topologique. Notre approche consiste à construire de manière auto-organisée une partition de données représentées par un ensemble forêt d'arbres répartis sur une grille 2D. Chaque cellule de la grille est modélisée par un arbre dont les noeuds représentent les données. La partition globale obtenue est visualisée à l'aide d'une carte de TreeMap dans laquelle chaque TreeMap représente un arbre de données. Nous évaluerons les capacités et les performances de notre approche sur des données aux difficultés variables. Des résultats numériques et visuels seront présentés et discutés.",
+	 "authors" : ["Mustapha Lebbah","Hanane Azzag"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1001038" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1001038" 
+} 
+ 

@@ -1,0 +1,22 @@
+{
+"year": "2007",
+"metaSession": "5",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1001333",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1001333",
+"abstract": "Les méthodes de classification automatique sont employées dans des domaines variés et de nombreux algorithmes ont été proposés dans la littérature. Au milieu de cette jungle, il semble parfois difficile à un simple utilisateur de choisir quel algorithme est le plus adapté à ses besoins. Depuis le milieu des années 90, une nouvelle thématique de recherches, appelée clustering validity, tente de répondre à ce genre d'interrogation en proposant des indices pour juger de la qualité des catégorisations obtenues. Mais le choix est parfois difficile entre ces indices et il peut s'avérer délicat de prendre la bonne décision. C'est pourquoi nous proposons un logiciel adapté à cette problématique d'évaluation.",
+"title": "Logiciel d'aide à l'évaluation des catégorisations",
+"placeAut":[{
+"place":"Paris",
+"country":"France",
+"location":{
+	"lat":"48.856614",
+	"lon":"2.3522219"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 50.4673883, u'lon': 4.8719854}",
+"place": "Namur",
+"booktitle": "EGC",
+"idArt": "721",
+"authors": "['Julien Velcin','William Vacher','Jean-Gabriel Ganascia']"
+}

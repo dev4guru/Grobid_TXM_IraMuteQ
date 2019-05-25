@@ -1,0 +1,15 @@
+{
+"idArt": "1216",
+"series": "Revue des Nouvelles Technologies de l'Information",
+"booktitle": "EGC",
+"year": "2017",
+"title": "Extraction des évolutions récurrentes dans un unique graphe dynamique attribué",
+"abstract": "Un grand nombre d'applications nécessitent d'analyser un unique grapheattribué évoluant dans le temps. Cette tâche est particulièrement complexe car lastructure du graphe et les attributs associés à chacun de ses noeuds ne sont pasfigés. Dans ce travail, nous nous focalisons sur la découverte de motifs récurrentsdans un tel graphe. Ces motifs, des séquences de sous-graphes connexes, représententles évolutions récurrentes de sous-ensembles de noeuds et de leurs attributs.Différentes contraintes ont été définies (e.g. fréquence, volume, connectivité,non redondance, continuité) et un algorithme original a été proposé. Lesexpérimentations réalisées sur des jeux de données synthétiques et réelles démontrentl'intérêt de l'approche proposée et son passage à l'échelle.",
+"authors": "Zhi Cheng, Frédéric Flouvat, Nazha Selmaoui-Folcher",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1002273",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1002273",
+"metaSession": "8",
+"place": "Grenoble",
+"Latitude": " 45.188557 ",
+"Longitude": "5.724552"
+}

@@ -1,0 +1,13 @@
+{	 "idArt" : "43",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2015",
+	 "place" : "Luxembourg",
+	 "location" : { "lat" :  49.815273, 
+		 "lon" : 6.129582999999999 }, 
+	 "title" : "Nouvelle approche de contextualisation de tweets basée sur les règles d'association inter-termes",
+	 "abstract" : "Tweets are short messages that do not exceed 140 characters. Since they must be written respecting this limitation, a particular vocabulary is used. To make them understandable to a reader, it is therefore necessary to know their context. In this paper, we describe our approach for the tweet contextualization. This approach allows the extension of the tweet's vocabulary by a set of thematically related words using mining association rules between terms.",
+	 "authors" : ["Meriem Amina Zingla","Mohamed Ettaleb","Chiraz Latiri","Yahia Slimani"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1002121" 
+} 
+ 

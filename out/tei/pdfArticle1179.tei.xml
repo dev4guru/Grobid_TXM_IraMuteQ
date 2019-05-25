@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/josuah/Bureau/grobid/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="fr">
+		<encodingDesc>
+			<appInfo>
+				<application version="0.5.5-SNAPSHOT" ident="GROBID" when="2019-04-04T12:42+0000">
+					<ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Une approche basée sur des données mixtes -mesures et estimations -pour la détection de défaillances d&apos;un système robotisé</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Rabah</forename><surname>Mazouzi</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Rabih</forename><surname>Taleb</surname></persName>
+							<email>rtaleb@ai.univ-paris8.fr</email>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Lynda</forename><surname>Seddiki</surname></persName>
+							<email>lynda.seddiki@ai.univ-paris8.fr</email>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Cyril</forename><surname>De Runz</surname></persName>
+							<email>cyril.de-runz@univ-reims.fr</email>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Kevin</forename><surname>Guelton</surname></persName>
+							<email>kevin.guelton@univ-reims.fr</email>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Herman</forename><surname>Akdag</surname></persName>
+							<email>herman.akdag@ai.univ-paris8.fr</email>
+						</author>
+						<author>
+							<affiliation key="aff0">
+								<orgName type="institution" key="instit1">LIASD</orgName>
+								<orgName type="institution" key="instit2">Université Paris 8</orgName>
+								<address>
+									<addrLine>2 rue de la Liberté</addrLine>
+									<postCode>93526, 3804</postCode>
+									<settlement>Saint-Denis cedex</settlement>
+									<region>EA</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff1">
+								<orgName type="institution">Université de Reims Champagne-Ardenne</orgName>
+								<address>
+									<addrLine>Moulin de la Housse BP 1039</addrLine>
+									<postCode>51687</postCode>
+									<settlement>Reims</settlement>
+									<country>Cedex</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Une approche basée sur des données mixtes -mesures et estimations -pour la détection de défaillances d&apos;un système robotisé</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<abstract>
+				<p>Mettre en place un dispositif de détection de pannes représente de nos jours l&apos;un des défis majeurs pour les constructeurs des systèmes robotisés. Le processus de détection nécessite l&apos;utilisation d&apos;un certain nombre de cap-teurs afin de surveiller le fonctionnement de ces systèmes. Or, le coût ainsi que les contraintes liées à la mise en place de ces capteurs conduisent souvent les concepteurs à optimiser leurs nombres, ce qui mène à un manque de mesures nécessaires pour la détection de défaillances. L&apos;une des méthodes pour combler ce manque est d&apos;estimer les paramètres non mesurables à partir d&apos;un modèle mathématique décrivant la dynamique du système réel. Cet article présente une approche basée sur des données mixtes (données mesurées et données estimées) pour la détection de défaillances dans les systèmes robotisés. Cette détection est effectuée en utilisant un classifieur de type arbre de décision. Les données utili-sées pour son apprentissage proviennent des mesures prises sur le système réel. Ces données sont ensuite enrichies par des données estimées en provenance d&apos;un observateur basé sur un modèle analytique. Cet enrichissement sous forme d&apos;at-tributs supplémentaires a pour but d&apos;augmenter la connaissance du classifieur sur le fonctionnement du système et par conséquent améliorer le taux de bonne détection de défaillances. Une expérience sur un système d&apos;actionnement d&apos;un siège robotisé, montrant l&apos;intérêt de notre approche, sera présentée à la fin de l&apos;article.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="fr">
+	</text>
+</TEI>

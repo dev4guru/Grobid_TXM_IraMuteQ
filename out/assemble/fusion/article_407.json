@@ -1,0 +1,22 @@
+{
+"year": "2010",
+"metaSession": "4",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1001278",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1001278",
+"abstract": "L'utilisation de connaissances pour améliorer les processus de fouillede données a mobilisé un important effort de recherche ces dernières années. Ilest cependant souvent difficile de formaliser ce type de connaissances, commecelles-ci sont souvent dépendantes du domaine. Dans cet article, nous nous intéressonsà l'intégration de connaissances sous la forme d'objets étiquetés dansles algorithmes de clustering. Plusieurs critères permettant d'évaluer la puretédes clusters sont présentés et leur comportement est comparé sur des jeux dedonnées artificiels. Les avantages et les inconvénients de chaque critère sontanalysés pour aider l'utilisateur à faire un choix.",
+"title": "Comparaison de critères de pureté pour l'intégration de connaissances en clustering semi-supervisé",
+"placeAut":[{
+"place":"Strasbourg",
+"country":"France",
+"location":{
+	"lat":"48.5734053",
+	"lon":"7.7521113"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 36.4, u'lon': 10.616667}",
+"place": "Hammamet",
+"booktitle": "EGC",
+"idArt": "407",
+"authors": "['Germain Forestier','Cédric Wemmert','Pierre Gançarski']"
+}

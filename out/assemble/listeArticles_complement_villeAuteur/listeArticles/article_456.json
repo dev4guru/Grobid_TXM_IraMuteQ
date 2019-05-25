@@ -1,0 +1,13 @@
+{	 "idArt" : "456",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2010",
+	 "place" : "Hammamet",
+	 "location" : { "lat" :  36.4, 
+		 "lon" : 10.616667 }, 
+	 "title" : "Recent Advances in Partitioning Clustering Algorithms for Interval-Valued Data",
+	 "authors" : ["Francisco de Assis Tenório de Carvalho"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1001260" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1001260" 
+} 
+ 

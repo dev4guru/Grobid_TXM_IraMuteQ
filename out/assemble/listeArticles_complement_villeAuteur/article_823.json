@@ -1,0 +1,13 @@
+{	 "idArt" : "823",
+	 "placeAut" : [ 
+		{ "place" : "Colombes",
+		 "country" : "France",
+		 "location" : { "lat" :  48.9220615, 
+			 "lon" : 2.2533313000000135 } },
+		{ "place" : "Troyes",
+		 "country" : "France",
+		 "location" : { "lat" :  48.2973451, 
+			 "lon" : 4.0744009000000005 } }
+	 ]
+} 
+ 

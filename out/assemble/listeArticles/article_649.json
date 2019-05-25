@@ -1,0 +1,14 @@
+{	 "idArt" : "649",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC ",
+	 "year" : "2008",
+	 "place" : "Sophia Antipolis",
+	 "location" : { "lat" :  43.6163539, 
+		 "lon" : 7.0552218 }, 
+	 "title" : "Structure Inference of Bayesian Networks from Data: A New Approach Based on Generalized Conditional Entropy",
+	 "abstract" : "We propose a novel algorithm for extracting the structure of a Bayesian network from a dataset. Our approach is based on generalized conditional entropies, a parametric family of entropies that extends the usual Shannon conditional entropy. Our results indicate that with an appropriate choice of a generalized conditional entropy we obtain Bayesian networks that have superior scores compared to similar structures obtained by classical inference methods.",
+	 "authors" : ["Dan A. Simovici","Saaid Baraty"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1000621" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1000621" 
+} 
+ 

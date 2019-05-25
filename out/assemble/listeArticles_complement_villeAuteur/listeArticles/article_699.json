@@ -1,0 +1,14 @@
+{	 "idArt" : "699",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2007",
+	 "place" : "Namur",
+	 "location" : { "lat" :  50.4673883, 
+		 "lon" : 4.8719854 }, 
+	 "title" : "Découverte de chroniques à partir de séquences d'événements pour la supervision de processus dynamiques",
+	 "abstract" : "Ce papier adresse le problème de la découverte de connaissances temporelles à partir des données datées, générées par le système de supervision d'un processus de fabrication. Par rapport aux approches existantes qui s'appliquent directement aux données, notre méthode d'extraction des connaissances se base sur un modèle global construit à partir des données. L'approche de modélisation adoptée, dite stochastique, considère les données datées comme une séquence d'occurrences de classes d'événements discrets. Cette séquence est représentée sous les formes duales d'une chaîne de Markov homogène et d'une superposition de processus de Poisson. L'algorithme proposé, appelé BJT4R, permet d'identifier les motifs séquentiels, les plus probables entre deux classes d'événements discrets et les représentent sous la forme de modèles de chroniques. Ce papier présente les premiers résultats de l'application de cet algorithme sur des données générées par un processus de fabrication de semi-conducteur d'un site de production du groupe STMicroelectronics.",
+	 "authors" : ["Nabil Benayadi","Marc Le Goc","Philippe Bouché"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1001389" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1001389" 
+} 
+ 

@@ -1,0 +1,14 @@
+{	 "idArt" : "600",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC ",
+	 "year" : "2008",
+	 "place" : "Sophia Antipolis",
+	 "location" : { "lat" :  43.6163539, 
+		 "lon" : 7.0552218 }, 
+	 "title" : "ExpLSA : utilisation d'informations syntaxico-sémantiques associées à LSA pour améliorer les méthodes de classification conceptuelle",
+	 "abstract" : "L'analyse sémantique latente (LSA - Latent Semantic Analysis) est aujourd'hui utilisée dans de nombreux domaines comme la modélisation cognitive, les applications éducatives mais aussi pour la classification. L'approche présentée dans cet article consiste à ajouter des informations grammaticales à LSA. Différentes méthodes pour exploiter ces informations grammaticales sont étudiées dans le cadre d'une tâche de classification conceptuelle.",
+	 "authors" : ["Nicolas Béchet","Mathieu Roche","Jacques Chauché"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1000658" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1000658" 
+} 
+ 

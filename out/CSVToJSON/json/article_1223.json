@@ -1,0 +1,15 @@
+{
+"idArt": "1223",
+"series": "Revue des Nouvelles Technologies de l'Information",
+"booktitle": "EGC",
+"year": "2017",
+"title": "Interopérabilité sémantique libérale pour les services et les objets",
+"abstract": "Le Web des données promeut l'utilisation de RDF comme modèlepour les données structurées sur le Web. Cependant, la majorité des servicesWeb consomment et exposent principalement du CSV, JSON, ou XML, des formatnon-RDF. Il est peu probable que tous ces services se convertissent un jouraux formats RDF existants. Ceci est d'autant plus vrai dans le contexte du Webdes objets, puisque les formats RDF sont pour la plupart textuels alors que lesobjets contraints préféreront des formats binaires tels que EXI ou CBOR. Danscet article, nous proposons une approche pour permettre l'interopérabilité sémantiquede ces services et objets, tout en leur laissant la liberté d'utiliser leursformats préférés. Notre approche s'ancre sur les principes de l'architecture duWeb et ceux du Web des données liées, et repose sur la définition de PrésentationRDF. En supposant qu'une Présentation RDF soit identifiée par une IRI etdéréférençable sur le Web, nous montrons comment, avec différents protocolesdu Web, un client/serveur peut faire comprendre à l'autre partie comment lecontenu d'une message peut être interprété en RDF, ou généré à partir de RDF.Nous nommons ceci la négociation de Présentation RDF. En utilisant ces principes,nous montrons comment les services et objets existants pourraient êtrerendus interopérables à moindre coût sur le Web Sémantique.",
+"authors": "Maxime Lefrançois",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1002271",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1002271",
+"metaSession": "Syst�mes distribu�s",
+"place": "Grenoble",
+"Latitude": " 45.188564 ",
+"Longitude": "5.724559"
+}

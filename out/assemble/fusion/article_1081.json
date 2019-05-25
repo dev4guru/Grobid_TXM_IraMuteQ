@@ -1,0 +1,22 @@
+{
+"year": "2004",
+"metaSession": "6",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1001124",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1001124",
+"abstract": "Les langages de requêtes mots-clés pour le web manquent souvent de précision lorsqu'il s'agit de rechercher des documents particuliers difficilement caractérisables par de simples mots-clés (exemple : des cours java ou des photos de formule 1). Nous proposons un langage multi-critères de type attribut-valeur pour augmenter la précision de la recherche de documents sur le web.Nous avons expérimentalement montré le gain de précision de la recherche de documents basé sur ce langage.",
+"title": "Recherche ciblée de documents sur le web",
+"placeAut":[{
+"place":"Orsay",
+"country":"France",
+"location":{
+	"lat":"48.697161",
+	"lon":"2.189617"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 45.77722199999999, u'lon': 3.087025}",
+"place": "Clermont-Ferrand",
+"booktitle": "EGC",
+"idArt": "1081",
+"authors": "Amar-Djalil Mezaour"
+}

@@ -1,0 +1,14 @@
+{	 "idArt" : "715",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2007",
+	 "place" : "Namur",
+	 "location" : { "lat" :  50.4673883, 
+		 "lon" : 4.8719854 }, 
+	 "title" : "Génération et enrichissement automatique de listes de patrons de phrases pour les moteurs de questions-réponses",
+	 "abstract" : "Nous utilisons un algorithme d'amorce mutuelle (Riloff et Jones 99), entre des couples de termes d'une relation et des patrons de phrase. À partir de couples d'amorce, le système génère des listes de patrons qui sont ensuite enrichies de façon semi-supervisée, puis utilisées pour trouver de nouveaux couples. Ces couples sont à leur tour réutilisés pour générer, par itérations successives, de nouveaux patrons. L'originalité de l'étude réside dans l'interprétation du rappel, estimé comme la couverture d'un patron sur l'ensemble des exemples auxquels il s'applique",
+	 "authors" : ["Cédric Vidrequin","Juan-Manuel Torres-Moreno","Jean-Jacques Schneider","Marc El-Bèze"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1001363" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1001363" 
+} 
+ 

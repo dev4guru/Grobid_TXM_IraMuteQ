@@ -1,0 +1,22 @@
+{
+"year": "2011",
+"metaSession": "8",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1000997",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1000997",
+"abstract": "Ce papier présente une vue spectrale sur l'approche de l'analyse relationnelle pour la classification des données catégorielles. Il établit d'abord le lien théorique entre l'approche de l'analyse relationnelle et le problème de classification spectrale. En particulier, le problème de classification relationnelle est présenté comme un problème de maximisation de trace, ce problème est donc transformé par la relaxation spectrale en un problème d'optimisation sous contraintes qui peut être résolu par des multiplicateurs de Lagrange, la solution est donnée par un problème de valeurs propres.",
+"title": "Interprétation spectrale de la classification relationnelle",
+"placeAut":[{
+"place":"Villetaneuse",
+"country":"France",
+"location":{
+	"lat":"48.963476",
+	"lon":"2.347354"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 48.390394, u'lon': -4.486076}",
+"place": "Brest",
+"booktitle": "EGC",
+"idArt": "323",
+"authors": "['Lazhar Labiod','Younès Bennani']"
+}

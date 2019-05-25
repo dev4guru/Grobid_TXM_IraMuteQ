@@ -1,0 +1,14 @@
+{	 "idArt" : "775",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2006",
+	 "place" : "Lille",
+	 "location" : { "lat" :  50.62925, 
+		 "lon" : 3.057256 }, 
+	 "title" : "Apprentissage de la structure des réseaux bayésiens à partir des motifs fréquents corrélés : application à l'identification des facteurs environnementaux du cancer du Nasopharynx",
+	 "abstract" : "L'apprentissage de structure des réseaux bayésien à partir de donnéesest un problème NP-difficile pour lequel de nombreuses heuristiques ont été proposées.Dans cet article, nous proposons une nouvelle méthode inspirée des travauxsur la recherche de motifs fréquents corrélés pour identifier les causalitésentre les variables. L'algorithme opère en quatre temps : (1) la découvertepar niveau des motifs fréquents corrélés minimaux ; (2) la construction d'ungraphe non orienté à partir de ces motifs ; (3) la détection des V_structures etl'orientation partielle du graphe ; (4) l'élimination des arêtes superflues par destests d'indépendance conditionnelle. La méthode, appliquée au réseau Asia, permetde retrouver la structure du graphe initial. Nous l'appliquons ensuite auxdonnées d'une étude épidémiologique cas-témoins du cancer du nasopharynx(NPC). L'objectif est de dresser un profil statistique type de la population étudiéeet d'apporter un éclairage utile sur les différents facteurs impliqués dans leNPC.",
+	 "authors" : ["Alexandre Aussem","Zahra Kebaili","Marilys Corbex","Fabien De Marchi"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1000420" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1000420" 
+} 
+ 

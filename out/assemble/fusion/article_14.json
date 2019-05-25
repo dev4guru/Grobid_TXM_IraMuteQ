@@ -1,0 +1,22 @@
+{
+"year": "2015",
+"metaSession": "",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1002114",
+"pdfarticle": "",
+"abstract": "Cet article présente une solution centrée sur les ontologies pour la classification multi-label automatique d'information nécessaire à un système de recommandation d'informations économiques.",
+"title": "Classification multi-label par raisonnement logique pour l'indexation sémantique de documents",
+"placeAut":[{
+"place":"Dijon",
+"country":"France",
+"location":{
+	"lat":"47.322047",
+	"lon":"5.04148"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 49.815273, u'lon': 6.129582999999999}",
+"place": "Luxembourg",
+"booktitle": "EGC",
+"idArt": "14",
+"authors": "['David Werner','Christophe Cruz','Aurélie Bertaux']"
+}

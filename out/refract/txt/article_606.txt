@@ -1,0 +1,1 @@
+Nous présentons dans cet article un nouvel algorithme permettant la construction et la mise à jour incrémentale du FIA : FIASCO. Notre algorithme effectue un seul passage sur les données et permet de prendre en compte les nouveaux batches, itemset par itemset et pour chaque itemset, item par item.

@@ -1,0 +1,22 @@
+{
+"year": "2010",
+"metaSession": "4",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1001273",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1001273",
+"abstract": "La segmentation d'une base client peut avoir différents objectifs etplusieurs segmentation peuvent être utiles pour décrire les clients ou pour s'adapteravec les stratégies commerciales d'une entreprise. Dans ce papier, nous présentonsun schéma expérimental visant à proposer un ensemble de segmentationsalternatives. Ces segmentations sont produites sur des données réelles par latransformation des données initiales, la génération et la sélection de différentessegmentations.",
+"title": "Self-Clustering for Identification of Customer Purchase Behaviours",
+"placeAut":[{
+"place":"Dublin",
+"country":"Ireland",
+"location":{
+	"lat":"53.3498053",
+	"lon":"-6.2603097"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 36.4, u'lon': 10.616667}",
+"place": "Hammamet",
+"booktitle": "EGC",
+"idArt": "467",
+"authors": "['Guillem Lefait','Gilles Goncalves','M. Tahar Kechadi']"
+}

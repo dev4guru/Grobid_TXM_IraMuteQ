@@ -1,0 +1,22 @@
+{
+"year": "2005",
+"metaSession": "5",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1000411",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1000411",
+"abstract": "L'étude de l'expression des gènes est depuis quelques années révolutionnée par les puces à ADN. Les méthodes habituellement mises en oeuvre pour analyser ces données s'appuient sur des algorithmes de partitionnement, comme les clustering hiérarchiques, et sur une hypothèse communément admise qui associe à un ensemble de profils d'expression similaires, une fonction identique. Cette analyse étudie l'ensemble des gènes sans distinction. L'approche que nous proposons deux catégories de gènes : connus ou putatifs. Pour chaque gène n'ayant pas d'information rattachée, nous étudions son voisinage afin d'y trouver des motifs fréquents (itemsets). Ensuite, l'Analyse est guidée par l'interprétation biologique afin de faire émerger des propriétés intéressantes. Un premier jeu de test sur Plasmodium Falciparum (agent de la Malaria) nous a permis de mettre en évidence, en nous intéressant aux items relatifs à la glycolyse, un transporteur de nucléosides qui intervient au niveau énergétique dans la phase ring (précoce) du parasite.",
+"title": "Tendances dans les expressions de gènes :  application à l'analyse du transcriptome  de Plasmodium Falciparum",
+"placeAut":[{
+"place":"Nîmes",
+"country":"France",
+"location":{
+	"lat":"43.836699",
+	"lon":"4.360054"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 48.856614, u'lon': 2.3522219}",
+"place": "Paris",
+"booktitle": "EGC",
+"idArt": "1011",
+"authors": "['Philippe Collet','Vincent Derozier','Gérard Dray','François Trousset','Pascal Poncelet','Michel Crampes']"
+}

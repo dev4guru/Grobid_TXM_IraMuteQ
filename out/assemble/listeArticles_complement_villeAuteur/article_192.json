@@ -1,0 +1,9 @@
+{	 "idArt" : "192",
+	 "placeAut" : [ 
+		{ "place" : "Saint-Félix",
+		 "country" : "France",
+		 "location" : { "lat" :  45.799902, 
+			 "lon" : 5.970933999999943 } }
+	 ]
+} 
+ 

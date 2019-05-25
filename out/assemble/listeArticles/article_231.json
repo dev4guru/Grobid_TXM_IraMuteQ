@@ -1,0 +1,14 @@
+{	 "idArt" : "231",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2012",
+	 "place" : "Bordeaux",
+	 "location" : { "lat" :  44.837789, 
+		 "lon" : -0.57918 }, 
+	 "title" : "Evaluating Bayesian Networks by Sampling with Simplified Assumptions",
+	 "abstract" : "The most common fitness evaluation for Bayesian networks in the presence of data is the Cooper-Herskovitz criterion. This technique involves massive amounts of data and, therefore, expansive computations. We propose a cheaper alternative evaluation method using simplified ssumptions which produces evaluations that are strongly correlated with the Cooper-Herskovitz criterion.",
+	 "authors" : ["Saaid Baraty","Dan A. Simovici"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1001135" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1001135" 
+} 
+ 

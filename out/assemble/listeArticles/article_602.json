@@ -1,0 +1,14 @@
+{	 "idArt" : "602",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC ",
+	 "year" : "2008",
+	 "place" : "Sophia Antipolis",
+	 "location" : { "lat" :  43.6163539, 
+		 "lon" : 7.0552218 }, 
+	 "title" : "Extraction de Motifs Séquentiels Multidimensionnels Clos sans Gestion d'Ensemble de Candidats",
+	 "abstract" : "L'extraction de motifs séquentiels permet de découvrir des corrélations entre événements au cours du temps. Introduisant plusieurs dimensions d'analyse, les motifs séquentiels multidimensionnels permettent de découvrir des motifs plus pertinents. Mais le nombre de motifs obtenus peut devenir très important. C'est pourquoi nous proposons, dans cet article, de définir une représentation condensée garantie sans perte d'information : les motifs séquentiels multidimensionnels clos extraits ici sans gestion d'ensemble de candidats.",
+	 "authors" : ["Marc Plantevit","Anne Laurent","Maguelonne Teisseire"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1000642" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1000642" 
+} 
+ 

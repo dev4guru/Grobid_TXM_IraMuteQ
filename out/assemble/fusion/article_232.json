@@ -1,0 +1,22 @@
+{
+"year": "2012",
+"metaSession": "7",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1001183",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1001183",
+"abstract": "Lors de l'analyse de graphes, il est important de connaître leurs propriétésafin de pouvoir par exemple identifier leur structure et les comparer.Une des caractérisations importante de ces graphes repose sur le fait de déterminers'il s'agit ou non d'un petit monde. Pour ce faire, la valeur du diamètredu graphe est essentielle. Or la mesure du diamètre est pour un très grandgraphe, une opération extrêmement longue. Nous proposons un algorithme endeux phases qui permet d'obtenir rapidement une estimation du diamètre d'ungraphe avec une proportion d'erreur faible. En réduisant cet algorithme à uneseule phase et en acceptant une marge d'erreur plus élevée, nous obtenons uneestimation très rapide du diamètre. Nous testons cet algorithme sur deux grandsgraphes de terrain (plus d'un million de noeuds) et comparons ses performancesavec celles d'un algorithme de référence BFS (Breadth-First Search). Les résultatsobtenus sont décrits et commentés.",
+"title": "Evaluation rapide du diamètre d'un graphe",
+"placeAut":[{
+"place":"Toulouse",
+"country":"France",
+"location":{
+	"lat":"43.604652",
+	"lon":"1.444209"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 44.837789, u'lon': -0.57918}",
+"place": "Bordeaux",
+"booktitle": "EGC",
+"idArt": "232",
+"authors": "['Christian Belbeze','Max Chevalier','Chantal Soulé-Dupuy']"
+}

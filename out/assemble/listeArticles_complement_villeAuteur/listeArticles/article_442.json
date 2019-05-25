@@ -1,0 +1,14 @@
+{	 "idArt" : "442",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2010",
+	 "place" : "Hammamet",
+	 "location" : { "lat" :  36.4, 
+		 "lon" : 10.616667 }, 
+	 "title" : "Le conflit dans la théorie des fonctions de croyance",
+	 "abstract" : "Le conflit apparaît naturellement lorsque plusieurs sources d'informationsimparfaites sont en jeu. La théorie des fonctions de croyance offre unformalisme adapté à la fusion d'informations dans lequel la considération duconflit est centrale. Ce travail propose de revenir sur les différentes définitionsdu conflit dans cette théorie, tentant de les synthétiser et de montrer commentsupprimer ce conflit, ou bien comment en tenir compte lors de la combinaisondes informations.",
+	 "authors" : ["Arnaud Martin"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1001411" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1001411" 
+} 
+ 

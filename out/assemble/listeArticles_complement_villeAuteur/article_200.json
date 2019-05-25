@@ -1,0 +1,13 @@
+{	 "idArt" : "200",
+	 "placeAut" : [ 
+		{ "place" : "Lannion",
+		 "country" : "France",
+		 "location" : { "lat" :  48.732084, 
+			 "lon" : -3.4591440000000375 } },
+		{ "place" : "Cergy Pontoise",
+		 "country" : "France",
+		 "location" : { "lat" :  49.047117, 
+			 "lon" : 2.095950000000016 } }
+	 ]
+} 
+ 

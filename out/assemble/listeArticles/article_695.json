@@ -1,0 +1,14 @@
+{	 "idArt" : "695",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2007",
+	 "place" : "Namur",
+	 "location" : { "lat" :  50.4673883, 
+		 "lon" : 4.8719854 }, 
+	 "title" : "Construction coopérative de carte de thèmes : vers une modélisation de l'activité socio-sémantique",
+	 "abstract" : "Nous présentons dans cette contribution un cadre de modélisation recourant conjointement au modèle Hypertopic (Cahier et al., 2004) pour la représentation des connaissances de domaine et au modèle SeeMe (Herrmann et al., 1999) pour la représentation de l'activité. Ces deux approches apparaissent complémentaires, et nous montrons comment elles peuvent être combinées, pour mieux ancrer, sur les plans formel et méthodologique, les approches de cartographie collective des connaissances.",
+	 "authors" : ["L'Hédi Zaher","Jean-Pierre Cahier","Christophe Lejeune","Manuel Zacklad"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1001304" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1001304" 
+} 
+ 

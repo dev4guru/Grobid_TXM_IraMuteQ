@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/josuah/Bureau/grobid/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="fr">
+		<encodingDesc>
+			<appInfo>
+				<application version="0.5.5-SNAPSHOT" ident="GROBID" when="2019-04-04T12:42+0000">
+					<ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Segmentation comportementale à l&apos;aide des réseaux communautaires</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Gaël</forename><surname>Bardury</surname></persName>
+							<email>gbardury@gmail.com</email>
+							<affiliation key="aff0">
+								<orgName type="laboratory">Laboratoire LAMIA</orgName>
+								<orgName type="institution">Université des Antilles</orgName>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Teddy</forename><surname>Boula</surname></persName>
+							<email>**teddy.boula@gmail.com</email>
+							<affiliation key="aff0">
+								<orgName type="laboratory">Laboratoire LAMIA</orgName>
+								<orgName type="institution">Université des Antilles</orgName>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Segmentation comportementale à l&apos;aide des réseaux communautaires</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<abstract>
+				<p>La mise en place d&apos;actions marketing efficaces passe par la segmenta-tion de la clientèle. C&apos;est-à-dire que les clients sont regroupés en ensembles ho-mogènes en fonction de leurs habitudes de consommation, ce qui rend possible les actions ciblées. Ces dernières, en personnalisant l&apos;offre permettent d&apos;obtenir des taux de transformation plus importants et de meilleures ventes. Dans cet article, une méthode originale de segmentation comportementale de la clientèle est présentée. Elle permet de visualiser les segments de clients à travers des réseaux de communautés et de déceler aisément des mutations soudaines ou graduelles dans les comportements de quelques individus ou d&apos;un ensemble plus important. L&apos;analyste bénéficie alors d&apos;une meilleure visibilité et peut adapter l&apos;offre à tout moment.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="fr">
+	</text>
+</TEI>

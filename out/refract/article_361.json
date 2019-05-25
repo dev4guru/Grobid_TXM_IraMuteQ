@@ -1,0 +1,22 @@
+{
+"year": "2011",
+"metaSession": "3",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1001013",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1001013",
+"abstract": "L'utilisation de règles de classification dans les modèles prédictifs a été très étudiée ces dernières années. La forme simple et interprétable des règles en font des motifs très populaires. Les classifieurs combinant des règles de classification intéressantes (selon une mesure d'intérêt) offrent de bonnes performances de prédictions. Cependant, les performances de ces classifieurs dépendent de la mesure d'intérêt (e.g., confiance, taux d'accroissement, ... ) et du seuillage (non-trivial) de cette mesure pour déterminer les règles pertinentes. De plus, il est facile de montrer que les règles extraites ne sont pas individuellement robustes. Dans cet article, nous proposons un nouveau critère pour évaluer la robustesse des règles de classification dans les données Booléennes. Notre critère est issu d'une approche Bayésienne : nous proposons une expression analytique de la probabilité d'une règle connaissant les données. Ainsi, les règles les plus probables sont robustes. Le critère Bayésien nous permet alors d'identifier (sans paramètre) les règles robustes parmi un ensemble de règles données.",
+"title": "Un critère Bayésien pour évaluer la robustesse des règles de classification",
+"placeAut":[{
+"place":"Lannion",
+"country":"France",
+"location":{
+	"lat":"48.732084",
+	"lon":"-3.459144"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 48.390394, u'lon': -4.486076}",
+"place": "Brest",
+"booktitle": "EGC",
+"idArt": "361",
+"authors": "['Marc Boullé','Dominique Gay']"
+}

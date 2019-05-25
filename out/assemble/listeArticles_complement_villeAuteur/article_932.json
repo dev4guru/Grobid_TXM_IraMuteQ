@@ -1,0 +1,13 @@
+{	 "idArt" : "932",
+	 "placeAut" : [ 
+		{ "place" : "Nouzilly",
+		 "country" : "France",
+		 "location" : { "lat" :  47.543367, 
+			 "lon" : 0.7441549999999779 } },
+		{ "place" : "Paris",
+		 "country" : "France",
+		 "location" : { "lat" :  48.856614, 
+			 "lon" : 2.3522219000000177 } }
+	 ]
+} 
+ 

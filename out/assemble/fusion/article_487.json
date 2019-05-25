@@ -1,0 +1,22 @@
+{
+"year": "2010",
+"metaSession": "3",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1001335",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1001335",
+"abstract": "Une des tâches classiques en fouille de données spatiales est l'extractionde co-localisations intéressantes dans des données géo-référencées. L'objectifest de trouver des sous-ensembles de caractéristiques booléennes apparaissantfréquemment dans des objets spatiaux voisins. Toutefois, les relations découvertespeuvent ne pas être pertinentes pour les experts, et leur interprétation sousforme textuelle peut être difficile. Nous proposons, dans ce contexte, une nouvelleapproche pour intégrer la connaissance des experts dans la découverte desco-localisations, ainsi qu'une nouvelle représentation visuelle de ces motifs. Unprototype a été développé et intégré dans un SIG. Des expérimentations on étémenées sur des données géologiques réelles, et les résultats validés par un expertdu domaine.",
+"title": "Vers une extraction et une visualisation des co-localisations adaptées aux experts",
+"placeAut":[{
+"place":"Nouméa",
+"country":"Nouvelle-Calédonie",
+"location":{
+	"lat":"-22.2758",
+	"lon":"166.458"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 36.4, u'lon': 10.616667}",
+"place": "Hammamet",
+"booktitle": "EGC",
+"idArt": "487",
+"authors": "['Frédéric Flouvat','Nazha Selmaoui-Folcher','Dominique Gay']"
+}

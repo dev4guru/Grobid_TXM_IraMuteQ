@@ -1,0 +1,13 @@
+{	 "idArt" : "32",
+	 "placeAut" : [ 
+		{ "place" : "Luxembourg-Kirchberg",
+		 "country" : "Luxembourg",
+		 "location" : { "lat" :  49.6278694, 
+			 "lon" : 6.153421999999978 } },
+		{ "place" : "Orsay",
+		 "country" : "France",
+		 "location" : { "lat" :  48.697161, 
+			 "lon" : 2.1896169999999984 } }
+	 ]
+} 
+ 

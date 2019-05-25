@@ -1,0 +1,21 @@
+{	 "idArt" : "211",
+	 "placeAut" : [ 
+		{ "place" : "Aubière",
+		 "country" : "France",
+		 "location" : { "lat" :  45.751175, 
+			 "lon" : 3.110678000000007 } },
+		{ "place" : "Madrid",
+		 "country" : "Spain",
+		 "location" : { "lat" :  40.4167754, 
+			 "lon" : -3.7037901999999576 } },
+		{ "place" : "Prague",
+		 "country" : "Czech Republic",
+		 "location" : { "lat" :  50.0755381, 
+			 "lon" : 14.43780049999998 } },
+		{ "place" : "Montpellier",
+		 "country" : "France",
+		 "location" : { "lat" :  43.610769, 
+			 "lon" : 3.8767159999999876 } }
+	 ]
+} 
+ 

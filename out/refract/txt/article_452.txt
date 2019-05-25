@@ -1,0 +1,1 @@
+PretopoLib est une librairie JAVA implémentant les concepts de laprétopologie. Son intérêt réside dans la représentation de structures de donnéespermettant la manipulation des données par des opérations ensemblistes.Celle-ci offre un cadre de développement d'algorithmes efficaces pour la fouillede données, l'apprentissage topologique et la modélisation des systèmes complexes.

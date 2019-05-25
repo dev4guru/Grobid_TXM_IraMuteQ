@@ -1,0 +1,14 @@
+{	 "idArt" : "530",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2009",
+	 "place" : "Strasbourg",
+	 "location" : { "lat" :  48.5734053, 
+		 "lon" : 7.752111299999999 }, 
+	 "title" : "Extraction de motifs fermés dans des relations n-aires bruitées",
+	 "abstract" : "L'extraction de motifs fermés dans des relations binaires a été trèsétudiée. Cependant, de nombreuses relations intéressantes sont n-aires avec n >2 et bruitées (nécessité d'une tolérance aux exceptions). Récemment, ces deuxproblèmes ont été traités indépendamment. Nous introduisons notre propositionpour combiner de telles fonctionnalités au sein d'un même algorithme.",
+	 "authors" : ["Loïc Cerf","Jérémy Besson","Jean-François Boulicaut"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1000748" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1000748" 
+} 
+ 

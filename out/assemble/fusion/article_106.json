@@ -1,0 +1,22 @@
+{
+"year": "2014",
+"metaSession": "",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1001989",
+"pdfarticle": "",
+"abstract": "Nous présentons ici la plate-forme KD-Ariane, un déploiement d'outilspour la fouille de données dans l'environnement de programmation visuelleAriane. Ce déploiement facilite la conception de chaînes structurées de traitementspour l'extraction de connaissance dans les données",
+"title": "Fouille de données par programmation visuelle structurée avec KD-Ariane",
+"placeAut":[{
+"place":"Caen",
+"country":"France",
+"location":{
+	"lat":"49.182863",
+	"lon":"-0.370679"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 48.117266, u'lon': -1.6777926}",
+"place": "Rennes",
+"booktitle": "EGC",
+"idArt": "106",
+"authors": "['Régis Clouard','François Rioult']"
+}

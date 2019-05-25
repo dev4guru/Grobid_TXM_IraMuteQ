@@ -1,0 +1,22 @@
+{
+"year": "2012",
+"metaSession": "2",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1001194",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1001194",
+"abstract": "Ce papier présente un algorithme spectrale pour maximiser le critèrede la modularité étendu à la classification des données catégorielles. Il met enevidence la connexion formelle entre la maximisation de la modularité et la classificationspectrale, il présente en particulier le problème de maximisation de lamodularité sous forme d'un problème algèbrique de maximisation de la trace.Nous développons ensuite un algorithme efficace pour trouver la partition optimalemaximisant le critère de modularité. Les résultats expérimentaux montrentl'efficacité de notre approche",
+"title": "Classification des données catégorielles via la maximisation spectrale de la modularité",
+"placeAut":[{
+"place":"Paris",
+"country":"France",
+"location":{
+	"lat":"48.856614",
+	"lon":"2.3522219"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 44.837789, u'lon': -0.57918}",
+"place": "Bordeaux",
+"booktitle": "EGC",
+"idArt": "218",
+"authors": "['Lazhar Labiod','Younès Bennani']"
+}

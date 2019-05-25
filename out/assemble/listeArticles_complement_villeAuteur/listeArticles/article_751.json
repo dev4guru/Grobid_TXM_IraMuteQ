@@ -1,0 +1,14 @@
+{	 "idArt" : "751",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2007",
+	 "place" : "Namur",
+	 "location" : { "lat" :  50.4673883, 
+		 "lon" : 4.8719854 }, 
+	 "title" : "Une extension de XQuery pour la recherche textuelle d'information dans des documents XML",
+	 "abstract" : "Nous présentons dans cet article une extension de XQuery que nous avons développée pour interroger le contenu et la structure de documents XML. Cette extension consiste à intégrer dans XQuery le langage NEXI, un sous-ensemble de XPath, défini dans le cadre de l'initiative INEX. Notre proposition est double : (i) équiper NEXI d'une sémantique floue, (ii) intégrer NEXI dans XQuery au moyen d'une métafonction appelée nexi, ayant une requête NEXI comme paramètre, et d'une extension de la clause for de l'opérateur FLWOR de XQuery. De plus, nous décrivons le prototype paramétrable que nous avons développé au dessus de deux moteurs XQuery classiques : Galax et Saxon.",
+	 "authors" : ["Jacques Le Maitre","Nicolas Faessel"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1001401" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1001401" 
+} 
+ 

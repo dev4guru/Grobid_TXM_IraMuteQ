@@ -1,0 +1,9 @@
+{	 "idArt" : "918",
+	 "placeAut" : [ 
+		{ "place" : "Marne-la-Vallée",
+		 "country" : "France",
+		 "location" : { "lat" :  48.859276, 
+			 "lon" : 2.598504999999932 } }
+	 ]
+} 
+ 

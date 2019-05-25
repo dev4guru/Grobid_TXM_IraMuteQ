@@ -1,0 +1,14 @@
+{	 "idArt" : "961",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2005",
+	 "place" : "Paris",
+	 "location" : { "lat" :  48.856614, 
+		 "lon" : 2.3522219 }, 
+	 "title" : "Expérimentations sur un modèle de recherche d'information utilisant les liens hypertextes des pages Web",
+	 "abstract" : "La fonction de correspondance, qui permet de sélectionner et de classer les documents par rapport à une requête est un composant essentiel dans tout système de recherche d'information. Nous proposons de modéliser une fonction de correspondance prenant en compte à la fois le contenu et les liens hypertextes des pages Web. Nous avons expérimenté notre système sur la collection de test TREC-9, et nous concluons que pour certains types de requêtes, inclure le texte ancre associé aux liens hypertextes des pages dans la fonction de similarité s'avère plus efficace.",
+	 "authors" : ["Bich-Liên Doan","Idir Chibane"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1000264" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1000264" 
+} 
+ 

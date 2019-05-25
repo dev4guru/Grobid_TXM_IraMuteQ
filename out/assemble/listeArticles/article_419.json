@@ -1,0 +1,14 @@
+{	 "idArt" : "419",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2010",
+	 "place" : "Hammamet",
+	 "location" : { "lat" :  36.4, 
+		 "lon" : 10.616667 }, 
+	 "title" : "Differentes variantes GMM-SMOs pour l'identification du locuteur",
+	 "abstract" : "Dans cet article, nous présentons différentes variantes GMM-SMOs pour l'identification du locuteur en mode indépendant du texte. Pour mettre en oeuvre les différents systèmes, nous avons opté une représentation multi-gaussienne de l'espace des caractéristiques basées sur l'algorithme Expectation Maximisation (EM). Ces nouvelles représentations constituent les vecteurs d'entrés pour entraîner les supports vecteurs machines (SVMs) par l'algorithme de type Optimisation par Minimisation Séquentielle (SMO).",
+	 "authors" : ["Siwar Zribi Boujelbene","Dorra Ben Ayed Mezghanni","Noureddine Ellouze"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1001421" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1001421" 
+} 
+ 

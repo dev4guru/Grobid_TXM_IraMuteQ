@@ -1,0 +1,13 @@
+{	 "idArt" : "469",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2010",
+	 "place" : "Hammamet",
+	 "location" : { "lat" :  36.4, 
+		 "lon" : 10.616667 }, 
+	 "title" : "SIAM: Système d'Indexation des Articles Médicaux",
+	 "authors" : ["Jihen Majdoubi","Mohamed Tmar","Faïez Gargouri"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1001447" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1001447" 
+} 
+ 

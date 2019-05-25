@@ -1,0 +1,9 @@
+{	 "idArt" : "35",
+	 "placeAut" : [ 
+		{ "place" : "Athènes",
+		 "country" : "Grèce",
+		 "location" : { "lat" :  37.983917, 
+			 "lon" : 23.729359899999963 } }
+	 ]
+} 
+ 

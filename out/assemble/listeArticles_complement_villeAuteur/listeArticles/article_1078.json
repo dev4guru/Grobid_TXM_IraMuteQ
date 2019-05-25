@@ -1,0 +1,14 @@
+{	 "idArt" : "1078",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2004",
+	 "place" : "Clermont-Ferrand",
+	 "location" : { "lat" :  45.77722199999999, 
+		 "lon" : 3.087025 }, 
+	 "title" : "PoBOC : un algorithme de ",
+	 "abstract" : "Nous décrivons l'algorithme PoBOC (Pole-Based Overlapping Clustering) qui génère un ensemble de clusters non-disjoints (ou softclusters) présentés sous forme d'une hiérarchie de concepts à partir de la seule matrice de similarités sur les données considérées. Nous évaluons l'approche sur deux situations d'apprentissage : la classification par apprentissage de règles et l'organisation de données plus complexes et peu structurées telles que les données textuelles.La validation des méthodes de clustering est une étape difficile résolue le plus souvent par une évaluation d'experts. Les deux applications proposées permettent de valider la méthode d'organisation selon deux points de vue : d'une part quantitativement en évaluant l'influence de la méthode pour la classification, d'autre part en permettant une analyse humaine du résultat dans le cas des données textuelles. Nous mettons en évidence l'intérêt de PoBOC comparativement à d'autres approches d'apprentissage non-supervisé.",
+	 "authors" : ["Guillaume Cleuziou","Lionel Martin","Christel Vrain"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1001007" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1001007" 
+} 
+ 

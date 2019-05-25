@@ -1,0 +1,22 @@
+{
+"year": "2005",
+"metaSession": "",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1000297",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1000297",
+"abstract": "Data freshness has been identified as one of the most important dataquality attributes in information systems. This importance increases especially inthe context of systems that integrate a large set of autonomous data sources. In thispaper we describe a quality evaluation framework which allows evaluation of datafreshness in different architectural contexts. We also show how this quality factormay impact the reconfiguration of a data integration system to fulfill userexpectations.",
+"title": "Data Freshness Evaluation in Different Application Scenarios",
+"placeAut":[{
+"place":"Versailles",
+"country":"France",
+"location":{
+	"lat":"48.801408",
+	"lon":"2.130122"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 48.856614, u'lon': 2.3522219}",
+"place": "Paris",
+"booktitle": "AEGC",
+"idArt": "882",
+"authors": "['Mokrane Bouzeghoub','Veronika Peralta']"
+}

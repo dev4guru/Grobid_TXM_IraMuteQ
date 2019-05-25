@@ -1,0 +1,22 @@
+{
+"year": "2011",
+"metaSession": "5",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1001009",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1001009",
+"abstract": "Depuis les deux dernières décennies, l'augmentation du nombre de sites d'emploi sur Internet a accentué la nécessité de proposer des outils d'aide à la décision adaptés aux besoins des recruteurs. Cet article présente un système pour la catégorisation des textes d'offres d'emploi destinées à être diffusées sur Internet. Après un pré-traitement adapté des offres, les termes descripteurs sont choisis en fonction de leur pouvoir discriminant vis-à-vis des différentes classes ce qui permet de réduire leur nombre de manière significative. Les offres sont ensuite représentées par leurs coordonnées dans l'espace factoriel obtenu par analyse des correspondances et la classification réalisée dans un cadre supervisé à l'aide de SVM.",
+"title": "Système pour la catégorisation automatique des offres d'emploi en une typologie de fonctions",
+"placeAut":[{
+"place":"Paris",
+"country":"France",
+"location":{
+	"lat":"48.856614",
+	"lon":"2.3522219"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 48.390394, u'lon': -4.486076}",
+"place": "Brest",
+"booktitle": "EGC",
+"idArt": "358",
+"authors": "Julie Séguéla"
+}

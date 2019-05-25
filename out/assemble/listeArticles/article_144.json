@@ -1,0 +1,13 @@
+{	 "idArt" : "144",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2014",
+	 "place" : "Rennes",
+	 "location" : { "lat" :  48.117266, 
+		 "lon" : -1.6777926 }, 
+	 "title" : "Une approcheWeb sémantique et combinatoire pour un système de recommandation sensible au contexte appliqué à l'apprentissage mobile",
+	 "abstract" : "Au vu de l'émergence rapide des nouvelles technologies mobiles et lacroissance des offres et besoins d'une société en mouvement, les travaux se multiplientpour identifier de nouvelles plateformes d'apprentissage pertinentes afind'améliorer et faciliter l'apprentissage à distance. La prochaine étape de l'apprentissageà distance est naturellement le port de l'e-learning (apprentissageélectronique) vers les nouveaux systèmes mobiles. On parle de m-learning (apprentissagemobile). Nos travaux portent sur le développement d'une nouvellearchitecture pour le m-learning dont l'objectif est d'adapter et recommander desparcours de formations selon les contraintes contextuelles de l'apprenant.",
+	 "authors" : ["Fayrouz Soualah Alila","Christophe Nicolle","Florence Mendes"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1001979" 
+} 
+ 

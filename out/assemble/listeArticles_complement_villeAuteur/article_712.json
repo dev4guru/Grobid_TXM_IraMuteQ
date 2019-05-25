@@ -1,0 +1,9 @@
+{	 "idArt" : "712",
+	 "placeAut" : [ 
+		{ "place" : "Sfax",
+		 "country" : "Tunisie",
+		 "location" : { "lat" :  34.733333, 
+			 "lon" : 10.766666999999984 } }
+	 ]
+} 
+ 

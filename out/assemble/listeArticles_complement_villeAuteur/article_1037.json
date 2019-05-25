@@ -1,0 +1,9 @@
+{	 "idArt" : "1037",
+	 "placeAut" : [ 
+		{ "place" : "Massy",
+		 "country" : "France",
+		 "location" : { "lat" :  48.730756, 
+			 "lon" : 2.2713699999999335 } }
+	 ]
+} 
+ 

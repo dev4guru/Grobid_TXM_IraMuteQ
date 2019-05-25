@@ -1,0 +1,1 @@
+Prometteuses en terme de prévention, de dépistage, de diagnostic etd'actions thérapeutiques, les puces à ADN mesurent l'intensité des expressionsde plusieurs milliers de gènes. Dans cet article, nous proposons une nouvelleapproche appelée DEMON, pour extraire des motifs séquentiels à partir de don-nées issues des puces ADN et qui utilise des connaissances du domaine.

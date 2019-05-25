@@ -1,0 +1,22 @@
+{
+"year": "2011",
+"metaSession": "3",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1000927",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1000927",
+"abstract": "Cet article propose une méthode originale d'évaluation de la qualité des motifs en anticipant la manière qui sera utilisée pour les analyser. Nous commençons par introduire le modèle de l'analyse aléatoire d'un ensemble de motifs selon une mesure d'intérêt. Avec ce modèle, nous constatons que l'étude des motifs fréquents avec le support conduit à une analyse déséquilibrée du jeu de données. Afin que chaque transaction reçoive la même attention, nous définissons le support équilibré qui corrige le support classique en pondérant les transactions. Nous proposons alors un algorithme qui calcule ces poids et nous validons expérimentalement son efficacité.",
+"title": "Equilibrer l'analyse des motifs fréquents",
+"placeAut":[{
+"place":"Blois",
+"country":"France",
+"location":{
+	"lat":"47.5860921",
+	"lon":"1.3359475"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 48.390394, u'lon': -4.486076}",
+"place": "Brest",
+"booktitle": "EGC",
+"idArt": "310",
+"authors": "['Arnaud Giacometti','Arnaud Soulet','Patrick Marcel']"
+}

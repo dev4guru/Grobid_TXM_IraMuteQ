@@ -1,0 +1,22 @@
+{
+"year": "2004",
+"metaSession": "0",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1000883",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1000883",
+"abstract": "Cet article développe une extension d'une architecture de médiation pour intégrer le Web sémantique. Plus précisément, XLive est un médiateur tout XML développé à PRiSM. Il permet d'exécuter des XQuery sur des sources de données hétérogènes. Après une rapide présentation de XLive et du Web sémantique, une architecture à trois niveaux d'ontologies et de schémas est introduite pour connecter des adaptateurs pour le Web sémantique. Cette architecture vise à intégrer des sources de type Web service d'information conformément à une ontologie globale de référence. Elle conduit à étendre XLive avec le support de vues, un outil de conception de vues et de mappings, et des adaptateurs pour les Web services.",
+"title": "Mediating the Semantic Web",
+"placeAut":[{
+"place":"Versailles",
+"country":"France",
+"location":{
+	"lat":"48.801408",
+	"lon":"2.130122"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 45.77722199999999, u'lon': 3.087025}",
+"place": "Clermont-Ferrand",
+"booktitle": "EGC",
+"idArt": "1067",
+"authors": "['Georges Gardarin','Tuyet-Tram Dang-Ngoc']"
+}

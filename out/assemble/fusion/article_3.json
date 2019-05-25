@@ -1,0 +1,22 @@
+{
+"year": "2015",
+"metaSession": "3",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1002059",
+"pdfarticle": "",
+"abstract": "Cet article présente une analyse détaillée d'un ensemble de 2 millions de résultats de recherche d'information obtenus par différents paramétrages de systèmes de recherche d'information. Plus spécifiquement, nous avons utilisé la plateforme Terrier et l'interface RunGeneration pour créer différentes exécutions (run en anglais) en modifiant les modèles d'indexation et de recherche. Nous avons ensuite évalué chacun des résultats obtenus selon différentes mesures de performance de recherche d'information. Une analyse systématique a été menée sur ces données afin de déterminer d'une part quels étaient les paramètres qui ont le plus d'influence, d'autre part quels étaient les valeurs de ces paramètres les plus susceptibles de conduire à de bonnes performances du système.",
+"title": "Analyse des paramètres de recherche d'information: Etude de l'influence des paramètres sur les résultats",
+"placeAut":[{
+"place":"Toulouse",
+"country":"France",
+"location":{
+	"lat":"43.604652",
+	"lon":"1.444209"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 49.815273, u'lon': 6.129582999999999}",
+"place": "Luxembourg",
+"booktitle": "EGC",
+"idArt": "3",
+"authors": "['Josiane Mothe','Marion Moulinou']"
+}

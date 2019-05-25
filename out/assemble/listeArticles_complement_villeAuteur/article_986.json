@@ -1,0 +1,13 @@
+{	 "idArt" : "986",
+	 "placeAut" : [ 
+		{ "place" : "Belfort",
+		 "country" : "France",
+		 "location" : { "lat" :  47.63967400000001, 
+			 "lon" : 6.863848999999959 } },
+		{ "place" : "Troyes",
+		 "country" : "France",
+		 "location" : { "lat" :  48.2973451, 
+			 "lon" : 4.0744009000000005 } }
+	 ]
+} 
+ 

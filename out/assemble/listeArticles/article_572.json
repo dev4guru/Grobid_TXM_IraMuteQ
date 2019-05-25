@@ -1,0 +1,14 @@
+{	 "idArt" : "572",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2008",
+	 "place" : "Sophia Antipolis",
+	 "location" : { "lat" :  43.6163539, 
+		 "lon" : 7.0552218 }, 
+	 "title" : "A spatial rough set for extracting the periurban fringe",
+	 "abstract" : "To date the availability of spatial data is increasing together withtechniques and methods adopted in geographical analysis. Despite this tendency,classifying in a sharp way every part of the city is more and more complicated.This is due to the growth of city complexity. Rough Set theory maybe a useful method to employ in combining great amounts of data in order tobuild complex knowledge about territory. It represents a different mathematicalapproach to uncertainty by capturing the indiscernibility. Two differentphenomena can be indiscernible in some contexts and classified in the sameway when combining available information about them. Several experiencesexist in the use of Rough Set theory in data mining, knowledge analysis andapproximate pattern classification, but the spatial component lacks in all theseresearch streams.This paper aims to the use of Rough Set methods in geographical analyses.This approach has been applied in a case of study, comparing the resultsachieved by means of both Map Algebra technique and Spatial Rough set. Thestudy case area, Potenza Province, is particularly suitable for the application ofthis theory, because it includes 100 municipalities with a different number ofinhabitants and morphologic features.",
+	 "authors" : ["Beniamino Murgante","Giuseppe Las Casas","Anna Sansone"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1001234" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1001234" 
+} 
+ 

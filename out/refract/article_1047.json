@@ -1,0 +1,22 @@
+{
+"year": "2004",
+"metaSession": "3",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1001056",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1001056",
+"abstract": "La validation des connaissances extraites d'un processus d'ECD par un expert métier nécessite de filtrer ces connaissances. Pour ce faire, de nombreuses mesures ont été proposées, chacune répondant à des besoins spécifiques. Ces mesures présentent des caractéristiques variées et parfois contradictoires qu'il convient alors d'examiner. Arguant du fait que la sélection des bonnes connaissances passe aussi par l'utilisation d'un ensemble de mesures adaptées au contexte, nous présentons dans cet article une étude expérimentale de différentes mesures. Cette étude est mise en regard d'une étude formelle synthétisant les qualités des mesures.",
+"title": "Étude expérimentale de mesures de qualité de règles d'association",
+"placeAut":[{
+"place":"Brest",
+"country":"France",
+"location":{
+	"lat":"48.390394",
+	"lon":"-4.486076"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 45.77722199999999, u'lon': 3.087025}",
+"place": "Clermont-Ferrand",
+"booktitle": "EGC",
+"idArt": "1047",
+"authors": "['Benoît Vaillant','Philippe Lenca','Stéphane Lallich']"
+}

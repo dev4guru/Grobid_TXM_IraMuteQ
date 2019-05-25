@@ -1,0 +1,22 @@
+{
+"year": "2008",
+"metaSession": "1",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1000668",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1000668",
+"abstract": "Les données constituent l'élément central d'un Système d'Information Géographiques (SIG) et leur coût est souvent élevé en raison de l'investissement substantiel qui permet leur production. Cependant, ces données sont souvent restreintes à un service ou pour une catégorie d'utilisateurs. Ce qui a fait ressortir la nécessité de proposer des moyens d'enrichissement en informations pertinentes pour un nombre plus important d'utilisateurs. Nous présentons dans ce papier notre approche d'enrichissement de données qui se déroule selon trois étapes : une identification de segments et de thèmes associés, une délégation et enfin, un filtrage textuel. Un processus de raffinement est également offert. Notre approche globale a été intégrée à un SIG. Son évaluation a été accomplie montrant ainsi sa performance.",
+"title": "Un processus d'acquisition d'information pour les besoins de l'enrichissement des BDG",
+"placeAut":[{
+"place":"Tunis",
+"country":"Tunisie",
+"location":{
+	"lat":"36.8064948",
+	"lon":"10.1815316"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 43.6163539, u'lon': 7.0552218}",
+"place": "Sophia Antipolis",
+"booktitle": "EGC ",
+"idArt": "657",
+"authors": "['Khaoula Mahmoudi','Sami Faiz']"
+}

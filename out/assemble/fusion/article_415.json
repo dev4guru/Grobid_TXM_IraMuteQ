@@ -1,0 +1,22 @@
+{
+"year": "2010",
+"metaSession": "3",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1001297",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1001297",
+"abstract": "In recent years, the amount of data to process has increased in manyapplication areas such as network monitoring, web click and sensor data analysis. Data stream mining answers to the challenge of massive data processing, this paradigm allows for treating pieces of data on the fly and overcoming data storage. The detection of changes in a data stream distribution is an important issue. This article proposes a new schema of change detection :i) the summarization of the input data stream by a set of micro-clusters;ii) the estimate of the data stream distribution exploiting micro-clusters;iii) the estimate of the divergence between the current estimated distribution and a reference distribution;iv) diagnostic step through the contribution of each predictive variable to the overall divergence between both distributions.Our schema of change detection is applied and evaluated on artificial data streams.",
+"title": "Density estimation on data streams : an application to Change Detection",
+"placeAut":[{
+"place":"Clamart",
+"country":"France",
+"location":{
+	"lat":"48.799815",
+	"lon":"2.257289"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 36.4, u'lon': 10.616667}",
+"place": "Hammamet",
+"booktitle": "EGC",
+"idArt": "415",
+"authors": "['Marie-Luce Picard','Benoît Grossin','Alexis Bondu']"
+}

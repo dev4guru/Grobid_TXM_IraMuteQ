@@ -1,0 +1,15 @@
+{
+"idArt": "1248",
+"series": "Revue des Nouvelles Technologies de l'Information",
+"booktitle": "EGC",
+"year": "2017",
+"title": "Une Approche d'Extraction de Motifs Graduels (Fermés) Fréquents Sous Contrainte de la Temporalité",
+"abstract": "La fouille de motifs graduels a pour but la découverte de co-variationsfréquentes entre attributs numériques dans une base de données. Plusieurs algo-rithmes d'extraction automatique de tels motifs ont été proposés. La principaledifférence entre ces algorithmes réside dans la sémantique de variation considé-rée. Dans certains domaines d'application, on trouve des bases de données dontles objets sont munis d'une relation d'ordre temporel. Ainsi, du fait de leur sé-mantique de variation, les algorithmes de la littérature sont inadaptés pour detelles données. Dans ce contexte, nous proposons une approche de fouille demotifs graduels sous contrainte d'ordre temporel, qui réduit le nombre de motifsgénérés. Une étude expérimentale sur des bases de données paléoécologiquespermet d'apprendre les groupements d'indicateurs qui modélisent l'évolution dela biodiversité. Les connaissances apportées par ces groupements montre l'inté-rêt de notre approche pour le domaine environnemental.",
+"authors": "Jerry Lonlac, Yannick Miras, Aude Beauger, Marie Pailloux, Jean-Luc Peiry , Engelbert Mephu Nguifo",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1002282",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1002282",
+"metaSession": "8",
+"place": "Grenoble",
+"Latitude": " 45.188589 ",
+"Longitude": "5.724584"
+}

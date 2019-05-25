@@ -1,0 +1,9 @@
+{	 "idArt" : "949",
+	 "placeAut" : [ 
+		{ "place" : "Belfort",
+		 "country" : "France",
+		 "location" : { "lat" :  47.63967400000001, 
+			 "lon" : 6.863848999999959 } }
+	 ]
+} 
+ 

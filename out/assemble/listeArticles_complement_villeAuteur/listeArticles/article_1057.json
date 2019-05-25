@@ -1,0 +1,13 @@
+{	 "idArt" : "1057",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2004",
+	 "place" : "Clermont-Ferrand",
+	 "location" : { "lat" :  45.77722199999999, 
+		 "lon" : 3.087025 }, 
+	 "title" : "GVSR : un annuaire de logiciels de manipulation et d'édition de graphes",
+	 "authors" : ["Bruno Pinaud","Pascale Kuntz","Magalie Delépine","Julien Barberet"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1001094" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1001094" 
+} 
+ 

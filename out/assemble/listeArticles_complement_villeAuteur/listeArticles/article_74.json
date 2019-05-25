@@ -1,0 +1,13 @@
+{	 "idArt" : "74",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2014",
+	 "place" : "Rennes",
+	 "location" : { "lat" :  48.117266, 
+		 "lon" : -1.6777926 }, 
+	 "title" : "Apprentissage incrémental anytime d'un classifieur Bayésien naïf pondéré",
+	 "abstract" : "Nous considérons le problème de classification supervisée pour desflux de données présentant éventuellement un très grand nombre de variablesexplicatives. Le classifieur Bayésien naïf se révèle alors simple à calculer etrelativement performant tant que l'hypothèse restrictive d'indépendance des variablesconditionnellement à la classe est respectée. La sélection de variables etle moyennage de modèles sont deux voies connues d'amélioration qui reviennentà déployer un prédicteur Bayésien naïf intégrant une pondération des variablesexplicatives. Dans cet article, nous nous intéressons à l'estimation directe d'untel modèle Bayésien naïf pondéré. Nous proposons une régularisation parcimonieusede la log-vraisemblance du modèle prenant en compte l'informativité dechaque variable. La log-vraisemblance régularisée obtenue étant non convexe,nous proposons un algorithme de gradient en ligne qui post-optimise la solutionobtenue afin de déjouer les minima locaux. Les expérimentations menéess'intéressent d'une part à la qualité de l'optimisation obtenue et d'autre part auxperformances du classifieur en fonction du paramétrage de la régularisation.",
+	 "authors" : ["Carine Hue","Marc Boullé","Vincent Lemaire"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1001939" 
+} 
+ 

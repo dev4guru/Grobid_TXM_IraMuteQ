@@ -1,0 +1,15 @@
+{
+"idArt": "1169",
+"series": "Revue des Nouvelles Technologies de l'Information",
+"booktitle": "EGC",
+"year": "2016",
+"title": "Structures de haies dans un paysage agricole : une étude par chemin de Hilbert adaptatif et chaînes de Markov",
+"abstract": "Dans cet article nous présentons une approche couplant une courberemplissant l'espace et une chaîne de Markov pour analyser des données spatialesconcernant la localisation de haies. Du fait de l'hétérogénéité spatiale desdonnées, nous utilisons une courbe adaptative de Hilbert qui permet de linéariserl'espace en s'ajustant localement à la densité des données. Pour ensuite exploiterla séquence produite, il est nécessaire de caractériser la distance entre un pointet son prédecesseur sur la courbe ainsi que la densité locale. Nous proposonsde calculer un temps d'accès à un point à partir du point précédent en utilisantla notion de profondeur de découpe. Cette variable, couplée avec les variablescaractérisant les haies est ensuite analysée avec un modèle de Markov. Nousprésentons et interprétons les résultats obtenus sur un jeu de données d'environ10000 segments de haies d'une zone de la Basse vallée de la Durance.",
+"authors": "Sébastien Da Silva, Florence Le Ber, Claire Lavigne",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1002179",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1002179",
+"metaSession": "1",
+"place": "Reims",
+"Latitude": " 49.258394 ",
+"Longitude": "4.031761"
+}

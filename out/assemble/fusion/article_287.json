@@ -1,0 +1,22 @@
+{
+"year": "2011",
+"metaSession": "8",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1000937",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1000937",
+"abstract": "La reconnaissance d'entités nommées est une problématique majoritairement traitée par des modèles spécifiés à l'aide de règles ou par apprentissage numérique. Les premiers ont le désavantage d'être coûteux à développer pour obtenir une couverture satisfaisante, les seconds sont souvent difficiles à interpréter par des experts (linguistes). Dans cet article, nous présentons une approche, dont l'objectif est d'extraire des règles symboliques discriminantes qu'un humain puisse consulter. A partir d'un corpus de référence, nous extrayons des règles de transduction, dont seules les plus informatives sont retenues. Elles sont ensuite appliquées pour effectuer une annotation : à cet effet, un algorithme recherche parmi les annotations possibles celles de meilleure qualité en termes de couverture et de probabilité. Nous présentons les résultats expérimentaux et discutons de l'intérêt et des perspectives de notre approche.",
+"title": "Annotation d'entités nommées par extraction de règles de transduction",
+"placeAut":[{
+"place":"Tours",
+"country":"France",
+"location":{
+	"lat":"47.394144",
+	"lon":"0.68484"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 48.390394, u'lon': -4.486076}",
+"place": "Brest",
+"booktitle": "EGC",
+"idArt": "287",
+"authors": "['Arnaud Soulet','Damien Nouvel']"
+}

@@ -1,0 +1,14 @@
+{	 "idArt" : "563",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2009",
+	 "place" : "Strasbourg",
+	 "location" : { "lat" :  48.5734053, 
+		 "lon" : 7.752111299999999 }, 
+	 "title" : "Un nouvel algorithme de forêts aléatoires d'arbres obliques particulièrement adapté à la classification de données en grandes dimensions",
+	 "abstract" : "L'algorithme des forêts aléatoires proposé par Breiman permet d'ob-tenir de bons résultats en fouille de données comparativement à de nombreusesapproches. Cependant, en n'utilisant qu'un seul attribut parmi un sous-ensembled'attributs tiré aléatoirement pour séparer les individus à chaque niveau de l'arbre,cet algorithme perd de l'information. Ceci est particulièrement pénalisant avecles ensembles de données en grandes dimensions où il peut exister de nom-breuses dépendances entre attributs. Nous présentons un nouvel algorithme deforêts aléatoires d'arbres obliques obtenus par des séparateurs à vaste marge(SVM). La comparaison des performances de notre algorithme avec celles del'algorithme de forêts aléatoires des arbres de décision C4.5 et de l'algorithmeSVM montre un avantage significatif de notre proposition.",
+	 "authors" : ["Thanh-Nghi Do","Stéphane Lallich","Nguyen-Khang Pham","Philippe Lenca"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1000741" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1000741" 
+} 
+ 

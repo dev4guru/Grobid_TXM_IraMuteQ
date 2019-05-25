@@ -1,0 +1,17 @@
+{	 "idArt" : "514",
+	 "placeAut" : [ 
+		{ "place" : "Strasbourg",
+		 "country" : "France",
+		 "location" : { "lat" :  48.5734053, 
+			 "lon" : 7.752111300000024 } },
+		{ "place" : "Illkirch",
+		 "country" : "France",
+		 "location" : { "lat" :  48.52854, 
+			 "lon" : 7.711010999999985 } },
+		{ "place" : "Vandoeuvre Lès-Nancy",
+		 "country" : "France",
+		 "location" : { "lat" :  48.66111799999999, 
+			 "lon" : 6.173760000000016 } }
+	 ]
+} 
+ 

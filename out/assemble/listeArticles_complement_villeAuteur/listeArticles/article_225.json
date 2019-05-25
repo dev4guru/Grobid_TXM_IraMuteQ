@@ -1,0 +1,14 @@
+{	 "idArt" : "225",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2012",
+	 "place" : "Bordeaux",
+	 "location" : { "lat" :  44.837789, 
+		 "lon" : -0.57918 }, 
+	 "title" : "Combinaison de classification supervisée et non-supervisée par la théorie des fonctions de croyance",
+	 "abstract" : "Nous proposons dans cet article une nouvelle approche de classificationfondée sur la théorie des fonctions de croyance. Cette méthode repose surla fusion entre la classification supervisée et la classification non supervisée. Eneffet, nous sommes face à un problème de manque de données d'apprentissagepour des applications dont les résultats de classification supervisée et non superviséesont très variables selon les classificateurs employés. Les résultats ainsiobtenus sont par conséquent considérés comme incertains.Notre approche se propose de combiner les résultats des deux types de classificationen exploitant leur complémentarité via la théorie des fonctions de croyance.Celle-ci permet de tenir compte de l'aspect d'incertitude et d'imprécision. Aprèsavoir dresser les différentes étapes de notre nouveau schéma de classification,nous détaillons la fusion de classificateurs. Cette nouvelle approche est appliquéesur des données génériques, issues d'une vingtaine de bases de données.Les résultats obtenus ont montré l'efficacité de l'approche proposée.",
+	 "authors" : ["Fatma Karem","Mounir Dhibi","Arnaud Martin"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1001143" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1001143" 
+} 
+ 

@@ -1,0 +1,22 @@
+{
+"year": "2008",
+"metaSession": "3",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1000626",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1000626",
+"abstract": "En classification basée sur les règles d'association, les itemsets clés sont essentiels : la suppression des itemsets non clés n'affecte pas la précision du classifieur en construction. Ce travail montre que parmi ces itemsets clés, on peut s'intéresser seulement à ceux de petites tailles. Plus loin encore, il étudie une généralisation d'une propriété importante des itemsets non clés et montre que parmi les itemsets clés de petites tailles, il y a ceux qui ne sont pas significatifs pour la classification. Ces itemsets clés sont dits non essentiels. Ils sont définis via un test de 2. Les expériences menées sur les grands jeux de données montrent que l'optimisation par la suppression de ces itemsets est correcte et efficace.",
+"title": "Suppression des Itemsets Clés Non Essentiels en Classification basée sur les Règles d'Association",
+"placeAut":[{
+"place":"Marseille",
+"country":"France",
+"location":{
+	"lat":"43.296482",
+	"lon":"5.36978"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 43.6163539, u'lon': 7.0552218}",
+"place": "Sophia Antipolis",
+"booktitle": "EGC ",
+"idArt": "650",
+"authors": "Viet Phan Luong"
+}

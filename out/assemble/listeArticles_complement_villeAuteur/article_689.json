@@ -1,0 +1,9 @@
+{	 "idArt" : "689",
+	 "placeAut" : [ 
+		{ "place" : "Bruxelles",
+		 "country" : "Belgique",
+		 "location" : { "lat" :  50.8503396, 
+			 "lon" : 4.351710300000036 } }
+	 ]
+} 
+ 

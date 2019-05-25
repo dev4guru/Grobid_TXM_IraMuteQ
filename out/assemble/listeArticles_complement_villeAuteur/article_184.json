@@ -1,0 +1,9 @@
+{	 "idArt" : "184",
+	 "placeAut" : [ 
+		{ "place" : "Evry",
+		 "country" : "France",
+		 "location" : { "lat" :  48.629828, 
+			 "lon" : 2.4417819999999892 } }
+	 ]
+} 
+ 

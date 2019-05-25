@@ -1,0 +1,1 @@
+Nous proposons dans ce travail d'utiliser la flexibilité des modèlesde base de données graphe, et la représentation intuitive du réseau social afinde visuellement explorer, annoter, et vérifier des détections de visages dans unearchive de 15 années de journaux télévisés.

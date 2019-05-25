@@ -1,0 +1,15 @@
+{
+"idArt": "1302",
+"series": "Revue des Nouvelles Technologies de l'Information",
+"booktitle": "EGC",
+"year": "2018",
+"title": "Méta-analyse ordinale d'enquêtes d'opinion Application aux usages de l'Internet des objets en entreprise",
+"abstract": "La multiplicité des enquêtes d'opinion sur un même sujet nécessite la construction de synthèses qui agrègent les résultats obtenus dans des conditions indépendantes. Dans cet article, nous proposons une nouvelle approche ordinale de méta-analyse qui consiste à rechercher un ordre consensus qui rend compte « au mieux » des ordres partiels entre les modalités issus des résultats des différentes enquêtes. Nous modélisons ce problème par une variante d'une recherche d'un ordre médian sur les sommets d'un graphe orienté pondéré et nous développons un algorithme de séparation-évaluation pour le résoudre. Notre approche est appliquée sur un ensemble d'enquêtes internationales portant sur les motivations et les freins à l'intégration de l'Internet des Objets dans les entreprises.",
+"authors": "Rostand Affogbolo, Claire Gauzente, Alain Guénoche, Pascale Kuntz",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1002365",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1002365",
+"metaSession": "8",
+"place": "Paris",
+"Latitude": " 48.8576 ",
+"Longitude": "2.3530"
+}

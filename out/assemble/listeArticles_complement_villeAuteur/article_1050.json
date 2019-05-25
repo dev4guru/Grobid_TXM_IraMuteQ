@@ -1,0 +1,13 @@
+{	 "idArt" : "1050",
+	 "placeAut" : [ 
+		{ "place" : "Jouy-en-Josas",
+		 "country" : "France",
+		 "location" : { "lat" :  48.76454500000001, 
+			 "lon" : 2.169006999999965 } },
+		{ "place" : "Vandoeuvre-lès-Nancy",
+		 "country" : "France",
+		 "location" : { "lat" :  48.66111799999999, 
+			 "lon" : 6.173760000000016 } }
+	 ]
+} 
+ 

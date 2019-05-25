@@ -1,0 +1,22 @@
+{
+"year": "2015",
+"metaSession": "7",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1002099",
+"pdfarticle": "",
+"abstract": "Nous nous intéressons dans ce travail au problème de détection de communautés dans les réseaux multiplexes. Le modèle de réseau multiplexe a été récemment introduit afin de faciliter la modélisation des réseaux multirelationnels, des réseaux dynamiques et/ou des réseaux attribués. Les approches existantes pour la détection de communautés dans ce genre de graphes sont, pour la plupart, basées sur des schémas d'agrégation de couches ou d'agrégation de partitions. Nous proposons ici une nouvelle approche centrée graine qui permet de prendre en compte directement la nature multi-couche d'un réseau multiplexe. Des expérimentations effectuées sur différents réseaux multiplexes montrent que notre approche surpasse les approches de l'état de l'art en termes de qualité des communautés identifiées.",
+"title": "Une approche centrée graine pour la détection de communautés dans les réseaux multiplexes",
+"placeAut":[{
+"place":"Paris",
+"country":"France",
+"location":{
+	"lat":"48.856614",
+	"lon":"2.3522219"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 49.815273, u'lon': 6.129582999999999}",
+"place": "Luxembourg",
+"booktitle": "EGC",
+"idArt": "58",
+"authors": "['Issam Falih','Manel Hmimida','Rushed Kanawati']"
+}

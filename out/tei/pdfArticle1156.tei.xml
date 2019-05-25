@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/josuah/Bureau/grobid/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="fr">
+		<encodingDesc>
+			<appInfo>
+				<application version="0.5.5-SNAPSHOT" ident="GROBID" when="2019-04-04T12:42+0000">
+					<ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Observations sur les distributions latentes aux matrices laplaciennes de graphes</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Pierrick</forename><surname>Bruneau</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">Luxembourg Institute of Science and Technology</orgName>
+								<address>
+									<addrLine>5, avenue des Hauts-Fourneaux</addrLine>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Benoît</forename><surname>Otjacques</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">Luxembourg Institute of Science and Technology</orgName>
+								<address>
+									<addrLine>5, avenue des Hauts-Fourneaux</addrLine>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Observations sur les distributions latentes aux matrices laplaciennes de graphes</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<abstract>
+				<p>L&apos;algorithme de clustering spectral permet en principe d&apos;extraire des clusters de formes arbitraires à partir de données numériques. Cette propriété a contribué à sa popularité, et même si ses bases théoriques sont établies depuis plus d&apos;une décennie, des variantes en ont été proposées jusqu&apos;à récemment. Son fonctionnement repose sur une transformation vers un espace latent dans lequel des formes de clusters arbitraires sont converties en structures faciles à traiter par un algorithme tel que k-means. Toutefois, les distributions dans cet espace latent n&apos;ont été que peu discutées, beaucoup d&apos;auteurs supposant que les pro-priétés prédites par la théorie sont vérifiées. Cet article propose alternativement une approche qualitative pour vérifier si cette structure idéale est effectivement obtenue en pratique. Le travail consiste également à identifier les paramètres de variabilité commandant à la transformation vers l&apos;espace latent, via un état de l&apos;art synthétique de la théorie sous-jacente au clustering spectral. Les observations tirées de nos expériences permettent d&apos;identifier les combinaisons de paramètres efficaces, et les conditions de cette efficacité.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="fr">
+	</text>
+</TEI>

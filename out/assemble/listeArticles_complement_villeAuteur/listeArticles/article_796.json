@@ -1,0 +1,14 @@
+{	 "idArt" : "796",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2006",
+	 "place" : "Lille",
+	 "location" : { "lat" :  50.62925, 
+		 "lon" : 3.057256 }, 
+	 "title" : "Comparaison des mesures d'intérêt de règles d'association : une approche basée sur des graphes de corrélation",
+	 "abstract" : "Le choix des mesures d'intérêt (MI) afin d'évaluer les règles d'associationest devenu une question importante pour le post-traitement des connaissanceen ECD. Dans la littérature, de nombreux auteurs ont discuté et comparéles propriétés des MI afin d'améliorer le choix des meilleures mesures. Cependant,il s'avère que la qualité d'une règle est contextuelle : elle dépend à la fois dela structure de données et des buts du décideur. Ainsi, certaines mesures peuventêtre appropriées dans un certain contexte, mais pas dans d'autres. Dans cet article,nous présentons une nouvelle approche contextuelle mise en applicationpar un nouvel outil, ARQAT, permettant à un décideur d'évaluer et de comparerle comportement des MI sur ses jeux de données spécifiques. Cette approche estbasée sur l'analyse visuelle d'un graphe de corrélation entre des MI objectives.Nous employons ensuite cette approche afin de comparer et de discuter le comportementde trente-six mesures d'intérêt sur deux ensembles de données a prioritrès opposés : un premier dont les données sont fortement corrélées et un secondaux données faiblement corrélées. Alors que nous attendions des différences importantesentre les graphes de corrélation de ces deux jeux d'essai, nous avonspu observer des stabilités de corrélation entre certaines MI qui sont révélatricesde propriétés indépendantes de la nature des données observées. Ces stabilitéssont récapitulées et analysées.",
+	 "authors" : ["Xuan-Hiep Huynh","Fabrice Guillet","Henri Briand"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1000404" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1000404" 
+} 
+ 

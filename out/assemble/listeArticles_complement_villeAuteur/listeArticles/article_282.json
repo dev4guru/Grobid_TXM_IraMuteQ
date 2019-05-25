@@ -1,0 +1,13 @@
+{	 "idArt" : "282",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2011",
+	 "place" : "Brest",
+	 "location" : { "lat" :  48.390394, 
+		 "lon" : -4.486076 }, 
+	 "title" : "Algorithmes de recherche exhaustif et guidé pour la recommandation d'un expert dans un réseau professionnel",
+	 "authors" : ["Maria Malek"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1000970" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1000970" 
+} 
+ 

@@ -1,0 +1,22 @@
+{
+"year": "2012",
+"metaSession": "2",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1001185",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1001185",
+"abstract": "Dans ce papier, nous proposons une étude sur l'utilisation de l'apprentissagetopologique pondéré et les méthodes de factorisation matricielle pourtransformer l'espace de représentation d'un jeu de données sparse afin d'augmenterla qualité de l'apprentissage, et de l'adapter au cas de l'apprentissagepar transfert. La factorisation matricielle nous permet de trouver des variableslatentes et l'apprentissage topologique pondéré est utilisé pour détecter les pluspertinentes parmi celles-ci. La représentation de nouvelles données est basée surleurs projections sur le modèle topologique pondéré.Pour l'apprentissage par transfert, nous proposons une nouvelle méthode où lareprésentation des données est faite de la même manière que dans la premièrephase, mais en utilisant un modèle topologique élagué.Les expérimentations sont présentées dans le cadre d'un Challenge Internationaloù nous avons obtenu des résultats prometteurs (5ieme rang de la compétitioninternationale).1 Introduction",
+"title": "Transformation de l'espace de description pour l'apprentissage par transfert",
+"placeAut":[{
+"place":"Villetaneuse",
+"country":"France",
+"location":{
+	"lat":"48.963476",
+	"lon":"2.347354"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 44.837789, u'lon': -0.57918}",
+"place": "Bordeaux",
+"booktitle": "EGC",
+"idArt": "263",
+"authors": "['Nistor Grozavu','Younès Bennani','Lazhar Labiod']"
+}

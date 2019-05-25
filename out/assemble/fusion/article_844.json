@@ -1,0 +1,22 @@
+{
+"year": "2006",
+"metaSession": "5",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1000434",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1000434",
+"abstract": "",
+"title": "Représentation d'expertise psychologique sous la forme de graphes orientés, codés en RDF",
+"placeAut":[{
+"place":"Nantes",
+"country":"France",
+"location":{
+	"lat":"47.218371",
+	"lon":"-1.553621"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 50.62925, u'lon': 3.057256}",
+"place": "Lille",
+"booktitle": "EGC",
+"idArt": "844",
+"authors": "['Yves Fossé','Stéphane Daviet','Henri Briand','Fabrice Guillet']"
+}

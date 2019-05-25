@@ -1,0 +1,13 @@
+{	 "idArt" : "216",
+	 "placeAut" : [ 
+		{ "place" : "Porto",
+		 "country" : "Portugal",
+		 "location" : { "lat" :  41.1579438, 
+			 "lon" : -8.629105299999992 } },
+		{ "place" : "Gif-sur-Yvette",
+		 "country" : "France",
+		 "location" : { "lat" :  48.701844, 
+			 "lon" : 2.134078000000045 } }
+	 ]
+} 
+ 

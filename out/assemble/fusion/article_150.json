@@ -1,0 +1,22 @@
+{
+"year": "2014",
+"metaSession": "1",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1001991",
+"pdfarticle": "",
+"abstract": "Face à la complexité des nouvelles générations d'images médicales, les processus de recherche d'images basés sur leurs contenus visuels peuvent s'avérer insuffisants. Cet article propose une nouvelle approche basée sur l'annotation des images via des termes sémantiques pouvant pallier ce problème. Elle repose sur la combinaison d'une distance hiérarchique permettant de comparer les images en considérant les corrélations entre les termes utilisés pour les décrire et d'une mesure de similarité permettant d'évaluer la proximité sémantique entre des termes ontologiques. Cette approche est validée dans le cadre de la recherche d'images tomodensitométriques.",
+"title": "Utilisation de relations ontologiques pour la comparaison d'images décrites par des annotations sémantiques",
+"placeAut":[{
+"place":"Paris",
+"country":"France",
+"location":{
+	"lat":"48.856614",
+	"lon":"2.3522219"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 48.117266, u'lon': -1.6777926}",
+"place": "Rennes",
+"booktitle": "EGC",
+"idArt": "150",
+"authors": "['Camille Kurtz','Daniel Rubin']"
+}

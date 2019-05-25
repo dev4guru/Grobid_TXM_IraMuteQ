@@ -1,0 +1,15 @@
+{
+"idArt": "1222",
+"series": "Revue des Nouvelles Technologies de l'Information",
+"booktitle": "EGC",
+"year": "2017",
+"title": "Gestion de Connaissances en Temps Réel depuis des Flux Massifs de Données et Apprentissage Automatique",
+"abstract": "L'analyse en temps-réel de données massives envoyées par des cap-teurs a connu ces dernières années un essor important. Du fait de l'hétérogénéitéde ces données, l'application de modèles de machine learning spécialement ca-librés pour des cas d'usages précis a permis d'extraire et d'inférer des infor-mations de très grandes valeurs. Néanmoins, peu de systèmes proposent uneimplémentation distribuée sur un vrai cluster industriel permettant de tirer profitde capacités de calcul décuplées. Nous présentons ici une démonstration de dé-tection d'anomalie sur réseau souterrain d'eau potable en île-de-France réaliséavec notre plateforme, dénotée WAVES.",
+"authors": "Badre Belabbess, Jérémy Lhez, Olivier Curé",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1002329",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1002329",
+"metaSession": "11",
+"place": "Grenoble",
+"Latitude": " 45.188563 ",
+"Longitude": "5.724558"
+}

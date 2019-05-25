@@ -1,0 +1,22 @@
+{
+"year": "2010",
+"metaSession": "3",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1001265",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1001265",
+"abstract": "Les entrepôts de données occupent aujourd'hui une place centrale dans le processus décisionnel.Outre leur consultation, une des finalités des entrepôts est de servir de socle aux techniquesde fouilles de données. Malheureusement, les approches existantes exploitent peu les particularitésdes entrepôts (multidimensionnalité, hiérarchies et données historiques). Parmi ces méthodes, l'extractionde motifs séquentiels multidimensionnels a récemment été étudiée. Nous montrons dans cetarticle que ces dernières ne tirent pas pleinement profit des hiérarchies et ne découvrent par conséquentqu'une partie seulement des motifs qualitativement intéressants. Nous proposons alors uneméthode d'extraction de motifs séquentiels multidimensionnels basée sur un automate et extrayantde nouveaux motifs. Les différentes expérimentations menées sur des jeux de données synthétiquesattestent des bonnes performances de notre proposition.",
+"title": "SALINES : un automate au service de l'extraction de motifs séquentiels multidimensionnels",
+"placeAut":[{
+"place":"Montpellier",
+"country":"France",
+"location":{
+	"lat":"43.610769",
+	"lon":"3.876716"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 36.4, u'lon': 10.616667}",
+"place": "Hammamet",
+"booktitle": "EGC",
+"idArt": "465",
+"authors": "['Yoann Pitarch','Lionel Vinceslas','Anne Laurent','Pascal Poncelet','Jean-Emile Symphor']"
+}

@@ -1,0 +1,22 @@
+{
+"year": "2011",
+"metaSession": "",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1000964",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1000964",
+"abstract": "",
+"title": "Une Approche à Base de Règles Floues pour les Requêtes à Préférences Contextuelles",
+"placeAut":[{
+"place":"Lannion",
+"country":"France",
+"location":{
+	"lat":"48.732084",
+	"lon":"-3.459144"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 48.390394, u'lon': -4.486076}",
+"place": "Brest",
+"booktitle": "EGC",
+"idArt": "366",
+"authors": "['Olivier Pivert','Amine Mokhtari','Allel HadjAli']"
+}

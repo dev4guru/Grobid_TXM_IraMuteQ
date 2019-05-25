@@ -1,0 +1,22 @@
+{
+"year": "2010",
+"metaSession": "3",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1001305",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1001305",
+"abstract": "L'interrogation de bases de données, dont les dimensions ne cessentde croître, se heurte fréquemment au problème de la gestion des réponses pléthoriques.Une des approches envisageables pour réduire l'ensemble des résultatsretournés et le rendre exploitable est de contraindre la requête initiale parl'ajout de nouvelles conditions. L'approche présentée dans cet article s'appuiesur l'identification de liens de corrélation entre prédicats associés aux attributsde la relation concernée. La requête initiale peut ainsi être intensifiée automatiquementou par validation de l'utilisateur à travers l'ajout de prédicats prochessémantiquement de ceux spécifiés.",
+"title": "Une approche fondée sur la corrélation entre prédicats pour le traitement des réponses pléthoriques",
+"placeAut":[{
+"place":"Lannion",
+"country":"France",
+"location":{
+	"lat":"48.732084",
+	"lon":"-3.459144"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 36.4, u'lon': 10.616667}",
+"place": "Hammamet",
+"booktitle": "EGC",
+"idArt": "479",
+"authors": "['Patrick Bosc','Allel HadjAli','Olivier Pivert','Grégory Smits']"
+}

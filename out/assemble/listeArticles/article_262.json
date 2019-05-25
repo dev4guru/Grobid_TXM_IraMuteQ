@@ -1,0 +1,14 @@
+{	 "idArt" : "262",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2012",
+	 "place" : "Bordeaux",
+	 "location" : { "lat" :  44.837789, 
+		 "lon" : -0.57918 }, 
+	 "title" : "Topological Decomposition and Heuristics for High Speed Clustering of Complex Networks",
+	 "abstract" : "With the exponential growth in the size of data and networks, developmentof new and fast techniques to analyze and explore these networks isbecoming a necessity. Moreover the emergence of scale free and small worldproperties in real world networks has stimulated lots of activity in the field ofnetwork analysis and data mining. Clustering remains a fundamental techniqueto explore and organize these networks. A challenging problem is to find a clusteringalgorithm that works well in terms of clustering quality and is efficient interms of time complexity.In this paper, we propose a fast clustering algorithm which combines someheuristics with a Topological Decomposition to obtain a clustering. The algorithmwhich we call Topological Decomposition and Heuristics for Clustering(TDHC) is highly efficient in terms of asymptotic time complexity as comparedto other existing algorithms in the literature. We also introduce a number ofHeuristics to complement the clustering algorithm which increases the speed ofthe clustering process maintaining the high quality of clustering. We show theeffectiveness of the proposed clustering method on different real world data setsand compare its results with well known clustering algorithms.",
+	 "authors" : ["Faraz Zaidi","Guy Melançon"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1001147" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1001147" 
+} 
+ 

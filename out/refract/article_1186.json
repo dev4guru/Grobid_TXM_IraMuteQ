@@ -1,0 +1,15 @@
+{
+"idArt": "1186",
+"series": "Revue des Nouvelles Technologies de l'Information",
+"booktitle": "EGC",
+"year": "2016",
+"title": "Vers une approche Visual Analytics pour explorer les variantes de sujets d'un corpus",
+"abstract": "Our purpose is to implement a Visual Analytics tool for exploring topic variants in textcorpora. The overlapping bi-clustering methods extract multiple topics from the documents,but the interpretation of the results remains difficult. We make the assumption that bi-clusteroverlaps are articulation points between high-level topics, and their multiple variants and viewpoints.We propose to extract and visualize a hierarchical structure of bi-cluster overlaps, allowingto explore the corpus and to discover unsuspected viewpoints.",
+"authors": "Nicolas Médoc, Mohammad Ghoniem, Mohamed Nadif",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1002220",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1002220",
+"metaSession": "11",
+"place": "Reims",
+"Latitude": " 49.258411 ",
+"Longitude": "4.031778"
+}

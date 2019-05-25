@@ -1,0 +1,15 @@
+{
+"idArt": "1276",
+"series": "Revue des Nouvelles Technologies de l'Information",
+"booktitle": "EGC",
+"year": "2018",
+"title": "Complémentarités de représentations vectorielles pour la similarité sémantique",
+"abstract": "La tâche de similarité sémantique textuelle consiste à exprimer automatiquementun nombre reflétant la similarité sémantique de deux fragmentsde texte. Chaque année depuis 2012, les campagnes de SemEval déroulent cettetâche de similarité sémantique textuelle. Cet article présente une méthode associantdifférentes représentations vectorielles de phrases dans l'objectif d'améliorerles résultats obtenus en similarité sémantique. Notre hypothèse est que différentesreprésentations permettraient de représenter différents aspects sémantiques,et par extension, d'améliorer les similarités calculées, la principale difficultéétant de sélectionner les représentations les plus complémentaires pourcette tâche. Notre système se base sur le système vainqueur de la campagne de2015 ainsi que sur notre méthode de sélection par complémentarité. Les résultatsobtenus viennent confirmer l'intérêt de cette méthode lorsqu'ils sont comparésaux résultats de la campagne de 2016.",
+"authors": "Julien Hay, Tim Van de Cruys, Philippe Muller, Bich-Liên Doan, Fabrice Popineau, Lyes Benamsili",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1002378",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1002378",
+"metaSession": "8",
+"place": "Paris",
+"Latitude": " 48.8550 ",
+"Longitude": "2.3504"
+}

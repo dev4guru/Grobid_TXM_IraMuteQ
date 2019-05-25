@@ -1,0 +1,22 @@
+{
+"year": "2013",
+"metaSession": "2",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1001818",
+"pdfarticle": "",
+"abstract": "Cet article étudie les possibilités d'utilisation d'oubli dans l'apprentissage incrémental en-ligne de classifieurs évolutifs basés sur des systèmes d'inférence floue. Pour cela, nous étudions différentes possibilités, existant dans la littérature dédiée au contrôle, pour introduire de l'oubli dans l'algorithme des moindres carrés récursifs. Nous présentons l'impact de ces différentes techniques dans le contexte de l'apprentissage incrémental de classifieurs évolutifs en environnement non stationnaire. Ces approches sont évaluées, pour l'optimisation des systèmes d'inférence floue, sur la problématique de la reconnaissance de gestes manuscrits sur surface tactile.",
+"title": "Étude des techniques d'oubli dans les moindres carrés récursifs pour l'apprentissage incrémental de systèmes d'inférence floue évolutifs : application à la reconnaissance de formes",
+"placeAut":[{
+"place":"Rennes",
+"country":"France",
+"location":{
+	"lat":"48.117266",
+	"lon":"-1.6777926"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 43.604652, u'lon': 1.444209}",
+"place": "Toulouse",
+"booktitle": "EGC",
+"idArt": "174",
+"authors": "['Manuel Bouillon','Eric Anquetil','Abdullah Almaksour']"
+}

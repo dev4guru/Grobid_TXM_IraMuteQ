@@ -1,0 +1,22 @@
+{
+"year": "2015",
+"metaSession": "4",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1002074",
+"pdfarticle": "",
+"abstract": "Nous considérons une version parcimonieuse de l'analyse en composantes principales probabiliste. La pénalité `1 imposée sur les composantes principales rend leur interprétation plus aisée en ne faisant dépendre ces dernières que d'un nombre restreint de variables initiales. Un algorithme EM, simple de mise en oeuvre, est proposé pour l'estimation des paramètres du modèle. La méthode de l'heuristique de pente est finalement utilisée pour choisir le coefficient de pénalisation.",
+"title": "Un algorithme EM pour une version parcimonieuse de l'analyse en composantes principales probabiliste",
+"placeAut":[{
+"place":"Paris",
+"country":"France",
+"location":{
+	"lat":"48.856614",
+	"lon":"2.3522219"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 49.815273, u'lon': 6.129582999999999}",
+"place": "Luxembourg",
+"booktitle": "EGC",
+"idArt": "55",
+"authors": "['Charles Bouveyron','Julien Jacques']"
+}

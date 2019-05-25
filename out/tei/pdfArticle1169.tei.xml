@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/josuah/Bureau/grobid/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="fr">
+		<encodingDesc>
+			<appInfo>
+				<application version="0.5.5-SNAPSHOT" ident="GROBID" when="2019-04-04T12:42+0000">
+					<ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Structures de haies dans un paysage agricole : une étude par chemin de Hilbert adaptatif et chaînes de Markov</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Sébastien</forename><surname>Da Silva</surname></persName>
+							<email>sebastien.da-silva@loria.fr</email>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Florence</forename><surname>Le Ber</surname></persName>
+							<email>florence.leber@icube.unistra.fr</email>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Claire</forename><surname>Lavigne</surname></persName>
+							<email>claire.lavigne@avignon.inra.fr</email>
+						</author>
+						<author>
+							<affiliation key="aff0">
+								<orgName type="institution">LORIA et INRIA-NGE</orgName>
+								<address>
+									<settlement>Nancy</settlement>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff1">
+								<orgName type="institution" key="instit1">Université de Strasbourg</orgName>
+								<orgName type="institution" key="instit2">ENGEES</orgName>
+								<orgName type="institution" key="instit3">CNRS</orgName>
+								<address>
+									<settlement>Strasbourg</settlement>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff2">
+								<orgName type="institution">INRA UR</orgName>
+								<address>
+									<postCode>1115</postCode>
+									<settlement>Avignon</settlement>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Structures de haies dans un paysage agricole : une étude par chemin de Hilbert adaptatif et chaînes de Markov</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<abstract>
+				<p>Dans cet article nous présentons une approche couplant une courbe remplissant l&apos;espace et une chaîne de Markov pour analyser des données spa-tiales concernant la localisation de haies. Du fait de l&apos;hétérogénéité spatiale des données, nous utilisons une courbe adaptative de Hilbert qui permet de linéariser l&apos;espace en s&apos;ajustant localement à la densité des données. Pour ensuite exploiter la séquence produite, il est nécessaire de caractériser la distance entre un point et son prédecesseur sur la courbe ainsi que la densité locale. Nous proposons de calculer un temps d&apos;accès à un point à partir du point précédent en utilisant la notion de profondeur de découpe. Cette variable, couplée avec les variables caractérisant les haies est ensuite analysée avec un modèle de Markov. Nous présentons et interprétons les résultats obtenus sur un jeu de données d&apos;environ 10000 segments de haies d&apos;une zone de la Basse vallée de la Durance.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="fr">
+	</text>
+</TEI>

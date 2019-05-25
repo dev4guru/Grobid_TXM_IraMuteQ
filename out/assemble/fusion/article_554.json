@@ -1,0 +1,22 @@
+{
+"year": "2009",
+"metaSession": "5",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1000816",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1000816",
+"abstract": "L'application présentée permet de regrouper les définitions de siglesissues des sciences du vivant par des mesures de proximité lexicale (approcheautomatique) et une intervention de l'expert (approche manuelle).",
+"title": "Regroupement des Définitions de Sigles Biomédicaux",
+"placeAut":[{
+"place":"Montpellier",
+"country":"France",
+"location":{
+	"lat":"43.610769",
+	"lon":"3.876716"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 48.5734053, u'lon': 7.752111299999999}",
+"place": "Strasbourg",
+"booktitle": "EGC",
+"idArt": "554",
+"authors": "['Ousmane Djanga','Hanine Hamzioui','Mickaël Hatchi','Isabelle Mougenot','Mathieu Roche']"
+}

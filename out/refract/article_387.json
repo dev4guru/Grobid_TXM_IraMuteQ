@@ -1,0 +1,22 @@
+{
+"year": "2010",
+"metaSession": "1",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1001329",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1001329",
+"abstract": "Structured learning approaches are able to take into account the relationalstructure of data, thus promising an enhancement over non-relationalapproaches. In this paper we explore two document-related tasks in relationaldomains setting, the annotation of semi-structured documents and the citationdeduplication. For both tasks, we report results of comparing relational learningapproach namely Markov logic, to non-relational one namely Support VectorMachines (SVM). We discover that increased complexity due to the relationalsetting is difficult to manage in large scale cases, where non-relational modelsmight perform better. Moreover, our experiments show that in Markov logic,the contribution of its probabilistic component decreases in large scale domains,and it tends to act like First-order logic (FOL).",
+"title": "Applying Markov Logic to Document Annotation and Citation Deduplication",
+"placeAut":[{
+"place":"Meylan",
+"country":"France",
+"location":{
+	"lat":"45.209786",
+	"lon":"5.777628"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 36.4, u'lon': 10.616667}",
+"place": "Hammamet",
+"booktitle": "EGC",
+"idArt": "387",
+"authors": "['Jean Baptiste Faddoul','Boris Chidlovskii']"
+}

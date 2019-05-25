@@ -1,0 +1,13 @@
+{	 "idArt" : "635",
+	 "placeAut" : [ 
+		{ "place" : "Paris",
+		 "country" : "France",
+		 "location" : { "lat" :  48.856614, 
+			 "lon" : 2.3522219000000177 } },
+		{ "place" : "Fontenay-en-Parisis",
+		 "country" : "France",
+		 "location" : { "lat" :  49.05296999999999, 
+			 "lon" : 2.451318899999933 } }
+	 ]
+} 
+ 

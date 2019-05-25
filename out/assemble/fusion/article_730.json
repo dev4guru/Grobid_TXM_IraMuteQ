@@ -1,0 +1,22 @@
+{
+"year": "2007",
+"metaSession": "0",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1001280",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1001280",
+"abstract": "L'objectif de la fouille de données est la découverte sophistiquée de connaissances lisibles, surprenantes et possiblement utiles. Les aspects surprenant et utile font partie de la sémantique et nécessitent l'utilisation des connaissances du domaine, ce qui cause souvent le problème d'acquisition de la connaissance. Notre découverte des règles d'exception simultanée peut être une réponse à ce problème. Nous envisageons de trouver les connaissances surprenantes et possiblement utiles à travers notre forme de paire de règles d'exception. Les autres méthodes inventées concernent l'index d'évaluation et la recherche exhaustive. Plusieurs applications médicales seront présentées sur lesquelles nos propositions ont été appliquées.",
+"title": "Peut-on capturer la sémantique à travers la syntaxe ? - découverte des règles d'exception simultanée",
+"placeAut":[{
+"place":"Kyushu",
+"country":"Japon",
+"location":{
+	"lat":"33.0",
+	"lon":"131.0"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 50.4673883, u'lon': 4.8719854}",
+"place": "Namur",
+"booktitle": "EGC",
+"idArt": "730",
+"authors": "Einoshin Suzuki"
+}

@@ -1,0 +1,17 @@
+{	 "idArt" : "317",
+	 "placeAut" : [ 
+		{ "place" : "Chatenay-Malabry",
+		 "country" : "France",
+		 "location" : { "lat" :  48.771896, 
+			 "lon" : 2.270748000000026 } },
+		{ "place" : "Manouba",
+		 "country" : "Tunisia",
+		 "location" : { "lat" :  36.807778, 
+			 "lon" : 10.101110999999946 } },
+		{ "place" : "Rocquencourt",
+		 "country" : "France",
+		 "location" : { "lat" :  48.837144, 
+			 "lon" : 2.110761899999943 } }
+	 ]
+} 
+ 

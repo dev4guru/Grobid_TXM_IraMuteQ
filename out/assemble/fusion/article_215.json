@@ -1,0 +1,22 @@
+{
+"year": "2012",
+"metaSession": "3",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1001166",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1001166",
+"abstract": "Le biclustering de données numériques est devenu depuis le début desannées 2000 une tâche importante d'analyse de données, particulièrement pourl'étude de données biologiques d'expression de gènes. Un bicluster représenteune association forte entre un ensemble d'objets et un ensemble d'attributs dansune table de données numériques. Les biclusters de valeurs similaires peuventêtre vus comme des sous-tables maximales de valeurs proches. Seules quelquesméthodes se sont penchées sur une extraction complète (i.e. non heuristique),exacte et non redondante de tels motifs, qui reste toujours un problème difficile,tandis qu'aucun cadre théorique fort ne permet leur caractérisation. Dans le présentarticle, nous introduisons des liens importants avec l'analyse formelle deconcepts. Plus particulièrement, nous montrons de manière originale que l'analysede concepts triadiques (TCA) propose un cadre mathématique intéressant etpuissant pour le biclustering de données numériques. De cette manière, les algorithmesexistants de la TCA, qui s'appliquent habituellement à des données binaires,peuvent être utilisés (directement ou après quelques modifications) aprèsun prétraitement des données pour l'extraction désirée.",
+"title": "Caractérisation et extraction de biclusters de valeurs similaires avec l'analyse de concepts triadiques",
+"placeAut":[{
+"place":"Belo Horizonte",
+"country":"Brésil",
+"location":{
+	"lat":"-19.9166813",
+	"lon":"-43.9344931"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 44.837789, u'lon': -0.57918}",
+"place": "Bordeaux",
+"booktitle": "EGC",
+"idArt": "215",
+"authors": "['Mehdi Kaytoue-Uberall','Sergei O. Kuznetsov','Amedeo Napoli','Juraj Macko','Wagner Meira Jr']"
+}

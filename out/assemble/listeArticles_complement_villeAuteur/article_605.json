@@ -1,0 +1,13 @@
+{	 "idArt" : "605",
+	 "placeAut" : [ 
+		{ "place" : "Le Kremlin Bicêtre",
+		 "country" : "France",
+		 "location" : { "lat" :  48.810108, 
+			 "lon" : 2.3569720000000416 } },
+		{ "place" : "Gif-sur-Yvette",
+		 "country" : "France",
+		 "location" : { "lat" :  48.701844, 
+			 "lon" : 2.134078000000045 } }
+	 ]
+} 
+ 

@@ -1,0 +1,22 @@
+{
+"year": "2007",
+"metaSession": "4",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1001436",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1001436",
+"abstract": "Cet article présente un cadre sociotechnique pour le KM. Cette vision sociotechnique du KM permet : (1) d'écarter le KM d'un souci commercial ; (2) faire le clivage des différentes technologies du KM ; et (3) de s'interroger sur les paradigmes associés aux composants social et technique du KM. C'est précisément ce dernier point que cet article développe afin d'identifier les mécanismes génériques du KM. Plus précisément, l'aspect social est décrit à travers l'approche organisationnelle du KM, l'approche managériale du KM, et l'approche biologique du KM, alors que l'aspect technique est décrit à travers l'approche ingénierie des connaissances et compétences du KM. Ces approches nous conduisent aussi à donner un tableau comparatif entre ces visions organisationnelles, managériales et biologiques du KM.",
+"title": "Une approche sociotechnique pour le Knowledge Management (KM)",
+"placeAut":[{
+"place":"Talca",
+"country":"Chile",
+"location":{
+	"lat":"-35.4232444",
+	"lon":"-71.6484804"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 50.4673883, u'lon': 4.8719854}",
+"place": "Namur",
+"booktitle": "EGC",
+"idArt": "749",
+"authors": "Leoncio Jiménez"
+}

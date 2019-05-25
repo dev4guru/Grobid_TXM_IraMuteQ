@@ -1,0 +1,9 @@
+{	 "idArt" : "64",
+	 "placeAut" : [ 
+		{ "place" : "Lyon",
+		 "country" : "France",
+		 "location" : { "lat" :  45.764043, 
+			 "lon" : 4.835658999999964 } }
+	 ]
+} 
+ 

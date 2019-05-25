@@ -1,0 +1,14 @@
+{	 "idArt" : "619",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC ",
+	 "year" : "2008",
+	 "place" : "Sophia Antipolis",
+	 "location" : { "lat" :  43.6163539, 
+		 "lon" : 7.0552218 }, 
+	 "title" : "Le FIA: un nouvel automate permettant l'extraction efficace d'itemsets fréquents dans les flots de données",
+	 "abstract" : "Le FIA (Frequent Itemset Automaton) est un nouvel automate qui permet de traiter de façon efficace la problématique de l'extraction des itemsets fréquents dans les flots de données. Cette structure de données est très compacte et informative, et elle présente également des propriétés incrémentales intéressantes pour les mises à jour avec une granularité très fine. L'algorithme développé pour la mise à jour du FIA effectue un unique passage sur les données qui sont prises en compte tout d'abord par batch (i.e., itemset par itemset), puis pour chaque itemset, item par item. Nous montrons que dans le cadre d'une approche prédictive et par l'intermédiaire de la bordure statistique, le FIA permet d'indexer les itemsets véritablement fréquents du flot en maximisant le rappel et en fournissant à tout moment une information sur la pertinence statistique des itemsets indexés avec la P-valeur.",
+	 "authors" : ["Jean-Emile Symphor","Alban Mancheron","Lionel Vinceslas","Pascal Poncelet"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1000568" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1000568" 
+} 
+ 

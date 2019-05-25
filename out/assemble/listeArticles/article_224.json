@@ -1,0 +1,14 @@
+{	 "idArt" : "224",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2012",
+	 "place" : "Bordeaux",
+	 "location" : { "lat" :  44.837789, 
+		 "lon" : -0.57918 }, 
+	 "title" : "Combinaison de classificateurs simples pour une sélection rapide de caractéristiques",
+	 "abstract" : "La sélection de caractéristiques est une technique permettant de choisirles caractéristiques les plus pertinentes, celles adaptées à la résolution d'unproblème particulier. Les méthodes classiques présentent certains inconvénients.Par exemple, elles peuvent être trop complexes, elles peuvent faire dépendreles caractéristiques sélectionnées du classificateur utilisé, elles risquent de sélectionnerdes caractéristiques redondantes. Dans le but de limiter ces inconvénients,nous proposons dans cet article une nouvelle méthode rapide de sélectionde caractéristiques basée sur la construction et la sélection de classificateurssimples associés à chacune des caractéristiques. Une optimisation par unalgorithme génétique est proposée afin de trouver la meilleure combinaison desclassificateurs. Différentes méthodes de combinaison sont considérées et adaptéesà notre problème. Cette méthode a été appliquée sur différents ensemblesde caractéristiques de tailles variées et construite à partir de la base de chiffresmanuscrits MNIST. Les résultats obtenus montrent la robustesse de l'approcheainsi que l'efficacité de la méthode. En moyenne, le nombre de caractéristiquessélectionnées a diminué de 69,9% tout en conservant le taux de reconnaissance.",
+	 "authors" : ["Hassan Chouaib","Florence Cloppet","Salvatore-Antoine Tabbone","Nicole Vincent"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1001196" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1001196" 
+} 
+ 

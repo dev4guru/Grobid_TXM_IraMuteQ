@@ -1,0 +1,13 @@
+{	 "idArt" : "125",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2014",
+	 "place" : "Rennes",
+	 "location" : { "lat" :  48.117266, 
+		 "lon" : -1.6777926 }, 
+	 "title" : "Passage aux noyaux en classification recouvrante",
+	 "abstract" : "La classification recouvrante correspond à un domaine d'étude très actifces dernières années et dont l'objectif est d'organiser un ensemble de donnéesen groupes d'individus similaires avec la particularité d'autoriser des chevauchementsentre les groupes. Parmi les approches étudiées nous nous intéressonsaux extensions recouvrantes des modèles de type moindres carrés et constatonsles difficultés théoriques et pratiques liées à leur adaptation aux noyaux. Nousformulons alors une nouvelle définition ensembliste pour caractériser un recouvrementde plusieurs classes, nous montrons que cette modélisation permet lerecours aux noyaux et nous proposons une solution algorithmique efficace pourrépondre au problème de la classification recouvrante à noyaux.",
+	 "authors" : ["Guillaume Cleuziou"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1001931" 
+} 
+ 

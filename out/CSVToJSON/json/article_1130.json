@@ -1,0 +1,15 @@
+{
+"idArt": "1130",
+"series": "Revue des Nouvelles Technologies de l'Information",
+"booktitle": "EGC",
+"year": "2016",
+"title": "Exploration des Données du Défi EGC 2016 à l'aide d'un Système d'Information Logique",
+"abstract": "Nous présentons dans cet article les méthodes employées et les résultatsobtenus en réponse au Défi EGC 2016. Notre approche repose d'une partsur des chaînes automatiques de traitements linguistiques en français et en anglaisutilisant le plus possible des ressources et outils publics et d'autre part surun environnement d'exploration des données basé sur les systèmes d'informationlogiques ; ces systèmes exploitent une généralisation des treillis de conceptsformels appliquée aux données attribut-valeur ou au web sémantique.",
+"authors": "Peggy Cellier, Sébastien Ferré, Annie Foret, Olivier Ridoux",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1002198",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1002198",
+"metaSession": "9",
+"place": "Reims",
+"Latitude": " 49.258355 ",
+"Longitude": "4.031722"
+}

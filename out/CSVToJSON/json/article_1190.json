@@ -1,0 +1,15 @@
+{
+"idArt": "1190",
+"series": "Revue des Nouvelles Technologies de l'Information",
+"booktitle": "EGC",
+"year": "2017",
+"title": "Analyse exploratoire de corpus textuels pour le journalisme d'investigation",
+"abstract": "Nous proposons un outil de visualisation analytique conçu pour etavec une journaliste d'investigation pour l'exploration de corpus textuels. Notreoutil combine une technique de biclustering disjoint pour extraire des sujets dehaut niveau, avec une méthode de biclustering non-disjoint pour révéler plus fi-nement les variantes de sujets. Une vue d'ensemble des sujets de haut niveau estproposée sous forme d'une treemap, puis une visualisation hiérarchique radialecoordonnée avec une heatmap permet d'inspecter et de comparer les variantesde sujet et d'accéder aux contenus d'origine à la demande.",
+"authors": "Nicolas Médoc, Mohammad Ghoniem, Mohamed Nadif",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1002328",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1002328",
+"metaSession": "11",
+"place": "Grenoble",
+"Latitude": " 45.188531 ",
+"Longitude": "5.724526"
+}

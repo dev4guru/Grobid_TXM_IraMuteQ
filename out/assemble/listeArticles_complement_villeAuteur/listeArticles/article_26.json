@@ -1,0 +1,13 @@
+{	 "idArt" : "26",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2015",
+	 "place" : "Luxembourg",
+	 "location" : { "lat" :  49.815273, 
+		 "lon" : 6.129582999999999 }, 
+	 "title" : "Etude de La Pertinence lors de La Sélection de Collections dans les Systèmes Distribués",
+	 "abstract" : "This paper presents a new function of collection selection. Our function is free of any extracollection parameter and is based on the documents relevance. The ranking of a collection is proportional to its number of relevant documents.",
+	 "authors" : ["Kheira Mechach","Lougmiri Zekri","Mustapha Kamel Abdi"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1002122" 
+} 
+ 

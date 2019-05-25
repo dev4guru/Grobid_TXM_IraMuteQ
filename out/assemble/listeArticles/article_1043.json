@@ -1,0 +1,14 @@
+{	 "idArt" : "1043",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2004",
+	 "place" : "Clermont-Ferrand",
+	 "location" : { "lat" :  45.77722199999999, 
+		 "lon" : 3.087025 }, 
+	 "title" : "Découverte de régularités pour l'intégration de  données semi structurées",
+	 "abstract" : "Cet article présente l'utilisation d'une technique de fouille de données pour aider à la spécification de vues sur des sources XML. Notre langage de vues permet d'intégrer des données XML provenant de sources hétérogènes. Cependant, la définition de motifs sur les sources permettant de spécifier les données à extraire est souvent difficile, car la structure des données n'est pas toujours connue. Nous proposons d'extraire les structures fréquentes dans les données des sources pour spécifier des motifs pertinents à utiliser dans la spécification des vues.",
+	 "authors" : ["Pierre-Alain Laur","Xavier Baril"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1001139" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1001139" 
+} 
+ 

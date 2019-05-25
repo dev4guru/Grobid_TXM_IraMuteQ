@@ -1,0 +1,14 @@
+{	 "idArt" : "922",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "AEGC",
+	 "year" : "2005",
+	 "place" : "Paris",
+	 "location" : { "lat" :  48.856614, 
+		 "lon" : 2.3522219 }, 
+	 "title" : "Services contextualisés pour utilisateurs et la modélisation des utilisateurs à base d'ontologies : défis et perspectives",
+	 "abstract" : "Il existe un besoin d'outils avancés d'apprentissage sur le Web. Ledéveloppement des nouvelles technologies comme le Web sémantique, lecalcul sur grille et les services web ouvrent de nouvelles perspectives et défispour la conception d'une nouvelle génération de systèmes d'apprentissage.Cette nouvelle génération peut être conçue comme des services distribués,autonomes, contextualisés, services web ou grille. Le papier présente le rôle etles perspectives des nouvelles technologies pour le développement d'unenouvelle génération de services d'apprentissage en s'appuyant sur le modèleutilisateur et sur la modélisation des utilisateurs à base d'ontologies.",
+	 "authors" : ["Liana Razmerita"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1000235" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1000235" 
+} 
+ 

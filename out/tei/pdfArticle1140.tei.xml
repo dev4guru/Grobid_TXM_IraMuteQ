@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/josuah/Bureau/grobid/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="fr">
+		<encodingDesc>
+			<appInfo>
+				<application version="0.5.5-SNAPSHOT" ident="GROBID" when="2019-04-04T12:42+0000">
+					<ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Fusion de données redondantes : une approche explicative</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Fatiha</forename><surname>Saïs</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Rallou</forename><surname>Thomopoulos</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="laboratory">UMR IATE) &amp; INRIA GraphIK</orgName>
+								<address>
+									<addrLine>2 place Viala</addrLine>
+									<postCode>F-34060</postCode>
+									<settlement>Montpellier cedex 1</settlement>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff0">
+								<orgName type="laboratory">LRI (CNRS UMR8623</orgName>
+								<orgName type="institution" key="instit1">Université Paris Sud)</orgName>
+								<orgName type="institution" key="instit2">Université Paris-Saclay</orgName>
+								<address>
+									<addrLine>Bât. 650 Ada Lovelace</addrLine>
+									<postCode>F-91405</postCode>
+									<settlement>Orsay Cedex</settlement>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Fusion de données redondantes : une approche explicative</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<abstract>
+				<p>Nous nous intéressons, dans le cadre du projet ANR Qualinca au trai-tement des données redondantes. Nous supposons dans cet article que cette re-dondance a déjà été établie par une étape préalable de liage de données. La question abordée est la suivante : comment proposer une représentation unique en fusionnant les &quot;duplicats&quot; identifiés ? Plus spécifiquement, comment décider, pour chaque propriété de la donnée considérée, quelle valeur choisir parmi celles figurant dans les &quot;duplicats&quot; à fusionner ? Quelle méthode adopter dans le but de pouvoir, par la suite, retracer et expliquer le résultat obtenu de façon trans-parente et compréhensible par l&apos;utilisateur ? Nous nous appuyons pour cela sur une approche de décision multicritère et d&apos;argumentation.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="fr">
+	</text>
+</TEI>

@@ -1,0 +1,14 @@
+{	 "idArt" : "505",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2009",
+	 "place" : "Strasbourg",
+	 "location" : { "lat" :  48.5734053, 
+		 "lon" : 7.752111299999999 }, 
+	 "title" : "Ciblage des règles d'association intéressantes guidé par les connaissances du décideur",
+	 "abstract" : "L'usage du modèle des règles d'association en fouille de données estlimité par la quantité prohibitive de règles qu'il fournit et nécessite la mise enplace d'une phase de post-traitement efficace afin de cibler les règles les plusutiles. Cet article propose une nouvelle approche intégrant explicitement lesconnaissances du décideur afin de filtrer et cibler les règles intéressantes.",
+	 "authors" : ["Claudia Marinica","Fabrice Guillet"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1000805" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1000805" 
+} 
+ 

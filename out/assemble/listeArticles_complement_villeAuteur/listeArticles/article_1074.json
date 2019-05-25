@@ -1,0 +1,14 @@
+{	 "idArt" : "1074",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2004",
+	 "place" : "Clermont-Ferrand",
+	 "location" : { "lat" :  45.77722199999999, 
+		 "lon" : 3.087025 }, 
+	 "title" : "MUSETTE : a framework for knowledge capture from experience",
+	 "abstract" : "Nous présentons dans cet article une nouvelle approche de modélisation de l'expérience d'utilisation d'un système informatique, avec pour objectif de réutiliser cette expérience en contexte pour assister l'utilisateur à effectuer sa tâche. Quatre scénarios illustrent cette approche.",
+	 "authors" : ["Pierre-Antoine Champin","Yannick Prié","Alain Mille"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1000912" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1000912" 
+} 
+ 

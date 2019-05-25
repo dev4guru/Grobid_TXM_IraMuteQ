@@ -1,0 +1,15 @@
+{
+"idArt": "1172",
+"series": "Revue des Nouvelles Technologies de l'Information",
+"booktitle": "EGC",
+"year": "2016",
+"title": "Topic modeling and hypergraph mining to analyze the EGC conference history",
+"abstract": "Dans le cadre du défi proposé à l'édition 2016 de la conférence EGC, nous exploitons lesarticles qui y ont été publiés de 2004 à 2015, avec pour but d'expliquer sa structure et sonévolution. A partir des thématiques latentes découvertes et d'autres propriétés des articles (e.g.auteurs, affiliations), nous mettons en lumière des caractéristiques intéressantes des structuresthématique et collaborative d'EGC. A l'aide d'une méthode d'extraction d'itemsets dans leshyper-graphes nous mettons aussi en avant des liens latents entre auteurs ou entre thématiques.De plus, nous proposons des recommandations d'auteurs ou de thématiques. Enfin, nous décrivonsune interface Web pour explorer les connaissances découvertes.",
+"authors": "Adrien Guille, Edmundo-Pavel Soriano-Morales, Ciprian-Octavian Truica",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1002191",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1002191",
+"metaSession": "9",
+"place": "Reims",
+"Latitude": " 49.258397 ",
+"Longitude": "4.031764"
+}

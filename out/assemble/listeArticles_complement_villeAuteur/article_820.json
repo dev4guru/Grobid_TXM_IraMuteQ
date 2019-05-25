@@ -1,0 +1,13 @@
+{	 "idArt" : "820",
+	 "placeAut" : [ 
+		{ "place" : "Sète",
+		 "country" : "France",
+		 "location" : { "lat" :  43.4078758, 
+			 "lon" : 3.700821899999937 } },
+		{ "place" : "Versailles",
+		 "country" : "France",
+		 "location" : { "lat" :  48.801408, 
+			 "lon" : 2.1301220000000285 } }
+	 ]
+} 
+ 

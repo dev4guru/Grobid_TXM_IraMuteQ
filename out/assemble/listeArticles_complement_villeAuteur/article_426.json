@@ -1,0 +1,13 @@
+{	 "idArt" : "426",
+	 "placeAut" : [ 
+		{ "place" : "Tunis",
+		 "country" : "France",
+		 "location" : { "lat" :  44.18621400000001, 
+			 "lon" : -0.016406999999958316 } },
+		{ "place" : "Montpellier",
+		 "country" : "France",
+		 "location" : { "lat" :  43.610769, 
+			 "lon" : 3.8767159999999876 } }
+	 ]
+} 
+ 

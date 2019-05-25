@@ -1,0 +1,9 @@
+{	 "idArt" : "355",
+	 "placeAut" : [ 
+		{ "place" : "Cesson-Sévigné",
+		 "country" : "France",
+		 "location" : { "lat" :  48.11947199999999, 
+			 "lon" : -1.6029230000000325 } }
+	 ]
+} 
+ 

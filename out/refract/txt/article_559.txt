@@ -1,0 +1,1 @@
+TAAABLE is a textual case-based reasoning system that, according to requested/forbiddeningredients, dish types and/or dish origins, retrieves cooking recipes. If no recipe satisifies theconstraints, TAAABLE adapts existing recipes by replacing some ingredients by other ones.

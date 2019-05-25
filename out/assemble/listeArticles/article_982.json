@@ -1,0 +1,14 @@
+{	 "idArt" : "982",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2005",
+	 "place" : "Paris",
+	 "location" : { "lat" :  48.856614, 
+		 "lon" : 2.3522219 }, 
+	 "title" : "Manipulation et fusion de données multidimensionnelles",
+	 "abstract" : "Cet article définit une algèbre permettant de manipuler des tables dimensionnelles extraites d'une base de données multidimensionnelles. L'algèbre intègre un noyau minimum d'opérateurs unaires permettant d'effectuer les analyses décisionnelles par combinaison d'opérateurs. Cette algèbre intègre un opérateur binaire permettant la fusion de tables dimensionnelles facilitant les corrélations des sujets analysés.",
+	 "authors" : ["Franck Ravat","Olivier Teste","Gilles Zurfluh"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1000286" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1000286" 
+} 
+ 

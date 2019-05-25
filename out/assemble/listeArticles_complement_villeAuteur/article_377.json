@@ -1,0 +1,9 @@
+{	 "idArt" : "377",
+	 "placeAut" : [ 
+		{ "place" : "Charlotte",
+		 "country" : "USA",
+		 "location" : { "lat" :  35.2270869, 
+			 "lon" : -80.84312669999997 } }
+	 ]
+} 
+ 

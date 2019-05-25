@@ -1,0 +1,14 @@
+{	 "idArt" : "257",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2012",
+	 "place" : "Bordeaux",
+	 "location" : { "lat" :  44.837789, 
+		 "lon" : -0.57918 }, 
+	 "title" : "Sélection Bayésienne de Modèles avec Prior Dépendant des Données",
+	 "abstract" : "Cet article analyse la consistance asymptotique des modèles en grilleappliqués à l'estimation de densité jointe de deux variables catégorielles. Lesmodèles en grille considèrent un partitionnement des valeurs de chacune des variables,le produit Cartésien des partitions formant une grille dont les cellulespermettent de résumer la table de contingence des deux variables. Le meilleurmodèle de co-partitionnement est recherché au moyen d'une approche MAP(maximum a posteriori), présentant la particularité peu orthodoxe d'exploiterune famille de modèles et une distribution a priori de ces modèles qui dépendentdes données. Ces modèles sont par nature des modèles de l'échantillon d'apprentissage,et non de la distribution sous-jacente. Nous démontrons la consistancede l'approche, qui se comporte comme un estimateur universel de densité jointeconvergeant asymptotiquement vers la vraie distribution jointe.",
+	 "authors" : ["Marc Boullé"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1001136" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1001136" 
+} 
+ 

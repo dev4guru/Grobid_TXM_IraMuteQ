@@ -1,0 +1,1 @@
+Nous proposons dans cet article une nouvelle approche croisant destechniques de programmation par contraintes et de fouille pour l'extraction demotifs séquentiels. Le modèle que nous proposons offre un cadre générique etdéclaratif pour modéliser et résoudre des contraintes de nature hétérogène

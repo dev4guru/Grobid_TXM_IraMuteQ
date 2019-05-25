@@ -1,0 +1,9 @@
+{	 "idArt" : "45",
+	 "placeAut" : [ 
+		{ "place" : "Belvaux",
+		 "country" : "Luxembourg",
+		 "location" : { "lat" :  49.5095817, 
+			 "lon" : 5.922117699999944 } }
+	 ]
+} 
+ 

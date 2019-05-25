@@ -1,0 +1,15 @@
+{
+"idArt": "1134",
+"series": "Revue des Nouvelles Technologies de l'Information",
+"booktitle": "EGC",
+"year": "2016",
+"title": "Extraction de commentaires utilisateurs sur le Web",
+"abstract": "Dans cet article, nous présentons CommentsMiner, une solution d'extractionnon supervisée pour l'extraction de commentaires utilisateurs. Notreapproche se base sur une combinaison de techniques de fouille de sous-arbresfréquents, d'extraction de données et d'apprentissage de classement. Nos expérimentationsmontrent que CommentsMiner permet de résoudre le problèmed'extraction de commentaires sur 84% d'un jeu de données représentatif et publiquementaccessible, loin devant les techniques existantes d'extraction.",
+"authors": "Julien Subercaze, Christophe Gravier, Frédérique Laforest",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1002174",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1002174",
+"metaSession": "7",
+"place": "Reims",
+"Latitude": " 49.258359 ",
+"Longitude": "4.031726"
+}

@@ -1,0 +1,13 @@
+{	 "idArt" : "109",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2014",
+	 "place" : "Rennes",
+	 "location" : { "lat" :  48.117266, 
+		 "lon" : -1.6777926 }, 
+	 "title" : "Génération d'un extrait textuel à partir de bases de données",
+	 "abstract" : "Dans ce papier, nous présentons une approche dédiée à la transformationd'une base de données en un extrait textuel. L'idée sous-jacente à notreproposition est d'apporter plus de sémantique aux données de la base. Cet objectifest atteint moyennant l'utilisation des ontologies comme ressources sémantiques.Notre approche prend comme input un ensemble de bases de donnéeset associe à chacune une ontologie. Une ontologie globale est générée, à partirde laquelle des règles d'association sont proposées pour mieux expliciter sasémantique. Enfin, la génération d'un extrait textuel prend lieu.",
+	 "authors" : ["Ghada Landoulsi","Khaoula Mahmoudi","Sami Faiz"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1001971" 
+} 
+ 

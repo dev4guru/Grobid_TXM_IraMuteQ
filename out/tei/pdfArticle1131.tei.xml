@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/josuah/Bureau/grobid/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="fr">
+		<encodingDesc>
+			<appInfo>
+				<application version="0.5.5-SNAPSHOT" ident="GROBID" when="2019-04-04T12:42+0000">
+					<ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Extension de C-SPARQL pour l&apos;échantillonnage de flux de graphes RDF</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Amadou</forename><surname>Fall</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Dia</forename><forename type="middle">*</forename></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Zakia</forename><surname>Kazi-Aoul</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Aliou</forename><surname>Boly</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Yousra</forename><surname>Chabchoub</surname></persName>
+						</author>
+						<author>
+							<affiliation key="aff0">
+								<orgName type="institution">ISEP</orgName>
+								<address>
+									<addrLine>10 rue de Vanves</addrLine>
+									<postCode>92130</postCode>
+									<settlement>ISSY LES MOULINEAUX</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff1">
+								<orgName type="institution">Université Cheikh Anta Diop de Dakar</orgName>
+								<address>
+									<postCode>5005</postCode>
+									<settlement>Dakar-Fann</settlement>
+									<region>BP</region>
+									<country key="SN">Sénégal</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Extension de C-SPARQL pour l&apos;échantillonnage de flux de graphes RDF</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<abstract>
+				<p>Les technologies du web sémantique sont de plus en plus utilisées pour la gestion de flux de données. Plusieurs systèmes de traitement de flux RDF ont été proposés : C-SPARQL, CQELS, SPARQL stream , EP-SPARQL, SPARKWAVE, etc. Ces derniers étendent tous à la base, le langage d&apos;interroga-tion sémantique SPARQL. Les données à l&apos;entrée du système sont volumineuses et générées en continu à un rythme rapide et variable. De ce fait, le stockage et le traitement de la totalité du flux deviennent coûteux et le raisonnement presque impossible. Par conséquent, le recours à des techniques permettant de réduire la charge tout en conservant la sémantique des données, permet d&apos;optimiser les trai-tements voire le raisonnement. Cependant, aucune des extensions de SPARQL n&apos;inclut cette fonctionnalité. Ainsi, dans cet article, nous proposons d&apos;étendre le système C-SPARQL pour générer des échantillons à la volée sur flux de graphes RDF. Nous ajoutons trois opérateurs d&apos;échantillonnage (UNIFORM, RESERVOIR et CHAIN) à la syntaxe de C-SPARQL. Les expérimentations montrent la performance de notre extension en terme de temps d&apos;exécution, et de la préser-vation de la sémantique des données.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="fr">
+	</text>
+</TEI>

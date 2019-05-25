@@ -1,0 +1,9 @@
+{	 "idArt" : "572",
+	 "placeAut" : [ 
+		{ "place" : "Potenza",
+		 "country" : "Italie",
+		 "location" : { "lat" :  40.6404067, 
+			 "lon" : 15.805604099999982 } }
+	 ]
+} 
+ 

@@ -1,0 +1,22 @@
+{
+"year": "2014",
+"metaSession": "3",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1001948",
+"pdfarticle": "",
+"abstract": "Pour atteindre un but, tout agent en compétition élabore inévitablementdes stratégies. Lorsque l'on dispose d'une certaine quantité de traces d'interactionsentre agents, il est naturel d'utiliser la fouille de motifs séquentielspour découvrir de manière automatique ces stratégies. Dans cet article, nous proposonsune méthodologie qui permet l'élicitation de stratégies et leur capacité àdiscriminer une réussite ou un échec. La méthodologie s'articule en trois étapes :(i) les traces brutes sont transformées en une base de séquences selon des choixqui permettent, (ii) l'extraction de stratégies fréquentes, (iii) lesquelles sont muniesd'une mesure originale d'émergence. C'est donc une méthodologie de découvertede connaissances que nous proposons. Nous montrons l'intérêt des motifsextraits et la faisabilité de l'approche à travers des expérimentations quantitativeset qualitatives sur des données réelles issues du domaine émergent dusport électronique.",
+"title": "Fouille de motifs séquentiels pour l'élicitation de stratégies à partir de traces d'interactions entre agents en compétition",
+"placeAut":[{
+"place":"Villers-lès-Nancy",
+"country":"France",
+"location":{
+	"lat":"48.673218",
+	"lon":"6.153496"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 48.117266, u'lon': -1.6777926}",
+"place": "Rennes",
+"booktitle": "EGC",
+"idArt": "107",
+"authors": "['Guillaume Bosc','Mehdi Kaytoue-Uberall','Chedy Raïssi','Jean-François Boulicaut']"
+}

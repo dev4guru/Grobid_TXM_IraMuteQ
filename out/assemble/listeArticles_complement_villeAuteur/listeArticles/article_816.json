@@ -1,0 +1,14 @@
+{	 "idArt" : "816",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2006",
+	 "place" : "Lille",
+	 "location" : { "lat" :  50.62925, 
+		 "lon" : 3.057256 }, 
+	 "title" : "Faire vivre un référentiel métier dans l'industrie : le système de gestion de connaissances ICARE",
+	 "abstract" : "La gestion des connaissances, enjeu majeur pour l'industrie, est entréedans une phase concrète de déploiement. La conjonction d'une maturitédes organisations dans la maîtrise de leur métier, la consolidation de méthodeset les outils évolutifs pour faire vivre un patrimoine de connaissances favorisentl'émergence de projets significatifs et leur diffusion opérationnelle au seinde grands groupes industriels. ICARE chez PSA Peugeot Citroën réalisé avecl'environnement Ardans Knowledge Maker en est ici l'exemple.",
+	 "authors" : ["Alain Berger","Pierre Mariot","Christophe Coppens","Julien Laroque Malbert"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1000450" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1000450" 
+} 
+ 

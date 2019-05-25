@@ -1,0 +1,9 @@
+{	 "idArt" : "984",
+	 "placeAut" : [ 
+		{ "place" : "Lowell",
+		 "country" : "USA",
+		 "location" : { "lat" :  42.6334247, 
+			 "lon" : -71.3161718 } }
+	 ]
+} 
+ 

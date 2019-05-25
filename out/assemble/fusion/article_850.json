@@ -1,0 +1,22 @@
+{
+"year": "2006",
+"metaSession": "1",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1000326",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1000326",
+"abstract": "Dans cet article, nous montrons comment les techniques de fouilles de données peuvent résoudre efficacement le problème de la réécriture de requêtes en termes de vues en présence de contraintes de valeurs. A partir d'une formalisation du problème de la réécriture dans le cadre de la logique de description ALN(Ov), nous montrons comment ce problème se rattache à un cadre de découverte de connaissances dans les bases de données. L'exploitation de ce cadre nous permet de bénéficier de solutions algorithmiques existantes pour la résolution du problème de réécriture. Nous proposons une implémentation de cette approche, puis nous l'expérimentons. Les premiers résultats démontrent l'intérêt d'une telle approche en termes de capacité à traiter un grand nombre de sources de données.",
+"title": "Techniques de fouille de données pour la réécriture de requêtes en présence de contraintes de valeurs",
+"placeAut":[{
+"place":"Clermont-Ferrand",
+"country":"France",
+"location":{
+	"lat":"45.777222",
+	"lon":"3.087025"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 50.62925, u'lon': 3.057256}",
+"place": "Lille",
+"booktitle": "EGC",
+"idArt": "850",
+"authors": "['Hélène Jaudoin','Frédéric Flouvat']"
+}

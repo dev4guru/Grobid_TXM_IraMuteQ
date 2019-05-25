@@ -1,0 +1,13 @@
+{	 "idArt" : "60",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2015",
+	 "place" : "Luxembourg",
+	 "location" : { "lat" :  49.815273, 
+		 "lon" : 6.129582999999999 }, 
+	 "title" : "Une nouvelle formalisation des changements ontologiques composés et complexes",
+	 "abstract" : "L'évolution d'une ontologie est un processus indispensable dans son cycle de vie. Elle est exprimée et définie par des changements ontologiques de différents types : élémentaires, composés et complexes. Les changements complexes et composés sont très utiles dans le sens où ils aident l'utilisateur à adapter son ontologie sans se perdre dans les détails des changements élémentaires. Cependant, ils cachent derrière une formalisation sophistiquée puisqu'ils affectent, à la fois, plusieurs entités ontologiques et peuvent causer des inconsistances à l'ontologie évoluée. Pour adresser cette problématique, cet article présente une nouvelle formalisation des changements ontologiques composés et complexes basée sur les grammaires de graphes typés. Cette formalisation s'appuie sur l'approche algébrique Simple Pushout (SPO) de transformation de graphes et possède deux principaux avantages : (1) fournir une nouvelle formalisation permettant de contrôler les transformations de graphes et éviter les incohérences d'une manière a priori, (2) simplifier la définition des changements composés et complexes en réduisant le nombre de changements élémentaires nécessaires à leur application.",
+	 "authors" : ["Mariem Mahfoudh","Laurent Thiry","Germain Forestier","Michel Hassenforder"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1002087" 
+} 
+ 

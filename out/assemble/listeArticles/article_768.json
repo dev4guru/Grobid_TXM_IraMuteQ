@@ -1,0 +1,14 @@
+{	 "idArt" : "768",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2006",
+	 "place" : "Lille",
+	 "location" : { "lat" :  50.62925, 
+		 "lon" : 3.057256 }, 
+	 "title" : "Affectation pondérée sur des données de type intervalle",
+	 "abstract" : "On s'intéresse à la construction d'arbres de décision sur des données symboliques de type intervalle en utilisant le critère de découpage binaire de Kolmogorov-Smirnov. Nous proposons une approche permettant d'affecter un individu à la fois aux deux noeuds fils générés par le partitionnement d'un noeud non terminal. Le but de cette méthode est de prendre en compte le positionnement de la donnée à classer par rapport à la donnée seuil de coupure.",
+	 "authors" : ["Edwin Diday","Chérif Mballo"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1000373" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1000373" 
+} 
+ 

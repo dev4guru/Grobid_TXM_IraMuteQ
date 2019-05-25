@@ -1,0 +1,9 @@
+{	 "idArt" : "1070",
+	 "placeAut" : [ 
+		{ "place" : "Versailles",
+		 "country" : "France",
+		 "location" : { "lat" :  48.801408, 
+			 "lon" : 2.1301220000000285 } }
+	 ]
+} 
+ 

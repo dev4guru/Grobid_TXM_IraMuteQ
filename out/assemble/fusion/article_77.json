@@ -1,0 +1,22 @@
+{
+"year": "2014",
+"metaSession": "3",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1001952",
+"pdfarticle": "",
+"abstract": "Dans cet article nous nous intéressons aux approches pour l'analysede graphes pouvant évoluer dans le temps et tel qu'un sommet à un temps donnépeut correspondre à plusieurs sommets au temps suivant et où les sommets sontassociés à un ensemble d'attributs catégoriels. Dans ce type de données, nousproposons une nouvelle classe de motifs basée sur des contraintes permettant dedécrire l'évolution de structures homogènes. Ce type d'approche est particulièrementadaptée pour l'analyse d'images multi-résolution sans perte d'information.Nous présentons un résultat qualitatif dans ce domaine.",
+"title": "Approche par motifs pour l'analyse de données multi-résolution",
+"placeAut":[{
+"place":"Nouméa",
+"country":"Nouvelle-Calédonie",
+"location":{
+	"lat":"-22.2758",
+	"lon":"166.458"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 48.117266, u'lon': -1.6777926}",
+"place": "Rennes",
+"booktitle": "EGC",
+"idArt": "77",
+"authors": "['Pierre-Nicolas Mougel','Frédéric Flouvat','Nazha Selmaoui-Folcher']"
+}

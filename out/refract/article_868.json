@@ -1,0 +1,22 @@
+{
+"year": "2006",
+"metaSession": "1",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1000340",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1000340",
+"abstract": "Cet article décrit le projet MEAT (Mémoire d'Expériences pourl'Analyse du Transcriptome) dont le but est d'assister les biologistes travaillantdans le domaine des puces à ADN, pour l'interprétation et la validation de leursrésultats. Nous proposons une aide méthodologique et logicielle pour construireune mémoire d'expériences pour ce domaine. Notre approche, basée surles technologies du web sémantique, repose sur l'utilisation des ontologies etdes annotations sémantiques sur des articles scientifiques et d'autres sourcesde connaissances du domaine. Notre approche peut être généralisée à d'autresdomaines requérant des expérimentations et traitant un grand flux de données(protéomique, chimie,etc.).",
+"title": "Web sémantique pour la mémoire d'expériences d'une communauté scientifique : le projet MEAT",
+"placeAut":[{
+"place":"Sophia Antipolis",
+"country":"France",
+"location":{
+	"lat":"43.6163539",
+	"lon":"7.0552218"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 50.62925, u'lon': 3.057256}",
+"place": "Lille",
+"booktitle": "EGC",
+"idArt": "868",
+"authors": "['Khaled Khelif','Rose Dieng-Kuntz','Pascal Barbry']"
+}

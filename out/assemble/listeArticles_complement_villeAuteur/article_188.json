@@ -1,0 +1,13 @@
+{	 "idArt" : "188",
+	 "placeAut" : [ 
+		{ "place" : "Villetaneuse",
+		 "country" : "France",
+		 "location" : { "lat" :  48.963476, 
+			 "lon" : 2.3473539999999957 } },
+		{ "place" : "Villejuif",
+		 "country" : "France",
+		 "location" : { "lat" :  48.792716, 
+			 "lon" : 2.359279000000015 } }
+	 ]
+} 
+ 

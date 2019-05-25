@@ -1,0 +1,15 @@
+{
+"idArt": "1258",
+"series": "Revue des Nouvelles Technologies de l'Information",
+"booktitle": "EGC",
+"year": "2017",
+"title": "VIPE : un outil interactif de classification multilabel de messages courts",
+"abstract": "Nous présentons un outil interactif de classification multilabel déve-loppé au sein du groupe Orange et utilisé pour l'analyse d'opinions. Basé sur unalgorithme de factorisation rapide de matrice, il permet à un utilisateur d'impor-ter des textes courts (tweets, mails, enquêtes, ...), de définir des labels d'intérêts(« client globalement satisfait », « évoque la rapidité du débit »,...) et de propo-ser pour chaque texte des recommandations de labels et pour chaque label desrecommandations de textes.",
+"authors": "Franck Meyer, Sylvie Tricot, Pascale Kuntz, Wissam Siblini",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1002330",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1002330",
+"metaSession": "11",
+"place": "Grenoble",
+"Latitude": " 45.188599 ",
+"Longitude": "5.724594"
+}

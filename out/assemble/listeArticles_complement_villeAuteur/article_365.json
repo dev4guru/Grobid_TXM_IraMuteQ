@@ -1,0 +1,9 @@
+{	 "idArt" : "365",
+	 "placeAut" : [ 
+		{ "place" : "Oran",
+		 "country" : "Algérie",
+		 "location" : { "lat" :  35.6976541, 
+			 "lon" : -0.6337376000000177 } }
+	 ]
+} 
+ 

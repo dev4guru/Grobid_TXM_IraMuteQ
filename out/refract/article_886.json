@@ -1,0 +1,22 @@
+{
+"year": "2005",
+"metaSession": "",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1000248",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1000248",
+"abstract": "Les systèmes d'apprentissage qui utilisent les TIC peuvent enregistrersous forme électronique de nombreuses données. Ces données peuvent êtrefouillées par des logiciels adéquats pour en retirer des informationspédagogiques. Cet article illustre cette approche en prenant pour exemple leLogic-ITA, un système d'apprentissage pour les preuves formelles en logique.",
+"title": "Extraction d' Information Pédagogique à l'aide de Fouilles de Données: une étude de cas",
+"placeAut":[{
+"place":"Paris",
+"country":"France",
+"location":{
+	"lat":"48.856614",
+	"lon":"2.3522219"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 48.856614, u'lon': 2.3522219}",
+"place": "Paris",
+"booktitle": "AEGC",
+"idArt": "886",
+"authors": "Aghate Merceron"
+}

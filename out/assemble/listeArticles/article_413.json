@@ -1,0 +1,14 @@
+{	 "idArt" : "413",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2010",
+	 "place" : "Hammamet",
+	 "location" : { "lat" :  36.4, 
+		 "lon" : 10.616667 }, 
+	 "title" : "Découverte des dépendances fonctionnelles conditionnelles fréquentes",
+	 "abstract" : "Les Dépendances Fonctionnelles Conditionnelles (DFC) ont été introduitesen 2007 pour le nettoyage des données. Elles peuvent être considéréescomme une unification de Dépendances Fonctionnelles (DF) classiques et deRègles d'Association (RA) puisqu'elles permettent de spécifier des dépendancesmixant des attributs et des couples de la forme attribut/valeur.Dans cet article, nous traitons le problème de la découverte des DFC, i.e. déterminerune couverture de l'ensemble des DFC satisfaites par une relation r. Nousmontrons comment une technique connue pour la découverte des DF (exacteset approximatives) peut être étendue aux DFC. Cette technique a été implémentéeet des expériences ont été menées pour montrer la faisabilité et le passage àl'échelle de notre proposition.",
+	 "authors" : ["Thierno Diallo","Noel Novelli"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1001311" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1001311" 
+} 
+ 

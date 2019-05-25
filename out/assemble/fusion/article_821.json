@@ -1,0 +1,22 @@
+{
+"year": "2006",
+"metaSession": "1",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1000335",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1000335",
+"abstract": "",
+"title": "Gestion de connaissances : Compétences et ressources pédagogiques",
+"placeAut":[{
+"place":"Montréal",
+"country":"Canada",
+"location":{
+	"lat":"45.5016889",
+	"lon":"-73.567256"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 50.62925, u'lon': 3.057256}",
+"place": "Lille",
+"booktitle": "EGC",
+"idArt": "821",
+"authors": "['Olivier Gerbé','Thierno Diarra','Jacques Raynauld']"
+}

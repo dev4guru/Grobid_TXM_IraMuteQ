@@ -1,0 +1,22 @@
+{
+"year": "2005",
+"metaSession": "2",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1000217",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1000217",
+"abstract": "En apprentissage supervisé, la prédiction de la classe est le but ultime. Plus largement, on attend d'une bonne méthodologie d'apprentissage qu'elle permette une représentation des données susceptible de faciliter la navigation de l'utilisateur dans la base d'exemples et d'aider au choix des exemples et des variables pertinents tout en assurant une pré-diction de qualité dont on comprenne les ressorts. Différents travaux ont montré l'aptitude des graphes de voisinage issus des prédicteurs à fonder une telle méthodologie, ainsi le graphe des voisins relatifs de Toussaint. Cependant, la complexité de leur construction, en O(n3), reste élevée. Dans le cas de données volumineuses, nous proposons de substituer aux graphes de voisinage les cartes de Kohonen construites sur les prédicteurs. Après un bref rappel du principe des cartes de Kohonen en apprentissage non supervisé, nous montrons comment celles-ci peuvent fonder une stratégie d'apprentissage optimisée. Nous proposons ensuite d'évaluer la qualité de cette stratégie par une statistique originale qui est étroitement corrélée au taux d'erreur en généralisation. Différentes expérimentations montrent la faisabilité de cette approche. On dispose alors d'un critère fiable pour sélectionner les individus et les attributs pertinents.",
+"title": "Validation statistique des cartes de Kohonen en apprentissage supervisé",
+"placeAut":[{
+"place":"Bron",
+"country":"France",
+"location":{
+	"lat":"45.733316",
+	"lon":"4.911927"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 48.856614, u'lon': 2.3522219}",
+"place": "Paris",
+"booktitle": "EGC",
+"idArt": "1019",
+"authors": "['Elie Prudhomme','Stéphane Lallich']"
+}

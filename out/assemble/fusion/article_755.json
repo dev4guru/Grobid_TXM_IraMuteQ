@@ -1,0 +1,22 @@
+{
+"year": "2007",
+"metaSession": "3",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1001355",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1001355",
+"abstract": "Dans ce papier, une nouvelle plate-forme d'alignement et de visualisation des ontologies, appelée POVA (Prototype OWL-Lite Visual Alignment), est décrite. Le module d'alignement implémente une nouvelle approche d'alignement d'ontologies remédiant au problème de la circularité et de l'intervention de l'utilisateur.",
+"title": "Une nouvelle méthode d'alignement et de visualisation d'ontologies OWL-Lite",
+"placeAut":[{
+"place":"Tunis",
+"country":"Tunisie",
+"location":{
+	"lat":"36.8064948",
+	"lon":"10.1815316"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 50.4673883, u'lon': 4.8719854}",
+"place": "Namur",
+"booktitle": "EGC",
+"idArt": "755",
+"authors": "['Sami Zghal','Karim Kamoun','Sadok Ben Yahia','Engelbert Mephu Nguifo']"
+}

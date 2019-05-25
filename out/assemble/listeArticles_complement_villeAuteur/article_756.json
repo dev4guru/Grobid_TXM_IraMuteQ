@@ -1,0 +1,13 @@
+{	 "idArt" : "756",
+	 "placeAut" : [ 
+		{ "place" : "Nantes",
+		 "country" : "France",
+		 "location" : { "lat" :  47.218371, 
+			 "lon" : -1.553621000000021 } },
+		{ "place" : "Kyushu",
+		 "country" : "Japon",
+		 "location" : { "lat" :  33.0, 
+			 "lon" : 131.0 } }
+	 ]
+} 
+ 

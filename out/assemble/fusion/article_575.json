@@ -1,0 +1,22 @@
+{
+"year": "2008",
+"metaSession": "0",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1000582",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1000582",
+"abstract": "Cet article propose une méthode d'alignement automatique de définitions destinée à améliorer la fusion entre des terminologies spécialisées et un vocabulaire médical généraliste par un classifieur de type SVM (Support Vecteur Machine) et une représentation compacte et pertinente d'un couple de définitions par concaténation d'un ensemble de mesures de similarité, afin de tenir compte de leur complémentarité, auquelle nous ajoutons les longueurs de chacune des définitions. Trois niveaux syntaxiques ont été investigués. Le modèle fondé sur un apprentissage à partir des groupes nominaux de type Noms-Adjectifs aboutit aux meilleures performances.",
+"title": "Apport des traitements morpho-syntaxiques pour l'alignement des définitions par une classification SVM",
+"placeAut":[{
+"place":" Saint-Étienne-du-Rouvray",
+"country":"France",
+"location":{
+	"lat":"49.380305",
+	"lon":"1.108209"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 43.6163539, u'lon': 7.0552218}",
+"place": "Sophia Antipolis",
+"booktitle": "EGC ",
+"idArt": "575",
+"authors": "['Laura Diosan','Alexandrina Rogozan','Jean-Pierre Pécuchet']"
+}

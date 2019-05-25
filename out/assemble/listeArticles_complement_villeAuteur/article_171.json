@@ -1,0 +1,9 @@
+{	 "idArt" : "171",
+	 "placeAut" : [ 
+		{ "place" : "Schlcher",
+		 "country" : "France",
+		 "location" : { "lat" :  14.62, 
+			 "lon" : -61.10000000000002 } }
+	 ]
+} 
+ 

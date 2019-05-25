@@ -1,0 +1,22 @@
+{
+"year": "2011",
+"metaSession": "1",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1000992",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1000992",
+"abstract": "En établissant des relations entre des concepts issus de deux ontologies distinctes, les outils d'alignement peuvent être utilisés pour enrichir une des deux ontologies avec les concepts de l'autre. A partir d'une expérience menée dans le cadre du projet ANR GeOnto 1 dans le domaine de la topographie, cet article identifie des traitements complémentaires à l'alignement pour l'enrichissement et montre leur mise en oeuvre dans TaxoMap Framework.",
+"title": "Utiliser des résultats d'alignement pour enrichir une ontologie",
+"placeAut":[{
+"place":"Orsay",
+"country":"France",
+"location":{
+	"lat":"48.697161",
+	"lon":"2.189617"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 48.390394, u'lon': -4.486076}",
+"place": "Brest",
+"booktitle": "EGC",
+"idArt": "373",
+"authors": "['Fayçal Hamdi','Brigitte Safar','Chantal Reynaud']"
+}

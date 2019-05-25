@@ -1,0 +1,13 @@
+{	 "idArt" : "1017",
+	 "placeAut" : [ 
+		{ "place" : "Bellinzona",
+		 "country" : "Suisse",
+		 "location" : { "lat" :  46.19849440000001, 
+			 "lon" : 9.026917799999978 } },
+		{ "place" : "Genève",
+		 "country" : "Suisse",
+		 "location" : { "lat" :  46.1983922, 
+			 "lon" : 6.142296100000067 } }
+	 ]
+} 
+ 

@@ -1,0 +1,15 @@
+{
+"idArt": "1144",
+"series": "Revue des Nouvelles Technologies de l'Information",
+"booktitle": "EGC",
+"year": "2016",
+"title": "Intégration des Influences Géographique et Temporelle pour la Recommandation de Points d'Intérêt",
+"abstract": "La recommandation de points d'intérêts (ou POI), est devenue un problèmemajeur avec l'émergence des réseaux sociaux (ou LBSN). À la différencedes approches de recommandation traditionnelles, les données des LBSN présententdes caractéristiques géographique et temporelle importantes qui limitentles performances des algorithmes traditionnels existant. L'intégration de ces caractéristiquesdans un unique modèle de factorisation pour augmenter la qualitéde la recommandation n'a pas été un problème très étudié jusqu'à présent. Dansce papier nous présentons GeoMF-TD, une extension d'un modèle de factorisationgéographique avec des dépendances temporelles. Nos expérimentationssur un jeu de données réel montre jusqu'à 20% de gain sur la précision de larecommandation.",
+"authors": "Jean-Benoît Griesner, Talel Abdesssalem, Hubert Naacke",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1002166",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1002166",
+"metaSession": "2",
+"place": "Reims",
+"Latitude": " 49.258369 ",
+"Longitude": "4.031736"
+}

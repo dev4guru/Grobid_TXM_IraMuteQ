@@ -1,0 +1,17 @@
+{	 "idArt" : "889",
+	 "placeAut" : [ 
+		{ "place" : "Bonneuil",
+		 "country" : "France",
+		 "location" : { "lat" :  48.774755, 
+			 "lon" : 2.4877649999999676 } },
+		{ "place" : "Paris",
+		 "country" : "France",
+		 "location" : { "lat" :  48.856614, 
+			 "lon" : 2.3522219000000177 } },
+		{ "place" : "Amiens",
+		 "country" : "France",
+		 "location" : { "lat" :  49.894067, 
+			 "lon" : 2.2957529999999906 } }
+	 ]
+} 
+ 

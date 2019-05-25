@@ -1,0 +1,14 @@
+{	 "idArt" : "654",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC ",
+	 "year" : "2008",
+	 "place" : "Sophia Antipolis",
+	 "location" : { "lat" :  43.6163539, 
+		 "lon" : 7.0552218 }, 
+	 "title" : "Un modèle d'espace vectoriel de concepts pour noyaux sémantiques",
+	 "abstract" : "Les noyaux ont été largement utilisés pour le traitement de données textuelles comme mesure de similarité pour des algorithmes tels que les Séparateurs à VasteMarge (SVM). Le modèle de l'espace vectoriel (VSM) a été amplement utilisé pour la représentation spatiale des documents. Cependant, le VSM est une représentation purement statistique. Dans ce papier, nous présentons un modèle d'espace vectoriel de concepts (CVSM) qui se base sur des connaissances linguistiques a priori pour capturer le sens des documents. Nous proposons aussi un noyau linéaire et un noyau latent pour cet espace. Le noyau linéaire exploite les concepts linguistiques pour l'extraction du sens alors que le noyau latent combine les concepts statistiques et linguistiques. En effet, le noyau latent utilise des concepts latents extraits par l'Analyse Sémantique Latente (LSA) dans le CVSM. Les noyaux sont évalués sur une tâche de catégorisation de texte dans le domaine biomédical. Le corpus Ohsumed, bien connu pour sa difficulté de catégorisation, a été utilisé. Les résultats ont montré que les performances de catégorisation sont améliorées dans le CSVM.",
+	 "authors" : ["Sujeevan Aseervatham"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1000659" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1000659" 
+} 
+ 

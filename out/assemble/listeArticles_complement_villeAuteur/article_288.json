@@ -1,0 +1,9 @@
+{	 "idArt" : "288",
+	 "placeAut" : [ 
+		{ "place" : "Troyes",
+		 "country" : "France",
+		 "location" : { "lat" :  48.2973451, 
+			 "lon" : 4.0744009000000005 } }
+	 ]
+} 
+ 

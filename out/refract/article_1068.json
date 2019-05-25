@@ -1,0 +1,22 @@
+{
+"year": "2004",
+"metaSession": "3",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1001035",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1001035",
+"abstract": "La validation des connaissances est l'une des étapes les plus problématiques d'un processus de découverte de règles d'association. Pour que le décideur (expert des données) puisse trouver des connaissances intéressantes dans les grandes quantités de règles produites par les algorithmes de fouille de données, il est nécessaire de mesurer la qualité des règles. Nous insérant dans le cadre de l'analyse statistique implicative, nous proposons dans cet article d'évaluer les règles en considérant leur contenu informationnel à travers un nouvel indice de qualité fondé sur l'entropie de Shannon : TIC (Taux Informationnel modulé par la Contraposée). Cet indice a l'avantage d'être bien adapté à la sémantique des règles, puisque d'une part il respecte leur caractère asymétrique et d'autre part il tire profit de leurs contraposées. Par ailleurs, c'est à notre connaissance la seule mesure de qualité de règles qui intègre à la fois indépendance et déséquilibre, c'est-à-dire qui permette de rejeter simultanément les règles entre variables corrélées négativement et les règles qui possèdent plus de contre-exemples que d'exemples. Des comparaisons de TIC avec la J-mesure, l'information mutuelle, l'indice de Gini, et la confiance sont réalisées sur des simulations numériques.",
+"title": "Mesurer la qualité des règles et de leurs contraposées avec le taux informationnel TIC",
+"placeAut":[{
+"place":"Nantes",
+"country":"France",
+"location":{
+	"lat":"47.218371",
+	"lon":"-1.553621"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 45.77722199999999, u'lon': 3.087025}",
+"place": "Clermont-Ferrand",
+"booktitle": "EGC",
+"idArt": "1068",
+"authors": "['Julien Blanchard','Fabrice Guillet','Régis Gras','Henri Briand']"
+}

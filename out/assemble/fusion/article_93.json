@@ -1,0 +1,22 @@
+{
+"year": "2014",
+"metaSession": "8",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1001922",
+"pdfarticle": "",
+"abstract": "Un des défis actuels dans le domaine de la classification supervisée dedocuments est de pouvoir produire un modèle fiable à partir d'un faible volumede données. Avec un volume conséquent de données, les classifieurs fournissentdes résultats satisfaisants mais les performances sont dégradées lorsque celui-cidiminue. Nous proposons, dans cet article, de nouvelles méthodes de pondérationsrésistant à une diminution du volume de données. Leur efficacité, évaluéeen utilisant des algorithmes de classification supervisés existants (Naive Bayeset Class-Feature-Centroid) sur deux corpus différents, est supérieure à celle desautres algorithmes lorsque le nombre de descripteurs diminue. Nous avons étudiéen parallèle les paramètres influençant les différentes approches telles que lenombre de classes, de documents ou de descripteurs.",
+"title": "De nouvelles pondérations adaptées à la classification de petits volumes de données textuelles",
+"placeAut":[{
+"place":"Aimargues",
+"country":"France",
+"location":{
+	"lat":"43.6850809",
+	"lon":"4.208849"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 48.117266, u'lon': -1.6777926}",
+"place": "Rennes",
+"booktitle": "EGC",
+"idArt": "93",
+"authors": "['Flavien Bouillot','Pascal Poncelet','Mathieu Roche']"
+}

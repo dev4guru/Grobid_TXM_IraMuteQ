@@ -1,0 +1,17 @@
+{	 "idArt" : "68",
+	 "placeAut" : [ 
+		{ "place" : "Lyon",
+		 "country" : "France",
+		 "location" : { "lat" :  45.764043, 
+			 "lon" : 4.835658999999964 } },
+		{ "place" : "Rennes",
+		 "country" : "France",
+		 "location" : { "lat" :  48.117266, 
+			 "lon" : -1.6777925999999752 } },
+		{ "place" : "Martigny",
+		 "country" : "Suisse",
+		 "location" : { "lat" :  46.1025948, 
+			 "lon" : 7.077055100000052 } }
+	 ]
+} 
+ 

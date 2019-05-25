@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/josuah/Bureau/grobid/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="fr">
+		<encodingDesc>
+			<appInfo>
+				<application version="0.5.5-SNAPSHOT" ident="GROBID" when="2019-04-04T12:42+0000">
+					<ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Service Archéologique Municipal d&apos;Orléans, 13 bis rue de la Tour Neuve</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Lionel</forename><surname>Martin</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Matthieu</forename><surname>Exbrayat</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Teddy</forename><surname>Debroutelle</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Aladine</forename><surname>Chetouani</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Sylvie</forename><surname>Treuillet</surname></persName>
+						</author>
+						<author role="corresp">
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Sébastien</forename><surname>Jesset</surname></persName>
+							<email>sjesset@ville-orleans.fr</email>
+						</author>
+						<author>
+							<affiliation key="aff0">
+								<orgName type="laboratory">Laboratoire PRISME</orgName>
+								<orgName type="institution" key="instit1">LIFO</orgName>
+								<orgName type="institution" key="instit2">Batiment IIIA</orgName>
+								<orgName type="institution" key="instit3">rue Léonard de Vinci</orgName>
+								<address>
+									<addrLine>B.P. 6759</addrLine>
+									<postCode>F-45067</postCode>
+									<settlement>Orléans</settlement>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff1">
+								<orgName type="institution">Université d&apos;Orléans</orgName>
+								<address>
+									<addrLine>12 rue de Blois</addrLine>
+									<postCode>F-45067</postCode>
+									<settlement>Orléans</settlement>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Service Archéologique Municipal d&apos;Orléans, 13 bis rue de la Tour Neuve</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<note>Recherche de groupes parallèles en classification non-supervisée</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<abstract>
+				<p>Dans cet article, nous nous intéressons à une situation de classification non supervisée dans laquelle nous souhaitons imposer une &quot;forme&quot; commune à tous les clusters. Dans cette approche, la &quot;forme&quot; commune sera caractérisée par un hyperplan qui sera le même pour tous les groupes, à une translation près. Les points sont donc supposés être distribués autour d&apos;hyperplans parallèles. La fonction objectif utilisée peut naturellement s&apos;exprimer comme la minimisation de la somme des distances de chaque point à son hyperplan. Comme pour le cas de k-means, la résolution est effectuée par l&apos;alternance de phases d&apos;affectation de chaque point à l&apos;hyperplan le plus proche et de phases de calcul de l&apos;hyper-plan qui ajuste au mieux l&apos;ensemble des points qui lui sont affectés. L&apos;objectif étant d&apos;obtenir des hyperplans parallèles, cette phase de calcul est menée simul-tanément pour tous les hyperplans, par une méthode de régression.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="fr">
+	</text>
+</TEI>

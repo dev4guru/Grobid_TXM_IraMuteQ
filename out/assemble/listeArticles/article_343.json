@@ -1,0 +1,14 @@
+{	 "idArt" : "343",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2011",
+	 "place" : "Brest",
+	 "location" : { "lat" :  48.390394, 
+		 "lon" : -4.486076 }, 
+	 "title" : "Optimisation directe des poids de modèles dans un prédicteur Bayésien naïf moyenné",
+	 "abstract" : "Le classifieur Bayésien naïf est un outil de classification efficace en pratique pour de nombreux problèmes réels, en dépit de l'hypothèse restrictive d'indépendance des variables conditionnellement à la classe. Récemment, de nouvelles méthodes permettant d'améliorer la performance de ce classifieur ont vu le jour, sur la base à la fois de sélection de variables et de moyennage de modèles. Dans cet article, nous proposons une extension de la sélection de variables pour le classifieur Bayésien naïf, en considérant un modèle de pondération des variables utilisées et des algorithmes d'optimisation directe de ces poids. Les expérimentations confirment la pertinence de notre approche, en permettant une diminution significative du nombre de variables utilisées, sans perte de performance prédictive.",
+	 "authors" : ["Marc Boullé","Romain Guigourès"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1000932" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1000932" 
+} 
+ 

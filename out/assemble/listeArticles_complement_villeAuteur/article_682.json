@@ -1,0 +1,13 @@
+{	 "idArt" : "682",
+	 "placeAut" : [ 
+		{ "place" : "Bruyères-le-Châtel",
+		 "country" : "France",
+		 "location" : { "lat" :  48.593388, 
+			 "lon" : 2.192498999999998 } },
+		{ "place" : "Compiègne",
+		 "country" : "France",
+		 "location" : { "lat" :  49.41781599999999, 
+			 "lon" : 2.826144999999997 } }
+	 ]
+} 
+ 

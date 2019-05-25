@@ -1,0 +1,22 @@
+{
+"year": "2007",
+"metaSession": "8",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1001398",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1001398",
+"abstract": "Dans cet article, nous présentons une approche de la segmentation thématique fondée sur une représentation en vecteurs sémantiques des phrases et des calculs de distance entre ces vecteurs. Les vecteurs sémantiques sont générés par le système SYGFRAN, un analyseur morpho-syntaxique et conceptuel de la langue française. La segmentation thématique s'effectue elle en recherchant des zones de transition au sein du texte grâce aux vecteurs sémantiques. L'évaluation de cette méthode s'est faite sur les données du défi DEFT'06.",
+"title": "Segmentation thématique par calcul de distance thématique",
+"placeAut":[{
+"place":"Montpellier",
+"country":"France",
+"location":{
+	"lat":"43.610769",
+	"lon":"3.876716"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 50.4673883, u'lon': 4.8719854}",
+"place": "Namur",
+"booktitle": "EGC",
+"idArt": "736",
+"authors": "['Jacques Chauché','Alexandre Labadié']"
+}

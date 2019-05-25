@@ -1,0 +1,15 @@
+{
+"idArt": "1327",
+"series": "Revue des Nouvelles Technologies de l'Information",
+"booktitle": "EGC",
+"year": "2018",
+"title": "UNITEX/GRAMLAB: plateforme libre basée sur des lexiques et des grammaires pour le traitement des corpus textuels",
+"abstract": "L'objectif de notre recherche est de répondre aux besoins croissants etdivers d'extraction d'information pertinente exprimés par de nombreuses disciplines.Nous utilisons pour cela l'analyseur multilingue de corpus Unitex/Gram-Lab développé à l'Université Paris-Est Marne-la-Vallée. Il fait appel à une approchesymbolique et utilise des ressources linguistiques, dictionnaires électroniqueset grammaires locales. Cette présentation ne constitue qu'une prise enmain d'Unitex/GramLab et ne reflète que très partiellement les possibilités dulogiciel et son champ d'utilisation, notamment pour l'extraction d'information,qui s'étend du monde de la recherche à celui de l'industrie.",
+"authors": "Tita Kyriacopoulou, Claude Martineau, Cristian Martinez",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1002427",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1002427",
+"metaSession": "11",
+"place": "Paris",
+"Latitude": " 48.8601 ",
+"Longitude": "2.3555"
+}

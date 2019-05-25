@@ -1,0 +1,13 @@
+{	 "idArt" : "207",
+	 "placeAut" : [ 
+		{ "place" : "Manouba",
+		 "country" : "Tunisie",
+		 "location" : { "lat" :  36.807778, 
+			 "lon" : 10.101110999999946 } },
+		{ "place" : "Tunis",
+		 "country" : "Tunisie",
+		 "location" : { "lat" :  36.8064948, 
+			 "lon" : 10.181531599999971 } }
+	 ]
+} 
+ 

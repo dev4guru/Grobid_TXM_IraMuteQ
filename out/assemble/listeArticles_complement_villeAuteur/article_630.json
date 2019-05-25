@@ -1,0 +1,13 @@
+{	 "idArt" : "630",
+	 "placeAut" : [ 
+		{ "place" : "Compiègne",
+		 "country" : "France",
+		 "location" : { "lat" :  49.41781599999999, 
+			 "lon" : 2.826144999999997 } },
+		{ "place" : "Verneuil-en-Halatte",
+		 "country" : "France",
+		 "location" : { "lat" :  49.274228, 
+			 "lon" : 2.5173879999999826 } }
+	 ]
+} 
+ 

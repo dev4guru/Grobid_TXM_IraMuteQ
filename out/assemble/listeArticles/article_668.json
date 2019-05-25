@@ -1,0 +1,14 @@
+{	 "idArt" : "668",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC ",
+	 "year" : "2008",
+	 "place" : "Sophia Antipolis",
+	 "location" : { "lat" :  43.6163539, 
+		 "lon" : 7.0552218 }, 
+	 "title" : "Vers des Machines à Vecteurs de Support Actionnables : Une Approche Fondée sur le Classement",
+	 "abstract" : "Une des principales critiques que l'on puisse faire aux Séparateurs à Vaste Marge (SVM) est le manque d'intelligibilité des résultats. En effet, il s'agit d'une technique boite noire qui ne fournit pas d'explications ni d'indices quant aux raisons d'une classification. Les résultats doivent être pris tels quels en faisant confiance au système qui les a produits. Pourtant selon notre expérience pratique, les experts du domaine préfèrent largement une méthode d'apprentissage avec explications et recommandation d'actions plutôt qu'une boite noire, aussi performante et prédictive soit-elle. Dans cette thématique, nous proposons une nouvelle approche qui consiste a rendre les SVM plus actionnables. Ce but est atteint en couplant des modèles de classement des résultats des SVM à des méthodes d'apprentissage de concepts. Nous présentons une application de notre méthode sur diverses données dont des données médicales concernant des patients de l'athérosclérose. Nos résultats empiriques semblent très prometteurs et montrent l'utilité de notre approche quant à l'intelligibilité et l'actionnabilité des résultats produits par SVM.",
+	 "authors" : ["Ansaf Salleb-Aouissi","Bert C. Huang","David L. Waltz"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1000616" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1000616" 
+} 
+ 

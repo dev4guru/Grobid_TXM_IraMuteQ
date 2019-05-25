@@ -1,0 +1,22 @@
+{
+"year": "2011",
+"metaSession": "2",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1000931",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1000931",
+"abstract": "This paper addresses the clustering problem given the similarity matrix of a dataset. We define two distinct criteria with the aim of simultaneously minimizing the cut size and obtaining balanced clusters. The first criterion minimizes the similarity between objects belonging to different clusters and is an objective generally met in clustering. The second criterion is formulated with the aid of generalized entropy. The trade-off between these two objectives is explored using a multi-objective genetic algorithm with enhanced operators",
+"title": "Entropic-Genetic Clustering",
+"placeAut":[{
+"place":"Boston",
+"country":"USA",
+"location":{
+	"lat":"42.3600825",
+	"lon":"-71.0588801"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 48.390394, u'lon': -4.486076}",
+"place": "Brest",
+"booktitle": "EGC",
+"idArt": "309",
+"authors": "['Mihaela Breaban','Henri Luchian','Dan A. Simovici']"
+}

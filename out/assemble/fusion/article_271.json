@@ -1,0 +1,22 @@
+{
+"year": "2012",
+"metaSession": "3",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1001182",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1001182",
+"abstract": "De nombreux algorithmes de fragmentation de graphes fonctionnentpar agrégations ou divisions successives de sous-graphes menant à une décompositionhiérarchique du réseau étudié. Une question importante dans ce domaineest de savoir si cette hiérarchie reflète la structure du réseau ou si elle n'estqu'un artifice lié au déroulement de la procédure. Nous proposons un moyen devalider et, au besoin, d'optimiser la décomposition multi-échelle produite parce type de méthode. On applique notre approche sur l'algorithme proposé parBlondel et al. (2008) basé sur la maximisation de la modularité. Dans ce cadre,une généralisation de cette mesure de qualité au cas multi-niveaux est introduite.Nous testons notre méthode sur des graphes aléatoires ainsi que sur des exemplesréels issus de divers domaines.",
+"title": "Validation et optimisation d'une décomposition hiérarchique de graphes",
+"placeAut":[{
+"place":"Bordeaux",
+"country":"France",
+"location":{
+	"lat":"44.837789",
+	"lon":"-0.57918"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 44.837789, u'lon': -0.57918}",
+"place": "Bordeaux",
+"booktitle": "EGC",
+"idArt": "271",
+"authors": "Francois Queyroi"
+}

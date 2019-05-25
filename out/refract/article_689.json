@@ -1,0 +1,22 @@
+{
+"year": "2007",
+"metaSession": "8",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1001393",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1001393",
+"abstract": "Vu l'accroissement constant du volume d'information accessible en ligne sous format XML, il devient primordial de proposer des modèles adaptés à la recherche d'information dans les documents XML. Tandis que la recherche d'information classique repose sur l'indexation du contenu des documents, la recherche d'information dans les documents XML tente d'améliorer la qualité des résultats en tirant profit de la sémantique véhiculée par la structure des documents. Dans cet article, nous présentons une méthode de classement des items (éléments XML) retournés lors d'une recherche dans une collection de documents XML. Le classement repose sur la prise en compte d'un ensemble de critères discriminants. La particularité de notre approche réside dans la façon dont nous les utilisons : Nous employons une méthode décisionnelle pour classer les items en les comparant deux-à-deux là où en général une fonction de scoring globale est utilisée.",
+"title": "Classement des fragments de documents XML par une méthode d'aide à la décision",
+"placeAut":[{
+"place":"Bruxelles",
+"country":"Belgique",
+"location":{
+	"lat":"50.8503396",
+	"lon":"4.3517103"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 50.4673883, u'lon': 4.8719854}",
+"place": "Namur",
+"booktitle": "EGC",
+"idArt": "689",
+"authors": "['Faiza Abbaci','Pascal Francq']"
+}

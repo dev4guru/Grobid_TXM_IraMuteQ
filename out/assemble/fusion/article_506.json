@@ -1,0 +1,22 @@
+{
+"year": "2009",
+"metaSession": "5",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1000821",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1000821",
+"abstract": "",
+"title": "CISNA un système hybride LD+Règles pour gérer des connaissances",
+"placeAut":[{
+"place":"Strasbourg",
+"country":"France",
+"location":{
+	"lat":"48.5734053",
+	"lon":"7.7521113"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 48.5734053, u'lon': 7.752111299999999}",
+"place": "Strasbourg",
+"booktitle": "EGC",
+"idArt": "506",
+"authors": "['Alexis Bultey','François Rousselot','Cecilia Zanni','Denis Cavallucci']"
+}

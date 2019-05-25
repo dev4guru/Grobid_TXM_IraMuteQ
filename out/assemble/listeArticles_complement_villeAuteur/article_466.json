@@ -1,0 +1,13 @@
+{	 "idArt" : "466",
+	 "placeAut" : [ 
+		{ "place" : "Bron",
+		 "country" : "France",
+		 "location" : { "lat" :  45.73331599999999, 
+			 "lon" : 4.9119269999999915 } },
+		{ "place" : "Saint-Etienne",
+		 "country" : "France",
+		 "location" : { "lat" :  45.439695, 
+			 "lon" : 4.387177899999983 } }
+	 ]
+} 
+ 

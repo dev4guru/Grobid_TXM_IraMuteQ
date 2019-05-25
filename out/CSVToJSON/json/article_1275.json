@@ -1,0 +1,15 @@
+{
+"idArt": "1275",
+"series": "Revue des Nouvelles Technologies de l'Information",
+"booktitle": "EGC",
+"year": "2018",
+"title": "Comparaison de mesures de centralité basées sur les plus courts chemins dans les réseaux dynamiques",
+"abstract": "Définir l'importance des noeuds dans les réseaux statiques est unequestion de recherche très étudiée depuis de nombreuses années. Dernièrement,des adaptations des métriques classiques ont été proposées pour les réseaux dynamiques.Ces méthodes reposent sur des approches très différentes dans leurfaçon d'évaluer l'importance des noeuds à un instant donné. Il est donc nécessairede pouvoir les évaluer et les comparer. Dans cet article, nous comparonstrois approches existes pour mieux comprendre ce qui les différencie. Nous montronsque la nature des jeux de données influe grandement sur le comportementdes méthodes, et que pour certains d'entre eux, la notion d'importance n'est pastoujours pertinente.",
+"authors": "Marwan Ghanem, Clémence Magnien, Fabien Tarissan",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1002416",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1002416",
+"metaSession": "7",
+"place": "Paris",
+"Latitude": " 48.8549 ",
+"Longitude": "2.3503"
+}

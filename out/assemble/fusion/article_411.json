@@ -1,0 +1,22 @@
+{
+"year": "2010",
+"metaSession": "3",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1001306",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1001306",
+"abstract": "Le concept de Cube Émergent a été introduit afin de comparer deuxdata cubes. Dans cet article, nous introduisons deux nouvelles représentationsréduites du Cube Émergent sans perte des mesures : le Cube Fermé Émergent etle Cube Quotient Émergent. La première représentation est basée sur le conceptde fermeture cubique. C'est la plus petite représentation possible du cube dedonnées émergent. À partir du Cube Fermé Émergent et donc en stockant le minimumd'informations, il est possible de répondre efficacement aux requêtes quipeuvent être exécutées sur le Cube Émergent lui-même. La seconde représentations'appuie sur la structure du Cube Quotient qui a été proposé pour résumer uncube de données. Le Cube Quotient est revisité afin de le doter d'une sémantiquebasée sur la fermeture cubique et donc adapté au contexte du Cube Émergent. LeCube Quotient Émergent résultant est moins réduit que le Cube Fermé Émergentmais il préserve la propriété de  spécialisation/généralisation  du data cube quipermet la navigation au sein du Cube Émergent. Nous établissons également lelien entre les deux représentations introduites et celle basée sur les bordures classiquesen fouille de données. Des expérimentations effectuées sur divers jeux dedonnées visent à comparer la taille des différentes représentations.",
+"title": "Cubes Fermés / Quotients Émergents",
+"placeAut":[{
+"place":"Aix-en-Provence",
+"country":"France",
+"location":{
+	"lat":"43.529742",
+	"lon":"5.447427"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 36.4, u'lon': 10.616667}",
+"place": "Hammamet",
+"booktitle": "EGC",
+"idArt": "411",
+"authors": "['Sébastien Nedjar','Alain Casali','Rosine Cicchetti','Lotfi Lakhal']"
+}

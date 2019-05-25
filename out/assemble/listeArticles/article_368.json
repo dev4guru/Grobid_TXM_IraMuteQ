@@ -1,0 +1,14 @@
+{	 "idArt" : "368",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2011",
+	 "place" : "Brest",
+	 "location" : { "lat" :  48.390394, 
+		 "lon" : -4.486076 }, 
+	 "title" : "Une méthodologie de recommandations produits fondée sur l'actionnabilité et l'intérêt économique des clients",
+	 "abstract" : "Dans un contexte économique difficile, la fidélisation des clients figure au premier rang des préoccupations des entreprises. En effet, selon le Gartner, fidéliser des clients existants coûterait beaucoup moins cher que prospecter de nouveaux clients. Pour y parvenir, les entreprises optimisent la marge et le cycle de vie des clients en développant une relation personnalisée aboutissant à de meilleures recommandations. Dans cet article, nous proposons une méthodologie pour les systèmes de recommandations fondée sur l'analyse des chiffres d'affaires des clients sur des familles de produits. Plus précisément, la méthodologie consiste à extraire des comportements de référence sous la forme de règles d'association et à en évaluer l'intérêt économique et l'actionnabilité. Les recommandations sont réalisées en ciblant les contre-exemples les plus actionnables sur les règles les plus rentables. Notre méthodologie est appliquée sur 12 000 clients et 100 000 produits de VMMatériaux afin d'orienter les commerciaux sur les possibilités d'accroissement de la valeur client.",
+	 "authors" : ["Julien Blanchard","Thomas Piton","Henri Briand","Fabrice Guillet"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1000946" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1000946" 
+} 
+ 

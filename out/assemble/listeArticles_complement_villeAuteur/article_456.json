@@ -1,0 +1,9 @@
+{	 "idArt" : "456",
+	 "placeAut" : [ 
+		{ "place" : "Recife",
+		 "country" : "Brésil",
+		 "location" : { "lat" :  -8.0578381, 
+			 "lon" : -34.88289689999999 } }
+	 ]
+} 
+ 

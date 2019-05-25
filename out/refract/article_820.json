@@ -1,0 +1,22 @@
+{
+"year": "2006",
+"metaSession": "2",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1000400",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1000400",
+"abstract": "Ce qui caractérise la fouille de données spatiales est la nécessité de prendre en compte les interactions des objets dans l'espace. Les méthodes classiques de fouille de données sont mal adaptées pour ce type d'analyse. Nous proposons dans cet article une approche basée sur la programmation logique inductive. Elle se base sur deux idées. La première consiste à matérialiser ces interactions spatiales dans des tables de distances, ramenant ainsi la fouille de données spatiales à la fouille de fonnées multi-tables. La seconde transforme les données en logique du premier ordre et applique ensuite la programmation logique inductive. Cet article présentera cette approche. Il décrira son application à la classification supervisée par arbre de décision spatial. Il présentera aussi les expérimentations réalisées et les résultats obtenus sur l'analyse de la contamination des coquillages dans la lagune de Thau.",
+"title": "Fouille de données spatiales, Approche basée sur la programmation logique inductive",
+"placeAut":[{
+"place":"Sète",
+"country":"France",
+"location":{
+	"lat":"43.4078758",
+	"lon":"3.7008219"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 50.62925, u'lon': 3.057256}",
+"place": "Lille",
+"booktitle": "EGC",
+"idArt": "820",
+"authors": "['Nadjim Chelghoum','Karine Zeitouni','Thierry Laugier','Annie Fiandrino','Lionel Loubersac']"
+}

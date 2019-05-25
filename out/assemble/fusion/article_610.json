@@ -1,0 +1,22 @@
+{
+"year": "2008",
+"metaSession": "1",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1000564",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1000564",
+"abstract": "Longtemps les ontologies ont été limitées à des domaines scientifiques et techniques, favorisant au passage l'essor du concept de « connaissances universelles et objectives ». Avec l'émergence et l'engouement actuel pour les sciences cognitives, couplés à l'application des ontologies à des domaines relatifs aux Sciences Humaines et Sociales (SHS), la subjectivité des connaissances devient une dimension incontournable qui se doit d'être intégrée et prise en compte dans le processus d'ingénierie ontologique (IO). L'objectif de nos travaux est de développer la notion d'Ontologie Pragmatisée Vernaculaire de Domaine (OPVD). Le principe sous-jacent à de telles ressources consiste à considérer que chaque ontologie est non seulement propre à un domaine, mais également à un endogroupe donné, doté d'une pragmatique qui est fonction tant de la culture que de l'apprentissage et de l'état émotionnel du dit endogroupe. Cette pragmatique, qui traduit un processus d'appropriation et de personnalisation de l'ontologie considérée, est qualifiée à l'aide de deux mesures : un gradient de prototypicalité conceptuelle et un gradient de prototypicalité lexicale",
+"title": "Gradients de prototypicalité conceptuelle et lexicale",
+"placeAut":[{
+"place":"Nantes",
+"country":"France",
+"location":{
+	"lat":"47.218371",
+	"lon":"-1.553621"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 43.6163539, u'lon': 7.0552218}",
+"place": "Sophia Antipolis",
+"booktitle": "EGC ",
+"idArt": "610",
+"authors": "['Xavier Aimé','Frédéric Fürst','Pascale Kuntz','Francky Trichet']"
+}

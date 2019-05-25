@@ -1,0 +1,13 @@
+{	 "idArt" : "134",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2014",
+	 "place" : "Rennes",
+	 "location" : { "lat" :  48.117266, 
+		 "lon" : -1.6777926 }, 
+	 "title" : "Sélection de prototypes en vue d'une catégorisation de textes avec les K plus proches voisins : étude comparative",
+	 "abstract" : "La technique des K plus proches voisins (KNN) est une méthoded'apprentissage à base d'instances, elle a été appliquée dans la catégorisationde textes depuis de nombreuses années. En contraste avec ses performances declassification, il est reconnu que cet algorithme est lent pendant la classificationd'un nouveau document. Les Techniques de sélection de prototypes sont apparuescomme des méthodes très compétitives pour améliorer le KNN grâce à laréduction des données. L'étude contenue dans ce papier a pour objectif d'analyserl'impact de ces méthodes sur la performance de la classification de textesavec l'algorithme KNN.",
+	 "authors" : ["Fatiha Barigou","Baya Naouel Barigou","Baghdad Atmani","Bouziane Beldjilali"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1001926" 
+} 
+ 

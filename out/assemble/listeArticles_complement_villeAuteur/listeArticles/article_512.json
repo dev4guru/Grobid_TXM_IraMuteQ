@@ -1,0 +1,14 @@
+{	 "idArt" : "512",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2009",
+	 "place" : "Strasbourg",
+	 "location" : { "lat" :  48.5734053, 
+		 "lon" : 7.752111299999999 }, 
+	 "title" : "Construction de descripteurs pour classer à partir d'exemples bruités",
+	 "abstract" : "En classification supervisée, la présence de bruit sur les valeurs desdescripteurs peut avoir des effets désastreux sur la performance des classifieurset donc sur la pertinence des décisions prises au moyen de ces modèles. Traiterce problème lorsque le bruit affecte un attribut classe a été très étudié. Il estplus rare de s'intéresser au bruit sur les autres attributs. C'est notre contextede travail et nous proposons la construction de nouveaux descripteurs robusteslorsque ceux des exemples originaux sont bruités. Les résultats expérimentauxmontrent la valeur ajoutée de cette construction par la comparaison des qualitésobtenues (e.g., précision) lorsque l'on utilise les méthodes de classification àpartir de différentes collections de descripteurs.",
+	 "authors" : ["Nazha Selmaoui-Folcher","Jean-François Boulicaut","Dominique Gay"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1000742" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1000742" 
+} 
+ 

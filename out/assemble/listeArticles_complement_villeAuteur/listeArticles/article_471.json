@@ -1,0 +1,14 @@
+{	 "idArt" : "471",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2010",
+	 "place" : "Hammamet",
+	 "location" : { "lat" :  36.4, 
+		 "lon" : 10.616667 }, 
+	 "title" : "SimTole",
+	 "abstract" : "La plateforme SimTOLE est dédiee a l'evaluation d'algorithmes d'alignement d'ontologies heterogenes et reparties a travers un reseau pair a pair (P2P). Cette plateforme permet de simuler un réseau P2P dans lequel chaque pair dispose de sa propre ontologie ainsi que des outils permettant l'alignement entre l'ontologie locale et une ontologie stockée sur un pair distant. Le developpement de cette plateforme s'inscrit dans le cadre de travaux de recherche étudiant l'impact de la topologie du réseau P2P dans le processus d'inférence de correspondances sémantiques. Durant cette démonstration, la plateforme simTole est présentée puis testée pour illustrer des scénarii montrant comment affiner le processus d'alignement d'ontologies dans un réseau P2P.",
+	 "authors" : ["Nicolas Lumineau","Lionel Médini"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1001390" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1001390" 
+} 
+ 

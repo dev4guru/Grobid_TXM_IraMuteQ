@@ -1,0 +1,9 @@
+{	 "idArt" : "821",
+	 "placeAut" : [ 
+		{ "place" : "Montréal",
+		 "country" : "Canada",
+		 "location" : { "lat" :  45.5016889, 
+			 "lon" : -73.56725599999999 } }
+	 ]
+} 
+ 

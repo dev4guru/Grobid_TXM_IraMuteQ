@@ -1,0 +1,9 @@
+{	 "idArt" : "157",
+	 "placeAut" : [ 
+		{ "place" : "Bucharest",
+		 "country" : "Romania",
+		 "location" : { "lat" :  44.4267674, 
+			 "lon" : 26.102538399999958 } }
+	 ]
+} 
+ 

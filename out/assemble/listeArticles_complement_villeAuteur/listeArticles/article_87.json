@@ -1,0 +1,13 @@
+{	 "idArt" : "87",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2014",
+	 "place" : "Rennes",
+	 "location" : { "lat" :  48.117266, 
+		 "lon" : -1.6777926 }, 
+	 "title" : "Comparaison de bornes théoriques pour l'accélération du clustering incrémental en une passe",
+	 "abstract" : "Le clustering incrémental en une passe repose sur l'affectation efficacede chaque nouveau point aux clusters existants. Dans le cas général, où lesclusters ne peuvent être représentés par une moyenne, la détermination exhaustivedu cluster le plus proche possède une complexité quadratique avec le nombrede données. Nous proposons dans ce papier une nouvelle méthode d'affectationstochastique à chaque cluster qui minimise le nombre de comparaisons à effectuerentre la donnée et chaque cluster pour garantir, étant donné un taux d'erreuracceptable, l'affectation au cluster le plus proche. Plusieurs bornes théoriques(Bernstein, Hoeffding et Student) sont comparées dans ce papier. Les résultatssur des données artificielles et réelles montrent que la borne de Bernstein donneglobalement les meilleurs résultats (notamment lorsqu'elle est réduite) car ellepermet une accélération forte du processus de clustering, tout en conservant unnombre très faible d'erreurs.",
+	 "authors" : ["Nicolas Labroche","Marcin Detyniecki","Thomas Baerecke"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1001959" 
+} 
+ 

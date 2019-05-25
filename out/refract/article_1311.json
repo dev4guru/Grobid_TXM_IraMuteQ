@@ -1,0 +1,15 @@
+{
+"idArt": "1311",
+"series": "Revue des Nouvelles Technologies de l'Information",
+"booktitle": "EGC",
+"year": "2018",
+"title": "Prédiction du Rayonnement Solaire par Apprentissage Automatique",
+"abstract": "Cet article décrit une approche flexible pour la prédiction à courtterme de variables météorologiques. En particulier, nous nous intéressons à laprédiction du rayonnement solaire à une heure. Cette tâche est d'une grandeimportance pratique dans l'optique d'optimiser les resources énergétiques solaires.Comme le défi EGC 2018 nous fournit des données météorologiques enregistréessur cinq sites géographiques de l'île de la Réunion, nous utilisons cesdonnées historiques comme base pour créer des modèles de prédiction, et noustestons la performance de ces modèles selon le site considéré. Après avoir décritnotre méthode de nettoyage de données et de normalisation, nous combinonsune méthode de sélection de variables basée sur les modèles ARIMA (AutoRegressiveIntegrated Moving Average) à l'utilisation de méthodes de régressiongénériques, telles que les arbres de régression et les réseaux de neurones.",
+"authors": "Pierrick Bruneau, Philippe Pinheiro, Yoann Didry",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1002422",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1002422",
+"metaSession": "9",
+"place": "Paris",
+"Latitude": " 48.8585 ",
+"Longitude": "2.3539"
+}

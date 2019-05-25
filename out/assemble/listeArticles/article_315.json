@@ -1,0 +1,14 @@
+{	 "idArt" : "315",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2011",
+	 "place" : "Brest",
+	 "location" : { "lat" :  48.390394, 
+		 "lon" : -4.486076 }, 
+	 "title" : "Extraction de motifs séquentiels contextuels",
+	 "abstract" : "Les motifs séquentiels traditionnels ne tiennent généralement pas compte des informations contextuelles fréquemment associées aux données séquentielles. Dans le cas des séquences d'achats de clients dans un magasin, l'extraction classique de motifs se focalise sur les achats des clients sans considérer leur catégorie socio-professionnelle, leur sexe, leur âge. Or, en considérant le fait qu'un motif séquentiel est spécifique à un contexte donné, un expert pourra adapter sa stratégie au type du client et prendre les décisions adéquates. Dans cet article, nous proposons d'extraire des motifs de la forme «l'achat des produits A et B suivi de l'achat du produit C est spécifique aux jeunes clients». En mettant en valeur les propriétés formelles de tels contextes, nous développons un algorithme efficace d'extraction de motifs séquentiels contextuels. Les expérimentations effectuées sur un jeu de données réelles montrent les apports et l'efficacité de l'approche proposée.",
+	 "authors" : ["Julien Rabatel","Sandra Bringay"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1000924" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1000924" 
+} 
+ 

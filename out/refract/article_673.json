@@ -1,0 +1,22 @@
+{
+"year": "2008",
+"metaSession": "3",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1000638",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1000638",
+"abstract": "Cet article propose une méthodologie pour la visualisation et la classification des parcours de vie. Plus spécifiquement, nous considérons les parcours de vie d'individus suisses nés durant la première moitié du XXème siècle en utilisant les données provenant de l'enquête biographique rétrospective menée en 2002 par le Panel suisse de ménages. Nous nous sommes concentrés sur ces événements du parcours de vie : le départ du foyer parental, la naissance du premier enfant, le premier mariage et le premier divorce. A partir des données de base sur ces événements, nous discutons de leur transformation en séquences d'états. Nous présentons ensuite notre méthodologie pour extraire de la connaissance des parcours de vie. Cette méthodologie repose sur des distances calculées par un algorithme d'optimal matching. Ces distances sont ensuite utilisées pour la classification des parcours de vie et leur visualisation à l'aide de techniques de « Multi Dimensional Scaling ». Cet article s'intéresse en particulier aux problématiques entourant l'application de ces méthodes aux données de parcours de vie.",
+"title": "Visualisation et classification des parcours de vie",
+"placeAut":[{
+"place":"Genève",
+"country":"Suisse",
+"location":{
+	"lat":"46.1983922",
+	"lon":"6.1422961"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 43.6163539, u'lon': 7.0552218}",
+"place": "Sophia Antipolis",
+"booktitle": "EGC ",
+"idArt": "673",
+"authors": "['Nicolas S. Müller','Sylvain Lespinats','Gilbert Ritschard','Matthias Studer','Alexis Gabadinho']"
+}

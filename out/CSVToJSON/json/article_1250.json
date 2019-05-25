@@ -1,0 +1,15 @@
+{
+"idArt": "1250",
+"series": "Revue des Nouvelles Technologies de l'Information",
+"booktitle": "EGC",
+"year": "2017",
+"title": "Une approche logique pour la fouille de règles d'association",
+"abstract": "La découverte de règles d'association à partir de données transaction-nelles est une tâche largement étudiée en fouille de données. Les algorithmesproposés dans ce cadre partagent la même méthodologie en deux étapes à savoirl'énumération des itemsets fréquents suivie par l'étape de génération de règles.Dans cet article, nous proposons une nouvelle approche basée sur la satisfiabilitépropositionnelle pour extraire les règles d'association en une seule étape. Pourmontrer la flexibilité et la déclarativité de notre approche, nous considérons éga-lement deux autres variantes, à savoir la fouille de règles d'association ferméeset la fouille de règles indirectes. Les expérimentation sur plusieurs jeux de don-nées montrent que notre approche offre de meilleures performances comparée àdes approches spécialisées.",
+"authors": "Abdelhamid Boudane, Said Jabbour, Lakhdar Sais, Yakoub Salhi",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1002298",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1002298",
+"metaSession": "3",
+"place": "Grenoble",
+"Latitude": " 45.188591 ",
+"Longitude": "5.724586"
+}

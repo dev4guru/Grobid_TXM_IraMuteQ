@@ -1,0 +1,22 @@
+{
+"year": "2014",
+"metaSession": "5",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1001918",
+"pdfarticle": "",
+"abstract": "Nous présentons une nouvelle méthode d'analyse exploratoirede grands flots de liens que nous appliquons à la détection d'événementssignificatifs dans plus de 2 millions d'interactions (pendant 4 mois) entreutilisateurs du réseau social en ligne Github. Nous combinons une méthodestatistique de détection automatique d'événements dans une série temporelle,Outskewer, avec un système de visualisation de graphes. Outskewer identifiedes instants de l'évolution du graphe d'interactions méritant d'être étudiés, etun analyste peut valider et interpréter ces événements par la visualisation demotifs anormaux dans les sous-graphes correspondants. Nous montrons par demultiples exemples que cette approche 1) permet de détecter des événementspertinents et de rejeter ceux qui ne le sont pas, 2) est adaptée à une démarcheexploratoire car elle ne nécessite pas de connaissance a priori sur les données.",
+"title": "Investigation visuelle d'événements dans un grand flot de liens",
+"placeAut":[{
+"place":"Paris",
+"country":"France",
+"location":{
+	"lat":"48.856614",
+	"lon":"2.3522219"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 48.117266, u'lon': -1.6777926}",
+"place": "Rennes",
+"booktitle": "EGC",
+"idArt": "116",
+"authors": "['Sébastien Heymann','Bénédicte Le Grand']"
+}

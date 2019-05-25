@@ -1,0 +1,13 @@
+{	 "idArt" : "768",
+	 "placeAut" : [ 
+		{ "place" : "Laval",
+		 "country" : "France",
+		 "location" : { "lat" :  48.0785146, 
+			 "lon" : -0.7669905999999855 } },
+		{ "place" : "Paris",
+		 "country" : "France",
+		 "location" : { "lat" :  48.856614, 
+			 "lon" : 2.3522219000000177 } }
+	 ]
+} 
+ 

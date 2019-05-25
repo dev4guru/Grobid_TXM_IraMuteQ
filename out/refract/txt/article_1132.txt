@@ -1,0 +1,1 @@
+Nous détaillerons ici une approche permettant de détecter des affixes àpartir de dictionnaires en se basant sur l'algorithme de la plus longue sous-chaînecommune, dans le cadre de la reconnaissance d'entités nommées chimiques surCHEMDNER. Nous verrons ensuite des méthodes de sélection et de tri afin deles intégrer au mieux dans un système d'apprentissage automatique.

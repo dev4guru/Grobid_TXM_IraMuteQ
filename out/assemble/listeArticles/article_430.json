@@ -1,0 +1,14 @@
+{	 "idArt" : "430",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2010",
+	 "place" : "Hammamet",
+	 "location" : { "lat" :  36.4, 
+		 "lon" : 10.616667 }, 
+	 "title" : "Fouille visuelle de données en 3D et réalité virtuelle : état de l'art",
+	 "abstract" : "La fouille visuelle de données (ou Visual Data Mining, VDM) a pourobjectif de faciliter l'interprétation des résultats issus d'une fouille de données,grâce à l'usage de représentations graphiques. Au cours de la dernière décennie,un grand nombre de techniques de visualisation d'information ont été mises aupoint, permettant la visualisation de données multidimensionnelles dans des environnementsvirtuels. Lors des travaux antérieurs, les chercheurs ont proposédes taxonomies pour classer les techniques de VDM (Chi (2000), Herman et al.(2000)). Toutefois, ces taxonomies ne prennent en compte que partiellement lestechniques récentes relatives à l'utilisation de la 3D et de la réalité virtuelle. Lebut de cet article est de faire un état de l'art récent et spécifique à ces techniques.Celles-ci sont détaillées, classées et comparées selon différents critères : les applications,l'encodage graphique, les techniques d'interaction, les avantages etles inconvénients de chaque approche. Ces techniques sont présentées dans destableaux accompagnées d'illustrations graphiques",
+	 "authors" : ["Zohra Ben Said","Fabrice Guillet","Paul Richard"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1001282" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1001282" 
+} 
+ 

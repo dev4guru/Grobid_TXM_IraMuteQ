@@ -1,0 +1,17 @@
+{	 "idArt" : "777",
+	 "placeAut" : [ 
+		{ "place" : "Tunis",
+		 "country" : "France",
+		 "location" : { "lat" :  44.18621400000001, 
+			 "lon" : -0.016406999999958316 } },
+		{ "place" : "Monastir",
+		 "country" : "France",
+		 "location" : { "lat" :  42.662082, 
+			 "lon" : 2.500819999999976 } },
+		{ "place" : "Sousse",
+		 "country" : "France",
+		 "location" : { "lat" :  48.939386, 
+			 "lon" : 0.22850100000005114 } }
+	 ]
+} 
+ 

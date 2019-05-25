@@ -1,0 +1,22 @@
+{
+"year": "2015",
+"metaSession": "6",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1002076",
+"pdfarticle": "",
+"abstract": "Hotspots, à laquelle de nombreuses photographies ont été prises, pourraient être des lieux intéressants pour beaucoup de gens faire du tourisme. Visualisation des hotspots révèle les intérêts des utilisateurs, ce qui est important pour les industries telles que la recherche et du marketing touristiques. Bien que plusieurs techniques basées sociaux-pour hotspots extraction indépendamment ont été proposés, un hotspot a une relation à d'autres hotspots dans certains cas. Pour organiser ces hotspots, nous proposons une méthode pour détecter et de visualiser les relations entre les hotspots. Notre méthode proposée détecte et évalue les relations de taches de tir et sujets photographiques. Notre approche extrait les relations à l'aide de sous-hotspots, qui sont fendus d'un hotspot qui comprend des photographies de différents types.",
+"title": "Visualizing Shooting Spots using Geo-tagged Photographs from Social Media Sites",
+"placeAut":[{
+"place":"Paris",
+"country":"France",
+"location":{
+	"lat":"48.856614",
+	"lon":"2.3522219"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 49.815273, u'lon': 6.129582999999999}",
+"place": "Luxembourg",
+"booktitle": "EGC",
+"idArt": "66",
+"authors": "['Masaharu Hirota','Masaki Endo','Shohei Yokoyama','Hiroshi Ishikawa']"
+}

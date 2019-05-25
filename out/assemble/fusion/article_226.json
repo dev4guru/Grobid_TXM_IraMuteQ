@@ -1,0 +1,22 @@
+{
+"year": "2012",
+"metaSession": "",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1001204",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1001204",
+"abstract": "",
+"title": "Community Detection in Social Networks with Attribute and Relationship Data",
+"placeAut":[{
+"place":"Villetaneuse",
+"country":"France",
+"location":{
+	"lat":"48.963476",
+	"lon":"2.347354"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 44.837789, u'lon': -0.57918}",
+"place": "Bordeaux",
+"booktitle": "EGC",
+"idArt": "226",
+"authors": "['The Anh Dang','Emmanuel Viennet']"
+}

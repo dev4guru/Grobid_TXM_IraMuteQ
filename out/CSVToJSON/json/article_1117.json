@@ -1,0 +1,15 @@
+{
+"idArt": "1117",
+"series": "Revue des Nouvelles Technologies de l'Information",
+"booktitle": "EGC",
+"year": "2016",
+"title": "Clustering visuel semi-interactif",
+"abstract": "Nous proposons dans cet article une approche de clustering visuelsemi-interactif. L'approche proposée utilise la perception visuelle pour guiderl'utilisateur dans le processus interactif. Les clusters sont extraits de manièresuccessive et itérative, puis évalués selon leur ordre d'extraction. Pour l'utilisateur,l'approche semi-interactive permet non seulement d'évaluer les classes enfonction d'un critère déterminé mais aussi d'évaluer l'influence de l'extractiond'un cluster sur ceux précédemment extraits. Un protocole de test est présentéafin de comparer cette approche avec les approches purement automatiques etpurement interactives. Cet article est un résumé d'un papier accepté 1 pour unjournal international.",
+"authors": "Lydia Boudjeloud, Philippe Pinheiro, Alexandre Blansché, Thomas Tamisier, Benoît Otjacques",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1002183",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1002183",
+"metaSession": "6",
+"place": "Reims",
+"Latitude": " 49.258342 ",
+"Longitude": "4.031709"
+}

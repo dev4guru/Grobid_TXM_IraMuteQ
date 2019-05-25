@@ -1,0 +1,22 @@
+{
+"year": "2010",
+"metaSession": "",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1001429",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1001429",
+"abstract": "",
+"title": "Suivi d'Automobiles par Classification Hiérarchique Ascendante",
+"placeAut":[{
+"place":"Brest",
+"country":"France",
+"location":{
+	"lat":"48.390394",
+	"lon":"-4.486076"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 36.4, u'lon': 10.616667}",
+"place": "Hammamet",
+"booktitle": "EGC",
+"idArt": "474",
+"authors": "['Abdelmalek Toumi','Christophe Osswald','Ali Khenchaf']"
+}

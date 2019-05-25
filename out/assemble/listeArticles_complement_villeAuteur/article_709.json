@@ -1,0 +1,13 @@
+{	 "idArt" : "709",
+	 "placeAut" : [ 
+		{ "place" : "Charleroi",
+		 "country" : "Belgique",
+		 "location" : { "lat" :  50.4108095, 
+			 "lon" : 4.444643000000042 } },
+		{ "place" : "Namur",
+		 "country" : "Belgique",
+		 "location" : { "lat" :  50.4673883, 
+			 "lon" : 4.871985399999971 } }
+	 ]
+} 
+ 

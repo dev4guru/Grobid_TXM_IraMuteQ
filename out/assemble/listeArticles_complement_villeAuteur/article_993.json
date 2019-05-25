@@ -1,0 +1,13 @@
+{	 "idArt" : "993",
+	 "placeAut" : [ 
+		{ "place" : "Aurillac",
+		 "country" : "France",
+		 "location" : { "lat" :  44.930953, 
+			 "lon" : 2.4449970000000576 } },
+		{ "place" : "Aubière",
+		 "country" : "France",
+		 "location" : { "lat" :  45.751175, 
+			 "lon" : 3.110678000000007 } }
+	 ]
+} 
+ 

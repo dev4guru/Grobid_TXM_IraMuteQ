@@ -1,0 +1,13 @@
+{	 "idArt" : "754",
+	 "placeAut" : [ 
+		{ "place" : "Mont-Saint-Aignan",
+		 "country" : "France",
+		 "location" : { "lat" :  49.459778, 
+			 "lon" : 1.0797979999999825 } },
+		{ "place" : "Metz",
+		 "country" : "France",
+		 "location" : { "lat" :  49.1193089, 
+			 "lon" : 6.1757155999999895 } }
+	 ]
+} 
+ 

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/josuah/Bureau/grobid/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="fr">
+		<encodingDesc>
+			<appInfo>
+				<application version="0.5.5-SNAPSHOT" ident="GROBID" when="2019-04-04T12:42+0000">
+					<ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Une approche de réduction de dimensionnalité pour l&apos;agrégation de préférences qualitatives</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Quentin</forename><surname>Brabant</surname></persName>
+							<email>quentin.brabant@inria.fr</email>
+							<affiliation key="aff0">
+								<orgName type="laboratory">LAMSADE (CNRS -Université Paris-Dauphine) Place du Maréchal de Lattre de Tassigny</orgName>
+								<orgName type="institution">LORIA (CNRS -Inria Nancy Grand Est -Université de Lorraine) Équipe Orpailleur</orgName>
+								<address>
+									<addrLine>Bâtiment B, campus scientifique B.P. 239</addrLine>
+									<postCode>54506, 75016</postCode>
+									<settlement>Vandoeuvre-les-Nancy, Paris</settlement>
+									<country>France, France</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Miguel</forename><surname>Couceiro</surname></persName>
+							<email>miguel.couceiro@inria.fr</email>
+							<affiliation key="aff0">
+								<orgName type="laboratory">LAMSADE (CNRS -Université Paris-Dauphine) Place du Maréchal de Lattre de Tassigny</orgName>
+								<orgName type="institution">LORIA (CNRS -Inria Nancy Grand Est -Université de Lorraine) Équipe Orpailleur</orgName>
+								<address>
+									<addrLine>Bâtiment B, campus scientifique B.P. 239</addrLine>
+									<postCode>54506, 75016</postCode>
+									<settlement>Vandoeuvre-les-Nancy, Paris</settlement>
+									<country>France, France</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Fabien</forename><surname>Labernia</surname></persName>
+							<email>fabien.labernia@dauphine.fr</email>
+							<affiliation key="aff0">
+								<orgName type="laboratory">LAMSADE (CNRS -Université Paris-Dauphine) Place du Maréchal de Lattre de Tassigny</orgName>
+								<orgName type="institution">LORIA (CNRS -Inria Nancy Grand Est -Université de Lorraine) Équipe Orpailleur</orgName>
+								<address>
+									<addrLine>Bâtiment B, campus scientifique B.P. 239</addrLine>
+									<postCode>54506, 75016</postCode>
+									<settlement>Vandoeuvre-les-Nancy, Paris</settlement>
+									<country>France, France</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Amedeo</forename><surname>Napoli</surname></persName>
+							<email>amedeo.napoli@inria.fr</email>
+							<affiliation key="aff0">
+								<orgName type="laboratory">LAMSADE (CNRS -Université Paris-Dauphine) Place du Maréchal de Lattre de Tassigny</orgName>
+								<orgName type="institution">LORIA (CNRS -Inria Nancy Grand Est -Université de Lorraine) Équipe Orpailleur</orgName>
+								<address>
+									<addrLine>Bâtiment B, campus scientifique B.P. 239</addrLine>
+									<postCode>54506, 75016</postCode>
+									<settlement>Vandoeuvre-les-Nancy, Paris</settlement>
+									<country>France, France</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Une approche de réduction de dimensionnalité pour l&apos;agrégation de préférences qualitatives</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<abstract>
+				<p>Nous présentons une méthode de réduction de dimensionnalité pour des données de préférences multicritères lorsque l&apos;espace des évaluations est un treillis distributif borné. Cette méthode vise à réduire la complexité des procédures d&apos;apprentissage d&apos;un modèle d&apos;agrégation sur des données qualita-tives. Ainsi nous considérons comme modèle d&apos;agrégation l&apos;intégrale de Su-geno. L&apos;apprentissage d&apos;un tel modèle à partir de données empiriques est un problème d&apos;optimisation à 2 n paramètres (où n est le nombre de critères consi-dérés). La méthode de réduction que nous proposons s&apos;appuie sur l&apos;observation de certaines relations entre les éléments de ces données, et nous donnons des premiers résultats d&apos;applications.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="fr">
+	</text>
+</TEI>

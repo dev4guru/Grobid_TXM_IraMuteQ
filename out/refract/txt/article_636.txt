@@ -1,0 +1,1 @@
+Le logiciel présenté dans cet article s'appuie sur une approche d'acquisition de sigles à partir de données textuelles

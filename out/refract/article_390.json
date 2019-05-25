@@ -1,0 +1,22 @@
+{
+"year": "2010",
+"metaSession": "",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1001465",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1001465",
+"abstract": "",
+"title": "Apprentissage de spécifications de CSP",
+"placeAut":[{
+"place":"Orléans",
+"country":"France",
+"location":{
+	"lat":"47.902964",
+	"lon":"1.909251"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 36.4, u'lon': 10.616667}",
+"place": "Hammamet",
+"booktitle": "EGC",
+"idArt": "390",
+"authors": "['Matthieu Lopez','Lionel Martin']"
+}

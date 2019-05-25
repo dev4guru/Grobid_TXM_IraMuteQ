@@ -1,0 +1,15 @@
+{
+"idArt": "1141",
+"series": "Revue des Nouvelles Technologies de l'Information",
+"booktitle": "EGC",
+"year": "2016",
+"title": "Génération de contraintes pour le clustering à partir d'une ontologie - Application à la classification d'images satellites",
+"abstract": "L'utilisation des connaissances a priori peut fortement améliorer laclassification non-supervisée. L'injection de ces connaissances sous forme decontraintes sur les données figure parmi les techniques les plus efficaces de lalittérature. Cependant, la génération des contraintes est très coûteuse et demandel'intervention de l'expert ; la sémantique apportée par l'étiquetage de l'expertest aussi perdue dans ce type de techniques, seuls les contraintes sont retenuespar le clustering. Dans cet article, nous proposons une nouvelle approche hybrideexploitant le raisonnement à base d'ontologie pour générer automatiquementdes contraintes permettant de guider et améliorer le clustering. L'utilisationd'une ontologie comme connaissance a priori a plusieurs avantages. Elle permetl'interprétation automatisée des connaissances, ajoute de la modularité dans lachaîne de traitement et améliore la qualité du clustering en prenant en comptela vision de l'utilisateur. Pour évaluer notre approche, nous l'avons appliquée àla classification d'images satellites et les résultats obtenus démontrent des améliorationsnotables à la fois au niveau de la qualité du clustering et au niveau del'étiquetage sémantique des clusters sans intervention de l'expert.",
+"authors": "Hatim Chahdi, Nistor Grozavu, Isabelle Mougenot, Laure Berti-Equille, Younès Bennani",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1002158",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1002158",
+"metaSession": "2",
+"place": "Reims",
+"Latitude": " 49.258366 ",
+"Longitude": "4.031733"
+}

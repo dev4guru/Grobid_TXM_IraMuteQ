@@ -1,0 +1,13 @@
+{	 "idArt" : "99",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2014",
+	 "place" : "Rennes",
+	 "location" : { "lat" :  48.117266, 
+		 "lon" : -1.6777926 }, 
+	 "title" : "Dynamique des communautés par prédiction d'interactions dans les réseaux sociaux",
+	 "abstract" : "Dans cet article, nous proposons une approche générale de prédictiondes communautés basée sur un modèle d'apprentissage automatique pour la prédictiondes interactions. En effet, nous pensons que, si on peut prédire avec précisionla structure du réseau, alors on a juste à rechercher les communautés surle réseau prédit. Des expérimentations sur des jeux de données réels montrent lafaisabilité de cette approche.",
+	 "authors" : ["Blaise Ngonmang","Emmanuel Viennet"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1001977" 
+} 
+ 

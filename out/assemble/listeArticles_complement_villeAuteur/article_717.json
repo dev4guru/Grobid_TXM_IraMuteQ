@@ -1,0 +1,9 @@
+{	 "idArt" : "717",
+	 "placeAut" : [ 
+		{ "place" : "Regina",
+		 "country" : "Canada",
+		 "location" : { "lat" :  50.454722, 
+			 "lon" : -104.60666700000002 } }
+	 ]
+} 
+ 

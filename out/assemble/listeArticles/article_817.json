@@ -1,0 +1,14 @@
+{	 "idArt" : "817",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2006",
+	 "place" : "Lille",
+	 "location" : { "lat" :  50.62925, 
+		 "lon" : 3.057256 }, 
+	 "title" : "Fast-MGB : Nouvelle Base Générique Minimale de Règles Associatives",
+	 "abstract" : "Le problème de l'exploitation des règles associatives est devenu primordial,puisque le nombre des règles associatives extraites des jeux de donnéesréelles devient très élevé. Une solution possible consiste à ne dériver qu'unebase générique de règles associatives. Cet ensemble de taille réduite permet degénérer toutes les règles associatives via un système axiomatique adéquat. Danscet article, nous proposons une nouvelle approche FAST-MGB qui permet dedériver, directement à partir du contexte d'extraction formel, une base génériqueminimale de règles associatives.",
+	 "authors" : ["Cherif Chiraz Latiri","Lamia Ben Ghezaiel","Mohamed Ben Ahmed"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1000349" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1000349" 
+} 
+ 

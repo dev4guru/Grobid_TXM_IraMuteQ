@@ -1,0 +1,14 @@
+{	 "idArt" : "290",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2011",
+	 "place" : "Brest",
+	 "location" : { "lat" :  48.390394, 
+		 "lon" : -4.486076 }, 
+	 "title" : "Apprendre les contraintes topologiques dans les cartes auto-organisatrices",
+	 "abstract" : "La Carte Auto-Organisatrice (SOM : Self-Organizing Map) est une méthode populaire pour l'analyse de la structure d'un ensemble de données. Cependant, certaines contraintes topologiques de la SOM sont fixées avant l'apprentissage et peuvent ne pas être pertinentes pour la représentation de la structure des données. Dans cet article nous nous proposons d'améliorer les performances des SOM avec un nouvel algorithme qui apprend les contraintes topologiques de la carte à partir des données. Des expériences sur des bases de données artificielles et réelles montrent que l'algorithme proposé produit de meilleurs résultats que SOM classique. Ce n'est pas le cas avec une relaxation triviale des contraintes topologiques, qui résulte en une forte augmentation de l'erreur topologique de la carte.",
+	 "authors" : ["Guénaël Cabanes","Younès Bennani"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1000939" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1000939" 
+} 
+ 

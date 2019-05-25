@@ -1,0 +1,1 @@
+Dans ce papier, nous enrichissons la méthode Terminae de construction d'ontologie à partir de textes en proposant une semi-automatisation de la construction du modèle conceptuel. Nous présentons un algorithme permettant la conceptualisation d'un terme en s'appuyant sur les informations linguistiques contenues dans l'ontologie générique de référence.

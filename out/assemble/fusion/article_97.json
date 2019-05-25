@@ -1,0 +1,22 @@
+{
+"year": "2014",
+"metaSession": "",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1001964",
+"pdfarticle": "",
+"abstract": "Twitter est à l'heure actuelle un des réseau sociaux les plus utilisé aumonde et analyser les opinions qui y sont contenues permet de fournir de précieusesinformations notamment aux entreprises commerciales. Dans cet article,nous décrivons une méthode permettant de déterminer l'opinion d'un tweet endétectant dans un premier temps sa subjectivité, puis sa polarité.",
+"title": "Détection d'opinions dans des tweets",
+"placeAut":[{
+"place":"Saint-Étienne-du-Rouvray",
+"country":"France",
+"location":{
+	"lat":"49.380305",
+	"lon":"1.108209"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 48.117266, u'lon': -1.6777926}",
+"place": "Rennes",
+"booktitle": "EGC",
+"idArt": "97",
+"authors": "['Caroline Collet','Alexandre Pauchet','Laurent Vercouter','Khaled Khelif']"
+}

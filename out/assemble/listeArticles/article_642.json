@@ -1,0 +1,14 @@
+{	 "idArt" : "642",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC ",
+	 "year" : "2008",
+	 "place" : "Sophia Antipolis",
+	 "location" : { "lat" :  43.6163539, 
+		 "lon" : 7.0552218 }, 
+	 "title" : "Recherche d'information personnalisée dans les bibliothèques numériques scientifiques",
+	 "abstract" : "Dans cet article nous présentons nos travaux sur la recherche d'information personnalisée dans les bibliothèques numériques. Nous utilisons des profils utilisateurs qui représentent des intérêts et des préférences des utilisateurs. Les résultats de recherche peuvent être retriés en tenant compte des besoins d'informations spécifiques de différentes personnes, ce qui donne une meilleure précision. Nous étudions différentes méthodes basées sur les citations, sur le contenu textuel des documents et des approches hybrides. Les résultats des expérimentations montrent que nos approches sont efficaces et applicables dans le cadre des bibliothèques numériques.",
+	 "authors" : ["Thanh-Trung Van","Michel Beigbeder"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1000556" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1000556" 
+} 
+ 

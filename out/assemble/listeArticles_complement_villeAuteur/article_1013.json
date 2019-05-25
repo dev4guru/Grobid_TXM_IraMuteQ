@@ -1,0 +1,9 @@
+{	 "idArt" : "1013",
+	 "placeAut" : [ 
+		{ "place" : "La-Rochelle",
+		 "country" : "France",
+		 "location" : { "lat" :  46.160329, 
+			 "lon" : -1.1511390000000574 } }
+	 ]
+} 
+ 

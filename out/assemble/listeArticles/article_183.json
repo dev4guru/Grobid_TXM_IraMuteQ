@@ -1,0 +1,13 @@
+{	 "idArt" : "183",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2013",
+	 "place" : "Toulouse",
+	 "location" : { "lat" :  43.604652, 
+		 "lon" : 1.444209 }, 
+	 "title" : "Identification de complexes protéine-protéine par combinaison de classifieurs. Application à Escherichia Coli",
+	 "abstract" : "Nous proposons une approche permettant de prédire des complexes impliquant trois protéines (appelés trimères) à partir de combinaison de classifieurs appris sur des complexes n'impliquant que deux protéines (dimères). La prédiction de ces trimères repose sur deux hypothèses biologiques : (i) deux protéines orthologues présentent des caractéristiques fonctionnelles similaires; (ii) deux protéines interagissant sous la forme d'un complexe sous-tendent une fonction biologique essentielle à l'espèce concernée. Ces deux hypothèses sont exploitées pour décrire chaque paire de protéines par l'ensemble des espèces pour lesquelles elles possèdent un orthologue. Un ensemble de mesures de qualité classiquement utilisées pour évaluer l'intérêt des règles d'association est utilisé pour évaluer la force du lien entre les deux protéines. L'organisme modèle Escherichia Coli a été utilisé pour évaluer notre approche.",
+	 "authors" : ["Thomas Bourquard","Damien M. de Vienne","Jérôme Azé"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1001863" 
+} 
+ 

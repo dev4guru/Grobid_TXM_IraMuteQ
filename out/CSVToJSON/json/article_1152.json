@@ -1,0 +1,15 @@
+{
+"idArt": "1152",
+"series": "Revue des Nouvelles Technologies de l'Information",
+"booktitle": "EGC",
+"year": "2016",
+"title": "Manipulation interactive d'ensemble de motifs : application aux parcours hospitaliers",
+"abstract": "Dans cette démonstration, nous proposons une application de visualisationdes résultats de la fouille de données séquentielles. Pour illustrer le fonctionnementde cette application, nous avons utilisé des données PMSI hospitalières,plus précisément dans le cas de l'infarctus du myocarde (IM). Les résultatsobtenus ont été soumis à un spécialiste pour discussion et validation.",
+"authors": "Yves Mercadier, Jessica Pinaire, Jérôme Azé, Sandra Bringay, Maguelonne Teisseire",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1002200",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1002200",
+"metaSession": "11",
+"place": "Reims",
+"Latitude": " 49.258377 ",
+"Longitude": "4.031744"
+}

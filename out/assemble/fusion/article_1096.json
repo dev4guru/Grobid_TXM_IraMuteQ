@@ -1,0 +1,22 @@
+{
+"year": "2004",
+"metaSession": "1",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1001062",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1001062",
+"abstract": "Le traitement de grand volume de données est un problème pour l'extraction de connaissances. La fouille de données nécessite des méthodes de résolution efficaces. Le treillis de concepts (treillis de Galois) est un outil utile pour l'analyse de données. Des travaux en classification et sur les règles d'association ont permis d'accroître son intérêt. Plusieurs algorithmes de génération on été proposés, parmi lesquels NextClosure est l'un des meilleurs pour traiter des données de grande taille.Mais la complexité de NextClosure reste malgré tout très élevé. Aussi nous proposons un nouvel algorithme efficace nommé ScalingNextClosure, et basé sur une méthode de partitionnement de données pour générer de manière indépendante les itemsets fermés de chaque partition. Les résultats expérimentaux montrer que cette technique de partitionnement améliore efficacement NextClosure.",
+"title": "Un algorithme de génération des itemsets fermés pour la fouille de données",
+"placeAut":[{
+"place":"Lens",
+"country":"France",
+"location":{
+	"lat":"50.42893",
+	"lon":"2.83183"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 45.77722199999999, u'lon': 3.087025}",
+"place": "Clermont-Ferrand",
+"booktitle": "EGC",
+"idArt": "1096",
+"authors": "['Engelbert Mephu Nguifo','Huaiguo Fu']"
+}

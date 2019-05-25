@@ -1,0 +1,13 @@
+{	 "idArt" : "35",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2015",
+	 "place" : "Luxembourg",
+	 "location" : { "lat" :  49.815273, 
+		 "lon" : 6.129582999999999 }, 
+	 "title" : "LeveragingWeb 2.0 for Informed Real-Estate Services",
+	 "abstract" : "The perception about real estate properties, both for individuals and agents, is not formed exclusively by their intrinsic characteristics, such as surface and age, but also from property externalities, such as pollution, traffic congestion, criminality rates, proximity to playgrounds, schools and stimulating social interactions that are equally important. In this paper, we present the Real-Estate 2.0 System that in contrary to existing Real-Estate e-services and applications, takes also into account important externalities. By leveraging Web 2.0 (content from Social Networks, POI listings) applications and Open Data enables the thorough analysis of the current physical and social context of the property, the context-based objective valuation of RE properties, along with an advanced property search and selection experience that unveils otherwise hidden property features and significantly reduces user effort and time spent in their RE quest. The system encompasses the above to provide services which assist individuals and agents in making more informed and sound RE decisions.",
+	 "authors" : ["Papantoniou Katerina","Athanasiadis Marios - Lazaros","Fundulaki Irini","Georgis Christos","Stavrakas Yannis","Troullinos Michalis","Tsitsanis Anastasios"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1002105" 
+} 
+ 

@@ -1,0 +1,15 @@
+{
+"idArt": "1301",
+"series": "Revue des Nouvelles Technologies de l'Information",
+"booktitle": "EGC",
+"year": "2018",
+"title": "Mean-shift : Clustering scalable et distribué",
+"abstract": "Nous présentons dans ce papier un nouvel algorithme Mean-Shift utilisantles K-plus proches voisins pour la montée du gradient (NNMS : NearestNeighbours Mean Shift). Le coût computationnel intensif de ce dernier a longtempslimité son utilisation sur des jeux de données complexes où un partitionnementen clusters non ellipsoïdaux serait bénéfique. Or, une implémentationscalable de l'algorithme ne compense pas l'augmentation du temps d'exécutionen fonction de la taille du jeu de données en raison de sa complexité quadratique.Afin de pallier, ce problème nous avons introduit le "Locality SensitiveHashing" (LSH) qui est une approximation de la recherche des K-plus prochesvoisins ainsi qu'une règle empirique pour le choix du K. La combinaison de cesaméliorations au sein du NNMS offre l'opportunité d'un traitement pertinentaux problématiques du clustering appliquée aux données massives.",
+"authors": "Gaël Beck, Hanane Azzag, Mustapha Lebbah, Tarn Duong",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1002420",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1002420",
+"metaSession": "8",
+"place": "Paris",
+"Latitude": " 48.8575 ",
+"Longitude": "2.3529"
+}

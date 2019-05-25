@@ -1,0 +1,15 @@
+{
+"idArt": "1229",
+"series": "Revue des Nouvelles Technologies de l'Information",
+"booktitle": "EGC",
+"year": "2017",
+"title": "Nouveau modèle pour un passage à l'échelle de la 0-subsomption",
+"abstract": "Le test de -subsomption, opération fondamentale en ProgrammationLogique Inductive (PLI) pour tester la validité d'une hypothèse sur les exemples,est particulièrement coûteux. Ainsi, les systèmes d'apprentissage de PLI les plusrécents ne passent pas à l'échelle. Nous proposons donc un nouveau modèle de-subsomption fondé sur un réseau d'acteurs, dans le but de pouvoir décider lasubsomption sur de très grandes clauses.",
+"authors": "Hippolyte Léger, Dominique Bouthinon, Mustapha Lebbah, Hanane Azzag",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1002295",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1002295",
+"metaSession": "Syst�mes distribu�s",
+"place": "Grenoble",
+"Latitude": " 45.188570 ",
+"Longitude": "5.724565"
+}

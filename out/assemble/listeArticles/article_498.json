@@ -1,0 +1,14 @@
+{	 "idArt" : "498",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2009",
+	 "place" : "Strasbourg",
+	 "location" : { "lat" :  48.5734053, 
+		 "lon" : 7.752111299999999 }, 
+	 "title" : "Analyse de données pour la construction de modèles de procédures neurochirurgicales",
+	 "abstract" : "Dans cet article, nous appliquons une méthode d'analyse sur desdescriptions de procédures de neurochirurgie dans le but d'en améliorer lacompréhension. La base de données XML utilisée dans cette étude estconstituée de la description de 157 chirurgies de tumeurs. Trois cent vingtdeux variables ont été identifiées et décomposées en variables prédictives(connues avant l'opération) et variables à prédire (décrivant des gesteschirurgicaux). Une analyse factorielle des correspondances (AFC) a étéréalisée sur les variables prédictives, ainsi qu'un arbre de décision basé sur undendrogramme préalablement établi. Six classes principales de variablesprédictives ont ainsi été identifiées. Puis, pour chacune de ces classes, uneanalyse AFC a été réalisée sur les variables à prédire, ainsi qu'un arbre dedécision. Bien que le nombre de cas et le choix des variables constituent unelimite à cette étude, nous avons réussi à prédire certaines caractéristiques liéesaux procédures en partant de données prédictives.",
+	 "authors" : ["Brivael Trelhu","Florent Lalys","Laurent Riffaud","Xavier Morandi","Pierre Jannin"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1000789" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1000789" 
+} 
+ 

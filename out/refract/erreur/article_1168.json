@@ -1,0 +1,15 @@
+{
+"idArt": "1168",
+"series": "Revue des Nouvelles Technologies de l'Information",
+"booktitle": "EGC",
+"year": "2016",
+"title": "Slider : un Raisonneur Incrémental Évolutif",
+"abstract": "The main drawbacks of current reasoning methods over ontologies are they struggle toprovide scalability for large datasets. The batch processing reasoners who provide the bestscalability so far are unable to infer knowledge from evolving data. We contribute to solvingthese problems by introducing Slider, an efficient incremental reasoner. Slider exhibits a performanceimprovement by more than a 70% compared to the OWLIM-SE reasoner. Slider isconceived to handle expanding data from streams with a growing background knowledge base.It natively supports df and RDFS, and its architecture allows to extend it to more complexfragments with a minimal effort.",
+"authors": "Jules Chevalier, Julien Subercaze, Christophe Gravier, Frédérique Laforest",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1002219",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1002219",
+"metaSession": "11",
+"place": "Reims",
+"Latitude": " 49.258393 ",
+"Longitude": "4.031760"
+}

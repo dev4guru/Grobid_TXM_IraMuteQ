@@ -1,0 +1,1 @@
+Our work consists in developing a workflow using Knowledge Discovery methodologiesto propose advanced predictive biomarkers discovery solutions from metabolomic data. Wepropose to use machine learning algorithms for feature selection and FCA for visualization.

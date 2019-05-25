@@ -1,0 +1,14 @@
+{	 "idArt" : "1069",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2004",
+	 "place" : "Clermont-Ferrand",
+	 "location" : { "lat" :  45.77722199999999, 
+		 "lon" : 3.087025 }, 
+	 "title" : "Mesurer les usages d'internet",
+	 "abstract" : "Nous rendons compte d'une démarche mise en place pour construire une représentation fine des usages d'internet et de leur évolution, en procédant à du traitement secondaire de données de trafic, provenant de panels représentatifs d'internautes. Après avoir présenté les caractéristiques des cohortes étudiées et les différents modes d'enrichissement des données de trafic mis en place, nous présentons quelques résultats construits à partir de ces données enrichies, et en particulier une segmentation des internautes construite sur la base de l'entrelacement des pratiques de communication et de navigation.",
+	 "authors" : ["Valérie Beaudouin"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1000887" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1000887" 
+} 
+ 

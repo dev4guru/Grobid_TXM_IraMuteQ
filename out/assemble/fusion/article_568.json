@@ -1,0 +1,22 @@
+{
+"year": "2009",
+"metaSession": "5",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1000773",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1000773",
+"abstract": "Nous nous intéressons à l'utilisation de l'Analyse Factorielle des Cor-respondances (AFC) pour la recherche d'images par le contenu dans une base dedonnées d'images volumineuse. Nous adaptons l'AFC, méthode originellementdéveloppée pour l'Analyse des Données Textuelles (ADT), aux images en utili-sant des descripteurs locaux SIFT. En ADT, l'AFC permet de réduire le nombrede dimensions et de trouver des thèmes. Ici, l'AFC nous permettra de limiter lenombre d'images à examiner au cours de la recherche afin d'accélérer le tempsde réponse pour une requête. Pour traiter de grandes bases d'images, nous pro-posons une version incrémentale de l'algorithme AFC. Ce nouvel algorithmedécoupe une base d'images en blocs et les charge dans la mémoire l'un aprèsl'autre. Nous présentons aussi l'intégration des informations contextuelles (e.g.la Mesure de Dissimilarité Contextuelle (Jegou et al., 2007)) dans notre structurede recherche d'images. Cela améliore considérablement la précision. Nous ex-ploitons cette intégration dans deux axes: (i) hors ligne (la structure de voisinageest corrigée hors ligne) et (ii) à la volée (la structure de voisinage des images estcorrigée au cours de la recherche sur un petit ensemble d'images).",
+"title": "Utilisation de l'analyse factorielle des correspondances pour la recherche d'images à grande échelle",
+"placeAut":[{
+"place":"Rennes",
+"country":"France",
+"location":{
+	"lat":"48.117266",
+	"lon":"-1.6777926"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 48.5734053, u'lon': 7.752111299999999}",
+"place": "Strasbourg",
+"booktitle": "EGC",
+"idArt": "568",
+"authors": "['Nguyen-Khang Pham','Annie Morin','Patrick Gros','Quyet-Thang Le']"
+}

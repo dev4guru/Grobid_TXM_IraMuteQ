@@ -1,0 +1,22 @@
+{
+"year": "2013",
+"metaSession": "2",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1001823",
+"pdfarticle": "",
+"abstract": "La sélection des variables a un rôle très important dans la fouille de données lorsqu'un grand nombre de variables est disponible. Ainsi, certaines variables peuvent être peu significatives, corrélées ou non pertinentes. Une méthode de sélection a pour objectif de mesurer la pertinence d'un ensemble utilisant principalement un critère d'évaluation. Nous présentons dans cet article un critère non supervisé permettant de mesurer la pertinence d'un sous-ensemble de variables. Ce dernier repose sur l'utilisation du score Laplacien auquel nous avons ajouté des contraintes hiérarchiques. Travailler dans le cadre non supervisé est un vrai challenge dans ce domaine dû à l'absence des étiquettes de classes. Les résultats obtenus sur plusieurs bases de tests sont très encourageants et prometteurs.",
+"title": "Sélection de variables non supervisée sous contraintes hiérarchiques",
+"placeAut":[{
+"place":"Paris",
+"country":"France",
+"location":{
+	"lat":"48.856614",
+	"lon":"2.3522219"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 43.604652, u'lon': 1.444209}",
+"place": "Toulouse",
+"booktitle": "EGC",
+"idArt": "194",
+"authors": "['Nhat-Quang Doan','Hanane Azzag','Mustapha Lebbah']"
+}

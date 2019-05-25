@@ -1,0 +1,14 @@
+{	 "idArt" : "701",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2007",
+	 "place" : "Namur",
+	 "location" : { "lat" :  50.4673883, 
+		 "lon" : 4.8719854 }, 
+	 "title" : "Détermination du niveau de consommation des abonnés en téléphonie mobile par la théorie des ensembles flous",
+	 "abstract" : "La détermination du niveau de consommation chez les clients est essentielle pour tout objectif de segmentation stratégique et de churn. Nous présentons sur un cas réel l'utilisation de la théorie des ensembles flous pour la définition d'une fonction d'appartenance permettant d'évaluer, de manière précise, le niveau de consommation, des abonnés en téléphonie mobile.",
+	 "authors" : ["Rachid El Meziane","Ilham Berrada","Ismail Kassou","Karim Baïna"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1001378" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1001378" 
+} 
+ 

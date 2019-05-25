@@ -1,0 +1,22 @@
+{
+"year": "2007",
+"metaSession": "2",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1001424",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1001424",
+"abstract": "Cet article traite de la validation de règles dans un contexte de ciblage où il s'agit de déterminer les profils type des différentes valeurs de la variable à prédire. Les concepts de l'analyse statistique implicative fondée sur la différence entre nombre observé de contre-exemples et nombre moyen que produirait le hasard, s'avèrent particulièrement bien adaptés à ce contexte. Le papier montre comment les notions d'indice et d'intensité d'implication de Gras s'appliquent aux règles produites par les arbres de décision et présente des alternatives inspirées de résidus utilisés en modélisation de tables de contingence. Nous discutons ensuite sur un jeu de données réelles deux usages de ces indicateurs de force d'implication pour les règles issues d'arbres. Il s'agit d'une part de l'évaluation individuelle des règles, et d'autre part de leur utilisation comme critère pour le choix de la conclusion de la règle.",
+"title": "Choix des conclusions et validation des règles issues d'arbres de classification",
+"placeAut":[{
+"place":"Bron",
+"country":"France",
+"location":{
+	"lat":"45.733316",
+	"lon":"4.911927"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 50.4673883, u'lon': 4.8719854}",
+"place": "Namur",
+"booktitle": "EGC",
+"idArt": "688",
+"authors": "['Vincent Pisetta','Gilbert Ritschard','Djamel Abdelkader Zighed']"
+}

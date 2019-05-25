@@ -1,0 +1,22 @@
+{
+"year": "2007",
+"metaSession": "5",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1001438",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1001438",
+"abstract": "Afin de comparer l'organisation sociale d'une paysannerie médiévale avant et après la guerre de Cent Ans nous étudions la structure de réseaux sociaux construits à partir d'un corpus de contrats agraires. Faibles diamètres et fort clustering révèlent des graphes en petit monde. Comme beaucoup de grands réseaux d'interaction étudiés ces dernières années ces graphes sont sans échelle typique. Les distributions des degrés de leurs sommets sont bien ajustées par une loi de puissance tronquée par une coupure exponentielle. Ils possèdent en outre un club-huppé, c'est à dire un noyau dense et de faible diamètre regroupant les individus à forts degrés. La forme particulière des éléments propres du laplacien permet d'extraire des communautés qui se répartissent en étoile autour du club huppé.",
+"title": "Partitionnement d'un réseau de sociabilité à fort coefficient de clustering",
+"placeAut":[{
+"place":"Toulouse",
+"country":"France",
+"location":{
+	"lat":"43.604652",
+	"lon":"1.444209"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 50.4673883, u'lon': 4.8719854}",
+"place": "Namur",
+"booktitle": "EGC",
+"idArt": "729",
+"authors": "['Romain Boulet','Bertrand Jouve']"
+}

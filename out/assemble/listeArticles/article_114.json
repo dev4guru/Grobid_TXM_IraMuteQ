@@ -1,0 +1,13 @@
+{	 "idArt" : "114",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2014",
+	 "place" : "Rennes",
+	 "location" : { "lat" :  48.117266, 
+		 "lon" : -1.6777926 }, 
+	 "title" : "Intégration de plusieurs formes de représentations spatiales dans un modèle de simulation",
+	 "abstract" : "In this paper, we focus on modeling expert knowledge for simulating complex landscapespatial dynamics. One modeling tool to do that is the Ocelet modeling language that usesinteraction graphs to describe spatial dynamics. Most present approaches impose an a priorichoice of spatial format between: (i) a vector format representing the shapes of the entities, or(ii) a gridding of space into regular elements (raster). In this paper we show how Ocelet wasextended to support the interaction semantics between these two spatial formats (vector andraster). As case study, we present a runoff model in a tropical insular environment.",
+	 "authors" : ["Mathieu Castets","Pascal Degenne","Danny Lo Seen","Pascal Poncelet"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1001988" 
+} 
+ 

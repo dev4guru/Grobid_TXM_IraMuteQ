@@ -1,0 +1,13 @@
+{	 "idArt" : "303",
+	 "placeAut" : [ 
+		{ "place" : "Illkirch",
+		 "country" : "France",
+		 "location" : { "lat" :  48.52854, 
+			 "lon" : 7.711010999999985 } },
+		{ "place" : "Sophia Antipolis",
+		 "country" : "France",
+		 "location" : { "lat" :  43.6163539, 
+			 "lon" : 7.055221800000027 } }
+	 ]
+} 
+ 

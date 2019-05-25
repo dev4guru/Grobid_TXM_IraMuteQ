@@ -1,0 +1,22 @@
+{
+"year": "2004",
+"metaSession": "8",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1000904",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1000904",
+"abstract": "Dans le contexte des entrepôts de données, et des magasins de données multidimensionnelles, les outils OLAP fournissent des moyens aux utilisateurs de naviguer dans leur données afin d'y découvrir des informations pertinentes. cependant, les données à traiter sons souvent très volumineuses et ne permettent pas une exploration systématique et exhaustive. Il s'agit donc de développer des traitements automatisés facilitant la visualisation et la navigation dans les données. Dans cet article, nous étudions une méthode originale permettant de construire et d'identifier de manière automatique et efficace des blocs de données similaires présents dans les cubes de données pouvant être exprimés sous la forme de règles. Cette méthode est fondée sur l'utilisation combinée d'un algorithme par niveaux (de type Apriori) et de la théorie des sous-ensembles flous. Cette théorie nous permet en effet de pallier les problèmes posés par le fait que les blocs de données calculés par notre algorithme peuvent se recouvrir.",
+"title": "Résumé de cubes de données multidimensionnelles à l'aide de règles floues",
+"placeAut":[{
+"place":"Kuala Lumpur",
+"country":"Malaysie",
+"location":{
+	"lat":"3.139003",
+	"lon":"101.686855"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 45.77722199999999, u'lon': 3.087025}",
+"place": "Clermont-Ferrand",
+"booktitle": "EGC",
+"idArt": "1091",
+"authors": "['Yeow Wei Choong','Anne Laurent','Dominique Laurent','Pierre Maussion']"
+}

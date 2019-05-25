@@ -1,0 +1,15 @@
+{
+"idArt": "1188",
+"series": "Revue des Nouvelles Technologies de l'Information",
+"booktitle": "EGC",
+"year": "2017",
+"title": "A Hybrid Approach for Detecting Influencers in Social Media",
+"abstract": "La détection d'influenceurs dans les réseaux sociaux s'appuie généra-lement sur une structure de graphe représentant les utilisateurs et leurs interac-tions. Récemment, cette tâche a tenu compte, en sus de la structure du graphe,du contenu textuel généré par les utilisateurs. Notre approche s'inscrit dans cettelignée : des informations sont extraites du contenu textuel par des règles linguis-tiques puis sont intégrées dans un système d'apprentissage automatique. Nousmontrerons le prototype développé et son interface de visualisation qui facilitel'interprétation des résultats.",
+"authors": "Ioannis Partalas, Cédric Lopez, Pierre-Alain Avouac, Matthieu Osmuk, Domoina Rabarijaona, Dana Popovici, Frédérique Segond",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1002325",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1002325",
+"metaSession": "11",
+"place": "Grenoble",
+"Latitude": " 45.188529 ",
+"Longitude": "5.724524"
+}

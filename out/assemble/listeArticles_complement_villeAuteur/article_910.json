@@ -1,0 +1,9 @@
+{	 "idArt" : "910",
+	 "placeAut" : [ 
+		{ "place" : "Saint-Denis",
+		 "country" : "France",
+		 "location" : { "lat" :  48.936181, 
+			 "lon" : 2.3574429999999893 } }
+	 ]
+} 
+ 

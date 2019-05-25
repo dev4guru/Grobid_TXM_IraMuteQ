@@ -1,0 +1,14 @@
+{	 "idArt" : "592",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC ",
+	 "year" : "2008",
+	 "place" : "Sophia Antipolis",
+	 "location" : { "lat" :  43.6163539, 
+		 "lon" : 7.0552218 }, 
+	 "title" : "Discretization of Continuous Features by Resampling",
+	 "abstract" : "Les arbres de décision sont largement utilisés pour générer des classificateurs à partir d'un ensemble de données. Le processus de construction est une partitionnement récursif de l'ensemble d'apprentissage. Dans ce contexte, les attributs continus sont discrétisés. Il s'agit alors, pour chaque variable à discrétiser de trouver l'ensemble des points de coupure. Dans ce papier nous montrons que la recherche des ces points de coupure par une méthode de ré-échantillonnage, comme le BOOTSTRAP conduit à des meilleurs résultats. Nous avons testé cette approche avec les méthodes principales de discrétisation comme MDLPC, FUSBIN, FUSINTER, CONTRAST, Chi-Merge et les résultats sont systématiquement meilleurs en utilisant le bootstrap. Nous exposons ces principaux résultats et ouvrons de nouvelles pistes pour la construction d'arbres de décision.",
+	 "authors" : ["Taimur Qureshi","Djamel Abdelkader Zighed"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1000622" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1000622" 
+} 
+ 

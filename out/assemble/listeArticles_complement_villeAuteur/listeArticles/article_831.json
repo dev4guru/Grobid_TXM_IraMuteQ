@@ -1,0 +1,14 @@
+{	 "idArt" : "831",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2006",
+	 "place" : "Lille",
+	 "location" : { "lat" :  50.62925, 
+		 "lon" : 3.057256 }, 
+	 "title" : "Modèle décisionnel basé sur la qualité des données pour sélectionner les règles d'associations légitimement intéressantes",
+	 "abstract" : "Dans cet article nous proposons d'exploiter des mesures décrivant laqualité des données pour définir la qualité des règles d'associations résultantd'un processus de fouille. Nous proposons un modèle décisionnel probabilistebasé sur le coût de la sélection de règles légitimement, potentiellement intéressantesou inintéressantes si la qualité des données à l'origine de leur calcul estbonne, moyenne ou douteuse. Les expériences sur les données de KDD-CUP-98 montrent que les 10 meilleures règles sélectionnées d'après leurs mesuresde support et confiance ne sont intéressantes que dans le cas où la qualité deleurs données est correcte voire améliorée.",
+	 "authors" : ["Laure Berti-Equille"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1000410" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1000410" 
+} 
+ 

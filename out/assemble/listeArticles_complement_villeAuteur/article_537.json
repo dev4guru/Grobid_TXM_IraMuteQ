@@ -1,0 +1,13 @@
+{	 "idArt" : "537",
+	 "placeAut" : [ 
+		{ "place" : "Besançon",
+		 "country" : "France",
+		 "location" : { "lat" :  47.237829, 
+			 "lon" : 6.024053900000013 } },
+		{ "place" : "Vandoeuvre Lès-Nancy",
+		 "country" : "France",
+		 "location" : { "lat" :  48.66111799999999, 
+			 "lon" : 6.173760000000016 } }
+	 ]
+} 
+ 

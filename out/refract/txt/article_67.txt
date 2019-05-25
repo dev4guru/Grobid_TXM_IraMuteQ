@@ -1,0 +1,1 @@
+The Competitive Intelligence System Xplor EveryWhere helps searching, visualizing, and sharing useful data. In this paper, we will intorduce Xplor EveryWhere and its newest feature called XEWGraph, which is dedicated to the analysis of massive data and visualization of hypergraphs.

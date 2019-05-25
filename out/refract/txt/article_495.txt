@@ -1,0 +1,1 @@
+Structures heterogeneity in Web resources is a constant concern inelement retrieval (i.e. tag retrieval in semi-structured documents). In this paperwe present the SHIRI 1 querying approach which allows to reach more or lessstructured document parts without an a priori knowledge on their structuring.

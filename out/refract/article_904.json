@@ -1,0 +1,22 @@
+{
+"year": "2005",
+"metaSession": "",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1000238",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1000238",
+"abstract": "Nous présentons dans ce travail un outil pour la mesure d'audiencesur Internet, reposant sur l'extraction de profils de navigation représentatifs del'activité des internautes sur les sites. Ces profils sont obtenus par l'applicationd'un algorithme de classification non supervisée - inspiré du système dereconnaissance chimique des fourmis - sur des sessions de navigationsconstruites à partir des fichiers log du site étudié. Cet algorithme declassification a été associé à une représentation multimodale des sessionsutilisateurs permettant d'employer l'ensemble des informations à dispositiondans les fichiers log (impacts sur les pages, heure de connexion, durée,séquence des pages, ...), ainsi qu'à une mesure de similarité adaptée pour créerles profils de chacun des clusters obtenus. Il reste cependant d'autres modalités(basées sur le contenu des documents accédés) qui pourraient améliorer lacapacité de l'outil à donner du sens aux profils découverts.",
+"title": "Mesure d'audience sur Internet par populations de fourmis artificielles",
+"placeAut":[{
+"place":"Paris",
+"country":"France",
+"location":{
+	"lat":"48.856614",
+	"lon":"2.3522219"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 48.856614, u'lon': 2.3522219}",
+"place": "Paris",
+"booktitle": "AEGC",
+"idArt": "904",
+"authors": "Nicolas Labroche"
+}

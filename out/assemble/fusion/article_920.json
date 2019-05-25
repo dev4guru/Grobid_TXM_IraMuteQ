@@ -1,0 +1,22 @@
+{
+"year": "2005",
+"metaSession": "",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1001498",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1001498",
+"abstract": "",
+"title": "Sélection d'attributs en fouille de données sur grilles",
+"placeAut":[{
+"place":"Villeneuve-dAscq",
+"country":"France",
+"location":{
+	"lat":"50.6232523",
+	"lon":"3.1442651"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 48.856614, u'lon': 2.3522219}",
+"place": "Paris",
+"booktitle": "AEGC",
+"idArt": "920",
+"authors": "['Sébastien Cahon','Nouredine Melab','El-Ghazali Talbi']"
+}

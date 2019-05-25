@@ -1,0 +1,14 @@
+{	 "idArt" : "1014",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2005",
+	 "place" : "Paris",
+	 "location" : { "lat" :  48.856614, 
+		 "lon" : 2.3522219 }, 
+	 "title" : "Un système d'aide à la navigation dans des hypermédias",
+	 "abstract" : "Avec le développement d'Internet et d'applications hypermédias, la construction et l'exploitation de profils ou modèles des utilisateurs deviennent capitaux dans de nombreux domaines. Pouvoir cibler un utilisateur d'un hypermédia ou d'un site web afin de lui proposer ce qu'il attend devient essentiel, par exemple lorsque l'on veut lui présenter les produits qu'il est le plus susceptible d'acheter, ou bien plus généralement à chaque fois que l'on veut éviter de noyer l'utilisateur dans un flot d'informations. Nous présentons un système d'aide à la navigation, intégrant un système de modélisation du comportement de navigation et un stratège qui met en oeuvre, en fonction du comportement détecté, une aide visant à recommander des liens particuliers.",
+	 "authors" : ["Julien Blanchard","Bertrand Petitjean","Thierry Artières","Patrick Gallinari"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1000272" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1000272" 
+} 
+ 

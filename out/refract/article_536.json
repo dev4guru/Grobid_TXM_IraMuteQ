@@ -1,0 +1,22 @@
+{
+"year": "2009",
+"metaSession": "3",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1000760",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1000760",
+"abstract": "La classification supervisée est une tâche de fouille de données (DataMining), qui consiste à construire un classifieur à partir d'un ensemble d'exemplesétiquetés par des classes (phase d'apprentissage) et ensuite prédire les classesdes nouveaux exemples avec ce classifieur (phase de classification). En classi-fication supervisée, plusieurs approches ont été proposées dont l'approche ba-sée sur l'Analyse de Concepts Formels. L'apprentissage de Concepts Formelsest basé généralement sur la structure mathématique du treillis de Galois (outreillis de concepts). Cependant, la complexité exponentielle de génération d'untreillis de Galois a limité les champs d'application de ces systèmes. Dans cetarticle, nous présentons plusieurs méthodes de classification supervisée baséessur l'Analyse de Concepts Formels. Nous présentons aussi le boosting (dopage)de classifieurs, une technique de classification innovante. Enfin, nous proposonsle boosting de concepts formels, une nouvelle méthode adaptative qui construitseulement une partie du treillis englobant les meilleurs concepts. Ces conceptssont utilisés comme étant des règles de classification. Les résultats expérimen-taux réalisés ont prouvé l'intérêt de la méthode proposée par rapport à cellesexistantes.",
+"title": "Générer des règles de classification par Dopage de Concepts Formels",
+"placeAut":[{
+"place":"Tunis",
+"country":"Tunisie",
+"location":{
+	"lat":"36.8064948",
+	"lon":"10.1815316"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 48.5734053, u'lon': 7.752111299999999}",
+"place": "Strasbourg",
+"booktitle": "EGC",
+"idArt": "536",
+"authors": "['Mondher Maddouri','Nida Meddouri']"
+}

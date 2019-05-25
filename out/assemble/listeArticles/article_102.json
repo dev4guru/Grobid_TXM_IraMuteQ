@@ -1,0 +1,13 @@
+{	 "idArt" : "102",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2014",
+	 "place" : "Rennes",
+	 "location" : { "lat" :  48.117266, 
+		 "lon" : -1.6777926 }, 
+	 "title" : "Extension de l'étiquetage géographique des pixels d'une image par fouille de données",
+	 "abstract" : "Les techniques de classification modernes permettent d'étiqueter leszones non couvertes des bases de données cartographiques, mais souffrent d'unmanque de robustesse important. Dans cet article, nous proposons une méthoderobuste d'extension d'étiquetage sur l'emprise d'une image satellite, par analysehiérarchique des données existantes. Notre approche est fondée sur une sélectiond'attributs par thème de la base de données, une sélection des pixels d'apprentissageet des classifications par objet de chaque thème. La décision finaled'étiquetage est prise après fusion des classifications par thème. Notre méthodeest appliquée avec succès et comparée à plusieurs méthodes de classification,couplant données d'occupation du sol et imagerie spatiale très haute résolution.",
+	 "authors" : ["Adrien Gressin","Nicole Vincent","Clément Mallet","Nicolas Paparoditis"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1001966" 
+} 
+ 

@@ -1,0 +1,14 @@
+{	 "idArt" : "397",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2010",
+	 "place" : "Hammamet",
+	 "location" : { "lat" :  36.4, 
+		 "lon" : 10.616667 }, 
+	 "title" : "CARTOCEL : Un outil de cartographie des connaissances guidée par la machine cellulaire CASI",
+	 "abstract" : "Nous présentons, dans ce papier, l'outil CARTOCEL (CARTOgraphiesCELlulaires) permettant une visualisation automatique et dynamique desdomaines de connaissances. Le fonctionnement de CARTOCEL est basé surune approche originale de modélisation booléenne de la cartographie des domainesde connaissances métiers/stratégiques inspirée du principe de la machinecellulaire CASI (Cellular Automata for Symbolic Induction). Le but,après une modélisation booléenne de la cartographie des domaines de connaissances,est double : d'une part affiner la cartographie par une fouille de donnéeorchestrée par CASI, et d'autre part réduire la complexité de stockage, ainsique le temps de calcul",
+	 "authors" : ["Menaouer Brahami","Baghdad Atmani","Mostéfa Mokaddem"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1001375" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1001375" 
+} 
+ 

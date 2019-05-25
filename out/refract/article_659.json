@@ -1,0 +1,22 @@
+{
+"year": "2008",
+"metaSession": "1",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1000671",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1000671",
+"abstract": "Dans cet article, nous nous intéressons à la découverte de mises en correspondance entre ontologies distribuées modélisant les connaissances de pairs du système de gestion de données P2P SomeRDFS. Plus précisément, nous montrons comment exploiter les mécanismes de raisonnement mis en oeuvre dans SomeRDFS pour aider à découvrir des mappings entre ontologies. Ce travail est réalisé dans le cadre du projet MediaD en partenariat avec France Telecom R&D.",
+"title": "Une aide à la découverte de mappings dans SomeRDFS",
+"placeAut":[{
+"place":"Orsay",
+"country":"France",
+"location":{
+	"lat":"48.697161",
+	"lon":"2.189617"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 43.6163539, u'lon': 7.0552218}",
+"place": "Sophia Antipolis",
+"booktitle": "EGC ",
+"idArt": "659",
+"authors": "['François-Élie Calvier','Chantal Reynaud']"
+}

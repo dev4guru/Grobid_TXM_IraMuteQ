@@ -1,0 +1,22 @@
+{
+"year": "2004",
+"metaSession": "5",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1001163",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1001163",
+"abstract": "Les entrepôts de données sont l'un des plus importants développements dans le domaine des systèmes d'informations. Ils permettent d'intégrer des données de plusieurs sources, souvent très volumineux, distribuées et hétérogènes. Dans cet article, nous examinons la possibilité d'utiliser la technique d'entrepôt de données dans la gestion des risques naturels. Nous présentons un modèle conceptuel pour l'entrepôt proposé, avec la présence de formats et types variés de données tel que des données géographiques et multimédia. Nous proposons également des opérations OLAP pour la navigation des informations stockées dans le cube de données.",
+"title": "Vers un entrepôt de données pour la gestion des risques naturels",
+"placeAut":[{
+"place":"Lyon",
+"country":"France",
+"location":{
+	"lat":"45.764043",
+	"lon":"4.835659"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 45.77722199999999, u'lon': 3.087025}",
+"place": "Clermont-Ferrand",
+"booktitle": "EGC",
+"idArt": "1103",
+"authors": "['Hicham Hajji','Nourdine Badji','Jean-Pierre Asté']"
+}

@@ -1,0 +1,14 @@
+{	 "idArt" : "627",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC ",
+	 "year" : "2008",
+	 "place" : "Sophia Antipolis",
+	 "location" : { "lat" :  43.6163539, 
+		 "lon" : 7.0552218 }, 
+	 "title" : "Mining Implications from Lattices of Closed Trees",
+	 "abstract" : "We propose a way of extracting high-confidence association rules from datasets consisting of unlabeled trees. The antecedents are obtained through a computation akin to a hypergraph transversal, whereas the consequents follow from an application of the closure operators on unlabeled trees developed in previous recent works of the authors. We discuss in more detail the case of rules that always hold, independently of the dataset, since these are more complex than in itemsets due to the fact that we are no longer working on a lattice.",
+	 "authors" : ["José L. Balcázar","Albert Bifet","Antoni Lozano"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1000625" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1000625" 
+} 
+ 

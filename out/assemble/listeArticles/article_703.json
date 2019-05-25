@@ -1,0 +1,14 @@
+{	 "idArt" : "703",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2007",
+	 "place" : "Namur",
+	 "location" : { "lat" :  50.4673883, 
+		 "lon" : 4.8719854 }, 
+	 "title" : "Evaluation d'une approche de classification conceptuelle",
+	 "abstract" : "L'objectif de ce travail est d'évaluer la perte d'information au sens de l'inertie entre des méthodes de partitionnement ou de classification hiérarchiques et une approche de classification conceptuelle. Nous voulons répondre à la question suivante : l'aspect simpliste du processus monothétique d'une méthode conceptuelle implique-t-il des partitions de moins bonne qualité au sens du critère de l'inertie ? Nous proposons de réaliser cette expérience sur 6 bases de l'UCI, trois de ces bases sont des tableaux de données quantitatives, les trois autres sont des tableaux de données qualitatives.",
+	 "authors" : ["Marie Chavent","Yves Lechevallier"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1001455" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1001455" 
+} 
+ 

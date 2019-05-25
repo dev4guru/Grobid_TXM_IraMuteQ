@@ -1,0 +1,22 @@
+{
+"year": "2012",
+"metaSession": "8",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1001153",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1001153",
+"abstract": "L'utilisation de modèles de procédure chirurgicale (Surgical ProcessModel, SPM) a récemment émergé dans le domaine de la conception d'outilsd'intervention chirurgicale assistée par ordinateur. Ces modèles, qui sont utiliséspour analyser et évaluer les interventions, représentent des procédures chirurgicales(Surgical Process, SP) qui sont formalisées comme des structures symboliquesdécrivant une chirurgie à un niveau de granularité donné. Un enjeu importantréside dans la définition de métriques permettant la comparaison et l'évaluationde ces procédures. Ainsi, les relations entre ces métriques et des donnéespré-opératoires permettent de classer les chirurgies pour mettre en lumière desinformations sur la procédure elle-même, mais également sur le comportementdu chirurgien. Dans ce papier, nous étudions la classification automatique d'unensemble de procédures chirurgicales en utilisant l'algorithme Dynamic TimeWarping (DTW) pour calculer une mesure de similarité entre procédures chirurgicales.L'utilisation de DTW permet de se concentrer sur les différents typesd'activité effectués pendant la procédure, ainsi que sur leur séquencement touten réduisant les différences temporelles. Des expériences ont été menées sur 24procédures chirurgicales d'hernie discale lombaire dans le but de discriminer leniveau d'expertise des chirurgiens à partir d'une classification connue. A l'aided'un algorithme de clustering hiérarchique utilisant DTW nous avons retrouvédeux groupes de chirurgiens présentant des niveaux d'expertise différents (junioret senior).",
+"title": "Clustering de séquences d'activités pour l'étude de procédures neurochirurgicales",
+"placeAut":[{
+"place":"Mulhouse",
+"country":"France",
+"location":{
+	"lat":"47.750839",
+	"lon":"7.335888"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 44.837789, u'lon': -0.57918}",
+"place": "Bordeaux",
+"booktitle": "EGC",
+"idArt": "221",
+"authors": "['Germain Forestier','Florent Lalys','Laurent Riffaud','Brivael Trelhu','Pierre Jannin']"
+}

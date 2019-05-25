@@ -1,0 +1,13 @@
+{	 "idArt" : "30",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2015",
+	 "place" : "Luxembourg",
+	 "location" : { "lat" :  49.815273, 
+		 "lon" : 6.129582999999999 }, 
+	 "title" : "gapIT : Un outil visuel pour l'imputation de valeurs manquantes en hydrologie",
+	 "abstract" : "Les données manquantes sont problématiques en hydrologie, car elles gênent le calcul de statistiques interannuelles et sur de longues périodes, ainsi que l'analyse et l'interprétation de la variabilité des données. Dans cet article, nous présentons gapIT, une plateforme d'analyse de données permettant d'inspecter visuellement les données manquantes et ensuite de choisir la méthode de correction adéquate. Nous avons utilisé l'outil pour estimer les données manquantes dans des séries temporelles correspondant aux débits mesurés par des stations hydrométriques du Luxembourg.",
+	 "authors" : ["Olivier Parisot","Laura Giustarini","Olivier Faber","Renaud Hostache","Ivonne Trebs","Mohammad Ghoniem"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1002107" 
+} 
+ 

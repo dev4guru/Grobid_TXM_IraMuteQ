@@ -1,0 +1,22 @@
+{
+"year": "2006",
+"metaSession": "5",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1000427",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1000427",
+"abstract": "The analysis of gene expression data in DNA chips is an importanttool used in genomic research whose main objectives range from the study ofthe functionality of specific genes and their participation in biological processto the reconstruction of diseases's conditions and their subsequent prognosis.Gene expression data are arranged in matrices where each gene corresponds toone row and every column represents one specific experimental condition. Thebiclustering techniques have the purpose of finding subsets of genes that showsimilar activity patterns under a subset of conditions. Our approach consists ofa biclustering algorithm based on local nearness. The algorithm searches forbiclusters in a greedy fashion, starting with two-genes biclusters and includingas much as possible depending on a distance threshold which guarantees thesimilarity of gene behaviors.",
+"title": "Biclustering of Gene Expression Data Based on Local Nearness",
+"placeAut":[{
+"place":"Seville",
+"country":"Espagne",
+"location":{
+	"lat":"37.3890924",
+	"lon":"-5.9844589"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 50.62925, u'lon': 3.057256}",
+"place": "Lille",
+"booktitle": "EGC",
+"idArt": "780",
+"authors": "['Jesús S. Aguilar-Ruiz','Domingo S. Rodríguez','Dan A. Simovici']"
+}

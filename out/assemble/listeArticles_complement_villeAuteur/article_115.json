@@ -1,0 +1,13 @@
+{	 "idArt" : "115",
+	 "placeAut" : [ 
+		{ "place" : "Saint-Mandé",
+		 "country" : "France",
+		 "location" : { "lat" :  48.84283199999999, 
+			 "lon" : 2.4178638999999293 } },
+		{ "place" : "Paris",
+		 "country" : "France",
+		 "location" : { "lat" :  48.856614, 
+			 "lon" : 2.3522219000000177 } }
+	 ]
+} 
+ 

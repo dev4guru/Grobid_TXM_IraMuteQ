@@ -1,0 +1,14 @@
+{	 "idArt" : "960",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2005",
+	 "place" : "Paris",
+	 "location" : { "lat" :  48.856614, 
+		 "lon" : 2.3522219 }, 
+	 "title" : "Expériences de classification d'une collection de documents XML de structure homogène",
+	 "abstract" : "Cet article présente différentes expériences de classification de documents XML de structure homogène, en vue d'expliquer et de valider une présentation organisationnelle pré-existante. Le problème concerne le choix des éléments et mots utilisés pour la classification et son impact sur la typologie induite. Pour cela nous combinons une sélection structurelle basée sur la nature des éléments XML et une sélection linguistique basée sur un typage syntaxique des mots. Nous illustrons ces principes sur la collection des rapports d'activité 2003 des équipes de recherche de l'Inria en cherchant des groupements d'équipes (Thèmes) à partir du contenu de différentes parties de ces rapports. Nous comparons nos premiers résultats avec les thèmes de recherche officiels de l'Inria.",
+	 "authors" : ["Thierry Despeyroux","Yves Lechevallier","Brigitte Trousse","Anne-Marie Vercoustre"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1000243" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1000243" 
+} 
+ 

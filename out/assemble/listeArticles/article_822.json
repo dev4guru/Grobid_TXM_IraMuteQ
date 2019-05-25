@@ -1,0 +1,14 @@
+{	 "idArt" : "822",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2006",
+	 "place" : "Lille",
+	 "location" : { "lat" :  50.62925, 
+		 "lon" : 3.057256 }, 
+	 "title" : "Graphes de voisinage pour l'indexation et l'interrogation d'images par le contenu",
+	 "abstract" : "La découverte d'informations cachées dans les bases de données multimédiasest une tâche difficile à cause de leur structure complexe et à la subjectivitéliée à leur interprétation. Face à cette situation, l'utilisation d'un indexest primordiale. Un index multimédia permet de regrouper les données selondes critères de similarité. Nous proposons dans cet article d'apporter une améliorationà une approche déjà existante d'interrogation d'images par le contenu .Nous proposons une méthode efficace pour mettre à jour, localement, les graphesde voisinage qui constituent notre structure d'index multimédia. Cette méthodeest basée sur une manière intelligente de localisation de points dans un espacemultidimensionnel. Des résultats prometteurs sont obtenus après des expérimentationssur diverses bases de données.",
+	 "authors" : ["Hakim Hacid","Djamel Abdelkader Zighed"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1000318" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1000318" 
+} 
+ 

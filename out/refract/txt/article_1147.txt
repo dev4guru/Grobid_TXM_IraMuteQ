@@ -1,0 +1,1 @@
+This paper describes a new approach for the automatic generation of visual summariesdealing with cartographic visualization methods and modeling of data coming from sensors inreal time for meteorology. Indeed the concept of chorems seems to be an interesting candidateto visualize real time geographic database summaries.

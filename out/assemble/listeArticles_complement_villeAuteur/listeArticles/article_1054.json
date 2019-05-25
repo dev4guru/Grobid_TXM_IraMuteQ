@@ -1,0 +1,14 @@
+{	 "idArt" : "1054",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2004",
+	 "place" : "Clermont-Ferrand",
+	 "location" : { "lat" :  45.77722199999999, 
+		 "lon" : 3.087025 }, 
+	 "title" : "Fouille dans la structure de documents XML",
+	 "abstract" : "La prolifération des documents XML appelle des techniques appropriées pour extraire et exploiter l'information contenue dans ces documents. On distingue deux approches de fouille : XML Content Mining portant sur le contenu et XML Structure Lining qui a trait à la structure des documents. Combiner ces deux approches est très intéressant. Les informations contenues dans la structure orientent la fouille sur le contenu. Nous présentons la première étape de cette démarche : une nouvelle méthode d'extraction des règles d'association à partir de la structure des documents XML qui permet de gérer les aspects hiérarchiques de ces documents tout en améliorant les mécanismes d'extraction grâce à la création d'une structure spéciale représentant la hiérarchie des balises rencontrées.",
+	 "authors" : ["Amandine Duffoux","Omar Boussaid","Stéphane Lallich","Fadila Bentayeb"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1001134" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1001134" 
+} 
+ 

@@ -1,0 +1,13 @@
+{	 "idArt" : "575",
+	 "placeAut" : [ 
+		{ "place" : " Saint-Étienne-du-Rouvray",
+		 "country" : "France",
+		 "location" : { "lat" :  49.380305, 
+			 "lon" : 1.108208999999988 } },
+		{ "place" : "Cluj-Napoca",
+		 "country" : "Romania",
+		 "location" : { "lat" :  46.766667, 
+			 "lon" : 23.58333300000004 } }
+	 ]
+} 
+ 

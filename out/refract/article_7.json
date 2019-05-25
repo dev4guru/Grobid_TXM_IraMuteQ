@@ -1,0 +1,22 @@
+{
+"year": "2015",
+"metaSession": "",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1002119",
+"pdfarticle": "",
+"abstract": "In this article, we highlight the interest and usefulness of Formal Concept Analysis (FCA) in multilingual document clustering. We propose a statistical approach for clustering multilingual documents based on Closed Concepts and vector model partition the documents of one or more collections.An experimental evaluation was conducted on the collection of bilingual documents French-English of CLEF' 2 2003 and showed the merits of this method and the interesting degree of comparability of the obtained bilingual classes.",
+"title": "Approche d'extraction de classes interlangues à partir de documents multilingues à base de Concepts Fermés",
+"placeAut":[{
+"place":"Tunis",
+"country":"Tunisie",
+"location":{
+	"lat":"36.8064948",
+	"lon":"10.1815316"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 49.815273, u'lon': 6.129582999999999}",
+"place": "Luxembourg",
+"booktitle": "EGC",
+"idArt": "7",
+"authors": "['Mohamed Chebel','Chiraz Latiri']"
+}

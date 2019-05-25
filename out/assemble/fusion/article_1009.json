@@ -1,0 +1,22 @@
+{
+"year": "2005",
+"metaSession": "8",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1000279",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1000279",
+"abstract": "",
+"title": "Tableau de Bits Indexé (TBI)  pour la Recherche de Séquences Fréquentes",
+"placeAut":[{
+"place":"Versailles",
+"country":"France",
+"location":{
+	"lat":"48.801408",
+	"lon":"2.130122"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 48.856614, u'lon': 2.3522219}",
+"place": "Paris",
+"booktitle": "EGC",
+"idArt": "1009",
+"authors": "['Lionel Savary','Karine Zeitouni']"
+}

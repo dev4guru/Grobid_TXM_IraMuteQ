@@ -1,0 +1,14 @@
+{	 "idArt" : "550",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2009",
+	 "place" : "Strasbourg",
+	 "location" : { "lat" :  48.5734053, 
+		 "lon" : 7.752111299999999 }, 
+	 "title" : "Partitionnement d'ontologies pour le passage à l'échelle des techniques d'alignement",
+	 "abstract" : "L'alignement d'ontologies est une tâche importante dans les systèmesd'intégration puisqu'elle autorise la prise en compte conjointe de ressourcesdécrites par des ontologies différentes, en identifiant des appariements entreconcepts. Avec l'apparition de très grandes ontologies dans des domaines commela médecine ou l'agronomie, les techniques d'alignement, qui mettent souventen oeuvre des calculs complexes, se trouvent face à un défi : passer à l'échelle.Pour relever ce défi, nous proposons dans cet article deux méthodes de partition-nement, conçues pour prendre en compte, le plus tôt possible, l'objectif d'ali-gnement. Ces méthodes permettent de décomposer les deux ontologies à aligneren deux ensembles de blocs de taille limitée et tels que les éléments susceptiblesd'être appariés se retrouvent concentrés dans un ensemble minimal de blocs quiseront effectivement comparés. Les résultats des tests effectuées avec nos deuxméthodes sur différents couples d'ontologies montrent leur efficacité.",
+	 "authors" : ["Fayçal Hamdi","Brigitte Safar","Haïfa Zargayouna","Chantal Reynaud"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1000787" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1000787" 
+} 
+ 

@@ -1,0 +1,22 @@
+{
+"year": "2009",
+"metaSession": "5",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1000778",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1000778",
+"abstract": "Les réseaux dynamiques soulèvent de nouveaux problèmes d'analyses.Un outils efficace d'analyse doit non seulement permettre de décomposerces réseaux en groupes d'éléments similaires mais il doit aussi permettre la détectionde changements dans le réseau. Nous présentons dans cet article une nouvelleapproche pour l'analyse de tels réseaux. Cette technique est basée sur unalgorithme de décomposition de graphe en groupes chevauchants (ou chevauchement).La complexité de notre algorithme est O(|E| · deg2max +|V | · log(|V |))).La faible sensibilité de cet algorithme aux changements structuraux du réseaupermet d'en détecter les modifications majeures au cours du temps.",
+"title": "Un algorithme stable de décomposition pour l'analyse des réseaux sociaux dynamiques",
+"placeAut":[{
+"place":"Talence",
+"country":"France",
+"location":{
+	"lat":"44.802614",
+	"lon":"-0.588054"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 48.5734053, u'lon': 7.752111299999999}",
+"place": "Strasbourg",
+"booktitle": "EGC",
+"idArt": "561",
+"authors": "['Romain Bourqui','Paolo Simonetto','Fabien Jourdan']"
+}

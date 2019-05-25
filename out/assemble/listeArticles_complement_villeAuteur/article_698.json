@@ -1,0 +1,17 @@
+{	 "idArt" : "698",
+	 "placeAut" : [ 
+		{ "place" : "Tours",
+		 "country" : "France",
+		 "location" : { "lat" :  47.394144, 
+			 "lon" : 0.6848400000000083 } },
+		{ "place" : "Villetaneuse",
+		 "country" : "France",
+		 "location" : { "lat" :  48.963476, 
+			 "lon" : 2.3473539999999957 } },
+		{ "place" : "Neuilly-sur-Seine",
+		 "country" : "France",
+		 "location" : { "lat" :  48.884831, 
+			 "lon" : 2.268509999999992 } }
+	 ]
+} 
+ 

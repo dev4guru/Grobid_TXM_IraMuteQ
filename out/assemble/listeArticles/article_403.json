@@ -1,0 +1,14 @@
+{	 "idArt" : "403",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2010",
+	 "place" : "Hammamet",
+	 "location" : { "lat" :  36.4, 
+		 "lon" : 10.616667 }, 
+	 "title" : "CND-Cube : Nouvelle représentation concise sans perte d'information d'un cube de données",
+	 "abstract" : "Le calcul des cubes de données est excessivement coûteux aussi bienen temps d'exécution qu'en mémoire et son stockage sur disque peut s'avérerprohibitif. Plusieurs efforts ont été consacrés à ce problème à travers les cubesfermés, où les cellules préservant la sémantique d'agrégation sont réduites à unecellule, sans perte d'information. Dans cet article, nous introduisons le conceptdu cube de données non-dérivable fermé, nommé CND-Cube, qui généralisela notion des modèles non-dérivables fermés fréquents bidimensionnels à uncontexte multidimensionnel. Nous proposons un nouvel algorithme pour extrairele CND-Cube à partir des bases de données multidimensionnelles en se basantsur trois contraintes anti-monotones, à savoir être fréquent, être non dérivableet être un générateur minimal. Les expériences montrent que notreproposition fournit la représentation la plus concise d'un cube de données et elleest ainsi la plus efficace pour réduire l'espace de stockage",
+	 "authors" : ["Hanen Brahmi","Tarek Hamrouni","Riadh Ben Messaoud","Sadok Ben Yahia"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1001303" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1001303" 
+} 
+ 

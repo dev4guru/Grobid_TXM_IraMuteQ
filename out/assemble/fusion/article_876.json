@@ -1,0 +1,22 @@
+{
+"year": "2005",
+"metaSession": "",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1000303",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1000303",
+"abstract": "Nous reconsidérons dans cet article le critère BIC pour arbres d'inductionproposé dans Ritschard et Zighed (2003, 2004) et discutons deux aspects li´esà sa portée. Le premier concerne les possibilités de le calculer. Nous montronscomment il s'obtient à partir des statistiques du rapport vraisemblance utiliséespour tester l'indépendance ligne-colonne de tables de contingence. Le secondpoint porte sur son intérêt dans une optique de classification. Nous illustrons surl'exemple du Titanic la relation entre le BIC et le taux d'erreur en généralisationlorsqu'on regarde leur évolution selon la complexité de l'arbre. Nous esquissonsun plan d'expérimentation en vue de vérifier la conjecture selon laquelle le BICminimum assurerait en moyenne le meilleur taux d'erreur en généralisation.",
+"title": "Arbre BIC optimal et taux d'erreur",
+"placeAut":[{
+"place":"Genève",
+"country":"Suisse",
+"location":{
+	"lat":"46.1983922",
+	"lon":"6.1422961"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 48.856614, u'lon': 2.3522219}",
+"place": "Paris",
+"booktitle": "AEGC",
+"idArt": "876",
+"authors": "Gilbert Ritschard"
+}

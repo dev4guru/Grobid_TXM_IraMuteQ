@@ -1,0 +1,14 @@
+{	 "idArt" : "887",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "AEGC",
+	 "year" : "2005",
+	 "place" : "Paris",
+	 "location" : { "lat" :  48.856614, 
+		 "lon" : 2.3522219 }, 
+	 "title" : "Extraction de connaissances pour la description d'images satellitaires à très haute résolution spatiale",
+	 "abstract" : "L'arrivée des images de télédétection à très haute résolution spatialeimpose de reconsidérer les méthodes de description des surfaces représentéesdans les images satellites. Dans ce qui suit, nous proposons une approche desegmentation morphologique auto-adaptative d'images satellitaires à très hauterésolution spatiale. La segmentation est associée à l'exploitation des donnéesélicitées tout au long du processus, dans l'objectif de collecter, modéliser ethomogénéiser ces données au sein de descripteurs. Exploiter l'informationainsi disponible sur les objets implique la prise en compte des relationsspatiales, décrivant les relations entre les objets, et leurs caractéristiques. Lamodélisation et la génération de descripteurs proposées rendent une telleapproche opérationnelle originale dans le contexte des méthodes detélédétection.",
+	 "authors" : ["Florence Sedes","Erick Lopez-Ornelas"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1000296" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1000296" 
+} 
+ 

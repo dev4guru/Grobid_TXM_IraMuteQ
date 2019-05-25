@@ -1,0 +1,14 @@
+{	 "idArt" : "802",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2006",
+	 "place" : "Lille",
+	 "location" : { "lat" :  50.62925, 
+		 "lon" : 3.057256 }, 
+	 "title" : "Des motifs séquentiels généralisés aux contraintes de temps étendues",
+	 "abstract" : "Dans de nombreux domaines, la recherche de connaissances temporellesest très appréciée. Des techniques ont été proposées aussi bien en fouille dedonnées qu'en apprentissage, afin d'extraire et de gérer de telles connaissances,en les associant également à la spécification de contraintes temporelles (e.g.: fenêtretemporelle maximale), notamment dans le contexte de la recherche de motifsséquentiels. Cependant, ces contraintes sont souvent trop rigides ou nécessitentune bonne connaissance du domaine pour ne pas extraire des informationserronées. C'est pourquoi nous proposons une approche basée sur la constructionde graphes de séquences afin de prendre en compte des contraintes de tempsplus souples. Ces contraintes sont relâchées par rapport aux contraintes de tempsprécédemment proposées. Elles permettent donc d'extraire plus de motifs pertinents.Afin de guider l'analyse des motifs obtenus, nous proposons égalementun niveau de précision des contraintes temporelles pour les motifs extraits.",
+	 "authors" : ["Maguelonne Teisseire","Céline Fiot","Anne Laurent"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1000415" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1000415" 
+} 
+ 

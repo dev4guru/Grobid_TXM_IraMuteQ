@@ -1,0 +1,15 @@
+{
+"idArt": "1288",
+"series": "Revue des Nouvelles Technologies de l'Information",
+"booktitle": "EGC",
+"year": "2018",
+"title": "Étiquetage thématique automatisé de corpus par représentation sémantique",
+"abstract": "Dans les corpus de textes scientifiques, certains articles issus de communautésde chercheurs différentes peuvent ne pas être décrits par les mêmesmots-clés alors qu'ils partagent la même thématique. Ce phénomène cause desproblèmes dans la recherche d'information, ces articles étant mal indexés, etlimite les échanges potentiellement fructueux entre disciplines scientifiques.Notre modèle permet d'attribuer automatiquement une étiquette thématique auxarticles au moyen d'un apprentissage des représentations sémantiques d'articlesdu corpus déjà étiquetés. Passant bien à l'échelle, cette méthode a pu être testéesur une bibliothèque numérique d'articles scientifiques comportant des millionsde documents. Nous utilisons un réseau sémantique de synonymes pour extrairedavantage d'articles sémantiquement similaires et nous les fusionnons avec ceuxobtenus par un modèle de classement thématique. Cette méthode combinée présentede meilleurs taux de rappel que les versions utilisant soit le réseau sémantiqueseul, soit la seule représentation sémantique des textes.",
+"authors": "Lucie Martinet, Hussein T. Al-Natsheh, Fabien Rico, Fabrice Muhlenbach, Djamel A. Zighed",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1002396",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1002396",
+"metaSession": "8",
+"place": "Paris",
+"Latitude": " 48.8562 ",
+"Longitude": "2.3516"
+}

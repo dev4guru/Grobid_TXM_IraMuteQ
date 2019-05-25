@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/josuah/Bureau/grobid/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="fr">
+		<encodingDesc>
+			<appInfo>
+				<application version="0.5.5-SNAPSHOT" ident="GROBID" when="2019-04-04T12:42+0000">
+					<ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Sélection topologique de variables dans un contexte de discrimination</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Fatima-Zahra</forename><surname>Aazi</surname></persName>
+						</author>
+						<author role="corresp">
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Rafik</forename><surname>Abdesselam</surname></persName>
+							<email>rafik.abdesselam@univ-lyon2.fr</email>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Fatima-Zahra</forename><surname>Aazi@univ-Lyon2</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Fr</surname></persName>
+						</author>
+						<author>
+							<affiliation key="aff0">
+								<orgName type="laboratory">Laboratoires ERIC &amp; LAMSAD Universités Lumière Lyon 2</orgName>
+								<orgName type="institution">COACTIS-ISH</orgName>
+								<address>
+									<addrLine>Hassan 1 er, Maroc 5, avenue Pierre Mendès-France</addrLine>
+									<postCode>69676</postCode>
+									<settlement>Settat, Bron Cedex</settlement>
+									<country>France, France</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff1">
+								<orgName type="institution">Université de Lyon</orgName>
+								<address>
+									<addrLine>Lumière Lyon 2 14/16, avenue Berthelot</addrLine>
+									<postCode>69363</postCode>
+									<settlement>Lyon Cedex 07</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Sélection topologique de variables dans un contexte de discrimination</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<abstract>
+				<p>En apprentissage automatique, la présence d&apos;un grand nombre de variables explicatives conduit à une plus grande complexité des algorithmes et à une forte dégradation des performances des modèles de prédiction. Pour cela, une sélection d&apos;un sous-ensemble optimal discriminant de ces variables s&apos;avère nécessaire. Dans cet article, une approche topologique est proposée pour la sé-lection de ce sous-ensemble optimal. Elle utilise la notion de graphe de voisinage pour classer les variables par ordre de pertinence, ensuite, une méthode pas à pas de type ascendante &quot;forward&quot; est appliquée pour construire une suite de modèles dont le meilleur sous-ensemble est choisi selon son degré d&apos;équivalence topolo-gique de discrimination. Pour chaque sous-ensemble, le degré d&apos;équivalence est mesuré en comparant la matrice d&apos;adjacence induite par la mesure de proximité choisie à celle induite par la &quot;meilleure&quot; mesure de proximité discriminante dite de référence. Les performances de cette approche sont évaluées à l&apos;aide de don-nées simulées et réelles. Des comparaisons de sélection de variables en discrimination avec une approche métrique montrent une bien meilleure sélection à partir de l&apos;approche topologique proposée.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="fr">
+	</text>
+</TEI>

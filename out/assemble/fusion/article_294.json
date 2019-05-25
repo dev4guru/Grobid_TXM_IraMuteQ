@@ -1,0 +1,22 @@
+{
+"year": "2011",
+"metaSession": "2",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1000933",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1000933",
+"abstract": "En apprentissage supervisé, les Méthodes Ensemble (ME) ont montré leurs qualités. L'une des méthodes de référence dans ce domaine est les Forêts Aléatoires (FA). Cette dernière repose sur des partitionnements de l'espace de représentation selon des frontières parallèles aux axes ou obliques. Les conséquences de cette façon de partitionner l'espace de représentation peuvent affecter la qualité de chaque prédicteur. Il nous a semblé que cette approche pouvait être améliorée si on se libérait de cette contrainte de manière à mieux coller à la structure topologique de l'ensemble d'apprentissage. Dans cet article, nous proposons une nouvelle ME basée sur des graphes de voisinage dont les performances, sur nos premières expérimentations, sont aussi bonnes que celles des FA.",
+"title": "Classificateurs aléatoires Topologiques à base de graphes de voisinage",
+"placeAut":[{
+"place":"Bron",
+"country":"France",
+"location":{
+	"lat":"45.733316",
+	"lon":"4.911927"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 48.390394, u'lon': -4.486076}",
+"place": "Brest",
+"booktitle": "EGC",
+"idArt": "294",
+"authors": "['Fabien Rico','Djamel Abdelkader Zighed']"
+}

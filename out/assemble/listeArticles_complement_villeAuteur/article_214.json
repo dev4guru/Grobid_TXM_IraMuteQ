@@ -1,0 +1,17 @@
+{	 "idArt" : "214",
+	 "placeAut" : [ 
+		{ "place" : "Tunis",
+		 "country" : "Tunisie",
+		 "location" : { "lat" :  36.8064948, 
+			 "lon" : 10.181531599999971 } },
+		{ "place" : "Paris",
+		 "country" : "France",
+		 "location" : { "lat" :  48.856614, 
+			 "lon" : 2.3522219000000177 } },
+		{ "place" : "Carthage",
+		 "country" : "Tunisie",
+		 "location" : { "lat" :  36.8529199, 
+			 "lon" : 10.32172449999996 } }
+	 ]
+} 
+ 

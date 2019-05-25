@@ -1,0 +1,22 @@
+{
+"year": "2014",
+"metaSession": "5",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1001961",
+"pdfarticle": "",
+"abstract": "Cet article présente une méthode originale de prédiction de valeursmanquantes dans les bases de données relationnelles, fondée sur la notion deproportion analogique. Nous montrons en particulier comment un algorithmeproposé dans le cadre de la classification automatique peut être adapté à cette fin.Deux cas sont considérés : celui d'une base de données transactionnelle (attributsbooléens), et celui où les valeurs manquantes peuvent être de type numérique.",
+"title": "Prédiction de valeurs manquantes dans les bases de données-- Une première approche fondée sur la notion de proportion analogique",
+"placeAut":[{
+"place":"Lannion",
+"country":"France",
+"location":{
+	"lat":"48.732084",
+	"lon":"-3.459144"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 48.117266, u'lon': -1.6777926}",
+"place": "Rennes",
+"booktitle": "EGC",
+"idArt": "127",
+"authors": "['William Correa Beltran','Hélène Jaudoin','Olivier Pivert']"
+}

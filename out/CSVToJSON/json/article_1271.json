@@ -1,0 +1,15 @@
+{
+"idArt": "1271",
+"series": "Revue des Nouvelles Technologies de l'Information",
+"booktitle": "EGC",
+"year": "2018",
+"title": "Cartes Auto-Organisatrices Incrémentales appliquées au Clustering Collaboratif",
+"abstract": "Le Clustering Collaboratif (CC) vise à faire ressortir les structurescommunes présentes dans plusieurs vues indépendantes en se basant sur unepremière étape de clustering locale, effectuée dans notre cas à l'aide de CartesAuto-Organisatrices (SOM pour Self Organizing Maps en anglais). Pour faireface à la quantité toujours croissante de données disponibles, l'utilisation de méthodesde clustering incrémentales est devenue nécessaire. Ce papier présente unalgorithme de SOM incrémentales compatibles avec les contraintes du CC. Lesexpérimentations conduites sur plusieurs jeux de données démontrent la validitéde cette méthode et présentent l'influence de la taille du batch utilisé lors del'apprentissage.",
+"authors": "Denis Maurel, Jérémie Sublime, Sylvain Lefebvre",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1002418",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1002418",
+"metaSession": "2",
+"place": "Paris",
+"Latitude": " 48.8545 ",
+"Longitude": "2.3499"
+}

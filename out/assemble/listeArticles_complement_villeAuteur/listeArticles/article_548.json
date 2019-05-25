@@ -1,0 +1,14 @@
+{	 "idArt" : "548",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2009",
+	 "place" : "Strasbourg",
+	 "location" : { "lat" :  48.5734053, 
+		 "lon" : 7.752111299999999 }, 
+	 "title" : "Okmed et Wokm",
+	 "abstract" : "Cet article traite de la problématique de la classification recouvrante(overlapping clustering) et propose deux variantes de l'approche OKM : OKMEDet WOKM. OKMED généralise k-médoïdes au cas recouvrant, il permet d'organiserun ensemble d'individus en classes non-disjointes, à partir d'une matricede distances. La méthode WOKM (Weighted-OKM) étend OKM par une pondérationlocale des classes ; cette variante autorise chaque individu à appartenir àplusieurs classes sur la base de critères différents. Des expérimentations sont réaliséessur une application cible : la classification de textes. Nous montrons alorsque OKMED présente un comportement similaire à OKM pour la métrique euclidienne,et offre la possibilité d'utiliser des métriques plus adaptées et d'obtenirde meilleures performances. Enfin, les résultats obtenus avec WOKM montrentun apport significatif de la pondération locale des classes",
+	 "authors" : ["Guillaume Cleuziou"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1000736" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1000736" 
+} 
+ 

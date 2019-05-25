@@ -1,0 +1,13 @@
+{	 "idArt" : "1033",
+	 "placeAut" : [ 
+		{ "place" : "Le-Havre",
+		 "country" : "France",
+		 "location" : { "lat" :  49.49437, 
+			 "lon" : 0.10792900000001282 } },
+		{ "place" : "Val-de-Reuil",
+		 "country" : "France",
+		 "location" : { "lat" :  49.272602, 
+			 "lon" : 1.2170849999999973 } }
+	 ]
+} 
+ 

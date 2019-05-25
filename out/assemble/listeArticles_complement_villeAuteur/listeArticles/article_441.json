@@ -1,0 +1,14 @@
+{	 "idArt" : "441",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2010",
+	 "place" : "Hammamet",
+	 "location" : { "lat" :  36.4, 
+		 "lon" : 10.616667 }, 
+	 "title" : "KGRAM: une machine abstraite de graphes de connaissance",
+	 "abstract" : "Cet article présente la machine abstraite de graphes de connaissanceKGRAM qui unifie les notions d'homomorphisme de graphe et de calcul de requêtestelles que celles du langage SPARQL sur des données RDF. KGRAMimplémente un ensemble extensible d'expressions qui définissent une famille delangages abstraits d'interrogation de graphes, GRAAL. Nous décrivons la sémantiquedynamique de GRAAL en Sémantique Naturelle et nous présentons lamachine abstraite KGRAM conçue comme l'interprète de GRAAL, qui implémenteles règles de sémantique naturelle du langage.",
+	 "authors" : ["Olivier Corby","Catherine Faron-Zucker"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1001328" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1001328" 
+} 
+ 

@@ -1,0 +1,22 @@
+{
+"year": "2011",
+"metaSession": "3",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1001034",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1001034",
+"abstract": "L'élaboration d'une échelle de probabilité discriminante pour la comparaison mutuelle entre plusieurs attributs observés sur un échantillon d'objets de grosse taille, nécessite une normalisation préalable. L'objet de cet article est l'analyse comparée entre deux approches. La première dérive de l' Analyse de la Vraisemblance des Liens Relationnels Normalisée. La seconde est fondée sur la notion de Valeur Test sur un échantillon virtuel de taille 100, synthétisant l'échantillon initial.",
+"title": "Comparaison entre deux indices pour l'évaluation probabiliste discriminante des règles d'association",
+"placeAut":[{
+"place":"Clermont-Ferrand",
+"country":"France",
+"location":{
+	"lat":"45.777222",
+	"lon":"3.087025"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 48.390394, u'lon': -4.486076}",
+"place": "Brest",
+"booktitle": "EGC",
+"idArt": "297",
+"authors": "['Israël-César Lerman','Sylvie Guillaume']"
+}

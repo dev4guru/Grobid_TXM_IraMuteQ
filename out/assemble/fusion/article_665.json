@@ -1,0 +1,22 @@
+{
+"year": "2008",
+"metaSession": "4",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1000664",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1000664",
+"abstract": "Dans cet article nous présentons une nouvelle méthode de classification non supervisée pour des données symboliques intervalles. Il s'agit de l'extension d'une méthode de classification non supervisée classique à des données intervalles. La méthode classique suppose que les points observés sont la réalisation d'un processus de Poisson homogène dans k domaines convexes disjoints de Rp. La première partie de la nouvelle méthode est une procédure monothétique divisive. La règle de coupure est basée sur une extension à des données intervalles du critère de classification des Hypervolumes. L'étape d'élagage utilise un test statistique basé sur le processus de Poisson homogène. Le résultat est un arbre de décision. La seconde partie de la méthode consiste en une étape de recollement, qui permet, dans certains cas, d'améliorer la classification obtenue à la fin de la première partie de l'algorithme. La méthode est évaluée sur un ensemble de données réelles.",
+"title": "Une nouvelle méthode divisive en classification non supervisée pour des données symboliques intervalles",
+"placeAut":[{
+"place":"Kinshasa",
+"country":"République Démocratique du Congo",
+"location":{
+	"lat":"-4.325",
+	"lon":"15.322222"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 43.6163539, u'lon': 7.0552218}",
+"place": "Sophia Antipolis",
+"booktitle": "EGC ",
+"idArt": "665",
+"authors": "['Nathanaël Kasoro','André Hardy']"
+}

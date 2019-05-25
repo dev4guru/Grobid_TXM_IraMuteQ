@@ -1,0 +1,22 @@
+{
+"year": "2009",
+"metaSession": "5",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1000819",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1000819",
+"abstract": "",
+"title": "DesEsper: un logiciel de pré-traitement de flux appliqué à la surveillance des centrales hydrauliques",
+"placeAut":[{
+"place":"Nouméa",
+"country":"Nouvelle-Calédonie",
+"location":{
+	"lat":"-22.2758",
+	"lon":"166.458"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 48.5734053, u'lon': 7.752111299999999}",
+"place": "Strasbourg",
+"booktitle": "EGC",
+"idArt": "520",
+"authors": "['Frédéric Flouvat','Sébastien Gassmann','Jean-Marc Petit','Alain Ribière']"
+}

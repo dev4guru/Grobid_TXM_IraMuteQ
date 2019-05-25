@@ -1,0 +1,22 @@
+{
+"year": "2008",
+"metaSession": "0",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1001800",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1001800",
+"abstract": "L'analyse des données Symboliques a pour objectif de fournir des résultatscomplémentaires à ceux fournis par la fouille de données classique encréant des concepts issus de données simples ou complexes puis en analysantces concepts par des descriptions symboliques où les variables expriment lavariation des instances de ces concepts en prenant des valeurs intervalle, histogramme,suites, munies de règles et de taxonomies, etc.",
+"title": "Principes d'Analyse des données symboliques et application à la détection d'anomalies sur des ouvrages publics",
+"placeAut":[{
+"place":"Paris",
+"country":"France",
+"location":{
+	"lat":"48.856614",
+	"lon":"2.3522219"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 43.6163539, u'lon': 7.0552218}",
+"place": "Sophia Antipolis",
+"booktitle": "EGC ",
+"idArt": "635",
+"authors": "Edwin Diday"
+}

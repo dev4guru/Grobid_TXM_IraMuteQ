@@ -1,0 +1,14 @@
+{	 "idArt" : "382",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2010",
+	 "place" : "Hammamet",
+	 "location" : { "lat" :  36.4, 
+		 "lon" : 10.616667 }, 
+	 "title" : "Analyse de documents pédagogiques en vue de leur annotation",
+	 "abstract" : "L'utilisation des documents pédagogiques, disponibles sur le web,devient de plus en plus large tant pour l'enseignant qui a besoin de préparerson support de cours que pour l'étudiant qui désire, par exemple, s'autoformer.La description d'un document pédagogique, en l'alimentant par desmétadonnées, s'avère une solution qui confère une valeur ajoutée au documentafin d'expliciter des informations placées dans ce document. Dans cetteoptique, nous proposons une méthode d'annotation de documentspédagogiques selon différents points de vue, qui est basée sur l'analysesémantique des éléments discursifs du texte",
+	 "authors" : ["Boutheina Smine","Rim Faiz","Jean-Pierre Desclés"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1001502" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1001502" 
+} 
+ 

@@ -1,0 +1,15 @@
+{
+"idArt": "1292",
+"series": "Revue des Nouvelles Technologies de l'Information",
+"booktitle": "EGC",
+"year": "2018",
+"title": "Extraction de connaissances sur les défaillances de compteurs d'essieux",
+"abstract": "Cet article propose une méthode d'analyse pour des enregistrementsopérationnels d'un ensemble de compteurs d'essieux, qui constituent un élémentcentral à l'infrastructure ferroviaire. Notre objectif est de fournir une façon efficaced'extraire automatiquement des éléments de connaissance concernant lesdéfaillances de ces systèmes.Puisque les données fournies ne contiennent pas de vérité de terrain sur lescauses de défaillances, les informations et leurs causes doivent être extraites desrelations sous-tendant les événements enregistrés. Après une phase de prétraitement,les événements sont groupés en fonction des relations qui ont été misesen lumière entre eux. Ces regroupements peuvent ensuite être utilisés pour créerdes classes d'événements en utilisant un système de classification adapté.Au delà de cette application spécifique, cette approche est une façon nouvelled'aborder les problèmes d'analyse de fiabilité.",
+"authors": "Iwo Doboszewski, Simon Fossier, Christophe Marsala",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1002394",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1002394",
+"metaSession": "5",
+"place": "Paris",
+"Latitude": " 48.8566 ",
+"Longitude": "2.3520"
+}

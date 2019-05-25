@@ -1,0 +1,14 @@
+{	 "idArt" : "889",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "AEGC",
+	 "year" : "2005",
+	 "place" : "Paris",
+	 "location" : { "lat" :  48.856614, 
+		 "lon" : 2.3522219 }, 
+	 "title" : "Extraction de pépites de connaissances dans des réponses d'élèves en langage naturel",
+	 "abstract" : "Le projet Pépite a pour objectif la construction d'un diagnostic descompétences d'élèves en algèbre élémentaire permettant aux enseignants degérer la diversité cognitive de leurs élèves. Dans cet article, nous présentonsune étude pluridisciplinaire (linguistique, didactique et informatique),s'appuyant sur un corpus de productions d'élèves utilisant le logiciel Pépite.Le corpus est analysé selon les points de vue croisés de la linguistique et de ladidactique. L'objectif de cette démarche est d'améliorer l'évaluation desréponses d'élèves aux questions ouvertes quand ces derniers répondent avecleurs propres mots. Après avoir situé notre étude, nous présentons laméthodologie retenue et les premiers résultats. Nous montrons ensuite lapertinence de ces résultats avec le point de vue de la recherche surl'enseignement des mathématiques. Nous terminons par les perspectivesouvertes par ce travail en nous interrogeant sur les apports d'approches EGC àla problématique du diagnostic de compétences",
+	 "authors" : ["Sylvie Normand-Assadi","Lalina Coulange","Elisabeth Delozanne","Brigitte Grugeon"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1000252" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1000252" 
+} 
+ 

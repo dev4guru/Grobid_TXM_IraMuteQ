@@ -1,0 +1,1 @@
+Nous introduisons la notion de sous-base k-faible pour les règles d'association valides au sens de la confiance. Ces sous-bases k-faibles sont caractérisées en termes d'opérateurs de fermeture correspondant à des familles de Moore k-faiblement hiérarchiques.

@@ -1,0 +1,15 @@
+{
+"idArt": "1320",
+"series": "Revue des Nouvelles Technologies de l'Information",
+"booktitle": "EGC",
+"year": "2018",
+"title": "Réseau bayésien pour la gestion de l'obsolescence dans une base d'informations en vue de l'évaluation du risque de chute des personnes âgées",
+"abstract": "L'évaluation périodique du risque de chute des personnes âgéesrequiert des informations fiables et nombreuses. Comme il n'est pas possiblede recueillir régulièrement toutes ces informations, les observationssont faites au fil du temps et conservées, ce qui entraîne une problématiqueliée au vieillissement des informations. Cet article traite de la détectiondes informations obsolètes dans une base d'informations sur unepersonne âgée. Nous proposons une solution comportant un modèle deconnaissances sur les personnes âgées sous forme d'un réseau bayésien etun module de raisonnement chargé de la détection et de la gestion descontradictions et des doutes sur les informations.",
+"authors": "Salma Chaieb, Véronique Delcroix, Ali Ben Mrad, Emmanuelle Grislin-Le Strugeon",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1002402",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1002402",
+"metaSession": "1",
+"place": "Paris",
+"Latitude": " 48.8594 ",
+"Longitude": "2.3548"
+}

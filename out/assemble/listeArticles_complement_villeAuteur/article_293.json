@@ -1,0 +1,13 @@
+{	 "idArt" : "293",
+	 "placeAut" : [ 
+		{ "place" : "Tunis",
+		 "country" : "Tunisie",
+		 "location" : { "lat" :  36.8064948, 
+			 "lon" : 10.181531599999971 } },
+		{ "place" : "Clermont-Ferrand",
+		 "country" : "France",
+		 "location" : { "lat" :  45.77722199999999, 
+			 "lon" : 3.0870250000000397 } }
+	 ]
+} 
+ 

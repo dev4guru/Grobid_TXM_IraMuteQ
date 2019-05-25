@@ -1,0 +1,14 @@
+{	 "idArt" : "835",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2006",
+	 "place" : "Lille",
+	 "location" : { "lat" :  50.62925, 
+		 "lon" : 3.057256 }, 
+	 "title" : "Prédiction de solubilité de molécules à partir des seules données relationnelles",
+	 "abstract" : "La recherche de médicaments passe par la synthèse de molécules candidatesdont l'efficacité est ensuite testée. Ce processus peut être accéléré enidentifiant les molécules non solubles, car celles-ci ne peuvent entrer dans lacomposition d'un médicament et ne devraient donc pas être étudiées. Des techniquesont été développées pour induire un modèle de prédiction de l'indice desolubilité, utilisant principalement des réseaux de neurones ou des régressionslinéaires multiples. La plupart des travaux actuels visent à enrichir les donnéesde caractéristiques supplémentaires sur les molécules. Dans cet article, nous étudionsl'intérêt de la construction automatique d'attributs basée sur la structureintrinsèquement multi-relationnelle des données. Les attributs obtenus sont utilisésdans un algorithme d'arbre de modèles, auquel on associe une méthodede bagging. Les tests réalisés montrent que ces méthodes donnent des résultatscomparables aux meilleures méthodes du domaine qui travaillent sur des attributsconstruits par les experts.",
+	 "authors" : ["Sébastien Derivaux","Agnès Braud","Nicolas Lachiche"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1000424" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1000424" 
+} 
+ 

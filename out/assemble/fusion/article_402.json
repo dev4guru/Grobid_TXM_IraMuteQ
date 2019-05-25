@@ -1,0 +1,22 @@
+{
+"year": "2010",
+"metaSession": "4",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1001352",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1001352",
+"abstract": "Dans la phase de préparation des données du data mining, les méthodesde discrétisation et de groupement de valeurs supervisé possèdent denombreuses applications : interprétation, estimation de densité conditionnelle,sélection de type filtre des variables, recodage des variables en amont des classifieurs.Ces méthodes supposent habituellement un faible nombre de valeur àexpliquer (classes), typiquement moins d'une dizaine, et trouvent leur limitequand leur nombre augmente. Dans cet article, nous introduisons une extensiondes méthodes de discrétisation et groupement de valeurs, consistant à partitionnerd'une part la variable explicative, d'autre part la variable à expliquer.Le meilleur co-partitionnement est recherché au moyen d'une approche Bayesiennede la sélection de modèle. Nous présentons ensuite comment utiliser cetteméthode de prétraitement en préparation pour le classifieur Bayesien naïf. Desexpérimentations intensives démontrent l'apport de la méthode dans le cas decentaines de classes.",
+"title": "Classification supervisée pour de grands nombres de classes à prédire : une approche par co-partitionnement des variables explicatives et à expliquer",
+"placeAut":[{
+"place":"Lannion",
+"country":"France",
+"location":{
+	"lat":"48.732084",
+	"lon":"-3.459144"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 36.4, u'lon': 10.616667}",
+"place": "Hammamet",
+"booktitle": "EGC",
+"idArt": "402",
+"authors": "Marc Boullé"
+}

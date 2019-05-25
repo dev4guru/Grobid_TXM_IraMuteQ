@@ -1,0 +1,14 @@
+{	 "idArt" : "613",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC ",
+	 "year" : "2008",
+	 "place" : "Sophia Antipolis",
+	 "location" : { "lat" :  43.6163539, 
+		 "lon" : 7.0552218 }, 
+	 "title" : "Intégration de contraintes dans les cartes auto-organisatrices",
+	 "abstract" : "Le travail présenté dans cet article décrit une nouvelle version des cartes topologiques que nous appelons CrTM. Cette version consiste à modifier l'algorithme de Kohonen de telle façon à ce qu'il contrôle les violations des contraintes lors de la construction de la topologie de la carte. Nous validons notre approche sur des données connues de la littérature en utilisant des contraintes artificielles. Une validation supplémentaire sera faite sur des données réelles issues d'images médicales pour la classification des mélanomes chez l'humain sous contraintes médicales.",
+	 "authors" : ["Anouar Benhassena","Khalid Benabdeslem","Fazia Bellal","Alexandre Aussem","Bruno Canitia"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1000663" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1000663" 
+} 
+ 

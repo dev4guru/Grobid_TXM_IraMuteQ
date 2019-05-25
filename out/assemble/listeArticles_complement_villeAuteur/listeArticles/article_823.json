@@ -1,0 +1,13 @@
+{	 "idArt" : "823",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2006",
+	 "place" : "Lille",
+	 "location" : { "lat" :  50.62925, 
+		 "lon" : 3.057256 }, 
+	 "title" : "I-Semantec : une plateforme collaborative de capitalisation des connaissances métier en conception de produits industriels",
+	 "authors" : ["Mohamed-Foued Sriti","Philippe Boutinaud","Nada Matta","Manuel Zacklad"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1000441" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1000441" 
+} 
+ 

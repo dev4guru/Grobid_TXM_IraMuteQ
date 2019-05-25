@@ -1,0 +1,14 @@
+{	 "idArt" : "801",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2006",
+	 "place" : "Lille",
+	 "location" : { "lat" :  50.62925, 
+		 "lon" : 3.057256 }, 
+	 "title" : "Définition et diffusion de signatures sémantiques dans les systèmes pair-à-pair",
+	 "abstract" : "Les systèmes pair-à-pair (peer-to-peer, P2P, égal-à-égal) se sont popularisésces dernières années avec les systèmes de partage de fichiers sur Internet.De nombreuses recherches concernant l'optimisation de la localisationdes données ont émergé et constituent un axe de recherche très actif. La priseen compte de la sémantique du contenu des pairs dans le routage des requêtespermet d'améliorer considérablement la localisation des données. Nous nousconcentrons sur l'approche PlanetP, faisant usage de la notion de filtre de Bloom,qui consiste à propager une signature sémantique des pairs (filtres de Bloom) àtravers le réseau. Nous présentons cette approche et en proposons une amélioration: la création de filtres de Bloom dynamiques, dans le sens où leur tailledépend de la charge des pairs (nombre de documents partagés).",
+	 "authors" : ["Raja Chiky","Bruno Defude","Georges Hébrail"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1000388" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1000388" 
+} 
+ 

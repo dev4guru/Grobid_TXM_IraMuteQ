@@ -1,0 +1,13 @@
+{	 "idArt" : "206",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2013",
+	 "place" : "Toulouse",
+	 "location" : { "lat" :  43.604652, 
+		 "lon" : 1.444209 }, 
+	 "title" : "Vers un cadre évolutif de classification non supervisée",
+	 "abstract" : "La classification non supervisée (clustering) évolutive surpasse généralement par celle statique en produisant des groupes de données (clusters) qui reflètent les tendances à long terme tout en étant robuste aux variations à court terme. Dans ce travail, nous présentons un cadre différent pour le clustering évolutif d'une manière incrémentale par un suivi précis des variables de proximité temporelles entre les objets suivis par un clustering statique ordinaire.",
+	 "authors" : ["Mohamed Charouel","Minyar Sassi-Hidri","Mohamed Ali Zoghlami"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1001821" 
+} 
+ 

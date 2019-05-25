@@ -1,0 +1,13 @@
+{	 "idArt" : "40",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2015",
+	 "place" : "Luxembourg",
+	 "location" : { "lat" :  49.815273, 
+		 "lon" : 6.129582999999999 }, 
+	 "title" : "Méthode alternative à la détection de « copier/coller » : intersection de textes et construction de séquences maximales communes ",
+	 "abstract" : "La détection du plagiat passe le plus souvent par la phase de recherche de similitudes la plus naïve, la détection de « copier/coller ». Dans cet article, nous proposons une méthode alternative à l'approche standard de comparaison mot à mot. Le principe étant d'effectuer une intersection des deux textes à comparer, récupérant ainsi un tableau des mots qu'ils ont en commun et de ne conserver que les séquences maximales des mots se suivant dans l'un des textes et existant également dans l'autre. Nous montrons que cette méthode est plus rapide et moins coûteuse en ressources que les méthodes de parcours de textes habituellement utilisées. L'objectif étant de détecter les passages identiques entre deux textes plus rapidement que les méthodes de comparaison mot à mot, tout en étant plus efficace que les méthodes n-grammes.",
+	 "authors" : ["Jérémy Ferrero","Alain Simac-Lejeune"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1002065" 
+} 
+ 

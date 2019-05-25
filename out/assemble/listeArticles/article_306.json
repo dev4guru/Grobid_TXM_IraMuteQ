@@ -1,0 +1,14 @@
+{	 "idArt" : "306",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2011",
+	 "place" : "Brest",
+	 "location" : { "lat" :  48.390394, 
+		 "lon" : -4.486076 }, 
+	 "title" : "Détection de redondances dans les tableaux guidée par une ontologie",
+	 "abstract" : "Nous nous intéressons dans cet article à la réconciliation d'annotations floues associées à des tableaux de données par une méthode d'annotation sémantique, qui est guidée par une ontologie de domaine. Etant donnés deux tableaux, la méthode consiste à détecter leurs instances de relation redondantes. Elle s'appuie sur les connaissances déclarées dans l'ontologie, ainsi que sur des scores de similarité entre les annotations floues représentées par des sous-ensembles flous numériques ou par des sous-ensembles flous symboliques",
+	 "authors" : ["Rania Khefifi","Patrice Buche","Juliette Dibie-Barthélemy","Fatiha Saïs"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1001016" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1001016" 
+} 
+ 

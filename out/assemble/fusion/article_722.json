@@ -1,0 +1,22 @@
+{
+"year": "2007",
+"metaSession": "3",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1001309",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1001309",
+"abstract": "Les mesures d'entropie, dont la plus connue est celle de Shannon, ont été proposées dans un contexte de codage et de transmission d'information. Néanmoins, dès le milieu des années soixante, elles ont été utilisées dans d'autres domaines comme l'apprentissage et plus particulièrement pour construire des graphes d'induction et des arbres de décision. L'usage brut de ces mesures n'est cependant pas toujours bien approprié pour engendrer des modèles de prédiction ou d'explication pertinents. Cette faiblesse résulte des propriétés des entropies, en particulier le maximum nécessairement atteint pour la distribution uniforme et l'insensibilité à la taille de l'échantillon. Nous commençons par rappeler ces propriétés classiques. Nous définissons ensuite une nouvelle axiomatique mieux adaptée à nos besoins et proposons une mesure empirique d'entropie plus flexible vérifiant ces axiomes.",
+"title": "Mesure d'entropie asymétrique et consistante",
+"placeAut":[{
+"place":"Bron",
+"country":"France",
+"location":{
+	"lat":"45.733316",
+	"lon":"4.911927"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 50.4673883, u'lon': 4.8719854}",
+"place": "Namur",
+"booktitle": "EGC",
+"idArt": "722",
+"authors": "['Djamel Abdelkader Zighed','Simon Marcellin','Gilbert Ritschard']"
+}

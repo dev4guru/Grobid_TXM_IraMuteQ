@@ -1,0 +1,21 @@
+{	 "idArt" : "70",
+	 "placeAut" : [ 
+		{ "place" : "Hamamatsu",
+		 "country" : "Japon",
+		 "location" : { "lat" :  34.7108344, 
+			 "lon" : 137.72612579999998 } },
+		{ "place" : "Montpellier",
+		 "country" : "France",
+		 "location" : { "lat" :  43.610769, 
+			 "lon" : 3.8767159999999876 } },
+		{ "place" : "Paris",
+		 "country" : "France",
+		 "location" : { "lat" :  48.856614, 
+			 "lon" : 2.3522219000000177 } },
+		{ "place" : "Toulouse",
+		 "country" : "France",
+		 "location" : { "lat" :  43.604652, 
+			 "lon" : 1.4442090000000007 } }
+	 ]
+} 
+ 

@@ -1,0 +1,22 @@
+{
+"year": "2013",
+"metaSession": "3",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1001840",
+"pdfarticle": "",
+"abstract": "Dans ce papier, nous présentons une nouvelle approche qui permet la détection précoce de tendances produits dans le cadre des activités commerciales de la grande distribution. S'agissant d'un domaine où la concurrence est très vive entre les différentes enseignes avec des enjeux financiers colossaux, les stratégies commerciales ont pour principal objectif de fidéliser la clientèle pour limiter leur défection. C'est là qu'intervient la détection des changements de tendances produits, qui va permettre d'anticiper l'attrition de la clientèle. Déceler des tendances suffisamment tôt permettra aux décideurs de mettre en place des stratégies préventives efficaces à moindre coût. Notre objectif est donc d'analyser et de modéliser clairement les changements de tendances et leurs impacts potentiels globaux sur les achats des clients. Nous illustrerons notre approche sur des données réelles d'achats de clients d'une grande enseigne.",
+"title": "Détection précoce de tendances produits dans le cadre des activités commerciales de la grande distribution",
+"placeAut":[{
+"place":"Schlcher",
+"country":"France",
+"location":{
+	"lat":"14.62",
+	"lon":"-61.1"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 43.604652, u'lon': 1.444209}",
+"place": "Toulouse",
+"booktitle": "EGC",
+"idArt": "171",
+"authors": "['Gaël Bardury','Jean-Emile Symphor']"
+}

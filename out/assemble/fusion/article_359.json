@@ -1,0 +1,22 @@
+{
+"year": "2011",
+"metaSession": "",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1000919",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1000919",
+"abstract": "In the ocean of Web data, Web search engines are the primary way to access content. As the data is on the order of petabytes, current search engines are very large centralized systems based on replicated clusters. Web data, however, is always evolving. The number of Web sites continues to grow rapidly (230 millions at the end of 2009) and there are currently more than 20 billion indexed pages. On the other hand, Internet users are above one billion and hundreds of million of queries are issued each day. In the near future, centralized systems are likely to become less effective against such a data-query load, thus suggesting the need of fully distributed search engines. Such engines need to maintain high quality answers, fast response time, high query throughput, high availability and scalability ; in spite of network latency and scattered data. In this talk we present the main challenges behind the design of a distributed Web retrieval system and our research in all the components of a search engine : crawling, indexing, and query processing.",
+"title": "Towards a DistributedWeb Search Engine",
+"placeAut":[{
+"place":"Barcelona",
+"country":"Espagne",
+"location":{
+	"lat":"41.297445",
+	"lon":"2.0832941"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 48.390394, u'lon': -4.486076}",
+"place": "Brest",
+"booktitle": "EGC",
+"idArt": "359",
+"authors": "Ricardo Baeza-Yates"
+}

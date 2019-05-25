@@ -1,0 +1,15 @@
+{
+"idArt": "1182",
+"series": "Revue des Nouvelles Technologies de l'Information",
+"booktitle": "EGC",
+"year": "2016",
+"title": "Une approche de réduction de dimensionnalité pour l'agrégation de préférences qualitatives",
+"abstract": "Nous présentons une méthode de réduction de dimensionnalité pourdes données de préférences multicritères lorsque l'espace des évaluations estun treillis distributif borné. Cette méthode vise à réduire la complexité desprocédures d'apprentissage d'un modèle d'agrégation sur des données qualitatives.Ainsi nous considérons comme modèle d'agrégation l'intégrale de Sugeno.L'apprentissage d'un tel modèle à partir de données empiriques est unproblème d'optimisation à 2n paramètres (où n est le nombre de critères considérés).La méthode de réduction que nous proposons s'appuie sur l'observationde certaines relations entre les éléments de ces données, et nous donnons despremiers résultats d'applications.",
+"authors": "Quentin Brabant, Miguel Couceiro, Fabien Labernia, Amedeo Napoli",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1002186",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1002186",
+"metaSession": "4",
+"place": "Reims",
+"Latitude": " 49.258407 ",
+"Longitude": "4.031774"
+}

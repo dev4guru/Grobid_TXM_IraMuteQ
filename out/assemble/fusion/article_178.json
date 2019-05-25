@@ -1,0 +1,22 @@
+{
+"year": "2013",
+"metaSession": "2",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1001826",
+"pdfarticle": "",
+"abstract": "L'analyse exploratoire de données multidimensionnelles est un problème complexe. Nous proposons d'extraire certains invariants topologiques appelés nombre de Betti, pour synthétiser la topologie de la structure sous-jacente aux données. Nous définissons un modèle génératif basé sur le complexe simplicial de Delaunay dont nous estimons les paramètres par l'optimisation du critère d'information Bayésien (BIC). Ce Complexe Simplicial Génératif nous permet d'extraire les nombres de Betti de données jouets et d'images d'objets en rotation. Comparé à la technique géométrique des Witness Complex, le CSG apparait plus robuste aux données bruitées.",
+"title": "Extraction des nombres de Betti avec un modèle génératif",
+"placeAut":[{
+"place":"Gif-sur-Yvette",
+"country":"France",
+"location":{
+	"lat":"48.701844",
+	"lon":"2.134078"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 43.604652, u'lon': 1.444209}",
+"place": "Toulouse",
+"booktitle": "EGC",
+"idArt": "178",
+"authors": "['Maxime Maillot','Michaël Aupetit','Gérard Govaert']"
+}

@@ -1,0 +1,14 @@
+{	 "idArt" : "847",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2006",
+	 "place" : "Lille",
+	 "location" : { "lat" :  50.62925, 
+		 "lon" : 3.057256 }, 
+	 "title" : "Sélection supervisée d'instances : une approche descriptive",
+	 "abstract" : "La classification suivant le plus proche voisin est une règle simple etperformante. Sa mise en oeuvre pratique nécessite, tant pour des raisons de coûtde calcul que de robustesse, de sélectionner les instances à conserver. La partitionde Voronoi induite par les prototypes constitue la structure sous-jacente àcette règle. Dans cet article, on introduit un critère descriptif d'évaluation d'unetelle partition, quantifiant le compromis entre nombre de cellules et discriminationde la variable cible entre les cellules. Une heuristique d'optimisation estproposée, tirant partie des propriétés des partitions de Voronoi et du critère. Laméthode obtenue est comparée avec les standards sur une vingtaine de jeux dedonnées de l'UCI. Notre technique ne souffre d'aucun défaut de performanceprédictive, tout en sélectionnant un minimum d'instances. De plus, elle ne surapprendpas.",
+	 "authors" : ["Sylvain Ferrandiz","Marc Boullé"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1000382" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1000382" 
+} 
+ 

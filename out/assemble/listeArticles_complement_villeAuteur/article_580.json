@@ -1,0 +1,17 @@
+{	 "idArt" : "580",
+	 "placeAut" : [ 
+		{ "place" : "Futuroscope Chasseneuil",
+		 "country" : "France",
+		 "location" : { "lat" :  46.6698573, 
+			 "lon" : 0.36975810000001275 } },
+		{ "place" : "Paris",
+		 "country" : "France",
+		 "location" : { "lat" :  48.856614, 
+			 "lon" : 2.3522219000000177 } },
+		{ "place" : "Compiègne",
+		 "country" : "France",
+		 "location" : { "lat" :  49.41781599999999, 
+			 "lon" : 2.826144999999997 } }
+	 ]
+} 
+ 

@@ -1,0 +1,22 @@
+{
+"year": "2015",
+"metaSession": "7",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1002101",
+"pdfarticle": "",
+"abstract": "Dans ce travail, nous proposons une nouvelle méthode de détection des conversations sur les sites des réseaux sociaux. Cette méthode est basée sur l'analyse et l'enrichissement de contenu dans le but de présenter un résultat informatif basé sur les interactions des utilisateurs. Nous avons évalué notre méthode sur corpus recueillis de réseau social lié à des sujets spécifiques, et nous avons obtenu des bons résultats.",
+"title": "Using Social Conversational Context For Detecting Users Interactions on Microblogging Sites",
+"placeAut":[{
+"place":"Blida",
+"country":"Algérie",
+"location":{
+	"lat":"36.4798683",
+	"lon":"2.8005677"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 49.815273, u'lon': 6.129582999999999}",
+"place": "Luxembourg",
+"booktitle": "EGC",
+"idArt": "63",
+"authors": "['Rami BELKAROUI','Rim Faiz','Aymen Elkhlifi']"
+}

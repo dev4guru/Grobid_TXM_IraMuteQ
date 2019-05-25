@@ -1,0 +1,22 @@
+{
+"year": "2010",
+"metaSession": "4",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1001272",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1001272",
+"abstract": "Les modèles de classification recouvrante ont montré leur capacité àgénérer une organisation plus fidèle aux données tout en conservant la simplificationattendue par une structuration en classes strictes. Par ailleurs les modèlesneuronaux non-supervisés sont plébiscités lorsqu'il s'agit de visualiser la structurede classes.Nous proposons dans cette étude d'étendre les cartes auto-organisatrices traditionnellesaux cartes auto-organisatrices recouvrantes. Nous montrons que cettenouvelle structure apporte des solutions à certaines problématiques spécifiquesen classification recouvrante (nombre de classes, complexité, cohérence des recouvrements).L'algorithme OSOM s'inspire de la version recouvrante des nuées dynamiqueset de l'approche de Kohonen pour générer de telles cartes recouvrantes. Nousdiscutons du modèle proposé d'un point de vue théorique (fonction d'énergieassociée, complexité, ...). Enfin nous présentons un cadre d'évaluation généraleque nous utilisons pour valider les résultats obtenus sur des données réelles.",
+"title": "OSOM : un algorithme de construction de cartes topologiques recouvrantes",
+"placeAut":[{
+"place":"Orléans",
+"country":"France",
+"location":{
+	"lat":"47.902964",
+	"lon":"1.909251"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 36.4, u'lon': 10.616667}",
+"place": "Hammamet",
+"booktitle": "EGC",
+"idArt": "447",
+"authors": "Guillaume Cleuziou"
+}

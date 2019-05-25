@@ -1,0 +1,15 @@
+{
+"idArt": "1111",
+"series": "Revue des Nouvelles Technologies de l'Information",
+"booktitle": "EGC",
+"year": "2016",
+"title": "Approche de Clustering de Flux basée sur les Graphes de Voisinage",
+"abstract": "We propose a neighborhood-based approach for data streams clustering. Instead of processingeach new element one by one, we propose to process each group of new elements simultaneously.A neighborhood-based clustering is applied on each new group. We also definean incremental construction method of the neighborhood graph based on the stream evolution.To validate the approach, we apply it to multiple data sets and we compare it with variousstream clustering approaches.",
+"authors": "Ibrahim Louhi, Lydia Boudjeloud-Assala, Thomas Tamisier",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1002217",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1002217",
+"metaSession": "11",
+"place": "Reims",
+"Latitude": " 49.258336 ",
+"Longitude": "4.031703"
+}

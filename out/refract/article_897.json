@@ -1,0 +1,22 @@
+{
+"year": "2005",
+"metaSession": "",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1000242",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1000242",
+"abstract": "",
+"title": "Gestion de connaissances et de données dans l'aide à la conception de Tissue Microarrays",
+"placeAut":[{
+"place":"La Tronche",
+"country":"France",
+"location":{
+	"lat":"45.205168",
+	"lon":"5.737805"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 48.856614, u'lon': 2.3522219}",
+"place": "Paris",
+"booktitle": "AEGC",
+"idArt": "897",
+"authors": "['Julie Bourbeillon','Catherine Garbay','Françoise Giroud']"
+}

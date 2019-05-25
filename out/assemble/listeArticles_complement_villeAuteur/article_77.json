@@ -1,0 +1,9 @@
+{	 "idArt" : "77",
+	 "placeAut" : [ 
+		{ "place" : "Nouméa",
+		 "country" : "Nouvelle-Calédonie",
+		 "location" : { "lat" :  -22.2758, 
+			 "lon" : 166.45799999999997 } }
+	 ]
+} 
+ 

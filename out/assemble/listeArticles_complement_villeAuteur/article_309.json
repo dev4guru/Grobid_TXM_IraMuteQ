@@ -1,0 +1,9 @@
+{	 "idArt" : "309",
+	 "placeAut" : [ 
+		{ "place" : "Boston",
+		 "country" : "USA",
+		 "location" : { "lat" :  42.3600825, 
+			 "lon" : -71.05888010000001 } }
+	 ]
+} 
+ 

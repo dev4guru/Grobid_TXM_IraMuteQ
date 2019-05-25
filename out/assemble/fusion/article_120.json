@@ -1,0 +1,22 @@
+{
+"year": "2014",
+"metaSession": "1",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1001910",
+"pdfarticle": "",
+"abstract": "Les entités nommées sont des éléments intéressants pour les applicationsfondées sur le Traitement du Langage Naturel. Dans le cas de la recherched'information, les entités nommées sont largement employées par les utilisateursdu web dans les requêtes de recherche, soit pour définir un concept debase, soit pour décrire un autre concept dans la requête. Du côté du modèlede recherche, les entités nommées sont des éléments riches en information quiaident à mieux cibler les documents pertinents. Dans cet article, nous étudionsl'avantage d'étendre les entités nommées dans la requête. L'idée est d'utiliserune technique d'expansion sémantique sur une ontologie générale (Yago) pourdésambiguïser les entités nommées et pour trouver leurs différentes appellationsque l'on intègre dans la requête en utilisant 3 approches : sac de mots, dépendanceséquentielle, et concept clé. Nous mesurons l'efficacité de ces expériencesen termes de précision et rappel, et nous étudions l'effet du rôle des entités nomméessur l'expansion. Nous concluons que l'expansion des entités nommées estune méthode simple qui améliore significativement la qualité de la recherchequand elle est comparée à un modèle de référence sans expansion. De plus, cetteméthode est assez compétitive par rapport à l'approche pseudo retour de pertinencesouvent utilisée pour l'expansion de la requête.",
+"title": "L'utilisation des entités nommées pour l'expansion sémantique des requêtes Web",
+"placeAut":[{
+"place":"Saint-Etienne",
+"country":"France",
+"location":{
+	"lat":"45.439695",
+	"lon":"4.3871779"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 48.117266, u'lon': -1.6777926}",
+"place": "Rennes",
+"booktitle": "EGC",
+"idArt": "120",
+"authors": "['Bissan Audeh','Philippe Beaune','Michel Beigbeder']"
+}

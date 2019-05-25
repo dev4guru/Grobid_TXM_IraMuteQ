@@ -1,0 +1,13 @@
+{	 "idArt" : "83",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2014",
+	 "place" : "Rennes",
+	 "location" : { "lat" :  48.117266, 
+		 "lon" : -1.6777926 }, 
+	 "title" : "Clustering de données relationnelles pour la structuration de flux télévisuels",
+	 "abstract" : "Les approches existantes pour structurer automatiquement un flux detélévision (i.e. reconstituer un guide de programme exact et complet), sont supervisées.Elles requièrent de grandes quantités de données annotées manuellement,et aussi de définir a priori les types d'émissions (publicités, bandes annonces,programmes, sponsors...). Pour éviter ces deux contraintes, nous proposonsune classification non supervisée. La nature multi-relationnelle de nosdonnées proscrit l'utilisation des techniques de clustering habituelles reposantsur des représentations sous forme attributs-valeurs. Nous proposons et validonsexpérimentalement une technique de clustering capable de manipuler ces donnéesen détournant la programmation logique inductive (PLI) pour fonctionnerdans ce cadre non supervisé.",
+	 "authors" : ["Vincent Claveau","Patrick Gros"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1001934" 
+} 
+ 

@@ -1,0 +1,22 @@
+{
+"year": "2012",
+"metaSession": "8",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1001201",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1001201",
+"abstract": "Avec le développement du numérique, des quantités très importantesde documents composés de texte et d'images sont échangés, ce qui nécessite ledéveloppement demodèles permettant d'exploiter efficacement ces informationsmultimédias. Dans le contexte de la recherche d'information, unmodèle possibleconsiste à représenter séparément les informations textuelles et visuelles et àcombiner linéairement les scores issus de chaque représentation. Cette approchenécessite le paramétrage de poids afin d'équilibrer la contribution de chaquemodalité. Le but de cet article est de présenter une nouvelle méthode permettantd'apprendre ces poids, basée sur l'analyse linéaire discriminante de Fisher(ALD). Des expérimentations réalisées sur la collection ImageCLEF montrentque l'apprentissage des poids grâce à l'ALD est pertinent et que la combinaisondes scores correspondante améliore significativement les résultats par rapport àl'utilisation d'une seule modalité.",
+"title": "Apprentissage par analyse linéaire discriminante des paramètres de fusion pour la recherche d'information multimédia texte-image",
+"placeAut":[{
+"place":"Saint-Étienne",
+"country":"France",
+"location":{
+	"lat":"45.439695",
+	"lon":"4.3871779"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 44.837789, u'lon': -0.57918}",
+"place": "Bordeaux",
+"booktitle": "EGC",
+"idArt": "213",
+"authors": "['Christophe Moulin','Christine Largeron','Cécile Barat','Mathias Géry','Christophe Ducottet']"
+}

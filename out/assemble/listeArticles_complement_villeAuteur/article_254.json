@@ -1,0 +1,17 @@
+{	 "idArt" : "254",
+	 "placeAut" : [ 
+		{ "place" : "Tours",
+		 "country" : "France",
+		 "location" : { "lat" :  47.394144, 
+			 "lon" : 0.6848400000000083 } },
+		{ "place" : "Roubaix",
+		 "country" : "France",
+		 "location" : { "lat" :  50.6927049, 
+			 "lon" : 3.177846999999929 } },
+		{ "place" : "Neuilly-sur-Seine",
+		 "country" : "France",
+		 "location" : { "lat" :  48.884831, 
+			 "lon" : 2.268509999999992 } }
+	 ]
+} 
+ 

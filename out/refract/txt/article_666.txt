@@ -1,0 +1,1 @@
+Les relations sémantiques généralement reconnues par les méthodes d'extraction sont portées par des structures de type prédicats-arguments. Or, l'information recherchée est souvent répartie sur plusieurs phrases. Pour détecter ces relations dites complexes, nous proposons un modèle de représentation des connaissances basé sur les graphes conceptuels.

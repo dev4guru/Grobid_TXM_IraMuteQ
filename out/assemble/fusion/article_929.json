@@ -1,0 +1,22 @@
+{
+"year": "2005",
+"metaSession": "",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1000280",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1000280",
+"abstract": "La recherche de structures fréquentes au sein de données ar-borescentes est une problématique actuellement très active qui trouvede nombreux intérêts dans le contexte de la fouille de données comme,par exemple, la construction automatique d'un schéma médiateur à par-tir de schémas XML. Dans ce contexte, de nombreuses propositions ontété réalisées mais les méthodes de représentation des arborescences sonttrès souvent trop coûteuses. Dans cet article, nous proposons donc uneméthode originale de représentation de ces données. Les propriétés decette représentation peuvent être avantageusement utilisées par les algorithmes de recherche de structures fréquentes (sous-arbres fréquents). Lareprésentation proposée et les algorithmes associés ont été évalués surdes jeux de données synthétiques montrant ainsi l'inter^et de l'approcheproposée.",
+"title": "Une représentation des arborescences pour la recherche de sous-structures fréquentes",
+"placeAut":[{
+"place":"Montpellier",
+"country":"France",
+"location":{
+	"lat":"43.610769",
+	"lon":"3.876716"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 48.856614, u'lon': 2.3522219}",
+"place": "Paris",
+"booktitle": "AEGC",
+"idArt": "929",
+"authors": "['Federico Del Razo López','Anne Laurent','Maguelonne Teisseire']"
+}

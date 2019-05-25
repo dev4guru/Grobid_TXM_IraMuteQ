@@ -1,0 +1,14 @@
+{	 "idArt" : "681",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2007",
+	 "place" : "Namur",
+	 "location" : { "lat" :  50.4673883, 
+		 "lon" : 4.8719854 }, 
+	 "title" : "Apprentissage semi-supervisé de fonctions d'ordonnancement",
+	 "abstract" : "Nous présentons dans cet article un algorithme inductif semi-supervisé pour la tâche d'ordonnancement bipartite. Les algorithmes semi-supervisés proposés jusqu'à maintenant ont été étudiés dans le cadre strict de la classification. Récemment des travaux ont été réalisés dans le cadre transductif pour étendre les modèles existants en classification au cadre d'ordonnancement. L'originalité de notre approche est qu'elle est capable d'inférer un ordre sur une base test non- utilisée pendant la phase d'apprentissage, ce qui la rend plus générique qu'une méthode transductive pure. Les résultats empiriques sur la base CACM contenant les titres et les résumés du journal Communications of the Association for Computer Machinery montrent que les données non-étiquetées sont bénéfiques pour l'apprentissage de fonctions d'ordonnancement.",
+	 "authors" : ["Tuong-Vinh Truong","Massih-Reza Amini"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1001425" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1001425" 
+} 
+ 

@@ -1,0 +1,15 @@
+{
+"idArt": "1252",
+"series": "Revue des Nouvelles Technologies de l'Information",
+"booktitle": "EGC",
+"year": "2017",
+"title": "Une mesure d'expertise pour le crowdsourcing",
+"abstract": "Le crowdsourcing, un enjeu économique majeur, est le fait d'externaliserune tâche interne d'une entreprise vers le grand-public, la foule. C'estainsi une forme de sous-traitance digitale destinée à toute personne susceptiblede pouvoir réaliser la tâche demandée généralement rapide et non automatisable.L'évaluation de la qualité du travail des participants est cependant un problèmemajeur en crowdsourcing. En effet, les contributions doivent être contrôlées pourassurer l'efficacité et la pertinence d'une campagne. Plusieurs méthodes ont étéproposées pour évaluer le niveau d'expertise des participants. Ce travail a la particularitéde proposer une méthode de calcul de degrés d'expertise en présencede données dont l'ordre de classement est connu. Les degrés d'expertise sont ensuiteconsidérés sur des données sans ordre pré-établi. Cette méthode fondée surla théorie des fonctions de croyance tient compte des incertitudes des réponseset est évaluée sur des données réelles d'une campagne réalisée en 2016.",
+"authors": "Hosna Ouni, Arnaud Martin, Laetitia Gros, Mouloud Kharoune, Zoltan Miklos",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1002267",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1002267",
+"metaSession": "7",
+"place": "Grenoble",
+"Latitude": " 45.188593 ",
+"Longitude": "5.724588"
+}

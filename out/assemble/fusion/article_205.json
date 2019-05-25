@@ -1,0 +1,22 @@
+{
+"year": "2013",
+"metaSession": "4",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1001825",
+"pdfarticle": "",
+"abstract": "Les cartes cognitives sont un modèle graphique représentant des influences entre des concepts. Malgré le fait qu'une carte cognitive soit relativement simple à construire, certaines influences peuvent se contredire l'une l'autre. Cet article propose différents critères pour valider une carte cognitive, c'est-àdire indiquer si la carte contient ou non des contradictions. Nous distinguons deux types de critères : les critères de vérification qui valident une carte cognitive en déterminant sa cohérence interne et les critères de test qui valident une carte à partir d'un ensemble de contraintes choisies par le concepteur.",
+"title": "Validation d'une carte cognitive",
+"placeAut":[{
+"place":"Angers",
+"country":"France",
+"location":{
+	"lat":"47.478419",
+	"lon":"-0.563166"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 43.604652, u'lon': 1.444209}",
+"place": "Toulouse",
+"booktitle": "EGC",
+"idArt": "205",
+"authors": "['Aymeric Le Dorze','Laurent Garcia','David Genest','Stéphane Loiseau']"
+}

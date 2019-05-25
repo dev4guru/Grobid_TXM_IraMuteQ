@@ -1,0 +1,15 @@
+{
+"idArt": "1151",
+"series": "Revue des Nouvelles Technologies de l'Information",
+"booktitle": "EGC",
+"year": "2016",
+"title": "LibRe: Protocole de gestion de la cohérence dans les systèmes de stockage distribués",
+"abstract": "Nous présentons dans ce papier un protocole de gestion de la cohérenceappelé LibRe adapté aux systèmes de stockage orientés Cloud (telles queles bases de données NoSQL). Ce protocole garantit l'accès à la donnée la plusrécente tout en ne consultant qu'une seule réplique. Cet algorithme est évaluépar simulation et est également implémenté au sein du système de stockage Cassandra.Les résultats de ces expérimentations ont démontré l'efficacité de notreapproche.",
+"authors": "Raja Chiky, Sathya Prabhu Kumar, Sylvain Lefebvre, Eric Gressier-Soudan",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1002171",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1002171",
+"metaSession": "1",
+"place": "Reims",
+"Latitude": " 49.258376 ",
+"Longitude": "4.031743"
+}

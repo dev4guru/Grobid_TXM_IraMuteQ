@@ -1,0 +1,22 @@
+{
+"year": "2013",
+"metaSession": "6",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1001828",
+"pdfarticle": "",
+"abstract": "Notre travail porte sur l'aide à l'observation de l'activité dans les simulateurs pleine échelle de centrale nucléaire pour assister les formateurs pendant les simulations. Notre approche consiste à représenter l'activité sous la forme de trace modélisée et à les transformer afin d'extraire et de visualiser des informations de haut niveau permettant aux formateurs de mieux retracer et analyser les simulations. Afin de valider notre approche, nous avons conçu le prototype D3KODE que nous avons évalué avec des experts formateurs d'EDF.",
+"title": "Réutiliser les connaissances d'expert pour assister l'analyse de l'activité sur simulateur pleine échelle de conduite de centrale nucléaire - Approche à base de M-Trace",
+"placeAut":[{
+"place":"Lyon",
+"country":"France",
+"location":{
+	"lat":"45.764043",
+	"lon":"4.835659"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 43.604652, u'lon': 1.444209}",
+"place": "Toulouse",
+"booktitle": "EGC",
+"idArt": "193",
+"authors": "['Olivier Champalle','Karim Sehaba']"
+}

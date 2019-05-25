@@ -1,0 +1,9 @@
+{	 "idArt" : "1058",
+	 "placeAut" : [ 
+		{ "place" : "Lens",
+		 "country" : "France",
+		 "location" : { "lat" :  50.42893000000001, 
+			 "lon" : 2.831829999999968 } }
+	 ]
+} 
+ 

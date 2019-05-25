@@ -1,0 +1,22 @@
+{
+"year": "2010",
+"metaSession": "",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1001258",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1001258",
+"abstract": "Pattern mining is one of the fundamental techniques in data mining. As one increases thecomplexity of the pattern types, from subsets, to subsequences, subtrees, and subgraphs, onediscovers potentially more informative patterns. In this talk I will offer a tour of the past andthe present research landscape in this area, and I'll conclude with some thoughts on directionsfor the future",
+"title": "Pattern Mining: The Past, Present, and Future",
+"placeAut":[{
+"place":"New-York",
+"country":"USA",
+"location":{
+	"lat":"40.7127837",
+	"lon":"-74.0059413"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 36.4, u'lon': 10.616667}",
+"place": "Hammamet",
+"booktitle": "EGC",
+"idArt": "448",
+"authors": "Mohammed Zaki"
+}

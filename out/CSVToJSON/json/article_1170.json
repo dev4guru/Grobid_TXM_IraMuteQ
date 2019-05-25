@@ -1,0 +1,15 @@
+{
+"idArt": "1170",
+"series": "Revue des Nouvelles Technologies de l'Information",
+"booktitle": "EGC",
+"year": "2016",
+"title": "Supervision de comportements remarquables d'objets mobiles à partir du suivi et de l'analyse de leurs trajectoires spatio-temporelles",
+"abstract": "We propose a new generic knowledge model dedicated to the consideration of temporaland spatial dimensions of moving objects. We extend usual approaches to meet the specificityof the representation of moving objects and their trajectories. An application on shipping andboat trip scenarii is done.",
+"authors": "Mojdeh Soltanmohammadi, Isabelle Mougenot, Thérèse Libourel, Christophe Fagot",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1002230",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1002230",
+"metaSession": "11",
+"place": "Reims",
+"Latitude": " 49.258395 ",
+"Longitude": "4.031762"
+}

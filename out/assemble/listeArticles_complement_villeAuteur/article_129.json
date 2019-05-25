@@ -1,0 +1,9 @@
+{	 "idArt" : "129",
+	 "placeAut" : [ 
+		{ "place" : "Torino",
+		 "country" : "Italie",
+		 "location" : { "lat" :  45.070312, 
+			 "lon" : 7.686856499999976 } }
+	 ]
+} 
+ 

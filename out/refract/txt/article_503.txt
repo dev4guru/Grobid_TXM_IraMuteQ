@@ -1,0 +1,1 @@
+We develop an efficient algorithm for detecting frequent patterns thatoccur in sequence databases under certain constraints. By combining the useof bit vector representations of sequence databases with association graphs weachieve superior time and low memory usage based on a considerable reductionof the number of candidate patterns.

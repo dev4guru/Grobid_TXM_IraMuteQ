@@ -1,0 +1,15 @@
+{
+"idArt": "1227",
+"series": "Revue des Nouvelles Technologies de l'Information",
+"booktitle": "EGC",
+"year": "2017",
+"title": "Mesure de la confiance dans les systèmes d'information : application aux données de navires",
+"abstract": "Ces dernières années, la prolifération rapide des capteurs et des objetscommunicants de tous types a significativement enrichi le contenu des systèmesd'information. Cependant, cela suscite de nouvelles questions quant à la confianceque l'on peut accorder aux informations et aux sources d'informations. Eneffet, ces sources peuvent être leurrées ou sous l'emprise d'un tiers qui falsifieou altère les informations. Cet article propose donc d'aborder la sécurité dessystèmes d'informations sous l'angle de la confiance dans les sources d'informations.En premier lieu, la définition puis l'évaluation de la confiance dans un réseau hétérogènesont introduits. Une modélisation des sources est ensuite proposée. Laconfiance dans ces sources d'informations est abordée au travers de deux caractéristiques: la compétence et la sincérité. L'extraction de la confiance est réaliséevia un ensemble de mesures de ces deux caractéristiques. Une expérience baséesur plusieurs sources simulées à partir d'un jeu de données réelles montrent lapertinence de l'approche; approche qui peut être transposée à d'autres systèmesd'information. Cette étude est appliquée à l'analyse des données de navigationet de positionnement d'un navire.",
+"authors": "Benjamin Costé, Cyril Ray, Gouenou Coatrieux",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1002274",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1002274",
+"metaSession": "1",
+"place": "Grenoble",
+"Latitude": " 45.188568 ",
+"Longitude": "5.724563"
+}

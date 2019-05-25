@@ -1,0 +1,21 @@
+{	 "idArt" : "88",
+	 "placeAut" : [ 
+		{ "place" : "Rennes",
+		 "country" : "France",
+		 "location" : { "lat" :  48.117266, 
+			 "lon" : -1.6777925999999752 } },
+		{ "place" : "Villers-lès-Nancy",
+		 "country" : "France",
+		 "location" : { "lat" :  48.67321800000001, 
+			 "lon" : 6.153496000000018 } },
+		{ "place" : "Avignon",
+		 "country" : "France",
+		 "location" : { "lat" :  43.94931700000001, 
+			 "lon" : 4.805527999999981 } },
+		{ "place" : "Strasbourg",
+		 "country" : "France",
+		 "location" : { "lat" :  48.5734053, 
+			 "lon" : 7.752111300000024 } }
+	 ]
+} 
+ 

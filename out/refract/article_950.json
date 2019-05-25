@@ -1,0 +1,22 @@
+{
+"year": "2005",
+"metaSession": "4",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1000253",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1000253",
+"abstract": "",
+"title": "Classification 2-3 Hiéarchique de données du Web",
+"placeAut":[{
+"place":"Sophia-Antipolis",
+"country":"France",
+"location":{
+	"lat":"43.6163539",
+	"lon":"7.0552218"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 48.856614, u'lon': 2.3522219}",
+"place": "Paris",
+"booktitle": "EGC",
+"idArt": "950",
+"authors": "['Sergiu Theodor Chelcea','Brigitte Trousse']"
+}

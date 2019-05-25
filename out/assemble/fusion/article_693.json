@@ -1,0 +1,22 @@
+{
+"year": "2007",
+"metaSession": "0",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1001287",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1001287",
+"abstract": "Les méthodes du 'clustering' ont pour but de diviser un ensemble (large) d'objets dans un petit nombre de groupes homogènes (clusters), basé sur des données relevées ou observées qui décrivent les (dis-)similarités qui existent entre les objets - en espérant que ces clusters soient utiles pour l'application concernée. Il existe une multitude d'approches, et cette contribution présente quelques-unes qui sont les plus importantes ou actuelles.",
+"title": "Clustering : from model-based approaches to heuristic algorithms",
+"placeAut":[{
+"place":"Aachen",
+"country":"Allemagne",
+"location":{
+	"lat":"50.7753455",
+	"lon":"6.0838868"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 50.4673883, u'lon': 4.8719854}",
+"place": "Namur",
+"booktitle": "EGC",
+"idArt": "693",
+"authors": "Hans-Hermann Bock"
+}

@@ -1,0 +1,14 @@
+{	 "idArt" : "759",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2007",
+	 "place" : "Namur",
+	 "location" : { "lat" :  50.4673883, 
+		 "lon" : 4.8719854 }, 
+	 "title" : "Vers un algorithme multi-agents de clustering dynamique",
+	 "abstract" : "Dans cet article, nous présentons un algorithme multi-agents de clustering dynamique. Ce type de clustering doit permettre de gérer des données évolutives et donc être capable d'adapter en permanence les clusters construits.",
+	 "authors" : ["Bruno Mermet","Gaële Simon","Dominique Fournier"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1001357" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1001357" 
+} 
+ 

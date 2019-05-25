@@ -1,0 +1,22 @@
+{
+"year": "2012",
+"metaSession": "3",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1001159",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1001159",
+"abstract": "Ces dernières années, l'augmentation de la quantité d'informationsspatio-temporelles stockées dans les bases de données a fait naître de nouveauxbesoins, notamment en matière de gestion des risques naturels, sanitaires ou anthropiques(p. ex. compréhension de la dynamique d'une épidémie de Dengue).Dans cet article, nous définissons un cadre théorique pour l'extraction de motifsspatio-séquentiels, séquences de motifs spatiaux représentant l'évolution dansle temps d'une localisation et de son voisinage. Nous proposons un algorithmed'extraction efficace qui effectue un parcours en profondeur en s'appuyant surdes projections successives de la base de données. Nous introduisons égalementune mesure d'intérêt adaptée aux aspects spatio-temporels de ces motifs. Les expérimentationsréalisées sur des jeux de données réels soulignent la pertinencede l'approche proposée par rapport aux méthodes de la littérature.",
+"title": "Vers une approche efficace d'extraction de motifs spatio-séquentiels",
+"placeAut":[{
+"place":"Montpellier",
+"country":"France",
+"location":{
+	"lat":"43.610769",
+	"lon":"3.876716"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 44.837789, u'lon': -0.57918}",
+"place": "Bordeaux",
+"booktitle": "EGC",
+"idArt": "273",
+"authors": "['Hugo Alatrista Salas','Sandra Bringay','Frédéric Flouvat','Nazha Selmaoui-Folcher','Maguelonne Teisseire']"
+}

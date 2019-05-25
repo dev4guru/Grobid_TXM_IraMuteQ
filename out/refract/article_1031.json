@@ -1,0 +1,22 @@
+{
+"year": "2004",
+"metaSession": "6",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1001123",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1001123",
+"abstract": "Cet article présente une méthode d'apprentissage des profils dans les systèmes de filtrage d'information. Le processus d'apprentissage est effectué d'une manière incrémentale au fur et à mesure que les informations sont filtrées et jugées par l'utilisateur. Des expérimentations effectuées sur une collection de test de référence TREC, montrent que la méthode permet effectivement l'amélioration des profils.",
+"title": "Apprentissage incrémental des profils dans un système de filtrage d'information",
+"placeAut":[{
+"place":"Toulouse",
+"country":"France",
+"location":{
+	"lat":"43.604652",
+	"lon":"1.444209"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 45.77722199999999, u'lon': 3.087025}",
+"place": "Clermont-Ferrand",
+"booktitle": "EGC",
+"idArt": "1031",
+"authors": "['Mohand Boughanem','Hamid Tebri','Mohamed Tmar']"
+}

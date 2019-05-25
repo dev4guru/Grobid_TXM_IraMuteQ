@@ -1,0 +1,13 @@
+{	 "idArt" : "37",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2015",
+	 "place" : "Luxembourg",
+	 "location" : { "lat" :  49.815273, 
+		 "lon" : 6.129582999999999 }, 
+	 "title" : "L'apport d'une approche symbolique pour le repérage des entités nommées en langue amazighe",
+	 "abstract" : "Le repérage des Entités Nommées (REN) en langue amazighe est un prétraitement éventuellement essentiel pour de nombreuses applications du traitement automatique des langues (TAL), en particulier pour la traduction automatique. Dans cet article, nous présentons une chaîne de repérage des entités nommées en amazighe fondée sur une étude synthétique des spécificités de la langue et des entités nommées en amazighe. L'article met l'accent sur les choix méthodologiques à résoudre les ambiguïtés dues à la langue, en exploitant les technologies existantes pour d'autres langues.",
+	 "authors" : ["Meryem Talha","Siham Boulaknadel","Driss Aboutajdine"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1002061" 
+} 
+ 

@@ -1,0 +1,22 @@
+{
+"year": "2007",
+"metaSession": "5",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1001347",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1001347",
+"abstract": "Nous nous intéressons à un mécanisme permettant la construction de réponses combinés à partir de plusieurs graphes RDF. Nous imposons, par souci de cohérence, que cette combinaison soit réalisée uniquement si les graphes RDF ne se contredisent pas. Pour déterminer la non-contradiction entre deux graphes RDF nous utilisons une mesure de similarité, calculée au moment de l'ajout de documents RDF dans la base de documents.",
+"title": "SyRQuS - Recherche par combinaison de graphes RDF",
+"placeAut":[{
+"place":"Villeurbanne",
+"country":"France",
+"location":{
+	"lat":"45.771944",
+	"lon":"4.8901709"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 50.4673883, u'lon': 4.8719854}",
+"place": "Namur",
+"booktitle": "EGC",
+"idArt": "740",
+"authors": "Adrian Tanasescu"
+}

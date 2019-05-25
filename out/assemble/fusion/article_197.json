@@ -1,0 +1,22 @@
+{
+"year": "2013",
+"metaSession": "8",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1001861",
+"pdfarticle": "",
+"abstract": "Dans cet article, nous nous intéressons aux méthodes d'extraction d'informations spatiales dans des documents textuels. Nous présentons la méthode hybride Text2Geo qui combine une approche d'extraction d'informations, fondée sur des patrons avec une approche de classification supervisée permettant d'explorer le contexte associé. Nous discutons des résultats expérimentaux obtenus sur le jeu de données de l'étang de Thau.",
+"title": "Text2Geo : des données textuelles aux informations géospatiales",
+"placeAut":[{
+"place":"Montpellier",
+"country":"France",
+"location":{
+	"lat":"43.610769",
+	"lon":"3.876716"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 43.604652, u'lon': 1.444209}",
+"place": "Toulouse",
+"booktitle": "EGC",
+"idArt": "197",
+"authors": "['Sabiha Tahrat','Eric Kergosien','Sandra Bringay','Mathieu Roche','Maguelonne Teisseire']"
+}

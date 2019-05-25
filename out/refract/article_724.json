@@ -1,0 +1,22 @@
+{
+"year": "2007",
+"metaSession": "9",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1001377",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1001377",
+"abstract": "Dans le domaine thermique, la plupart des études reposent sur des modèles à éléments finis. Cependant, le coût en calcul et donc en temps de ces méthodes ont renforcé le besoin de modèles plus compacts. Le réseau RC équivalent est la solution la plus souvent utilisée. Toutefois, ses paramètres doivent souvent être ajustés à l'aide de mesures ou de simulation. Dans ce contexte d'identification de système, les méthodes statistiques seront comparées aux méthodes classiquement utilisées pour la prédiction thermique.",
+"title": "Méthodes statistiques et modèles thermiques compacts",
+"placeAut":[{
+"place":"Saint-Etienne-du-Rouvray",
+"country":"France",
+"location":{
+	"lat":"49.380305",
+	"lon":"1.108209"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 50.4673883, u'lon': 4.8719854}",
+"place": "Namur",
+"booktitle": "EGC",
+"idArt": "724",
+"authors": "['Hubert Polaert','Philippe Leray','Grégory Mallet']"
+}

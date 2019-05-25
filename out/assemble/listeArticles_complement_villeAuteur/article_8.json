@@ -1,0 +1,9 @@
+{	 "idArt" : "8",
+	 "placeAut" : [ 
+		{ "place" : "Illkirch",
+		 "country" : "France",
+		 "location" : { "lat" :  48.52854, 
+			 "lon" : 7.711010999999985 } }
+	 ]
+} 
+ 

@@ -1,0 +1,22 @@
+{
+"year": "2011",
+"metaSession": "",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1000921",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1000921",
+"abstract": "Data Mining is faced with new challenges. In emerging applications (like financial data, traffic TCP/IP, sensor networks, etc) data continuously flow eventually at high speed. The processes generating data evolve over time, and the concepts we are learning change. In this talk we present a one-pass classification algorithm able to detect and react to changes. We present a framework that identify contexts using drift detection, characterize contexts using meta-learning, and select the most appropriate base model for the incoming data using unlabeled examples. Evolving data requires that learning algorithms must be able to monitor the learning process and the ability of predictive self-diagnosis. A significant and useful characteristic is diagnostics - not only after failure has occurred, but also predictive (before failure). These aspects require monitoring the evolution of the learning process, taking into account the available resources, and the ability of reasoning and learning about it.",
+"title": "Reasoning about the learning process",
+"placeAut":[{
+"place":"Porto",
+"country":"Portugal",
+"location":{
+	"lat":"41.1579438",
+	"lon":"-8.6291053"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 48.390394, u'lon': -4.486076}",
+"place": "Brest",
+"booktitle": "EGC",
+"idArt": "351",
+"authors": "João Gama"
+}

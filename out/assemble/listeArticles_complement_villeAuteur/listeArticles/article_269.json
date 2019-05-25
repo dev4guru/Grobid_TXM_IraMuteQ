@@ -1,0 +1,14 @@
+{	 "idArt" : "269",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2012",
+	 "place" : "Bordeaux",
+	 "location" : { "lat" :  44.837789, 
+		 "lon" : -0.57918 }, 
+	 "title" : "User Evaluation: Why?",
+	 "abstract" : "Research in information visualisation has changed significantly in the past two decades.Once it was sufficient to simply design and implement an impressive visualisation system.Today editors and reviewers expect papers to present not only a novel system, but empiricalevidence of its worth. Why has this change come about, and what impact has it had on thoseworking in this area? This talk will discuss how a field dominated by algorithms and toolsbecame infected by human participants, and why this is a positive development in a maturingresearch discipline.",
+	 "authors" : ["Helen Purchase"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1001132" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1001132" 
+} 
+ 

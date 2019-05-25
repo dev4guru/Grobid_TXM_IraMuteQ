@@ -1,0 +1,13 @@
+{	 "idArt" : "299",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2011",
+	 "place" : "Brest",
+	 "location" : { "lat" :  48.390394, 
+		 "lon" : -4.486076 }, 
+	 "title" : "Conception et implémentation d'une nouvelle technique cellulaire de discrétisation : intégration dans TANAGRA",
+	 "authors" : ["Mohamed Benamina","Baghdad Atmani"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1000976" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1000976" 
+} 
+ 

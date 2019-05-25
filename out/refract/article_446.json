@@ -1,0 +1,22 @@
+{
+"year": "2010",
+"metaSession": "3",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1001308",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1001308",
+"abstract": "On sait bien que la confiance des régles d'association n'est pas vraimentsatisfaisant comme mésure d'interêt. Nous proposons, au lieu de la substituerpar des autres mésures (soit, en l'employant de façon conjointe a desautres mésures), évaluer la nouveauté de chaque régle par comparaison de saconfiance par rapport á des régles plus fortes qu'on trouve au même ensemblede données. C'est á dire, on considère un seuil relative de confiance au lieu duseuil absolute habituel. Cette idée se précise avec la magnitude du confidenceboost, mésurant l'increment rélative de confiance prés des régles plus fortes.Nous prouvons que nôtre proposte peut remplacer la confidence width et leblockage de régles employés a des publications précedentes.",
+"title": "Objective Novelty of Association Rules: Measuring the Confidence Boost1",
+"placeAut":[{
+"place":"Santander",
+"country":"Spain",
+"location":{
+	"lat":"43.4623057",
+	"lon":"-3.8099803"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 36.4, u'lon': 10.616667}",
+"place": "Hammamet",
+"booktitle": "EGC",
+"idArt": "446",
+"authors": "José L Balcazar "
+}

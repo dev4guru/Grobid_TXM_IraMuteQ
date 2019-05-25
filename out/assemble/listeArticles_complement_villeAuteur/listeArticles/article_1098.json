@@ -1,0 +1,13 @@
+{	 "idArt" : "1098",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2004",
+	 "place" : "Clermont-Ferrand",
+	 "location" : { "lat" :  45.77722199999999, 
+		 "lon" : 3.087025 }, 
+	 "title" : "Une étude d'algorithmes de classification supervisée basée sur les treillis de Galois",
+	 "authors" : ["Huaiyu Fu","Huaiguo Fu","Patrick Njiwoua","Engelbert Mephu Nguifo"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1001025" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1001025" 
+} 
+ 

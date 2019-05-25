@@ -1,0 +1,22 @@
+{
+"year": "2008",
+"metaSession": "0",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1000607",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1000607",
+"abstract": "",
+"title": "Le logiciel SODAS : avancées récentes Un outil pour analyser et visualiser des données symboliques",
+"placeAut":[{
+"place":"Paris",
+"country":"France",
+"location":{
+	"lat":"48.856614",
+	"lon":"2.3522219"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 43.6163539, u'lon': 7.0552218}",
+"place": "Sophia Antipolis",
+"booktitle": "EGC ",
+"idArt": "621",
+"authors": "['Myriam Touati','Mohamed Rahal','Filipe Afonso','Edwin Diday']"
+}

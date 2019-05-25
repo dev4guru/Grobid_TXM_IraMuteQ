@@ -1,0 +1,17 @@
+{	 "idArt" : "725",
+	 "placeAut" : [ 
+		{ "place" : "Bron",
+		 "country" : "France",
+		 "location" : { "lat" :  45.73331599999999, 
+			 "lon" : 4.9119269999999915 } },
+		{ "place" : "Illkirch",
+		 "country" : "France",
+		 "location" : { "lat" :  48.52854, 
+			 "lon" : 7.711010999999985 } },
+		{ "place" : "Caen",
+		 "country" : "France",
+		 "location" : { "lat" :  49.182863, 
+			 "lon" : -0.37067899999999554 } }
+	 ]
+} 
+ 

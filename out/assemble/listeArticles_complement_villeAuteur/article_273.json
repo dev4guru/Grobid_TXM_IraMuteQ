@@ -1,0 +1,13 @@
+{	 "idArt" : "273",
+	 "placeAut" : [ 
+		{ "place" : "Montpellier",
+		 "country" : "France",
+		 "location" : { "lat" :  43.610769, 
+			 "lon" : 3.8767159999999876 } },
+		{ "place" : "Nouméa",
+		 "country" : "Nouvelle-Calédonie",
+		 "location" : { "lat" :  -22.2758, 
+			 "lon" : 166.45799999999997 } }
+	 ]
+} 
+ 

@@ -1,0 +1,1 @@
+Nous présentons dans cet article une nouvelle approche de modélisation de l'expérience d'utilisation d'un système informatique, avec pour objectif de réutiliser cette expérience en contexte pour assister l'utilisateur à effectuer sa tâche. Quatre scénarios illustrent cette approche.

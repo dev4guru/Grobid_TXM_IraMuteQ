@@ -1,0 +1,22 @@
+{
+"year": "2007",
+"metaSession": "4",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1001453",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1001453",
+"abstract": "Nous proposons dans cet article une méthode de clustering qui combine l'analyse dynamique et l'analyse statistique pour caractériser des états. Il s'agit d'une méthode de fouille de données qui travaille sur des ensembles de séries temporelles pour détecter des états; ces états représentent les informations les plus significatives du système. L'objectif de cette méthode non supervisée est d'extraire de la connaissance à partir de l'analyse des séries temporelles multiples. Elle s'appuie sur la détection de singularités dans les séries temporelles et sur l'analyse des corrélations des séries entre les intervalles définis par ces singularités. Pour l'application présentée, les séries temporelles sont des signaux biochimiques mesurés durant un bioprocédé. Cette approche est donc utilisée pour confirmer et enrichir la connaissance des experts du domaine des bioprocédés sans utiliser la connaissance a priori de ces experts. Elle est appliquée à la recherche d'états physiologiques dans un bioprocédé de type fed-batch.",
+"title": "Une approche de classification non supervisée basée sur la détection de singularités et la corrélation de séries temporelles pour la recherche d'états : application à un bioprocédé fed-batch",
+"placeAut":[{
+"place":"Pointe-à-Pitre",
+"country":"France",
+"location":{
+	"lat":"44.079822",
+	"lon":"1.989462"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 50.4673883, u'lon': 4.8719854}",
+"place": "Namur",
+"booktitle": "EGC",
+"idArt": "747",
+"authors": "Sébastien Régis"
+}

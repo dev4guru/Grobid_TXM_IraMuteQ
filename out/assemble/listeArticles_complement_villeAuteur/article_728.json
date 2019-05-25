@@ -1,0 +1,13 @@
+{	 "idArt" : "728",
+	 "placeAut" : [ 
+		{ "place" : "Caserta",
+		 "country" : "France",
+		 "location" : { "lat" :  41.11023780000001, 
+			 "lon" : 9.26077239999995 } },
+		{ "place" : "Napoli",
+		 "country" : "France",
+		 "location" : { "lat" :  43.27038, 
+			 "lon" : -0.41099499999995714 } }
+	 ]
+} 
+ 

@@ -1,0 +1,1 @@
+Nous décrivons la deuxième phase de réalisation d'un système d'intégration qui minimise l'intervention humaine habituellement nécessaire. Après la phase de construction semi-automatique du schéma (ontologie) global décrite dans de précédents articles, nous présentons ici le processus de ré-écriture de requêtes globales en des requêtes adressées aux sources.

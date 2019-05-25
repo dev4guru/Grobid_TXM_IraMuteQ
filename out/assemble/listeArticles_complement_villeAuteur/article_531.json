@@ -1,0 +1,13 @@
+{	 "idArt" : "531",
+	 "placeAut" : [ 
+		{ "place" : "Marseille",
+		 "country" : "France",
+		 "location" : { "lat" :  43.296482, 
+			 "lon" : 5.369779999999992 } },
+		{ "place" : "Gardanne",
+		 "country" : "France",
+		 "location" : { "lat" :  43.4525982, 
+			 "lon" : 5.471736299999975 } }
+	 ]
+} 
+ 

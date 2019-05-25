@@ -1,0 +1,22 @@
+{
+"year": "2004",
+"metaSession": "5",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1001157",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1001157",
+"abstract": "Dans l'étude du patrimoine bâti, la gestion d'informations pose aujourd'hui des problèmes d'interfaçage non triviaux, notamment par la masse, la diversité, la complexité et le caractère hétérogène des contenus. La représentation tridimensionnelle du tissu urbain à différentes échelles (de la ville au corpus architectural), parce qu'elle localise spatialement l'information à délivrer et l'attache à la morphologie de l'édifice, apparaît comme une des réponses possibles. Cette réponse semble par ailleurs bien adaptée aux problématiques spécifiques de l'analyse architecturale du patrimoine que sont par exemple la restitution d'édifices disparus (et les notions d'incertitude qui s'y attachent) ou le réemploi d'éléments de corpus. Pourtant, la représentation tridimensionnelle dans notre champ d'application est aujourd'hui loin de remplir ce rôle. Notre contribution vise à discuter quelques uns des pré-requis qui nous semblent s'imposer à la lumière de nos expériences pour faire de la maquette 3D un outil d'investigation des connaissances sur l'édifice.",
+"title": "Règles d'identification et méthodes de visualisation d'objets architecturaux",
+"placeAut":[{
+"place":"Marseille",
+"country":"France",
+"location":{
+	"lat":"43.296482",
+	"lon":"5.36978"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 45.77722199999999, u'lon': 3.087025}",
+"place": "Clermont-Ferrand",
+"booktitle": "EGC",
+"idArt": "1086",
+"authors": "['Iwona Dudek','Jean-Yves Blaise']"
+}

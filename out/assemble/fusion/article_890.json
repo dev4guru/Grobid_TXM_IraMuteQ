@@ -1,0 +1,22 @@
+{
+"year": "2005",
+"metaSession": "",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1000300",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1000300",
+"abstract": "En relation avec des approches classiques de l'incertain, l'analysestatistique implicative (A.S.I.) peut apparaître innovante, particulièrement pourl'opérateur d'implication. L'article montre en effet que la notion de variables àvaleurs intervalles et celle de variables-intervalles sont efficaces dans ladétermination de leur distribution et dans la recherche de règles entre variablesfloues. De plus, elles apportent de riches informations sur la qualité de cesrègles, tout en permettant d'étudier le rôle des variables supplémentaires dansl'existence de ces règles. Cette nouvelle perspective épistémologique del'incertain ouvre d'intéressantes perspectives d'application.",
+"title": "Extraction de Règles en Incertain par la Méthode Implicative",
+"placeAut":[{
+"place":"Nantes",
+"country":"France",
+"location":{
+	"lat":"47.218371",
+	"lon":"-1.553621"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 48.856614, u'lon': 2.3522219}",
+"place": "Paris",
+"booktitle": "AEGC",
+"idArt": "890",
+"authors": "['Régis Gras','Raphaël Couturier','Fabrice Guillet','Filippo Spagnolo']"
+}

@@ -1,0 +1,13 @@
+{	 "idArt" : "838",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2006",
+	 "place" : "Lille",
+	 "location" : { "lat" :  50.62925, 
+		 "lon" : 3.057256 }, 
+	 "title" : "Recherche de règles non redondantes par vecteurs de bits dans des grandes bases de motifs ",
+	 "authors" : ["François Jacquenet","Christine Largeron","Cédric Udréa"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1000414" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1000414" 
+} 
+ 

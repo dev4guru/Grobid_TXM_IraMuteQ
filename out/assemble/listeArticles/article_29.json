@@ -1,0 +1,13 @@
+{	 "idArt" : "29",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2015",
+	 "place" : "Luxembourg",
+	 "location" : { "lat" :  49.815273, 
+		 "lon" : 6.129582999999999 }, 
+	 "title" : "Feedback - Study and Improvement of the Random Forest of the Mahout library in the context of marketing data of Orange",
+	 "abstract" : "L'apprentissage automatique a fait son apparition dans l'écosystème Hadoop créant, de par la puissance promise, une opportunité sans précédent pour ce domaine. Dans cet écosystème, Apache Mahout est une réponse à la question du temps de calcul et/ou de la volumétrie: il consiste en un entrepôt d'algorithmes d'apprentissage automatique, tous portés afin de s'exécuter sur Map/Reduce. Ce rapport se concentre sur le portage et l'utilisation de l'algorithme des Random Forest dans Mahout. Il montre à travers notre retour d'expérience les difficultés qui peuvent être rencontrées tant pratiques que théoriques et suggère une piste d'amélioration.",
+	 "authors" : ["C. Thao","Nicolas Voisine","Vincent Lemaire","R. Trinquart"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1002104" 
+} 
+ 

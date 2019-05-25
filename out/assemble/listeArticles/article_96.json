@@ -1,0 +1,13 @@
+{	 "idArt" : "96",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2014",
+	 "place" : "Rennes",
+	 "location" : { "lat" :  48.117266, 
+		 "lon" : -1.6777926 }, 
+	 "title" : "Détection de situations à risque basée sur des détecteurs de mouvement à domicile pour les personnes dépendantes",
+	 "abstract" : "Avec le vieillissement de la population dans les décennies à venir, laprise en charge de la dépendance est devenu un enjeu majeur. Les nouvellestechnologies permettent d'améliorer le confort et la sécurité des personnes dépendantesà domicile. Dans cet article nous proposons une méthode de détectionde situations à risques basée sur le seuillage automatique des intervalles d'inactivitédes capteurs de mouvement de type infrarouge passif. Notre contributionconsiste à apprendre de façon automatique la durée maximale d'inactivité, parpièce et par plage horaire. La méthode est évaluée sur des données réelles provenantde l'activité d'une personne réelle dans un appartement équipé de capteursdomotiques. Notre approche permet de réduire le temps d'appel des secours.",
+	 "authors" : ["Alban Meffre","Nicolas Lachiche","Pierre Gançarski","Christophe Collet"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1001983" 
+} 
+ 

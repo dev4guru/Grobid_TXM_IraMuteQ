@@ -1,0 +1,14 @@
+{	 "idArt" : "836",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2006",
+	 "place" : "Lille",
+	 "location" : { "lat" :  50.62925, 
+		 "lon" : 3.057256 }, 
+	 "title" : "Préparation des données Radar pour la reconnaissance/identification de cibles aériennes",
+	 "abstract" : "La problématique générale présentée dans ce papier concerne lessystèmes intelligents, dédiés pour l'aide à la prise de décision dans le domaineradar. Les premiers travaux ont donc consisté après avoir adapté le processusd'extraction de connaissances à partir de données (ECD) au domaine radar, àmettre en oeuvre les étapes en amont de la phase de fouille de données. Nousnous limitons dans ce papier à la phase de préparation des données (imagesISAR : Inverse Synthetic Aperture Radar). Nous introduisons ainsi la notion dequalité comme moyen d'évaluer l'imperfection dans les données radarsexpérimentales.",
+	 "authors" : ["Abdelmalek Toumi","Brigitte Hoeltzener","Ali Khenchaf"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1000426" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1000426" 
+} 
+ 

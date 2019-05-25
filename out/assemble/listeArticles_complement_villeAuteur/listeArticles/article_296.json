@@ -1,0 +1,14 @@
+{	 "idArt" : "296",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2011",
+	 "place" : "Brest",
+	 "location" : { "lat" :  48.390394, 
+		 "lon" : -4.486076 }, 
+	 "title" : "Closed-set-based Discovery of Representative Association Rules Revisited",
+	 "abstract" : "The output of an association rule miner is often huge in practice. This is why several concise lossless representations have been proposed, such as the essential or representative rules. We revisit the algorithm given by Kryszkiewicz (Int. Symp. Intelligent Data Analysis 2001, Springer-Verlag LNCS 2189, 350-359) for mining representative rules. We show that its output is sometimes incomplete, due to an oversight in its mathematical validation, and we propose an alternative complete generator that works within only slightly larger running times.",
+	 "authors" : ["José L Balcazar ","Cristina Tîrnauca"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1001032" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1001032" 
+} 
+ 

@@ -1,0 +1,1 @@
+L'extraction de motifs fermés dans des relations binaires a été trèsétudiée. Cependant, de nombreuses relations intéressantes sont n-aires avec n >2 et bruitées (nécessité d'une tolérance aux exceptions). Récemment, ces deuxproblèmes ont été traités indépendamment. Nous introduisons notre propositionpour combiner de telles fonctionnalités au sein d'un même algorithme.

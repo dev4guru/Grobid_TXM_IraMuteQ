@@ -1,0 +1,22 @@
+{
+"year": "2015",
+"metaSession": "3",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1002077",
+"pdfarticle": "",
+"abstract": "Un nouveau domaine de motifs appelé chemins pondérés condensés a été introduit en 2013 lors de la conférence IJCAI. Le contexte de fouille est alors un graphe acyclique orienté (DAG) dont les sommets sont étiquetés par des attributs. Nous avons travaillé à une implémentation efficace de ce type de motifs et nous montrons que l'algorithme proposé était juste mais incomplet. Nous établissons ce résultat d'incomplétude et nous l'expliquons avant de trouver une solution pour réaliser une extraction complète. Nous avons ensuite développé des structures complémentaires pour calculer efficacement tous les chemins pondérés condensés. L'algorithme est amélioré en performance de plusieurs ordres de magnitude sur des jeux de données artificiels et nous l'appliquons à des données réelles pour motiver qualitativement l'usage des chemins pondérés.",
+"title": "Extraction complète efficace de chemins pondérés dans un a-DAG",
+"placeAut":[{
+"place":"Nouméa",
+"country":"Nouvelle Calédonie",
+"location":{
+	"lat":"-22.2758",
+	"lon":"166.458"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 49.815273, u'lon': 6.129582999999999}",
+"place": "Luxembourg",
+"booktitle": "EGC",
+"idArt": "27",
+"authors": "['Nazha Selmaoui-Folcher','Frédéric Flouvat','Chengcheng Mu','Jérémy Sanhes','Jean-François Boulicaut']"
+}

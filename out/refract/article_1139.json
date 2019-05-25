@@ -1,0 +1,15 @@
+{
+"idArt": "1139",
+"series": "Revue des Nouvelles Technologies de l'Information",
+"booktitle": "EGC",
+"year": "2016",
+"title": "Fouille de motifs séquentiels avec ASP",
+"abstract": "Cet article présente l'utilisation de la programmation par ensemblesréponses (ASP) pour répondre à une tâche de fouille de motifs séquentiels. Lasyntaxe de l'ASP, proche du Prolog, en fait un langage très pertinent pour représenterdes connaissances de manière aisée et ses mécanismes de résolution,basés sur des solveurs efficaces, en font une solution alternative aux approchesde programmation par contraintes pour la fouille déclarative de motifs. Nousproposons un premier encodage de la tâche classique d'extraction de motifs séquentielset de ses variantes (motifs clos et maximaux). Nous comparons lesperformances calculatoires de ses encodages avec une approche de programmationpar contraintes. Les performances obtenues sont inférieures aux approchesde programmation par contraintes, mais l'encodage purement déclaratif offreplus de perspectives d'intégration de connaissances expertes.",
+"authors": "Thomas Guyet, Yves Moinard, Rene Quiniou, Torsten Schaub",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1002154",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1002154",
+"metaSession": "3",
+"place": "Reims",
+"Latitude": " 49.258364 ",
+"Longitude": "4.031731"
+}

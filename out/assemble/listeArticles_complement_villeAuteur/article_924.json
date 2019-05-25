@@ -1,0 +1,13 @@
+{	 "idArt" : "924",
+	 "placeAut" : [ 
+		{ "place" : "Toulouse",
+		 "country" : "France",
+		 "location" : { "lat" :  43.604652, 
+			 "lon" : 1.4442090000000007 } },
+		{ "place" : "Castanet-Tolosan",
+		 "country" : "France",
+		 "location" : { "lat" :  43.51562999999999, 
+			 "lon" : 1.499573000000055 } }
+	 ]
+} 
+ 

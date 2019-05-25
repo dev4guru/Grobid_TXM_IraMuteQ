@@ -1,0 +1,22 @@
+{
+"year": "2006",
+"metaSession": "1",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1001499",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1001499",
+"abstract": "Cet article présente un système automatique d'annotation sémantiquede pages web. Les systèmes d'annotation automatique existants sont essentiellementsyntaxiques, même lorsque les travaux visent à produire une annotationsémantique. La prise en compte d'informations sémantiques sur le domaine pourl'annotation d'un élément dans une page web à partir d'une ontologie supposed'aborder conjointement deux problèmes : (1) l'identification de la structuresyntaxique caractérisant cet élément dans la page web et (2) l'identification duconcept le plus spécifique (en termes de subsumption) dans l'ontologie dontl'instance sera utilisée pour annoter cet élément. Notre démarche repose sur lamise en oeuvre d'une technique d'apprentissage issue initialement des wrappersque nous avons articulée avec des raisonnements exploitant la structure formellede l'ontologie.",
+"title": "Annotation sémantique de pages web",
+"placeAut":[{
+"place":"Vandoeuvre-lès-Nancy",
+"country":"France",
+"location":{
+	"lat":"48.661118",
+	"lon":"6.17376"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 50.62925, u'lon': 3.057256}",
+"place": "Lille",
+"booktitle": "EGC",
+"idArt": "774",
+"authors": "['Sylvain Tenier','Amedeo Napoli','Xavier Polanco','Yannick Toussaint']"
+}

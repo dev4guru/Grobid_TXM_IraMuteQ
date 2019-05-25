@@ -1,0 +1,1 @@
+Model tree is a useful and convenient method for predictive analytics in data streams.Often, this issue is solved by pre-processing techniques applied prior to the training phase ofthe model. In this article, we propose a new method that estimates and adjusts missing valuesbefore the model tree training. A prototype was developed and tested on several data streams.

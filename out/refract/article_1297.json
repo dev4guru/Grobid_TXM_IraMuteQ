@@ -1,0 +1,15 @@
+{
+"idArt": "1297",
+"series": "Revue des Nouvelles Technologies de l'Information",
+"booktitle": "EGC",
+"year": "2018",
+"title": "L'exploitation de données contextuelles pour la recommandation d'hôtels",
+"abstract": "Les systèmes de recommandation ont pour rôle d'aider les utilisateurssubmergés par la quantité d'information à faire de bons choix à partir de vastescatalogues de produits. Le déploiement de ces systèmes dans l'industrie hôtelièreest confronté à des contraintes spécifiques, limitant la performance des approchestraditionnelles. Les systèmes de recommandation d'hôtels souffrent enparticulier d'un problème de démarrage à froid continu à cause de la volatilitédes préférences des voyageurs et du changement de comportements en fonctiondu contexte. Dans cet article, nous présentons le problème de recommandationd'hôtels ainsi que ses caractéristiques distinctives. Nous proposons de nouvellesméthodes contextuelles qui prennent en compte les dimensions géographique ettemporelle ainsi que la raison du voyage, afin de générer les listes de recommandation.Nos expérimentations sur des jeux de données réels soulignent lacontribution des données contextuelles à l'amélioration de la qualité de recommandation.",
+"authors": "Marie Al Ghossein, Talel Abdessalem, Anthony Barré",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1002390",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1002390",
+"metaSession": "3",
+"place": "Paris",
+"Latitude": " 48.8571 ",
+"Longitude": "2.3525"
+}

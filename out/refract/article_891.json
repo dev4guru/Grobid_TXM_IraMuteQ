@@ -1,0 +1,22 @@
+{
+"year": "2005",
+"metaSession": "",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1000270",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1000270",
+"abstract": "Dans cet article, nous considérons les séquences vidéo couleur comme des données complexes. Notre contribution porte sur deux méthodes adaptées à ce type de données et permettant d'extraire des indices spatiaux et temporels. Nous pensons que ces méthodes peuvent être intégrées avec succès dans un processus plus complexe de fouille de données multimédia, aspect qui ne sera pas abordé ici. Les méthodes présentées sont basées sur l'espace Teinte Saturation Luminance. L'extraction d'indices spatiaux est assimilée au problème de la séparation du fond et des objets, résolu par une approche multi résolution ne nécessitant qu'une seule image. L'extraction d'indices temporels correspond à la détection des changements de plans dans une séquence d'images, obtenue par l'utilisation de mesures de distances indépendantes du contexte. Les caractéristiques communes de nos deux méthodes sont l'utilisation de l'espace TSL, l'efficacité calculatoire, et la robustesse aux artefacts. Nous illustrons ces approches par des résultats obtenus sur des séquences vidéo sportives.",
+"title": "Extraction d'indices spatiaux et temporels dans des séquences vidéo couleur",
+"placeAut":[{
+"place":"Illkirch",
+"country":"France",
+"location":{
+	"lat":"48.52854",
+	"lon":"7.711011"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 48.856614, u'lon': 2.3522219}",
+"place": "Paris",
+"booktitle": "AEGC",
+"idArt": "891",
+"authors": "['Sébastien Lefèvre','Nicole Vincent']"
+}

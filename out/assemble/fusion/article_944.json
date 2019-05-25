@@ -1,0 +1,22 @@
+{
+"year": "2005",
+"metaSession": "2",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1000222",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1000222",
+"abstract": "Le formalisme des modèles graphiques connait actuellement un essor dans les domaines du machine learning. En particulier, les réseaux bayésiens sont capables d'effectuer des raisonnements probabilistes à partir de données incomplètes alors que peu de méthodes sont actuellement capables d'utiliser les bases d'exemples incomplètes pour leur apprentissage. En s'inspirant du principe de AMS-EM proposé par (Friedman, 1997) et des travaux de(Chow & Liu, 1968), nous proposons une méthode permettant de faire l'apprentissage de réseaux bayésiens particuliers, de structure arborescente, à partir de données incomplètes. Une étude expérimentale expose ensuite des résultats préliminaires qu'il est possible d'attendre d'une telle méthode, puis montre le gain potentiel apporté lorsque nous utilisons les arbres obtenus comme initialisation d'une méthode de recherche gloutonne comme AMS-EM.",
+"title": "Apprentissage de structures de réseaux Bayésiens et données incomplètes",
+"placeAut":[{
+"place":"Saint-Etienne-du-Rouvray",
+"country":"France",
+"location":{
+	"lat":"49.380305",
+	"lon":"1.108209"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 48.856614, u'lon': 2.3522219}",
+"place": "Paris",
+"booktitle": "EGC",
+"idArt": "944",
+"authors": "['Olivier François','Philippe Leray']"
+}

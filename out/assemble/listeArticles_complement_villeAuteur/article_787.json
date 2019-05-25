@@ -1,0 +1,13 @@
+{	 "idArt" : "787",
+	 "placeAut" : [ 
+		{ "place" : "Compiègne",
+		 "country" : "France",
+		 "location" : { "lat" :  49.41781599999999, 
+			 "lon" : 2.826144999999997 } },
+		{ "place" : "Metz",
+		 "country" : "France",
+		 "location" : { "lat" :  49.1193089, 
+			 "lon" : 6.1757155999999895 } }
+	 ]
+} 
+ 

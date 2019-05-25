@@ -1,0 +1,22 @@
+{
+"year": "2005",
+"metaSession": "",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1000301",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1000301",
+"abstract": "La mesure de la qualité des connaissances est une étape clefd'un processus de découverte de règles d'association. Dans cet article, nousprésentons IPEE, un indice de qualité de règle qui a la particularité uniqued'associer les deux caractéristiques suivantes : d'une part, il est fondé surun modèle probabiliste, et d'autre part, il mesure un écart à l'équilibre(incertitude maximum de la conclusion sachant la prémisse vraie).",
+"title": "IPEE : Indice Probabiliste d'Ecart à l'Equilibre pour l'évaluation de la qualité des règles",
+"placeAut":[{
+"place":"Nantes",
+"country":"France",
+"location":{
+	"lat":"47.218371",
+	"lon":"-1.553621"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 48.856614, u'lon': 2.3522219}",
+"place": "Paris",
+"booktitle": "AEGC",
+"idArt": "900",
+"authors": "['Julien Blanchard','Fabrice Guillet','Henri Briand','Régis Gras']"
+}

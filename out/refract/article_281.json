@@ -1,0 +1,22 @@
+{
+"year": "2011",
+"metaSession": "3",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1000948",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1000948",
+"abstract": "Cet article traite de l'analyse visuelle de réseaux sociaux pour la détection de comportements suspects à partir de données de communications fournies à des enquêteurs suivant deux procédures : l'interception légale et la rétention de données. Nous proposons les contributions suivantes : (i) un modèle de données et un ensemble d'opérateurs pour interroger ces données dans le but d'extraire des comportements suspects et (ii) une représentation visuelle conviviale pour une navigation simplifiée dans les données de communication accompagnée avec une implémentation.",
+"title": "Aide à l'Analyse Visuelle de Réseaux Sociaux pour la Détection de Comportements Suspects",
+"placeAut":[{
+"place":"Nozay",
+"country":"France",
+"location":{
+	"lat":"47.564751",
+	"lon":"-1.626916"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 48.390394, u'lon': -4.486076}",
+"place": "Brest",
+"booktitle": "EGC",
+"idArt": "281",
+"authors": "['Amyn Bennamane','Hakim Hacid','Arnaud Ansiaux','Alain Cagnati']"
+}

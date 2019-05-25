@@ -1,0 +1,14 @@
+{	 "idArt" : "524",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2009",
+	 "place" : "Strasbourg",
+	 "location" : { "lat" :  48.5734053, 
+		 "lon" : 7.752111299999999 }, 
+	 "title" : "Détermination du nombre des classes dans l'algorithme CROKI2 de classification croisée",
+	 "abstract" : "Un des problèmes majeurs de la classification non supervisée est ladétermination ou la validation du nombre de classes dans la population. Ce problèmes'étend aux méthodes de bipartitionnement ou block clustering. Dans cepapier, nous nous intéressons à l'algorithme CROKI2 de classification croiséedes tableaux de contingence proposé par Govaert (1983). Notre objectif est dedéterminer le nombre de classes optimal sur les lignes et les colonnes à traversun ensemble de techniques de validation de classes proposés dans la littératurepour les méthodes classiques de classification.",
+	 "authors" : ["Malika Charrad","Yves Lechevallier","Gilbert Saporta","Mohamed Ben Ahmed"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1000797" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1000797" 
+} 
+ 

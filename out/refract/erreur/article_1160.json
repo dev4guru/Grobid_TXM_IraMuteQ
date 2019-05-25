@@ -1,0 +1,15 @@
+{
+"idArt": "1160",
+"series": "Revue des Nouvelles Technologies de l'Information",
+"booktitle": "EGC",
+"year": "2016",
+"title": "Recherche de groupes parallèles en classification non-supervisée",
+"abstract": "Dans cet article, nous nous intéressons à une situation de classificationnon supervisée dans laquelle nous souhaitons imposer une "forme" commune àtous les clusters. Dans cette approche, la "forme" commune sera caractérisée parun hyperplan qui sera le même pour tous les groupes, à une translation près.Les points sont donc supposés être distribués autour d'hyperplans parallèles. Lafonction objectif utilisée peut naturellement s'exprimer comme la minimisationde la somme des distances de chaque point à son hyperplan. Comme pour le casde k-means, la résolution est effectuée par l'alternance de phases d'affectationde chaque point à l'hyperplan le plus proche et de phases de calcul de l'hyperplanqui ajuste au mieux l'ensemble des points qui lui sont affectés. L'objectifétant d'obtenir des hyperplans parallèles, cette phase de calcul est menée simultanémentpour tous les hyperplans, par une méthode de régression.",
+"authors": "Lionel Martin, Matthieu Exbrayat, Teddy Debroutelle, Aladine Chetouani, Sylvie Treuillet, Sébastien Jesset",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1002157",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1002157",
+"metaSession": "2",
+"place": "Reims",
+"Latitude": " 49.258385 ",
+"Longitude": "4.031752"
+}

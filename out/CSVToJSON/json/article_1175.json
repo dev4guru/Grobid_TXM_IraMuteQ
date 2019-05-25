@@ -1,0 +1,15 @@
+{
+"idArt": "1175",
+"series": "Revue des Nouvelles Technologies de l'Information",
+"booktitle": "EGC",
+"year": "2016",
+"title": "Un cadre collaboratif pour la segmentation et la classification d'images de télédétection",
+"abstract": "Dans cet article nous présentons CoSC, un cadre collaboratif pour lasegmentation et la classification d'images de télédétection permettant d'extraireles objets d'une classe thématique donnée. Le processus de collaboration estguidé par la qualité des données évaluée par des critères d'homogénéité ainsique des critères implicitement liés à la sémantique des objets afin d'extraire uneclasse thématique donnée. Nos expériences montrent que CoSC atteint des bonsrésultats en termes de classification, et améliore notablement la segmentation del'image de manière globale.",
+"authors": "Andrés Troya-Galvis, Pierre Gançarski, Laure Berti-Equille",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1002181",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1002181",
+"metaSession": "6",
+"place": "Reims",
+"Latitude": " 49.258400 ",
+"Longitude": "4.031767"
+}

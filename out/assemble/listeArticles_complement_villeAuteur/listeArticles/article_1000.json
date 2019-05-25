@@ -1,0 +1,14 @@
+{	 "idArt" : "1000",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2005",
+	 "place" : "Paris",
+	 "location" : { "lat" :  48.856614, 
+		 "lon" : 2.3522219 }, 
+	 "title" : "Réécriture de requêtes multimédias : approche basée sur l'usage d'une ontologie",
+	 "abstract" : "Nous proposons dans cet article une stratégie de réécriture de requêtes sur des données multimédias décrites moyennant le standard MPEG-7. Ce standard se base sur XML schéma qui permet de décrire la structure des données. Cependant, aucune sémantique n'est assignée à cette structure. Nous proposons d'étendre ce standard d'une ontologie permettant d'exprimer les connaissances du domaine. Ainsi, l'ontologie sera utilisée durant l'indexation des données multimédias et la réécriture de requêtes. Le but de la réécriture de requêtes est de transformer une requête initiale en une ou plusieurs requêtes équivalentes ou sémantiquement proches compte tenu des connaissances représentées dans l'ontologie.",
+	 "authors" : ["Samira Hammiche","Salima Benbernou","Mohand-Said Hacid"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1000306" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1000306" 
+} 
+ 

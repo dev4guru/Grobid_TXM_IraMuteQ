@@ -1,0 +1,22 @@
+{
+"year": "2004",
+"metaSession": "3",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1001019",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1001019",
+"abstract": "L'algorithme EM est très populaire et très efficace pour l'estimation de paramètres d'un modèle de mélange. L'inconvénient majeur de cet algorithme est la lenteur de sa convergence. Son application sur des tableaux de grande taille pourrait ainsi prendre énormément de temps. Afin de remédier à ce problème, nous étudions ici le comportement de plusieurs variantes connus de EM, ainsi qu'une nouvelle méthode. Celles-ci permettent d'accélérer la convergence de l'algorithme, tout en obtenant des résultats similaires à celui-ci. Dans ce travail, nous nous concentrons sur l'aspect classification. Nous réalisons une étude comparative entre les différentes variantes sur des données simulées et réelles et proposons une stratégie d'utilisation de notre méthode qui s'avère très efficace.",
+"title": "Accélération de EM pour données qualitatives : études comparative de différentes versions",
+"placeAut":[{
+"place":"Metz",
+"country":"France",
+"location":{
+	"lat":"49.1193089",
+	"lon":"6.1757156"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 45.77722199999999, u'lon': 3.087025}",
+"place": "Clermont-Ferrand",
+"booktitle": "EGC",
+"idArt": "1025",
+"authors": "['Mohamed Nadif','François-Xavier Jollois']"
+}

@@ -1,0 +1,14 @@
+{	 "idArt" : "851",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2006",
+	 "place" : "Lille",
+	 "location" : { "lat" :  50.62925, 
+		 "lon" : 3.057256 }, 
+	 "title" : "Teximus Expertise : un logiciel de gestion de connaissances",
+	 "abstract" : "Le logiciel Teximus Expertise est un outil évolué de gestion dynamiquede connaissances basé sur les notions de référentiel sémantique. Cette suiteintégrée facilite le partage de connaissances et d'informations dans les entreprises.",
+	 "authors" : ["Olivier Gerbé"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1000453" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1000453" 
+} 
+ 

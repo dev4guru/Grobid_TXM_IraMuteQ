@@ -1,0 +1,22 @@
+{
+"year": "2008",
+"metaSession": "0",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1000549",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1000549",
+"abstract": "L'exploitation des réseaux sociaux pour l'extraction de connaissances n'est pas nouvelle. Les anthropologues, sociologues et épidémiologies se sont déjà penchés sur la question. C'est probablement le succès du moteur de recherche Google qui a vulgarisé l'utilisation des parcours aléatoires des réseaux sociaux pour l'ordonnancement par pertinence. Plusieurs applications ont depuis vu naissance. La découverte des communautés dans les réseaux sociaux est aussi une nouvelle tendance de recherche très prisée. Durant cet exposé nous parlerons de l'analyse des réseaux sociaux, la découverte de communautés, et présenterons quelques applications dont l'ordonnancement dans les bases de données",
+"title": "Le forage de réseaux sociaux",
+"placeAut":[{
+"place":"Alberta",
+"country":"Canada",
+"location":{
+	"lat":"53.9332706",
+	"lon":"-116.5765035"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 43.6163539, u'lon': 7.0552218}",
+"place": "Sophia Antipolis",
+"booktitle": "EGC ",
+"idArt": "620",
+"authors": "Osmar R. Zaïane"
+}

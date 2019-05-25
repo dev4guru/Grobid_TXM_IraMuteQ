@@ -1,0 +1,14 @@
+{	 "idArt" : "636",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC ",
+	 "year" : "2008",
+	 "place" : "Sophia Antipolis",
+	 "location" : { "lat" :  43.6163539, 
+		 "lon" : 7.0552218 }, 
+	 "title" : "Processus d'acquisition d'un dictionnaire de sigles et de leurs définitions à partir d'un corpus",
+	 "abstract" : "Le logiciel présenté dans cet article s'appuie sur une approche d'acquisition de sigles à partir de données textuelles",
+	 "authors" : ["Vladislav Matviico","Nicolas Muret","Mathieu Roche"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1000599" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1000599" 
+} 
+ 

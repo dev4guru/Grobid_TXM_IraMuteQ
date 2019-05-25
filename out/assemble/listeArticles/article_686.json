@@ -1,0 +1,14 @@
+{	 "idArt" : "686",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2007",
+	 "place" : "Namur",
+	 "location" : { "lat" :  50.4673883, 
+		 "lon" : 4.8719854 }, 
+	 "title" : "Caractérisation des transitions temporisées dans les logs de conversation de services Web",
+	 "abstract" : "La connaissance du protocole de conversation d'un service Web est importante pour les utilisateurs et les fournisseurs, car il en modélise le comportement externe ; mais, il n'est souvent pas spécifié lors de la conception. Notre travail s'inscrit dans une thématique d'extraction du protocole de conversation d'un service existant à partir de ses données d'exécution. Nous en étudions un sous-problème important qui est la découverte des transitions temporisées (i.e. les changements d'état liés à des contraintes temporelles). Nous proposons un cadre formel aboutissant à la définition des expirations propres, qui représentent un équivalent dans les logs des transitions temporisées. A notre connaissance, ceci représente la première contribution à la résolution de ce problème.",
+	 "authors" : ["Didier Devaurs","Fabien De Marchi","Mohand-Said Hacid"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1001302" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1001302" 
+} 
+ 

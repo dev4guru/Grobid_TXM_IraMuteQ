@@ -1,0 +1,18 @@
+{
+    "idArt": "1",
+    "series": "Revue des Nouvelles Technologies de l'Information",
+    "booktitle": "EGC",
+    "year": "2015",
+    "place": "Luxembourg",
+    "location": {
+        "lat": 49.815273,
+        "lon": 6.129582999999999
+    },
+    "title": "A Clustering Based Approach for Type Discovery in RDF Data Sources",
+    "abstract": "RDF(S)/OWL data sources are not organized according to a predefined schema, as they are structureless by nature. This lack of schema limits their use to express queries or to understand their content. Our work is a contribution towards the inference of the structure of RDF(S)/OWL data sources. We present an approach relying on density-based clustering to discover the types describing the entities of possibly incomplete and noisy data sets.",
+    "authors": [
+        "Kenza Kellou-Menouer",
+        "Zoubida Kedad"
+    ],
+    "pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1002113"
+}

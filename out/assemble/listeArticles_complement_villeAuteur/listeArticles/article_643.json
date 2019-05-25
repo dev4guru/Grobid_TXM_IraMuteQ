@@ -1,0 +1,14 @@
+{	 "idArt" : "643",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC ",
+	 "year" : "2008",
+	 "place" : "Sophia Antipolis",
+	 "location" : { "lat" :  43.6163539, 
+		 "lon" : 7.0552218 }, 
+	 "title" : "Requêtes alternatives dans le contexte d'un entrepôt de données génomiques",
+	 "abstract" : "Afin d'aider les biologistes à annoter des génomes, ce qui nécessite l'analyse, le croisement, et la comparaison de données provenant de sources diverses, nous avons conçu un entrepôt de données de génomique microbienne. Nous présentons la structure globale flexible de l'entrepôt et son architecture multi-niveaux et définissons des correspondances entre ces niveaux. Nous introduisons ensuite la notion de requête alternative et montrons comment le système peut construire l'ensemble des requêtes alternatives à une requête initiale. Pour cela, nous introduisons un mécanisme d'interrogation qui repose sur l'architecture multi-niveaux, et donnons un algorithme de calcul des requêtes alternatives.",
+	 "authors" : ["Christine Froidevaux","Frédéric Lemoine"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1000557" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1000557" 
+} 
+ 

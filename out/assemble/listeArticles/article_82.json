@@ -1,0 +1,13 @@
+{	 "idArt" : "82",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2014",
+	 "place" : "Rennes",
+	 "location" : { "lat" :  48.117266, 
+		 "lon" : -1.6777926 }, 
+	 "title" : "Classifieur naïf de Bayes pondéré pour flux de données",
+	 "abstract" : "Un classifieur naïf de Bayes est un classifieur probabiliste basé surl'application du théorème de Bayes avec l'hypothèse naïve, c'est-à-dire que lesvariables explicatives (Xi) sont supposées indépendantes conditionnellement àla variable cible (C). Malgré cette hypothèse forte, ce classifieur s'est avéré trèsefficace sur de nombreuses applications réelles et est souvent utilisé sur les fluxde données pour la classification supervisée. Le classifieur naïf de Bayes nécessitesimplement en entrée l'estimation des probabilités conditionnelles parvariable P(Xi|C) et les probabilités a priori P(C). Pour une utilisation sur lesflux de données, cette estimation peut être fournie à l'aide d'un « résumé superviséen-ligne de quantiles ». L'état de l'art montre que le classifieur naïf de Bayespeut être amélioré en utilisant une méthode de sélection ou de pondération desvariables explicatives. La plupart de ces méthodes ne peuvent fonctionner quehors-ligne car elles nécessitent de stocker toutes les données en mémoire et/oude lire plus d'une fois chaque exemple. Par conséquent, elles ne peuvent être utiliséessur les flux de données. Cet article présente une nouvelle méthode baséesur un modèle graphique qui calcule les poids des variables d'entrée en utilisantune estimation stochastique. La méthode est incrémentale et produit un classifieurNaïf de Bayes Pondéré pour flux de données. Cette méthode est comparéeau classique classifieur naïf de Bayes sur les données utilisées lors du challenge« Large Scale Learning ».",
+	 "authors" : ["Christophe Salperwyck","Vincent Lemaire","Carine Hue"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1001938" 
+} 
+ 

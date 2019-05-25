@@ -1,0 +1,13 @@
+{	 "idArt" : "515",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2009",
+	 "place" : "Strasbourg",
+	 "location" : { "lat" :  48.5734053, 
+		 "lon" : 7.752111299999999 }, 
+	 "title" : "DBFrequentQueries : Extraction de requêtes fréquentes",
+	 "authors" : ["Lucie Copin","Nicolas Pecheur","Anne Laurent","Yudi Augusta","Budi Sentana","Dominique Laurent","Tao-Yuan Jen"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1000822" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1000822" 
+} 
+ 

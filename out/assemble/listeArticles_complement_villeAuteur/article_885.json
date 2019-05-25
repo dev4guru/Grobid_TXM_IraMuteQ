@@ -1,0 +1,13 @@
+{	 "idArt" : "885",
+	 "placeAut" : [ 
+		{ "place" : "Illkirch",
+		 "country" : "France",
+		 "location" : { "lat" :  48.52854, 
+			 "lon" : 7.711010999999985 } },
+		{ "place" : "Lyon",
+		 "country" : "France",
+		 "location" : { "lat" :  45.764043, 
+			 "lon" : 4.835658999999964 } }
+	 ]
+} 
+ 

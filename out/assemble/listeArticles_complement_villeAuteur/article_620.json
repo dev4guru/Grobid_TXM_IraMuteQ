@@ -1,0 +1,9 @@
+{	 "idArt" : "620",
+	 "placeAut" : [ 
+		{ "place" : "Alberta",
+		 "country" : "Canada",
+		 "location" : { "lat" :  53.9332706, 
+			 "lon" : -116.5765035 } }
+	 ]
+} 
+ 

@@ -1,0 +1,13 @@
+{	 "idArt" : "684",
+	 "placeAut" : [ 
+		{ "place" : "Orsay",
+		 "country" : "France",
+		 "location" : { "lat" :  48.697161, 
+			 "lon" : 2.1896169999999984 } },
+		{ "place" : "Saint Martin d'Hères",
+		 "country" : "France",
+		 "location" : { "lat" :  45.165133, 
+			 "lon" : 5.767761000000064 } }
+	 ]
+} 
+ 

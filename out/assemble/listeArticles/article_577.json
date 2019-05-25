@@ -1,0 +1,14 @@
+{	 "idArt" : "577",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC ",
+	 "year" : "2008",
+	 "place" : "Sophia Antipolis",
+	 "location" : { "lat" :  43.6163539, 
+		 "lon" : 7.0552218 }, 
+	 "title" : "Approche hybride de classification à base de treillis de Galois: application à la reconnaissance de visages",
+	 "abstract" : "La recherche dans le domaine de la reconnaissance de visages profite des solutions obtenues dans le domaine de l'apprentissage automatique. Le problème de classification de visages peut être considéré comme un problème d'apprentissage supervisé où les exemples d'apprentissage sont les visages étiquetés. Notre article introduit dans ce contexte une nouvelle approche hybride de classification qui utilise le paradigme d'apprentissage automatique supervisé. Ainsi, en se basant sur le fondement mathématique des treillis de Galois et leur utilisation pour la classification supervisée, nous proposons un nouvel algorithme de classification baptisé CITREC ainsi que son application pour la reconnaissance de visages. L'originalité de notre approche provient de la combinaison de l'analyse formelle de concepts avec les approches de classification supervisée à inférence bayésienne ou à plus proches voisins. Une validation expérimentale est décrite sur un benchmark du domaine de la reconnaissance de visages.",
+	 "authors" : ["Yahya Slimani","Cherif Chiraz Latiri","Brahim Douar"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1000618" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1000618" 
+} 
+ 

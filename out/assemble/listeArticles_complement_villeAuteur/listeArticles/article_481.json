@@ -1,0 +1,13 @@
+{	 "idArt" : "481",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2010",
+	 "place" : "Hammamet",
+	 "location" : { "lat" :  36.4, 
+		 "lon" : 10.616667 }, 
+	 "title" : "Une méthode d'aide au management de connaissances pour améliorer le processus de suivi et d'évaluation de la prise en charge précoce des enfants IMC : application de l'ASHMS",
+	 "authors" : ["Mohamed Turki","Inès Saad","Gilles Kassel","Faïez Gargouri"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1001431" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1001431" 
+} 
+ 

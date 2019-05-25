@@ -1,0 +1,22 @@
+{
+"year": "2013",
+"metaSession": "3",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1001849",
+"pdfarticle": "",
+"abstract": "Alors que les réseaux sociaux s'attachaient à représenter des entités et les relations qui existaient entre elles, les réseaux d'information intègrent également des attributs décrivant ces entités ; ce qui conduit à revisiter les méthodes d'analyse et de fouille de ces réseaux. Dans cet article, nous proposons une méthode de classification des sommets d'un graphe qui exploite d'une part leurs relations et d'autre part les attributs les caractérisant. Cette méthode reprend le principe de la méthode de Louvain en l'étendant de façon à permettre la manipulation d'attributs continus d'une manière symétrique à ce qui existe pour les relations.",
+"title": "ToTeM: une méthode de détection de communautés adaptées aux réseaux d'information",
+"placeAut":[{
+"place":"Saint-Étienne",
+"country":"France",
+"location":{
+	"lat":"45.439695",
+	"lon":"4.3871779"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 43.604652, u'lon': 1.444209}",
+"place": "Toulouse",
+"booktitle": "EGC",
+"idArt": "198",
+"authors": "['David Combe','Christine Largeron','Elod Egyed-Zsigmond','Mathias Géry']"
+}

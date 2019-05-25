@@ -1,0 +1,14 @@
+{	 "idArt" : "767",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2006",
+	 "place" : "Lille",
+	 "location" : { "lat" :  50.62925, 
+		 "lon" : 3.057256 }, 
+	 "title" : "Accès aux connaissances orales par le résumé automatique",
+	 "abstract" : "Le temps nécessaire pour écouter un flux audio est un facteur réduisant l'accès efficace àde grandes archives de parole. Une première approche, la structuration automatique des données,permet d'utiliser un moteur de recherche pour cibler plus rapidement l'information. Leslistes de résultats générées sont longues dans un souci d'exhaustivité. Alors que pour des documentstextuels, un coup d'oeil discrimine un résultat interessant d'un résultat non pertinant,il faut écouter l'audio dans son intégralité pour en capturer le contenu. Nous proposons doncd'utiliser le résumé automatique afin de structurer les résultats des recherches et d'en réduirela redondance.",
+	 "authors" : ["Benoît Favre","Jean-François Bonastre","Patrice Bellot","François Capman"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1000358" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1000358" 
+} 
+ 

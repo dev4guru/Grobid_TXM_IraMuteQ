@@ -1,0 +1,22 @@
+{
+"year": "2011",
+"metaSession": "3",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1001004",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1001004",
+"abstract": "La fouille de graphes est devenue une piste de recherche intéressante et un défi réel en matière de fouille de données. Parmi les différentes familles de motifs de graphes, les graphes fréquents permettent une caractérisation intéressante des groupes de graphes, ainsi qu'une discrimination des différents graphes lors de la classification ou de la segmentation. A cause de la NP-complétude du test d'isomorphisme de sous-graphes et de l'immensité de l'espace de recherche, les algorithmes de fouille de graphes sont exponentiels en temps d'exécution et/ou occupation mémoire. Dans cet article, nous étudions un nouvel opérateur de projection polynomial nommé AC-projection basé sur une propriété clé du domaine de la programmation par contraintes, à savoir l'arc consistance. Cet opérateur est censé remplacer l'utilisation de l'isomorphisme de sous-graphes en établissant un biais sur la projection. Cette étude est suivie d'une évaluation expérimentale du pouvoir discriminant des patterns AC-réduits découverts.",
+"title": "Nouvelle approche de fouille de graphes AC-réduits fréquents",
+"placeAut":[{
+"place":"Montpellier",
+"country":"France",
+"location":{
+	"lat":"43.610769",
+	"lon":"3.876716"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 48.390394, u'lon': -4.486076}",
+"place": "Brest",
+"booktitle": "EGC",
+"idArt": "341",
+"authors": "['Brahim Douar','Michel Liquiere','Cherif Chiraz Latiri','Yahya Slimani']"
+}

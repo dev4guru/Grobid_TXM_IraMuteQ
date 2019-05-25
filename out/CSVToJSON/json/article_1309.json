@@ -1,0 +1,15 @@
+{
+"idArt": "1309",
+"series": "Revue des Nouvelles Technologies de l'Information",
+"booktitle": "EGC",
+"year": "2018",
+"title": "Peerus Review: Un outil de recherche d'experts scientifiques",
+"abstract": "Nous proposons un outil de recherche d'experts appliqué au mondeacadémique sur les données générées par l'entreprise DSRT dans le cadre de sonapplication Peerus 1. Un utilisateur soumet le titre, le résumé et optionnellementles auteurs et le journal de publication d'un article scientifique et se voit proposerune liste d'experts, potentiels reviewers de l'article soumis. L'algorithme derecherche est un système de votes reposant sur un modèle du langage entrainé àpartir d'un ensemble de plusieurs millions d'articles scientifiques. L'outil est accessibleà chacun sous la forme d'une application web intitulée Peerus Review 2.",
+"authors": "Robin Brochier, Adrien Guille, Julien Velcin, Benjamin Rothan, François Di Cioccio",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1002426",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1002426",
+"metaSession": "11",
+"place": "Paris",
+"Latitude": " 48.8583 ",
+"Longitude": "2.3537"
+}

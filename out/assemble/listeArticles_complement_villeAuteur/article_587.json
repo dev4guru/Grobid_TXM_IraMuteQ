@@ -1,0 +1,9 @@
+{	 "idArt" : "587",
+	 "placeAut" : [ 
+		{ "place" : "Saint Martin d'Hères",
+		 "country" : "France",
+		 "location" : { "lat" :  45.165133, 
+			 "lon" : 5.767761000000064 } }
+	 ]
+} 
+ 

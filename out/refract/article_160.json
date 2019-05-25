@@ -1,0 +1,22 @@
+{
+"year": "2013",
+"metaSession": "",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1001814",
+"pdfarticle": "",
+"abstract": "L'analyse formelle de concepts (AFC) est un formalisme de représentation et d'extraction de connaissance fondé sur les notions de concepts et de treillis de concepts (Galois).L'AFC a été exploitée avec succès dans plusieurs domaines en informatique tels le génie logiciel, les bases et entrepôts de données, l'extraction et la gestion de la connaissance et dans plusieurs applications du monde réel comme la médecine, la psychologie, la linguistique et la sociologie.Dans cette présentation, nous allons explorer le potentiel de l'AFC et de quelques extensions de cette théorie (ex. analyse triadique de concepts) dans l'analyse de réseaux sociaux en vue de découvrir des connaissances à partir de réseaux homogènes simples (ex. détection de communautés et d'individus influents à partir d'un réseau d'amis) ou même de réseaux hétérogènes (ex. extraction de règles d'association d'un réseau bibliographique).",
+"title": "Analyse de réseaux sociaux par l'analyse formelle de concepts",
+"placeAut":[{
+"place":"Gatineau",
+"country":"Canada",
+"location":{
+	"lat":"45.4765446",
+	"lon":"-75.7012723"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 43.604652, u'lon': 1.444209}",
+"place": "Toulouse",
+"booktitle": "EGC",
+"idArt": "160",
+"authors": "Rokia Missaoui"
+}

@@ -1,0 +1,15 @@
+{
+"idArt": "1233",
+"series": "Revue des Nouvelles Technologies de l'Information",
+"booktitle": "EGC",
+"year": "2017",
+"title": "Prédiction de défauts dans les arbres du parc végétal Grenoblois et préconisations pour les futures plantations",
+"abstract": "Nous décrivons dans cet article notre réponse au défi EGC 2017. Uneanalyse exploratoire des données a tout d'abord permis de comprendre les distri-butions des différentes variables et de détecter de fortes corrélations. Nous avonsdéfini deux variables supplémentaires à partir des variables du jeu de données.Plusieurs algorithmes de classification supervisée ont été expérimentés pour ré-pondre à la tâche numéro 1 du défi. Les performances ont été évaluées par va-lidation croisée. Cela nous a permis de sélectionner les meilleurs classifieursuni-label et multi-label. Autant sur la tâche uni-label que multi-label, le meilleurclassifieur dépasse les références d'environ 2%. Nous avons également exploréla tâche numéro 2 du défi. D'une part, des règles d'association ont été recher-chées. D'autre part, le jeu de données a été enrichi avec des connaissances tellesque des données climatiques (pluviométrie, température, vent) ou des donnéestaxonomiques dans le domaine de la botanique (famille, ordre, super-ordre). Enoutre, des données géographiques et cartographiques sont exploitées dans unoutil de visualisation d'une partie des données sur les arbres.",
+"authors": "Yelen Per, Kevin Dalleau, Malika Smail-Tabbone",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1002284",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1002284",
+"metaSession": "9",
+"place": "Grenoble",
+"Latitude": " 45.188574 ",
+"Longitude": "5.724569"
+}

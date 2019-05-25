@@ -1,0 +1,22 @@
+{
+"year": "2009",
+"metaSession": "5",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1000779",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1000779",
+"abstract": "Cet article propose une méthode reposant sur l'utilisation del'Analyse Formelle de Concepts et des treillis de Galois pour l'analyse desystèmes complexes. Des statistiques reposant sur ces treillis permettent decalculer la distribution conceptuelle des objets classifiés par le treillis.L'expérimentation sur des échantillons de trois réseaux sociaux en ligneillustre l'utilisation de ces statistiques pour la caractérisation globale et pour lefiltrage automatique de ces systèmes.",
+"title": "Empreintes conceptuelles et spatiales pour la caractérisation des réseaux sociaux",
+"placeAut":[{
+"place":"Châtenay-Malabry",
+"country":"France",
+"location":{
+	"lat":"48.771896",
+	"lon":"2.270748"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 48.5734053, u'lon': 7.752111299999999}",
+"place": "Strasbourg",
+"booktitle": "EGC",
+"idArt": "526",
+"authors": "['Bénédicte Le Grand','Marie-Aude Aufaure','Michel Soto']"
+}

@@ -1,0 +1,14 @@
+{	 "idArt" : "333",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2011",
+	 "place" : "Brest",
+	 "location" : { "lat" :  48.390394, 
+		 "lon" : -4.486076 }, 
+	 "title" : "Modélisation de la dynamique de phénomènes spatio-temporels par des séquences de motifs",
+	 "abstract" : "Dans ce papier, nous proposons un nouveau cadre théorique permettant de modéliser la dynamique de phénomènes spatio-temporels. Nous définissons le concept de séquences spatio-temporelles de motifs afin de capturer les interactions entre des ensembles de propriétés et un phénomène à observer. Un algorithme incrémental est proposé pour extraire des séquences spatiotemporelles de motifs sous contraintes, et une nouvelle structure de données est mise en place afin d'améliorer ses performances. Un prototype a été développé et testé sur des données réelles.",
+	 "authors" : ["Loïc Mabit","Nazha Selmaoui-Folcher","Frédéric Flouvat"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1001001" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1001001" 
+} 
+ 

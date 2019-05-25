@@ -1,0 +1,20 @@
+{
+    "idArt": "2",
+    "series": "Revue des Nouvelles Technologies de l'Information",
+    "booktitle": "EGC",
+    "year": "2015",
+    "place": "Luxembourg",
+    "location": {
+        "lat": 49.815273,
+        "lon": 6.129582999999999
+    },
+    "title": "A Framework for Mesh Segmentation and Annotation using Ontologies",
+    "abstract": "La segmentation et annotation de maillages utilisant la sémantique a été l'objet d'un intérêt grandissant avec la démocratisation des techniques de reconstruction 3D. Une approche classique consiste à réaliser cette tâche en deux étapes, tout d'abord en segmentant le maillage, puis en l'annotant. Cependant, cette approche ne permet pas à chaque étape de profiter de l'autre. En traitement d'images, quelques méthodes combinent la segmentation et l'annotation, mais ces approches ne sont pas génériques, et nécessitent des ajustements d'implémentation ou des réécritures pour chaque modification des connaissances expertes. Dans ce travail, nous décrivons un cadre de fonctionnement qui mélange segmentation et annotation afin de réduire le nombre d'étapes de segmentation, et nous présentons des résultats préliminaires qui montrent la faisabilité de l'approche.Notre système fournit une ontologie générique qui décrit sous forme de concepts les propriétés d'un objet (géométrie, topologie, etc.), ainsi que des algorithmes permettant de détecter ces concepts. Cette ontologie peut être étendue par un expert pour décrire formellement un domaine spécifique. La description formelle du domaine est alors utilisée pour réaliser automatiquement l'assemblage de la segmentation et de l'annotation d'objets et de leurs propriétés, en sélectionnant à chaque étape l'algorithme le plus pertinent, étant données les information sémantiques déjà détectées. Cette approche originale comporte plusieurs avantages. Tout d'abord, elle permet de segmenter et d'annoter des objets sans aucune connaissance en traitement d'images ou de maillages, en décrivant uniquement les propriétés de l'objet en terme de concepts ontologiques. De plus, ce cadre de fontionnement peut facilement être réutilisé et appliqué à différents contextes, dès lors qu'une ontologie de domaine a été définie. Finalement, la réalisation conjointe de la segmentation et de l'annotation permet d'utiliser d'une manière efficace la connaissance experte, en réduisant les erreurs de segmentation et le temps de calcul, en lançant toujours l'algorithme le plus pertinent.",
+    "authors": [
+        "Thomas Dietenbeck",
+        "Ahlem Othmani",
+        "Marco Attene",
+        "Jean-Marie Favreau"
+    ],
+    "pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1002088"
+}

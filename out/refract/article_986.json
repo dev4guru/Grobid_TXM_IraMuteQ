@@ -1,0 +1,22 @@
+{
+"year": "2005",
+"metaSession": "1",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1000383",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1000383",
+"abstract": "Travaillant sur l'élaboration d'une méthodologie de développement de systèmes de médiation intégrés dans des systèmes coopératifs, nous avons proposé une architecture à 3 composants : le premier concerne la coopération, le second l'assistance et le troisième est relatif aux connaissances nécessaires aux 2 précédents. Dans cet article nous présentons plus particulièrement le point de vue des connaissances. Ces connaissances sont de 2 natures : des connaissances statiques, sur le domaine par exemple, et des connaissances acquises pendant l'utilisation coopérative du système, notamment la mémoire des activités et les descriptions des actes de résolutions de problèmes. Pour illustrer cette modélisation de connaissances, nous nous intéresserons aux activités coopératives de suivi, de gestion et d'évaluation de projets d'étudiants, assistées par l'outil iPédagogique.",
+"title": "Modélisation de connaissances pour un système de médiation",
+"placeAut":[{
+"place":"Belfort",
+"country":"France",
+"location":{
+	"lat":"47.639674",
+	"lon":"6.863849"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 48.856614, u'lon': 2.3522219}",
+"place": "Paris",
+"booktitle": "EGC",
+"idArt": "986",
+"authors": "['Victoria Eugenia Ospina','Alain-Jérôme Fougères','Manuel Zacklad']"
+}

@@ -1,0 +1,14 @@
+{	 "idArt" : "381",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2010",
+	 "place" : "Hammamet",
+	 "location" : { "lat" :  36.4, 
+		 "lon" : 10.616667 }, 
+	 "title" : "Allier CSPs et motifs locaux pour la découverte de motifs sous contraintes n-aires",
+	 "abstract" : "Dans cet article, nous étudions la relation entre la découverte de motifssous contraintes et les CSPs (Constraint Satisfaction Problems) afin de définirdes contraintes de plus haut niveau qui sont précieuses pour mener à bien destâches de fouille de données. Pour cela, nous proposons une approche de modélisationet d'extraction de motifs sous contraintes n-aires exploitant les motifslocaux. L'utilisateur définit un ensemble de contraintes n-aires et un solveur deCSP génère l'ensemble des solutions. Notre approche profite des progrès récentssur l'extraction de motifs locaux et permet de modéliser de manière concise etélégante tout ensemble de contraintes combinant plusieurs motifs locaux, permettantainsi la découverte de motifs répondant mieux aux buts finaux de l'utilisateur.Les expériences menées montrent la faisabilité de notre approche.",
+	 "authors" : ["Mehdi Khiari","Patrice Boizumault","Bruno Crémilleux"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1001292" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1001292" 
+} 
+ 

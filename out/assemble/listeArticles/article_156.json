@@ -1,0 +1,13 @@
+{	 "idArt" : "156",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2013",
+	 "place" : "Toulouse",
+	 "location" : { "lat" :  43.604652, 
+		 "lon" : 1.444209 }, 
+	 "title" : "3D : de nouvelles perspectives en fouille exploratoire avec la stéréoscopie",
+	 "abstract" : "Si la 3D est un sujet de débat dans la communauté, les expériences sur lesquelles s'appuient les discussions concernent le plus souvent des restitutions visuelles basées sur une projection classique en perspective linéaire. L'objectif de cette communication est de renouveler le cadre expérimental en étudiant l'impact de l'ajout de la disparité binoculaire. Nous nous focalisons ici sur une tâche importante en analyse de réseaux : l'identification de communautés. Et nous comparons la 3D monoscopique et la 3D stéréoscopique à la fois pour la performance de résolution de la tâche et pour le comportement exploratoire à travers l'analyse du mouvement du pointeur de la souris et de la dynamique des modifications de points de vue sur les graphes. Nos résultats expérimentaux mettent en évidence des performances significativement meilleures pour la 3D stéréoscopique et des différences comportementales dans l'exploration avec un centrage plus important sur des zones restreintes en stéréoscopie.",
+	 "authors" : ["Nicolas Greffard","Fabien Picarougne","Pascale Kuntz"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1001831" 
+} 
+ 

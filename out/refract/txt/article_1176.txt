@@ -1,0 +1,1 @@
+Dans le cadre du défi EGC 2016, nous avons développé une applicationweb pour explorer les données décrivant les articles publiés depuis 2004 lorsdes conférences EGC. L'outil permet de découvrir les thèmes importants qui ontété abordés dans ces papiers. De plus, il permet de déterminer automatiquementles articles sémantiquement similaires à des thèmes donnés.

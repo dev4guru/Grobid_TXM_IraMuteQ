@@ -1,0 +1,13 @@
+{	 "idArt" : "917",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "AEGC",
+	 "year" : "2005",
+	 "place" : "Paris",
+	 "location" : { "lat" :  48.856614, 
+		 "lon" : 2.3522219 }, 
+	 "title" : "Représentation et reconnaissance de caractères manuscrits par Réseaux Bayésiens Dynamiques",
+	 "authors" : ["Laurence Likforman-Sulem","Marc Sigelle"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1000221" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1000221" 
+} 
+ 

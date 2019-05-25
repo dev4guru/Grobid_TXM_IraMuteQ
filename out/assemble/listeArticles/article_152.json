@@ -1,0 +1,13 @@
+{	 "idArt" : "152",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2014",
+	 "place" : "Rennes",
+	 "location" : { "lat" :  48.117266, 
+		 "lon" : -1.6777926 }, 
+	 "title" : "Vers une classification non supervisée adaptée pour obtenir des arbres de décision simplifiés",
+	 "abstract" : "L'induction d'arbre de décision est une technique puissante et populairepour extraire de la connaissance. Néanmoins, les arbres de décision obtenusdepuis des données issues du monde réel peuvent être très complexes et donc difficilesà exploiter. Dans ce cadre, cet article présente une solution originale pouradapter le résultat d'une classification non supervisée quelconque afin d'obtenirdes arbres de décision simplifiés pour chaque cluster.",
+	 "authors" : ["Olivier Parisot","Yoanne Didry","Pierrick Bruneau","Thomas Tamisier"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1001965" 
+} 
+ 

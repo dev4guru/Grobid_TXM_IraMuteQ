@@ -1,0 +1,14 @@
+{	 "idArt" : "1035",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2004",
+	 "place" : "Clermont-Ferrand",
+	 "location" : { "lat" :  45.77722199999999, 
+		 "lon" : 3.087025 }, 
+	 "title" : "BooLoader : un chargeur efficace dédié aux bases de transactions denses",
+	 "abstract" : "Nous nous intéressons à la représentation et au chargement de bases de transactions en mémoire. Pour cela, nous proposons d'utiliser un format condensé fondé sur les diagrammes de décision binaires et nous présentons un algorithme que nous avons implanté en un système baptisé BooLoader, pour charger des bases de transactions. Nous donnons également des résultats expérimentaux de notre système sur des bases éparses et denses.",
+	 "authors" : ["Zahir Maazouzi","Ansaf Salleb-Aouissi","Christel Vrain"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1000898" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1000898" 
+} 
+ 

@@ -1,0 +1,14 @@
+{	 "idArt" : "211",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2012",
+	 "place" : "Bordeaux",
+	 "location" : { "lat" :  44.837789, 
+		 "lon" : -0.57918 }, 
+	 "title" : "Antipattern Detection inWeb Ontologies: an Experiment using SPARQL Queries",
+	 "abstract" : "Ontology antipatterns are structures that reflect ontology modelling problems because they lead to inconsistencies, bad reasoning performance or bad formalisation of domain knowledge. We propose four methods for the detection of antipatterns using SPARQL queries. We conduct some experiments to detect antipattern in a corpus of OWL ontologies.",
+	 "authors" : ["Catherine Roussey","Oscar Corcho","Ond&#711;rej ?váb-Zamazal","François Scharffe","Stephan Bernard"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1001177" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1001177" 
+} 
+ 

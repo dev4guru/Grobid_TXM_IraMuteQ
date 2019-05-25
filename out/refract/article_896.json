@@ -1,0 +1,22 @@
+{
+"year": "2005",
+"metaSession": "",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1000247",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1000247",
+"abstract": "",
+"title": "Génération de descripteurs : interrogation d'images satellitaires par les métadonnées",
+"placeAut":[{
+"place":"Toulouse",
+"country":"France",
+"location":{
+	"lat":"43.604652",
+	"lon":"1.444209"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 48.856614, u'lon': 2.3522219}",
+"place": "Paris",
+"booktitle": "AEGC",
+"idArt": "896",
+"authors": "Florence Sedes"
+}

@@ -1,0 +1,13 @@
+{	 "idArt" : "1049",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2004",
+	 "place" : "Clermont-Ferrand",
+	 "location" : { "lat" :  45.77722199999999, 
+		 "lon" : 3.087025 }, 
+	 "title" : "Extraction de connaissances grâce à un outil de text-mining. Application à la veille informationnelle dans le cadre policier",
+	 "authors" : ["Marc Borry","Annick Castiaux"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1001167" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1001167" 
+} 
+ 

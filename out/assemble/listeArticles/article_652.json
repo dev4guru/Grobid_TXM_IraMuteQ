@@ -1,0 +1,14 @@
+{	 "idArt" : "652",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC ",
+	 "year" : "2008",
+	 "place" : "Sophia Antipolis",
+	 "location" : { "lat" :  43.6163539, 
+		 "lon" : 7.0552218 }, 
+	 "title" : "Un algorithme de classification topographique non supervisée à deux niveaux simultanés",
+	 "abstract" : "Une des questions les plus importantes pour la plupart des applications réelles de la classification est de déterminer un nombre approprié de groupes (clusters). Déterminer le nombre optimal de groupes est un problème difficile, puisqu'il n'y a pas de moyen simple pour connaître ce nombre sans connaissance a priori. Dans cet article, nous proposons un nouvel algorithme de classification non supervisée à deux niveaux, appelé S2L-SOM (Simultaneous Twolevel Clustering - Self Organizing Map), qui permet de déterminer automatiquement le nombre optimal de groupes, pendant l'apprentissage d'une carte auto-organisatrice. L'estimation du nombre correct de groupes est en relation avec la stabilité de la segmentation et la validité des groupes générés. Pour mesurer cette stabilité nous utilisons une méthode de sous-échantillonnage. Le principal avantage de l'algorithme proposé, comparé aux méthodes classiques de classification, est qu'il n'est pas limité à la détection de groupes convexes, mais est capable de détecter des groupes de formes arbitraires. La validation expérimentale de cet algorithme sur un ensemble de problèmes fondamentaux pour la classification montre sa supériorité sur les méthodes standards de classification à deux niveaux comme SOM+K-Moyennes et SOM+Hierarchical- Agglomerative-Clustering.",
+	 "authors" : ["Guénaël Cabanes","Younès Bennani"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1000661" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1000661" 
+} 
+ 

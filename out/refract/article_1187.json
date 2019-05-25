@@ -1,0 +1,15 @@
+{
+"idArt": "1187",
+"series": "Revue des Nouvelles Technologies de l'Information",
+"booktitle": "EGC",
+"year": "2016",
+"title": "Visualisation interactive de métadonnées pour aider les utilisateurs d'un logiciel de cartographie statistique à concevoir de meilleures cartes.",
+"abstract": "CD7Online est l'application SaaS de la 7ème version de Cartes &Données (C & D), le logiciel de cartographie statistique décisionnelle et de géomarketingédité par Articque. C & D permet aux utilisateurs occasionnels de réalisersimplement des cartes à partir de données statistiques et géographiques. 25ans de retours utilisateurs nous ont permis de voir que la qualité des cartes reposeen partie sur la bonne connaissance des données dont disposent les utilisateurset sur leur capacité à choisir des outils d'analyse et de représentation pertinents.Pour aider les utilisateurs à mieux comprendre leurs données et à réaliser descartes de meilleure qualité, nous avons développé une brique sémantique avecun outil de visualisation interactif permettant de visualiser les connaissances extraitesdes espaces de travail des utilisateurs. Nous décrivons ici l'applicationCD7Online ainsi que l'outil de visualisation que nous présenterons lors de ladémonstration logicielle.",
+"authors": "Perrine Pittet",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1002203",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1002203",
+"metaSession": "11",
+"place": "Reims",
+"Latitude": " 49.258412 ",
+"Longitude": "4.031779"
+}

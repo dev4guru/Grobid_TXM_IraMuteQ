@@ -1,0 +1,15 @@
+{
+"idArt": "1202",
+"series": "Revue des Nouvelles Technologies de l'Information",
+"booktitle": "EGC",
+"year": "2017",
+"title": "Co-clustering de données mixtes à base des modèles de mélange",
+"abstract": "La classification croisée (co-clustering) est une technique non super-visée qui permet d'extraire la structure sous-jacente existante entre les lignes etles colonnes d'une table de données sous forme de blocs. Plusieurs approchesont été étudiées et ont démontré leur capacité à extraire ce type de structure dansune table de données continues, binaires ou de contingence. Cependant, peu detravaux ont traité le co-clustering des tables de données mixtes. Dans cet article,nous étendons l'utilisation du co-clustering par modèles à blocs latents au casdes données mixtes (variables continues et variables binaires). Nous évaluonsl'efficacité de cette extension sur des données simulées et nous discutons seslimites potentielles.",
+"authors": "Aichetou Bouchareb, Marc Boullé, Fabrice Rossi",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1002276",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1002276",
+"metaSession": "2",
+"place": "Grenoble",
+"Latitude": " 45.188543 ",
+"Longitude": "5.724538"
+}

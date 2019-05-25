@@ -1,0 +1,22 @@
+{
+"year": "2010",
+"metaSession": "",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1001423",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1001423",
+"abstract": "",
+"title": "Inférence Bayesienne du Maximum d'Entropie pour le Diagnostic du Cancer",
+"placeAut":[{
+"place":"San Sebastian",
+"country":"Spain",
+"location":{
+	"lat":"43.318334",
+	"lon":"-1.9812313"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 36.4, u'lon': 10.616667}",
+"place": "Hammamet",
+"booktitle": "EGC",
+"idArt": "436",
+"authors": "['Fadi Dornaika','Fadi Chakik']"
+}

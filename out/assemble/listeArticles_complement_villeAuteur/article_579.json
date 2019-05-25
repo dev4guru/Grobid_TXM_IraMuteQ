@@ -1,0 +1,13 @@
+{	 "idArt" : "579",
+	 "placeAut" : [ 
+		{ "place" : "Paris",
+		 "country" : "France",
+		 "location" : { "lat" :  48.856614, 
+			 "lon" : 2.3522219000000177 } },
+		{ "place" : "Marne-la-Vallée",
+		 "country" : "France",
+		 "location" : { "lat" :  48.859276, 
+			 "lon" : 2.598504999999932 } }
+	 ]
+} 
+ 

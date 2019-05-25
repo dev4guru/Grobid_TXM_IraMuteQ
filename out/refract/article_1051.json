@@ -1,0 +1,22 @@
+{
+"year": "2004",
+"metaSession": "8",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1001111",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1001111",
+"abstract": "In this paper, we present four generic text summarization techniques. Each technique extracts a text summary by ranking and extracting sentences from an original document. The first method, SUMMARIZER 1, uses standard information retrieval (IR) methods to rank sentences. The second method, SUMMARIZER 2, uses the Latent Semantic Analysis (LSA) technique to identify semantically important sentences, for summary creations. The third method, SUMMARIZER 3, uses a combination of the latent semantic analysis technique, reduction and relevance measure. The fourth method simply uses the TF*IDF (Term frequency * Inverse Document frequency) weighting scheme. Evaluations of the four methods are conducted using Document Understanding Conferences (DUC) datasets from NIST. We have compared the summary of each method with the manual summaries. Summarizer 4, with its lowest overhead, has comparable performance to summarizer 1. Analysis shows that a combination of LSA technique and the relevance measure (Summarizer 3) has the best performance on an average.",
+"title": "Extraction of text summary using latent semantic indexing and information retrieval technique : comparison of four strategies",
+"placeAut":[{
+"place":"Washington",
+"country":"USA",
+"location":{
+	"lat":"38.9071923",
+	"lon":"-77.0368707"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 45.77722199999999, u'lon': 3.087025}",
+"place": "Clermont-Ferrand",
+"booktitle": "EGC",
+"idArt": "1051",
+"authors": "['Abdelghani Bellaachia','Anand Mahajan']"
+}

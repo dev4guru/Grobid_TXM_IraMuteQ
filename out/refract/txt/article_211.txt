@@ -1,0 +1,1 @@
+Ontology antipatterns are structures that reflect ontology modelling problems because they lead to inconsistencies, bad reasoning performance or bad formalisation of domain knowledge. We propose four methods for the detection of antipatterns using SPARQL queries. We conduct some experiments to detect antipattern in a corpus of OWL ontologies.

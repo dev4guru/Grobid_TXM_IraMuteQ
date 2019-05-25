@@ -1,0 +1,14 @@
+{	 "idArt" : "444",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2010",
+	 "place" : "Hammamet",
+	 "location" : { "lat" :  36.4, 
+		 "lon" : 10.616667 }, 
+	 "title" : "Modélisation et interrogation de données XML multidimensionnelles",
+	 "abstract" : "XML étant devenu omniprésent et ses techniques de stockage et d'interrogationde plus en plus efficaces, le nombre de cas d'utilisations de ces technologiesaugmente tous les jours. Un sujet prometteur est l'intégration d'XML etdes entrepôts de données, dans laquelle une base de données XML native stockeles données multidimensionnelles et exécute des requêtes OLAP écrites à l'aidedu langage d'interrogation XML XQuery. Ce papier explore les questions quipeuvent survenir lors de l'implémentation d'un tel entrepôt de données XML.",
+	 "authors" : ["Boris Verhaegen","Esteban Zimányi","Serge Boucher"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1001327" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1001327" 
+} 
+ 

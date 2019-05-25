@@ -1,0 +1,1 @@
+With the explosive growth of the social media (forums, blogs, and social networks) on theWeb, the exploitation of these new information sources became essential. In this paper, wepresent a new automatic method to integrate knowledge for sentiment detection from a SMScorpus by combining lexical and semantic information.

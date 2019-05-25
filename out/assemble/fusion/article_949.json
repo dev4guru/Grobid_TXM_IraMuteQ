@@ -1,0 +1,22 @@
+{
+"year": "2005",
+"metaSession": "5",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1000423",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1000423",
+"abstract": "Cet article a pour but de montrer les possibilités offertes par le logiciel CHIC (Classification Hiérarchique Implicative et Cohésitive) pour effectuer certaines analyses de données. Il est basé sur la théorie de l'Analyse Statistique Implicative ou A.S.I. développée par Régis Gras et ses collaborateurs. Le principe premier de l'A.S.I. repose sur la problématique d'une mesure des règles d'association du type : «si a alors b» dans une population instanciant les variables a et b. CHIC enrichit sa réponse, établie sur des bases statistiques, en évaluant la responsabilité des sujets dans l'élection de la règle. L'article présent explique la démarche à suivre pour utiliser le logiciel ainsi que les possibilités offertes par celui-ci.",
+"title": "CHIC : traitement de données avec l'analyse implicative",
+"placeAut":[{
+"place":"Belfort",
+"country":"France",
+"location":{
+	"lat":"47.639674",
+	"lon":"6.863849"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 48.856614, u'lon': 2.3522219}",
+"place": "Paris",
+"booktitle": "EGC",
+"idArt": "949",
+"authors": "['Raphaël Couturier','Régis Gras']"
+}

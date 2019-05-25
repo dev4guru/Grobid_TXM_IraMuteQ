@@ -1,0 +1,22 @@
+{
+"year": "2010",
+"metaSession": "",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1001446",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1001446",
+"abstract": "",
+"title": "Approche Sémantique pour la Préservation de la Vie Privée dans les Médias Sociaux",
+"placeAut":[{
+"place":"Nozay",
+"country":"France",
+"location":{
+	"lat":"47.564751",
+	"lon":"-1.626916"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 36.4, u'lon': 10.616667}",
+"place": "Hammamet",
+"booktitle": "EGC",
+"idArt": "394",
+"authors": "['Hakim Hacid','Johann Stan','Johann Daigremont']"
+}

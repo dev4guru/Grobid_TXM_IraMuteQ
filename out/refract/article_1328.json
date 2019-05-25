@@ -1,0 +1,15 @@
+{
+"idArt": "1328",
+"series": "Revue des Nouvelles Technologies de l'Information",
+"booktitle": "EGC",
+"year": "2018",
+"title": "Universal-endpoint.com : une plateforme d'accès simple au Web des Données",
+"abstract": "Universal-endpoint.com est une plateforme web permettant un accèssimple au Web des Données par trois aspects : (i) une plateforme de correspondance,pour l'accès aux bases du Web des Données depuis un seul point d'accèscentralisé, (ii) le langage SimplePARQL, pour une écriture intuitive de requêtessous forme de triplets à la manière de SPARQL mais ne nécessitant pas uneconnaissance préalable des bases du Web des Données, et (iii) une aide à larédaction de requêtes SPARQL.",
+"authors": "Thomas Raimbault, Abdellah Sabry, Sonia Djebali",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1002429",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1002429",
+"metaSession": "11",
+"place": "Paris",
+"Latitude": " 48.8602 ",
+"Longitude": "2.3556"
+}

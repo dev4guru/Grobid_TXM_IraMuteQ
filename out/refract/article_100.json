@@ -1,0 +1,22 @@
+{
+"year": "2014",
+"metaSession": "",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1001976",
+"pdfarticle": "",
+"abstract": "De nos jours dans les secteurs commerciaux et financiers la veille estcruciale et complexe, car la charge d'informations est importante. Pour répondreà cette problématique, nous proposons un système novateur de recommandationd'articles basé sur une modélisation ontologique des connaissances. Nous présentonségalement une nouvelle méthode d'évaluation de la pertinence utilisantle modèle vectoriel intrinsèquement efficace et adapté afin de pallier la confusionnative de ces modèles entre les notions de similarité et de pertinence.",
+"title": "Evaluation de la pertinence dans un système de recommandation sémantique de nouvelles économiques",
+"placeAut":[{
+"place":"Dijon",
+"country":"France",
+"location":{
+	"lat":"47.322047",
+	"lon":"5.04148"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 48.117266, u'lon': -1.6777926}",
+"place": "Rennes",
+"booktitle": "EGC",
+"idArt": "100",
+"authors": "['David Werner','Christophe Cruz','Aurélie Bertaux']"
+}

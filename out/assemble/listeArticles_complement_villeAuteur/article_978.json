@@ -1,0 +1,13 @@
+{	 "idArt" : "978",
+	 "placeAut" : [ 
+		{ "place" : "Le Bourget-du-Lac",
+		 "country" : "France",
+		 "location" : { "lat" :  45.649392, 
+			 "lon" : 5.859075999999959 } },
+		{ "place" : "Chavanod",
+		 "country" : "France",
+		 "location" : { "lat" :  45.89005299999999, 
+			 "lon" : 6.0392799999999625 } }
+	 ]
+} 
+ 

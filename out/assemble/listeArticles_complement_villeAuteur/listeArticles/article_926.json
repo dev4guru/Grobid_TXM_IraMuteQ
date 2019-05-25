@@ -1,0 +1,14 @@
+{	 "idArt" : "926",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "AEGC",
+	 "year" : "2005",
+	 "place" : "Paris",
+	 "location" : { "lat" :  48.856614, 
+		 "lon" : 2.3522219 }, 
+	 "title" : "Un Web sémantique de formation par questionnement",
+	 "abstract" : "Nous présentons dans cet article un EIAH conçu et développé selondes méthodes et techniques du Web sémantique et de l'ingénierie desconnaissances. L'environnement d'apprentissage est conçu comme unemémoire de formation et le système que nous avons développé constitue unWeb sémantique de formation (par extension de la notion de Web sémantiqued'entreprise). Une approche d'acquisition et de gestion des connaissances a étéadoptée pour expliciter la stratégie pédagogique d'un enseignant, acquérir desressources pédagogiques à partir d'un document de cours initial et organiserces ressources. La visualisation des ressources et la navigation de l'apprenantdans la mémoire ou le Web de formation est basée sur l'utilisation d'un moteurde recherche sémantique.",
+	 "authors" : ["Sylvain Dehors","Catherine Faron-Zucker","Alain Giboin","Jean-Paul Stromboni"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1000249" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1000249" 
+} 
+ 

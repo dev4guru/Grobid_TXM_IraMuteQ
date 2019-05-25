@@ -1,0 +1,22 @@
+{
+"year": "2009",
+"metaSession": "0",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1000798",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1000798",
+"abstract": "Les systèmes d'analyse de flux de données prennent de plus en plusd'importance dans un contexte où les données circulant sur les réseaux sont deplus en plus volumineuses et où la volonté de réagir au plus vite, en temps réel,devient un besoin nécessaire. Afin de permettre des analyses aussi rapides etefficaces que possible, il convient de pouvoir contrôler les flots de données et defocaliser les traitements sur les données pertinentes. Le protocole présenté dansce papier donne au module de traitement des capacités d'action et de contrôle surles observations remontantes en fonction de l'état de l'analyse. La diminutiondes flux résultant de telles focalisations permet des traitements beaucoup plusefficaces, plus pertinents et moins consommateurs de ressources. Les premiersrésultats montrent un réel gain de performances sur nos applications (facteur100).",
+"title": "Contrôle des observations pour la gestion des systèmes de flux de données.",
+"placeAut":[{
+"place":"Lannion",
+"country":"France",
+"location":{
+	"lat":"48.732084",
+	"lon":"-3.459144"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 48.5734053, u'lon': 7.752111299999999}",
+"place": "Strasbourg",
+"booktitle": "EGC",
+"idArt": "513",
+"authors": "['Pierre Le Maigat','Christophe Dousson']"
+}

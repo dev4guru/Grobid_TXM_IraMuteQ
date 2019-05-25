@@ -1,0 +1,14 @@
+{	 "idArt" : "414",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2010",
+	 "place" : "Hammamet",
+	 "location" : { "lat" :  36.4, 
+		 "lon" : 10.616667 }, 
+	 "title" : "Découverte d'itemsets fréquents fermés sur architectures multicoeurs",
+	 "abstract" : "Dans ce papier nous proposons PLCM, un algorithme parallèle dedécouverte d'itemsets fréquents fermés basé sur l'algorithme LCM, reconnucomme l'algorithme séquentiel le plus efficace pour cette tâche. Nous présentonsaussi une interface de parallélisme à la fois simple et puissante basée sur lanotion de Tuple Space, qui permet d'avoir une bonne répartition dynamique dutravail.Grâce à une étude expérimentale détaillée, nous montrons que PLCM est le seulalgorithme qui soit suffisamment générique pour calculer efficacement des itemsetsfréquents fermés à la fois sur des bases creuses et sur des bases denses,améliorant ainsi l'état de l'art.",
+	 "authors" : ["Benjamin Négrevergne","Alexandre Termier","Jean-François Méhaut","Takeaki Uno"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1001339" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1001339" 
+} 
+ 

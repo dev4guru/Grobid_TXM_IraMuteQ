@@ -1,0 +1,14 @@
+{	 "idArt" : "334",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2011",
+	 "place" : "Brest",
+	 "location" : { "lat" :  48.390394, 
+		 "lon" : -4.486076 }, 
+	 "title" : "Modélisation de la propagation de l'information sur le Web : de l'extraction des données à la simulation",
+	 "abstract" : "Nous proposons un modèle de la propagation de l'information dans un réseau, en détaillant toutes les étapes de sa réalisation et de son utilisation dans un cadre de simulation. A partir de données réelles extraites du Web, nous identifions parmi les sources des catégories de comportements de publication distincts. Nous proposons ensuite une extension d'un modèle de diffusion de l'information existant, afin d'augmenter son pouvoir d'expression, en particulier pour reproduire ces comportements de publication, puis nous le validons sur un exemple de simulation.",
+	 "authors" : ["François Nel","Marie-Jeanne Lesot","Philippe Capet","Thomas Delavallade"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1001023" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1001023" 
+} 
+ 

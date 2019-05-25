@@ -1,0 +1,15 @@
+{
+"idArt": "1127",
+"series": "Revue des Nouvelles Technologies de l'Information",
+"booktitle": "EGC",
+"year": "2016",
+"title": "Détection de messages falsifiés de localisation de navires",
+"abstract": "The Automatic Identification System was initially designed for safety purposes. However,the system is not secured and the messages contain errors and undergo attacks and falsifications.This article proposes a methodological approach for the detection of falsified AISmessages.",
+"authors": "Clément Iphar, Aldo Napoli, Cyril Ray",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1002229",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1002229",
+"metaSession": "11",
+"place": "Reims",
+"Latitude": " 49.258352 ",
+"Longitude": "4.031719"
+}

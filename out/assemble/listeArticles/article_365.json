@@ -1,0 +1,14 @@
+{	 "idArt" : "365",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2011",
+	 "place" : "Brest",
+	 "location" : { "lat" :  48.390394, 
+		 "lon" : -4.486076 }, 
+	 "title" : "Un système cellulaire neuro-symbolique pour l'extraction et la gestion des connaissances",
+	 "abstract" : "Le CNSS - Cellular Neuro-Symbolic System - est un système hybride ralliant conjointement le neuro-symbolique et le cellulaire. CNSS permet, à partir d'une base de cas pratique, de faire coopérer un réseau de neurones, un graphe d'induction et un automate cellulaire pour la construction d'un modèle de prédiction. En détectant et en éliminant les individus non applicables et les variables non pertinentes, le réseau de neurones optimise la base d'apprentissage. Le résultat ainsi obtenu est affiné par un processus d'apprentissage symbolique à base de graphe d'induction. Ce raffinement se fait par une modélisation booléenne qui va assister l'apprentissage symbolique à optimiser le graphe d'induction et va assurer, par la suite, la représentation et la génération des règles de classification sous forme conjonctives avant d'entamer la phase de déduction par un moteur d'inférence cellulaire. CNSS a été testé sur plusieurs applications en utilisant des problèmes académiques et réels. Les résultats montrent que le système CNSS a des performances supérieures et de nombreux avantages.",
+	 "authors" : ["Baghdad Atmani","Mohamed Benamina","Bouziane Beldjilali"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1000934" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1000934" 
+} 
+ 

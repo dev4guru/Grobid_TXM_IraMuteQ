@@ -1,0 +1,17 @@
+{	 "idArt" : "909",
+	 "placeAut" : [ 
+		{ "place" : "Carquefou",
+		 "country" : "France",
+		 "location" : { "lat" :  47.29624099999999, 
+			 "lon" : -1.4868119999999863 } },
+		{ "place" : "Nantes",
+		 "country" : "France",
+		 "location" : { "lat" :  47.218371, 
+			 "lon" : -1.553621000000021 } },
+		{ "place" : "Brest",
+		 "country" : "France",
+		 "location" : { "lat" :  48.390394, 
+			 "lon" : -4.4860760000000255 } }
+	 ]
+} 
+ 

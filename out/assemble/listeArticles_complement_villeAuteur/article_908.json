@@ -1,0 +1,13 @@
+{	 "idArt" : "908",
+	 "placeAut" : [ 
+		{ "place" : "Fontainebleau",
+		 "country" : "France",
+		 "location" : { "lat" :  48.40467599999999, 
+			 "lon" : 2.701620000000048 } },
+		{ "place" : "Berkeley",
+		 "country" : "États-Unis ",
+		 "location" : { "lat" :  37.8715926, 
+			 "lon" : -122.27274699999998 } }
+	 ]
+} 
+ 

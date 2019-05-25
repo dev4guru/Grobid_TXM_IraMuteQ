@@ -1,0 +1,22 @@
+{
+"year": "2013",
+"metaSession": "8",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1001850",
+"pdfarticle": "",
+"abstract": "Les travaux présentés dans cet article s'inscrivent dans le paradigme des recherches visant à acquérir des relations sémantiques à partir de folksonomies (ensemble de tags attribués à des ressources par des utilisateurs). Nous expérimentons plusieurs approches issues de l'état de l'art ainsi que l'apport de l'apprentissage automatique pour l'identification de relations entre tags. Nous obtenons dans le meilleur des cas un taux d'erreur de 23,7 % (relations non reconnues ou fausses), ce qui est encourageant au vu de la difficulté de la tâche (les annotateurs humains ont un taux de désaccord de 12%).",
+"title": "Identification de compatibilités entre descripteurs de lieux et apprentissage automatique",
+"placeAut":[{
+"place":"Toulouse",
+"country":"France",
+"location":{
+	"lat":"43.604652",
+	"lon":"1.444209"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 43.604652, u'lon': 1.444209}",
+"place": "Toulouse",
+"booktitle": "EGC",
+"idArt": "182",
+"authors": "['Estelle Delpech','Laurent Candillier','Léa Laporte','Samuel Phan']"
+}

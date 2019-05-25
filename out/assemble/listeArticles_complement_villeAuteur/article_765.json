@@ -1,0 +1,17 @@
+{	 "idArt" : "765",
+	 "placeAut" : [ 
+		{ "place" : "Orsay",
+		 "country" : "France",
+		 "location" : { "lat" :  48.697161, 
+			 "lon" : 2.1896169999999984 } },
+		{ "place" : "Rennes",
+		 "country" : "France",
+		 "location" : { "lat" :  48.117266, 
+			 "lon" : -1.6777925999999752 } },
+		{ "place" : "Laval",
+		 "country" : "France",
+		 "location" : { "lat" :  48.0785146, 
+			 "lon" : -0.7669905999999855 } }
+	 ]
+} 
+ 

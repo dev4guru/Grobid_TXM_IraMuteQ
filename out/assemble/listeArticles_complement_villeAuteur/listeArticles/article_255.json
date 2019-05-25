@@ -1,0 +1,13 @@
+{	 "idArt" : "255",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2012",
+	 "place" : "Bordeaux",
+	 "location" : { "lat" :  44.837789, 
+		 "lon" : -0.57918 }, 
+	 "title" : "Représentations de services web : impact sur la découverte et la recommandation",
+	 "authors" : ["Mustapha Aznag","Mohamed Quafafou","Nicolas Durand","Zahi Jarir"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1001203" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1001203" 
+} 
+ 

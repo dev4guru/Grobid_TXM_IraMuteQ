@@ -1,0 +1,22 @@
+{
+"year": "2011",
+"metaSession": "5",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1001028",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1001028",
+"abstract": "Les développements récents en tarification de l'assurance non-vie se concentrent majoritairement sur la maîtrise et l'amélioration des Modèles Linéaires Généralisés. Performants, ces modèles imposent cependant à la fois des contraintes sur la structure du risque modélisé et sur les interactions entre variables explicatives du risque. Ces restrictions peuvent conduire, dans certaines sous-populations d'assurés, à une estimation biaisée de la prime d'assurance. Les arbres de régression permettent de s'affranchir de ces contraintes et, de plus, augmentent la lisibilité des résultats de la tarification. Nous présentons une modification de l'algorithme CART pour prendre en compte les spécificités des données d'assurance non-vie. Nous comparons alors notre proposition aux modèles linéaires généralisés sur un portefeuille réel de véhicules. Notre proposition réduit les mesures d'erreur entre le risque mesuré et le risque modélisé, et permet ainsi une meilleure tarification.",
+"title": "Adaptation de l'algorithme CART pour la tarification des risques en assurance non-vie",
+"placeAut":[{
+"place":"Rennes",
+"country":"France",
+"location":{
+	"lat":"48.117266",
+	"lon":"-1.6777926"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 48.390394, u'lon': -4.486076}",
+"place": "Brest",
+"booktitle": "EGC",
+"idArt": "279",
+"authors": "['Antoine Paglia','Martial Phélippé-Guinvarc'h','Philippe Lenca']"
+}

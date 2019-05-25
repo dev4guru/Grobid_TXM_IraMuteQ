@@ -1,0 +1,15 @@
+{
+"idArt": "1319",
+"series": "Revue des Nouvelles Technologies de l'Information",
+"booktitle": "EGC",
+"year": "2018",
+"title": "Régression Laplacienne semi-supervisée pour la reconstitution des dates de pose des réseaux d'assainissement",
+"abstract": "La date de pose est souvent un facteur principal d'explication de la dégradationdes conduites d'assainissement. Pour les gestionnaires de ces réseaux,connaître cette information permet ainsi (par l'utilisation de modèles de détérioration)de prédire l'état de santé actuel des conduites non encore inspectées.Cette connaissance est primordiale pour prendre des décisions dans un contextede forte contrainte budgétaire. L'objectif est ainsi de reconstituer ces dates depose à partir des caractéristiques du patrimoine et de son environnement. Lesdonnées à manipuler présentent plusieurs niveaux de complexité importants.Leurs sources sont hétérogènes, leur volume est important et les informationssur leur étiquetage (dates) sont limitées : seulement 24 % du linéaire est connupour les réseaux d'assainissement de la métropole de Lyon. La base de donnéessous-jacente contient les caractéristiques connues des conduites (profil géométrique,matériau utilisé, etc.). Dans ce papier, nous proposons de mesurer l'effetet l'impact de quelques méthodes d'apprentissage statistique semi-supervisé, etde proposer ainsi une approche alternative adaptée à la reconstitution de ce typede données.",
+"authors": "Vivien Kraus, Khalid Benabdeslem, Frederic Cherqui",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1002389",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1002389",
+"metaSession": "2",
+"place": "Paris",
+"Latitude": " 48.8593 ",
+"Longitude": "2.3547"
+}

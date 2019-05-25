@@ -1,0 +1,13 @@
+{	 "idArt" : "512",
+	 "placeAut" : [ 
+		{ "place" : "Nouméa",
+		 "country" : "Nouvelle-Calédonie",
+		 "location" : { "lat" :  -22.2758, 
+			 "lon" : 166.45799999999997 } },
+		{ "place" : "Villeurbanne",
+		 "country" : "France",
+		 "location" : { "lat" :  45.771944, 
+			 "lon" : 4.89017089999993 } }
+	 ]
+} 
+ 

@@ -1,0 +1,14 @@
+{	 "idArt" : "591",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC ",
+	 "year" : "2008",
+	 "place" : "Sophia Antipolis",
+	 "location" : { "lat" :  43.6163539, 
+		 "lon" : 7.0552218 }, 
+	 "title" : "Détection de groupes atypiques pour une variable cible quantitative",
+	 "abstract" : "Une tâche importante en analyse des données est la compréhension de comportements inattendus ou atypiques de groupes d'individus. Quelles sont les catégories d'individus qui gagnent de particulièrement forts salaires ou au contraire, quelles sont celles qui ont de très faibles salaires ? Nous présentons le problème d'extraction de tels groupes atypiques vis-à-vis d'une variable cible quantitative, comme par exemple la variable salaire, et plus particulièrement pour les faibles et fortes valeurs d'un intervalle déterminé par l'utilisateur. Il s'agit donc de rechercher des conjonctions de variables dont la distribution diffère significativement de celle de l'ensemble d'apprentissage pour les faibles et fortes valeurs de l'intervalle de cette variable cible. Une adaptation d'une mesure statistique existante, l'intensité d'inclination, nous permet de découvrir de tels groupes atypiques. Cette mesure nous libère de l'étape de transformation des variables quantitatives, à savoir l'étape de discrétisation suivie d'un codage disjonctif complet. Nous proposons donc un algorithme d'extraction de tels groupes avec des règles d'élagage pour réduire la complexité du problème. Cet algorithme a été développé et intégré au logiciel d'extraction de connaissances WEKA. Nous terminons par un exemple d'extraction sur la base de données IPUMS du bureau de recensement américain.",
+	 "authors" : ["Sylvie Guillaume","Florian Guillochon","Michel Schneider"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1000627" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1000627" 
+} 
+ 

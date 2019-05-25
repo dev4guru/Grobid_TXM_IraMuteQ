@@ -1,0 +1,13 @@
+{	 "idArt" : "110",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2014",
+	 "place" : "Rennes",
+	 "location" : { "lat" :  48.117266, 
+		 "lon" : -1.6777926 }, 
+	 "title" : "Granularité des motifs de co-variations dans des graphes attribués dynamiques",
+	 "abstract" : "Découvrir des connaissances dans des graphes qui sont dynamiqueset dont les sommets sont attribués est de plus en plus étudié, par exemple dansle contexte de l'analyse d'interactions sociales. Il est souvent possible d'expliciterdes hiérarchies sur les attributs permettant de formaliser des connaissancesa priori sur les descriptions des sommets. Nous proposons d'étendre destechniques de fouille sous contraintes récemment proposées pour l'analyse degraphes attribués dynamiques lorsque l'on exploite de telles hiérarchies et doncle potentiel de généralisation/spécialisation qu'elles permettent. Nous décrivonsun algorithme qui calcule des motifs de co-évolution multi-niveaux, c'est-à-diredes ensembles de sommets qui satisfont une contrainte topologique et qui évoluentde la même façon selon un ensemble de tendances et de pas de temps. Nosexpérimentations montrent que l'utilisation d'une hiérarchie permet d'extrairedes collections de motifs plus concises sans perdre d'information.",
+	 "authors" : ["Elise Desmier","Marc Plantevit","Jean-François Boulicaut"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1001955" 
+} 
+ 

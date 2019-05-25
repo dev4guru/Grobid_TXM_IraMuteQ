@@ -1,0 +1,22 @@
+{
+"year": "2014",
+"metaSession": "",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1001972",
+"pdfarticle": "",
+"abstract": "Avec la prolifération des données géographiques, il y a un fort besoinde concevoir des outils automatiques pour l'exploitation des connaissances géographiquesincarnées dans les documents textuels. C'est dans ce contexte, quenous proposons une approche permettant de générer une base de données géographiques(BDG) à partir de textes. Notre approche s'articule autour de deuxgrandes phases : la génération du schéma de la BDG et la détermination desdonnées qui serviront au remplissage de cette base. L'implémentation de notreapproche a donné naissance à un outil que nous avons baptisé GDB Generatoret que nous avons intégré dans le SIG : OpenJUMP.",
+"title": "Du texte à la base de données géographiques",
+"placeAut":[{
+"place":"Tunis",
+"country":"Tunisie",
+"location":{
+	"lat":"36.8064948",
+	"lon":"10.1815316"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 48.117266, u'lon': -1.6777926}",
+"place": "Rennes",
+"booktitle": "EGC",
+"idArt": "98",
+"authors": "['Nesrine Hassini','Khaoula Mahmoudi','Sami Faiz']"
+}

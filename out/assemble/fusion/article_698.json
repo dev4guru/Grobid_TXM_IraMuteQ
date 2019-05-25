@@ -1,0 +1,22 @@
+{
+"year": "2007",
+"metaSession": "6",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1001323",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1001323",
+"abstract": "Cet article décrit un nouvel algorithme incrémental nommé AntGraph pour la construction de graphes de voisinage. Il s'inspire du comportement d'autoassemblage observé chez des fourmis réelles où ces dernières se fixent progressivement à un support fixe puis successivement aux fourmis déjà fixées afin de créer une structure vivante. Nous utilisons ainsi une approche à base de fourmis artificielles où chaque fourmi représente une donnée. Nous indiquons comment ce comportement peut être utilisé pour construire de manière incrémentale un graphe à partir d'une mesure de similarité entre les données. Nous montrons finalement que notre algorithme obtient de meilleurs résultats en comparaison avec le graphe de Voisins Relatifs, notamment en terme de temps de calcul.",
+"title": "Construction incrémentale et visualisation de graphes de voisinage par des fourmis artificielles",
+"placeAut":[{
+"place":"Tours",
+"country":"France",
+"location":{
+	"lat":"47.394144",
+	"lon":"0.68484"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 50.4673883, u'lon': 4.8719854}",
+"place": "Namur",
+"booktitle": "EGC",
+"idArt": "698",
+"authors": "['Julien Lavergne','Hanane Azzag','Christiane Guinot','Gilles Venturini']"
+}

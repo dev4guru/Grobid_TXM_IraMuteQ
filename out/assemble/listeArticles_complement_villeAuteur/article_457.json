@@ -1,0 +1,13 @@
+{	 "idArt" : "457",
+	 "placeAut" : [ 
+		{ "place" : "Manouba",
+		 "country" : "Tunisie",
+		 "location" : { "lat" :  36.807778, 
+			 "lon" : 10.101110999999946 } },
+		{ "place" : "Chatenay-Malabry",
+		 "country" : "Paris",
+		 "location" : { "lat" :  48.8074637, 
+			 "lon" : 2.2944142000000056 } }
+	 ]
+} 
+ 

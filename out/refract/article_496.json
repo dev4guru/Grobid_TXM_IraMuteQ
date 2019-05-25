@@ -1,0 +1,22 @@
+{
+"year": "2009",
+"metaSession": "4",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1000744",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1000744",
+"abstract": "An approach is presented to deal with risk in multiarmed bandit prob-lems. Specifically, the well known exploration-exploitation dilemma is solvedfrom the point of view of maximizing an utility function which measures thedecision maker's attitude towards risk and uncertain outcomes. A link withthe preference theory is thus established. Simulations results are provided forin order to support the main ideas and to compare the approach with existingmethods, with emphasis on the short term (small sample size) behavior of theproposed method.",
+"title": "An approach for handling risk and uncertainty in multiarmed bandit problems",
+"placeAut":[{
+"place":"Lannion",
+"country":"France",
+"location":{
+	"lat":"48.732084",
+	"lon":"-3.459144"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 48.5734053, u'lon': 7.752111299999999}",
+"place": "Strasbourg",
+"booktitle": "EGC",
+"idArt": "496",
+"authors": "['Fabrice Clérot','Stefano Perabò']"
+}

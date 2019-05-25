@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/josuah/Bureau/grobid/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="fr">
+		<encodingDesc>
+			<appInfo>
+				<application version="0.5.5-SNAPSHOT" ident="GROBID" when="2019-04-04T12:42+0000">
+					<ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Prédiction de la qualité dans les plateformes collaboratives : une approche générique par les graphes hétérogènes</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Baptiste</forename><surname>De</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">Université de Toulouse</orgName>
+								<address>
+									<postCode>IRIT UMR5505</postCode>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">La</forename><surname>Robertie</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">Université de Toulouse</orgName>
+								<address>
+									<postCode>IRIT UMR5505</postCode>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Yoann</forename><surname>Pitarch</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">Université de Toulouse</orgName>
+								<address>
+									<postCode>IRIT UMR5505</postCode>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Olivier</forename><surname>Teste</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">Université de Toulouse</orgName>
+								<address>
+									<postCode>IRIT UMR5505</postCode>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Prédiction de la qualité dans les plateformes collaboratives : une approche générique par les graphes hétérogènes</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<abstract>
+				<p>La qualité des contenus sur les plateformes collaboratives est très hé-térogène. Dans la littérature scientifique, les algorithmes d&apos;analyse structurelle appliqués à la tâche de détection de contenu de qualité reposent généralement sur des graphes définis à partir d&apos;un seul type de noeuds et de relations. Pourtant les graphes sur lesquels reposent ces récentes plateformes présentent de nombreuses sémantiques de noeuds et relations différentes, e.g., producteurs/consommateurs, questions/réponses, etc. Ces solutions souffrent d&apos;un manque de généricité et ne peuvent s&apos;adapter facilement à l&apos;évolution des plateformes. Nous proposons une modélisation générique de ces platformes par les graphes hétérogènes pouvant intégrer automatiquement de nouvelles sémantiques de noeuds et de relations. Un algorithme de prédiction de qualité des contenus reposant sur ce modèle est pro-posé. Nous montrons qu&apos;il généralise plusieurs travaux de la littérature. Enfin, en intégrant certaines relations inter-utilisateurs, nous montrons que notre solution , évaluée sur Wikipedia et Stack Exchange, améliore la tâche de détection de contenu de qualité.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="fr">
+	</text>
+</TEI>

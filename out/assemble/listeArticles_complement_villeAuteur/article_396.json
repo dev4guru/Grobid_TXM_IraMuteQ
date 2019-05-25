@@ -1,0 +1,13 @@
+{	 "idArt" : "396",
+	 "placeAut" : [ 
+		{ "place" : "Grenoble",
+		 "country" : "France",
+		 "location" : { "lat" :  45.188529, 
+			 "lon" : 5.724523999999974 } },
+		{ "place" : "Lille",
+		 "country" : "France",
+		 "location" : { "lat" :  50.62925, 
+			 "lon" : 3.057256000000052 } }
+	 ]
+} 
+ 

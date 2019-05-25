@@ -1,0 +1,14 @@
+{	 "idArt" : "1026",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2004",
+	 "place" : "Clermont-Ferrand",
+	 "location" : { "lat" :  45.77722199999999, 
+		 "lon" : 3.087025 }, 
+	 "title" : "Acquisition de données vs gestion de connaissances  patrimoniales : le cas des vestiges du théâtre antique d'Arles",
+	 "abstract" : "Qu'y a t'il de commun aujourd'hui entre l'acquisition de données 3D, la gestion d'informations patrimoniales, ou encore la modélisation tridimensionnelle en temps réel ? Bien peu, force est de le constater, si ce n'est que l'édifice patrimonial sert là souvent de terrain d'expérimentation. Pourtant, il ne saurait être réduit à ce seul statut : il est objet de connaissances dont l'étude doit bénéficier de différents jeux de technologies. Notre proposition, expérimentée sur des vestiges du théâtre antique d'Arles, place cet édifice au centre d'un dispositif visant à intégrer, au sein d'un système d'informations architecturales 3D en devenir, les résultats de différentes phases de son étude. Un jeu de connaissances formalisé sur l'édifice sert de dénominateur commun depuis l'acquisition de données 3D jusqu'à la représentation dans une maquette temps réel pour la toile. Cette maquette devient outil de navigation dans le jeu d'informations et de savoirs qui caractérise l'édifice.",
+	 "authors" : ["Jean-Yves Blaise","Francesca De Domenico","Livio De Luca","Iwona Dudek"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1001149" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1001149" 
+} 
+ 

@@ -1,0 +1,22 @@
+{
+"year": "2005",
+"metaSession": "",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1000245",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1000245",
+"abstract": "Les services Web sont des technologies émergentes permettant uneinteropérabilité entre les différents acteurs (fournisseurs et demandeurs deservices) du fait de leur architecture reposant sur des technologies standard.Cependant à ce jour, aucun des standards des services Web ne prend cependantréellement en charge le concept d'adaptation. Ceci est d'autant plusproblématique que les utilisateurs de services Web attendent d'eux nonseulement qu'ils répondant à leur besoin mais aussi qu'ils soient adaptés à leurprofil (caractéristique personnelles, et celles de leur environnement). Nousproposons une extension du standard de description des services Web(WSDL), appelée AWSDL, afin de supporter l'adaptation des services Web.Un module a été développé pour mettre en correspondance les descriptionsAWSDL des Services Web Adaptés (SWA) et les demandes des utilisateurs.",
+"title": "Adaptabilité à l'utilisateur dans le contexte des services Web",
+"placeAut":[{
+"place":"Saint Martin dHères",
+"country":"France",
+"location":{
+	"lat":"45.165133",
+	"lon":"5.767761"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 48.856614, u'lon': 2.3522219}",
+"place": "Paris",
+"booktitle": "AEGC",
+"idArt": "870",
+"authors": "['Jérôme Gensel','Marlène Villanova-Oliver','Céline Lopez-Velasco','Hervé Martin']"
+}

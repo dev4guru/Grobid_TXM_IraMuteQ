@@ -1,0 +1,14 @@
+{	 "idArt" : "337",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2011",
+	 "place" : "Brest",
+	 "location" : { "lat" :  48.390394, 
+		 "lon" : -4.486076 }, 
+	 "title" : "Moteur de questions-réponses d'une base de connaissances",
+	 "abstract" : "Cet article présente comment la gestion et l'exploitation de connaissances issues du site web Wikipedia ont permis de développer une telle fonction qui a été intégrée depuis février 2010 dans un moteur de recherche internet français pour le grand public. Aujourd'hui cette fonction est capable de répondre à des questions formulées en langage naturelle sur environs 170 000 lieux ou personnes. La formalisation des données extraites de wikipedia en connaissances au format OWL ou RDFS a permis de déduire de nouvelles informations manquantes, de typer les entités nommées trouvées et de traiter de nouvelles formes de questions qui étaient non traitées.",
+	 "authors" : ["Michel Plu","Johannes Heinecke"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1001024" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1001024" 
+} 
+ 

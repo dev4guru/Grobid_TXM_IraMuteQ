@@ -1,0 +1,14 @@
+{	 "idArt" : "903",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "AEGC",
+	 "year" : "2005",
+	 "place" : "Paris",
+	 "location" : { "lat" :  48.856614, 
+		 "lon" : 2.3522219 }, 
+	 "title" : "Logique Floue appliquée à l'inférence du « Risque Inhérent » en audit financier",
+	 "abstract" : "Le Risque d'Audit est un indice d'existence d'erreurs dans les étatsfinanciers d'une entreprise. Trois modèles mathématiques sont associés à ceconcept du RA : un modèle « Bayesien », un modèle « évidentialiste », et unmodèle « flou ». Ces trois modèles accusent des incohérences mathématiqueset des difficultés d'application pratique, surtout au niveau de la composante« Risque Inhérent » du risque d'audit. Ils considèrent le processus cognitifd'estimation du RI en tant que « boîte noire ». Nous proposons un simplealgorithme d'inférence flou interprétable pour capter le processus cognitifd'estimation du RI, algorithme basé sur l'induction d'arbre de décision flou.Notre objectif est d'identifier les éléments de cette structure et de démontrerque l'utilisation d'une telle structure d'inférence floue est proche de la décisionréelle d'estimation du RI. Il s'agit d'une recherche exploratoire etexpérimentale.",
+	 "authors" : ["Souhir Fendri-Kharrat","Hassouna Fedhila","Pierre-Yves Glorennec"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1000210" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1000210" 
+} 
+ 

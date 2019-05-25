@@ -1,0 +1,15 @@
+{
+"idArt": "1290",
+"series": "Revue des Nouvelles Technologies de l'Information",
+"booktitle": "EGC",
+"year": "2018",
+"title": "Exploration et analyses multi-objectifs de séries temporelles de données météorologiques",
+"abstract": "Cet article présente les investigations menées sur les donnéesmesurées par des capteurs positionnés dans cinq villes de l'île de laRéunion. Des analyses exploratoires préalables permettent de comparer lescaractéristiques statistiques des villes considérées relativement aux différentesvariables météorologiques mesurées (flux solaires diffus et global, pressionatmosphérique, humidité, température, force et direction du vent). Nousappliquons diverses transformations sur les données avant d'analyser les sériesunivariées ou multivariées agrégées au pas de l'heure ou de la journée afin deconstruire des modèles de prédiction. Une approche classique de clusteringde séries temporelles est testée. Deux algorithmes de biclustering appliquéssuccessivement ont permis de grouper les journées d'observations partageantdes paramètres météorologiques horaires. Une caractérisation des biclusters, unevisualisation calendaire de leur succession ainsi qu'une recherche de séquencesfréquentes permettent d'exploiter les résultats et de faciliter leur interprétation.",
+"authors": "Yelen Per, Kevin Dalleau, Malika Smail-Tabbone",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1002421",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1002421",
+"metaSession": "9",
+"place": "Paris",
+"Latitude": " 48.8564 ",
+"Longitude": "2.3518"
+}

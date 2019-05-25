@@ -1,0 +1,14 @@
+{	 "idArt" : "1087",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2004",
+	 "place" : "Clermont-Ferrand",
+	 "location" : { "lat" :  45.77722199999999, 
+		 "lon" : 3.087025 }, 
+	 "title" : "Régression linéaire symbolique avec variables taxonomiques",
+	 "abstract" : "Le présent papier concerne l'extension des méthodes classiques de régression linéaire aux cas des données symboliques et fait suite à de précédents travaux de Billard et Diday sur la régression linéaire avec variables intervalles et histogrammes. Dans ce papier, nous présentons des méthodes de régression avec variables taxonomiques. Les variables taxonomiques sont des variables organisées en arbre exprimant plusieurs niveaux de généralité (les villes sont regroupées en régions qui sont elles-mêmes regroupées en pays). La méthode proposée sera testée sur données simulées. Finalement, nous observerons que ces méthodes nous permettent d'utiliser la régression linéaire pour étudier des concepts et pour réduire le nombre de données afin d'améliorer les résultats obtenus par rapport à une régression classique.",
+	 "authors" : ["Filipe Afonso","Lynne Billard","Edwin Diday"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1001000" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1001000" 
+} 
+ 

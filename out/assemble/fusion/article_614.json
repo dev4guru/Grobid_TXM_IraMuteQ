@@ -1,0 +1,22 @@
+{
+"year": "2008",
+"metaSession": "8",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1000660",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1000660",
+"abstract": "En fouille de textes comme en recherche d'information, différents modèles, de type probabiliste, vectoriel ou booléen, se sont révélés bien adaptés pour représenter des documents textuels mais, ces modèles présentent l'inconvénient de ne pas tenir compte de la structure du document. Or la plupart des informations disponibles aujourd'hui sur Internet ou dans des bases documentaires sont fortement structurées. Dans cet article, nous proposons d'étendre le modèle probabiliste de représentation des documents de façon à tenir compte du poids d'une certaine catégorie d'éléments structurels : les balises représentant la structure logique et la structure de mise en forme. Ce modèle a été évalué à l'aide de la collection de la campagne d'évaluation INEX 2006.",
+"title": "Intégration de la structure dans un modèle probabiliste de document",
+"placeAut":[{
+"place":"Saint-Etienne",
+"country":"France",
+"location":{
+	"lat":"45.439695",
+	"lon":"4.3871779"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 43.6163539, u'lon': 7.0552218}",
+"place": "Sophia Antipolis",
+"booktitle": "EGC ",
+"idArt": "614",
+"authors": "['Mathias Géry','Christine Largeron','Franck Thollard']"
+}

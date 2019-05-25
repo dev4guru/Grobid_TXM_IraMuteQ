@@ -1,0 +1,1 @@
+Dans cet article, nous nous intéressons à la recherche des points les plus intéressants au sens de l'ordre de Pareto, dans les bases de données évidentielles. Nous présentons le modèle skyline évidentiel qui est adapté à la nature des données incertaines. Ensuite, nous présentons une évaluation expérimentale de notre approche.

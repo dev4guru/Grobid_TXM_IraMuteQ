@@ -1,0 +1,22 @@
+{
+"year": "2005",
+"metaSession": "0",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1000443",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1000443",
+"abstract": "",
+"title": "Microarray data mining : recent advances",
+"placeAut":[{
+"place":"Lowell",
+"country":"USA",
+"location":{
+	"lat":"42.6334247",
+	"lon":"-71.3161718"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 48.856614, u'lon': 2.3522219}",
+"place": "Paris",
+"booktitle": "EGC",
+"idArt": "984",
+"authors": "Gregory Piatetsky-Shapiro"
+}

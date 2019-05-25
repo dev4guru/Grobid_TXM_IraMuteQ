@@ -1,0 +1,14 @@
+{	 "idArt" : "230",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2012",
+	 "place" : "Bordeaux",
+	 "location" : { "lat" :  44.837789, 
+		 "lon" : -0.57918 }, 
+	 "title" : "Development of a distributed recommender system using the Hadoop Framework",
+	 "abstract" : "Producing high quality recommendations has become a challenge inthe recent years. Indeed, the growth in the quantity of data involved in the recommendationprocess pose some scalability and effectiveness problems. Theseissues have encouraged the research of new technologies. Instead of developinga new recommender system we improve an already existing method. A distributedframework was considered based on the known quality and simplicity ofthe MapReduce project. The Hadoop Open Source project played a fundamentalrole in this research. It undoubtedly encouraged and facilitated the constructionof our application, supplying all tools needed. Our main goal in this research wasto prove that building a distributed recommender system was not only possible,but simple and productive.",
+	 "authors" : ["Raja Chiky","Renata Ghisloti","Zakia Kazi Aoul"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1001179" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1001179" 
+} 
+ 

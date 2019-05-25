@@ -1,0 +1,14 @@
+{	 "idArt" : "371",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2011",
+	 "place" : "Brest",
+	 "location" : { "lat" :  48.390394, 
+		 "lon" : -4.486076 }, 
+	 "title" : "Utilisation d'une ontologie du domaine pour la découverte du contenu de bases de données géographiques",
+	 "abstract" : "L'essor récent des technologies associées à la géomatique a permis la production rapide de nombreuses données géographiques. Or, pour tirer profit de ces données, il convient de pouvoir évaluer leur pertinence et leur complexité vis à vis de l'application à laquelle on les destine. Dans cet article, nous présentons une application permettant à un utilisateur de découvrir le contenu de bases de données géographiques, à savoir, quels types d'entités géographiques sont représentés au sein de chaque base et comment. Pour accéder à ces informations l'utilisateur interroge le système via une ontologie globale du domaine qui décrit les types d'entités topographiques du monde réel. Des ontologies locales ou d'application sont utilisées pour formaliser les spécifications de chaque base de données décrite. Elles sont annotées à l'aide de concepts issus de l'ontologie globale. Ce système est implémenté sous la forme d'une interface Web et inclut un affichage cartographique d'échantillons de données",
+	 "authors" : ["Ammar Mechouche","Nathalie Abadie","Emeric Prouteau","Sébastien Mustière"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1000983" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1000983" 
+} 
+ 

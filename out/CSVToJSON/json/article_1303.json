@@ -1,0 +1,15 @@
+{
+"idArt": "1303",
+"series": "Revue des Nouvelles Technologies de l'Information",
+"booktitle": "EGC",
+"year": "2018",
+"title": "Méthode basée sur les ensembles approximatifs pour l'apprentissage incrémental en présence des données déséquilibrées",
+"abstract": "Ce papier propose une méthode basée sur la théorie des ensembles approximatifset dédiée à l'apprentissage supervisé incrémental dans un contextede données déséquilibrées. Cette méthode consiste en trois phases : la constructiond'une table de décision, l'inférence d'un ensemble de règles de décisionet la classification de chaque action potentielle dans l'une des classes de décisionprédéfinies. La méthode MAI2P est validée dans le contexte des MOOCs(Massive Open Online Courses).",
+"authors": "Sarra Bouzayane, Inès Saad",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1002393",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1002393",
+"metaSession": "2",
+"place": "Paris",
+"Latitude": " 48.8577 ",
+"Longitude": "2.3531"
+}

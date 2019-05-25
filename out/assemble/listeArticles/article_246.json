@@ -1,0 +1,14 @@
+{	 "idArt" : "246",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2012",
+	 "place" : "Bordeaux",
+	 "location" : { "lat" :  44.837789, 
+		 "lon" : -0.57918 }, 
+	 "title" : "Méta-règles pour la génération de règles négatives",
+	 "abstract" : "La littérature s'est beaucoup intéressée à l'extraction de règles classiques(ou positives) et peu à l'extraction des règles négatives en raison essentiellementd'une part, du coût de calculs et d'autre part, du nombre prohibitif derègles redondantes et inintéressantes extraites. La démarche que nous avons retenueest de dégager les règles négatives lors de l'extraction des règles positives,et pour cela, nous recherchons les règles négatives que l'on peut inférer ou pas àpartir de la pertinence d'une règle positive. Ces différentes inférences vont êtreformalisées par un ensemble de méta-règles.",
+	 "authors" : ["Sylvie Guillaume","Pierre-Antoine Papon"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1001162" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1001162" 
+} 
+ 

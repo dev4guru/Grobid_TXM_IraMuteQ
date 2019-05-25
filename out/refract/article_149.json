@@ -1,0 +1,22 @@
+{
+"year": "2014",
+"metaSession": "8",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1001923",
+"pdfarticle": "",
+"abstract": "La maximisation d'étiquetage (F-max) est une métrique non biaiséed'estimation de la qualité d'une classification non supervisée (clustering) qui favoriseles clusters ayant une valeur maximale de F-mesure d'étiquetage. Danscet article, nous montrons qu'une adaptation de cette métrique dans le cadrede la classification supervisée permet de réaliser une sélection de variables etde calculer pour chacune d'elles une fonction de contraste. La méthode est expérimentéesur différents types de données textuelles. Dans ce contexte, nousmontrons que cette technique améliore les performances des méthodes de classificationde façon très significative par rapport à l'état de l'art des techniquesde sélection de variables, notamment dans le cas de la classification de donnéestextuelles déséquilibrées, fortement multidimensionnelles et bruitées.",
+"title": "Une nouvelle approche pour la sélection de variables basée sur une métrique d'estimation de la qualité",
+"placeAut":[{
+"place":"Vandoeuvre-lès-Nancy",
+"country":"France",
+"location":{
+	"lat":"48.661118",
+	"lon":"6.17376"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 48.117266, u'lon': -1.6777926}",
+"place": "Rennes",
+"booktitle": "EGC",
+"idArt": "149",
+"authors": "['Jean-Charles Lamirel','Pascal Cuxac','Kafil Hajlaoui']"
+}

@@ -1,0 +1,14 @@
+{	 "idArt" : "395",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2010",
+	 "place" : "Hammamet",
+	 "location" : { "lat" :  36.4, 
+		 "lon" : 10.616667 }, 
+	 "title" : "Bien cube, les données textuelles peuvent s'agréger !",
+	 "abstract" : "La masse des données aujourd'hui disponibles engendre des besoinscroissants de méthodes décisionnelles adaptées aux données traitées. Ainsi, récemmentde nouvelles approches fondées sur des cubes de textes sont apparuespour pouvoir analyser et extraire de la connaissance à partir de documents. L'originalitéde ces cubes est d'étendre les approches traditionnelles des entrepôts etdes technologies OLAP à des contenus textuels. Dans cet article, nous nous intéressonsà deux nouvelles fonctions d'agrégation. La première propose une nouvellemesure de TF-IDF adaptative permettant de tenir compte des hiérarchiesassociées aux dimensions. La seconde est une agrégation dynamique permettantde faire émerger des groupements correspondant à une situation réelle. Lesexpériences menées sur des données issues du serveur HAL d'une universitéconfirment l'intérêt de nos propositions.",
+	 "authors" : ["Sandra Bringay","Anne Laurent","Pascal Poncelet","Mathieu Roche","Maguelonne Teisseire"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1001367" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1001367" 
+} 
+ 

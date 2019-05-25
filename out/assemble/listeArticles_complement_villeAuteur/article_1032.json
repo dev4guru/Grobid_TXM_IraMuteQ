@@ -1,0 +1,9 @@
+{	 "idArt" : "1032",
+	 "placeAut" : [ 
+		{ "place" : "Tunis",
+		 "country" : "tunisie",
+		 "location" : { "lat" :  36.8064948, 
+			 "lon" : 10.181531599999971 } }
+	 ]
+} 
+ 

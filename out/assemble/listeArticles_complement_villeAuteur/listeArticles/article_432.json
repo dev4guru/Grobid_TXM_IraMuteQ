@@ -1,0 +1,14 @@
+{	 "idArt" : "432",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2010",
+	 "place" : "Hammamet",
+	 "location" : { "lat" :  36.4, 
+		 "lon" : 10.616667 }, 
+	 "title" : "Identifying the Presence of Communities in Complex Networks Through Topological Decomposition and Component Densities",
+	 "abstract" : "The exponential growth of data in various fields such as Social Networksand Internet has stimulated lots of activity in the field of network analysisand data mining. Identifying Communities remains a fundamental technique toexplore and organize these networks. Few metrics are widely used to discoverthe presence of communities in a network. We argue that these metrics do nottruly reflect the presence of communities by presenting counter examples. Thisis because these metrics concentrate on local cohesiveness among nodes wherethe goal is to judge whether two nodes belong to the same community or viseversa. Thus loosing the overall perspective of the presence of communities in theentire network. In this paper, we propose a new metric to identify the presenceof communities in real world networks. This metric is based on the topologicaldecomposition of networks taking into account two important ingredients of realworld networks, the degree distribution and the density of nodes. We show theeffectiveness of the proposed metric by testing it on various real world data sets",
+	 "authors" : ["Faraz Zaidi","Guy Melançon"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1001286" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1001286" 
+} 
+ 

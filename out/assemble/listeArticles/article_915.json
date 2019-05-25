@@ -1,0 +1,14 @@
+{	 "idArt" : "915",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "AEGC",
+	 "year" : "2005",
+	 "place" : "Paris",
+	 "location" : { "lat" :  48.856614, 
+		 "lon" : 2.3522219 }, 
+	 "title" : "Réflexions sur l'apport de l'exploration des traces d'usage pour améliorer le tri des résultats des moteurs de recherche sur le Web",
+	 "abstract" : "Nous présentons dans ce papier un système de fouille coopérative dedonnées d'usage de moteurs de recherche sur le Web dont l'objectif estd'améliorer le tri des résultats rendus par un moteur de recherche. Le systèmeest construit selon une architecture multi-agents où chaque utilisateur estassisté par un agent personnel. Les agents coopèrent entre-eux et utilisent laméthodologie du raisonnement à partir de cas pour re-trier les résultats renduspar un moteur de recherche. Nous nous servons de ce système pour 1)présenter notre analyse des choix de conception d'un système d'explorationcoopérative de données d'usage du Web et 2) montrer les problèmes quirestent à résoudre et l'apport attendu des techniques de fouille de donnéesd'usage pour les résoudre.",
+	 "authors" : ["Rushed Kanawati"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1000234" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1000234" 
+} 
+ 

@@ -1,0 +1,14 @@
+{	 "idArt" : "483",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2010",
+	 "place" : "Hammamet",
+	 "location" : { "lat" :  36.4, 
+		 "lon" : 10.616667 }, 
+	 "title" : "Une nouvelle stratégie d'Apprentissage Bayésienne",
+	 "abstract" : "Dans cet article, une nouvelle stratégie d'apprentissage actif est proposée. Cette stratégie est fondée sur une méthode de discrétisation Bayésienne semi-supervisée. Des expériences comparatives sont menées sur des données unidimensionnelles, l'objectif étant d'estimer la position d'un échelon à partir de données bruitées.",
+	 "authors" : ["Alexis Bondu","Vincent Lemaire","Marc Boullé"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1001463" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1001463" 
+} 
+ 

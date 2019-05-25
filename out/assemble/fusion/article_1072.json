@@ -1,0 +1,22 @@
+{
+"year": "2004",
+"metaSession": "1",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1001092",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1001092",
+"abstract": "Nous proposons dans cet article un modèle topologique de représentation de bases d'images. Chaque image est représentée à l'aide d'un vecteur de caractéristiques dans R^p et figure comme noeud dans un graphe de voisinage. L'exploration du graphe correspond à la navigation dans la base de données, les voisins d'un noeud représentent des images similaires. Afin de pouvoir traiter des requêtes, nous définissons un modèle topologique. L'image requête est représentée par un vecteur de caractéristiques dans R^p et insérée dans le graphe en mettant à jour localement les relations de voisinage. Ce travail se positionne dans le domaine de la fouille de données complexes.",
+"title": "Modèle topologique pour l'interrogation des bases d'images",
+"placeAut":[{
+"place":"Bron",
+"country":"France",
+"location":{
+	"lat":"45.733316",
+	"lon":"4.911927"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 45.77722199999999, u'lon': 3.087025}",
+"place": "Clermont-Ferrand",
+"booktitle": "EGC",
+"idArt": "1072",
+"authors": "['Mihaela Scuturici','Jérémy Clech','Vasile-Marian Scuturici','Djamel Abdelkader Zighed']"
+}

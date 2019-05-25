@@ -1,0 +1,15 @@
+{
+"idArt": "1237",
+"series": "Revue des Nouvelles Technologies de l'Information",
+"booktitle": "EGC",
+"year": "2017",
+"title": "Recommandations et prédictions de préférences basées sur la combinaison de données sémantiques et de folksonomie",
+"abstract": "Dans les systèmes de recommandation, l'approche du filtrage sur lecontenu est revenue en force face à celle du filtrage collaboratif grâce à l'arrivéedu paradigme de l'apprentissage profond et des techniques de word embedding.Dans cette même veine, l'avènement des folksonomies et du web sémantique aapporté une meilleure compréhension des profils des utilisateurs et des caracté-ristiques des articles à recommander. Dans cet article, nous nous intéressons audomaine musical et nous introduisons un nouveau calcul de mesure de préfé-rence intégrée dans un système de recommandations basées sur le contenu. Entestant notre approche sur le jeu de données Last.fm, nous montrons que l'utili-sation de termes issus d'une folksonomie associés à des informations issues duweb sémantique permet d'améliorer le processus de recommandation musicale.",
+"authors": "Pierre-René Lhérisson, Fabrice Muhlenbach, Pierre Maret",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1002294",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1002294",
+"metaSession": "Pr�visions�",
+"place": "Grenoble",
+"Latitude": " 45.188578 ",
+"Longitude": "5.724573"
+}

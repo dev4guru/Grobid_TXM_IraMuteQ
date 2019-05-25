@@ -1,0 +1,22 @@
+{
+"year": "2014",
+"metaSession": "4",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1001935",
+"pdfarticle": "",
+"abstract": "Du fait qu'elles apportent des solutions dans de nombreuses applications,les traverses minimales des hypergraphes ne cessent de susciter l'intérêt dela communauté scientifique et le développement d'algorithmes pour les calculer.Dans cet article, nous présentons une nouvelle approche pour l'optimisation del'extraction des traverses minimales basée sur les notions d'hypergraphe partielet de traverses minimales locales selon une stratégie diviser pour régner. Nousintroduisons aussi un nouvel algorithme, appelé LOCAL-GENERATOR pour lecalcul des traverses minimales. Les expérimentations effectuées sur divers jeuxde données ont montré l'intérêt de notre approche, notamment sur les hypergraphesayant un nombre de transversalité élevé et renfermant un nombre trèsimportant de traverses minimales.",
+"title": "LOCAL-GENERATOR : diviser pour régner pour l'extraction des traverses minimales d'un hypergraphe",
+"placeAut":[{
+"place":"Saint-Etienne",
+"country":"France",
+"location":{
+	"lat":"45.439695",
+	"lon":"4.3871779"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 48.117266, u'lon': -1.6777926}",
+"place": "Rennes",
+"booktitle": "EGC",
+"idArt": "119",
+"authors": "['M. Nidhal Jelassi','Christine Largeron','Sadok Ben Yahia']"
+}

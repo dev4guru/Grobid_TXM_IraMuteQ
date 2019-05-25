@@ -1,0 +1,13 @@
+{	 "idArt" : "259",
+	 "placeAut" : [ 
+		{ "place" : "Sfax",
+		 "country" : "Tunisia",
+		 "location" : { "lat" :  34.733333, 
+			 "lon" : 10.766666999999984 } },
+		{ "place" : "Bobigny",
+		 "country" : "France",
+		 "location" : { "lat" :  48.908612, 
+			 "lon" : 2.439711999999986 } }
+	 ]
+} 
+ 

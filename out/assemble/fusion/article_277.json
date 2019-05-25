@@ -1,0 +1,22 @@
+{
+"year": "2011",
+"metaSession": "",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1000961",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1000961",
+"abstract": "",
+"title": "A la recherche des tweets porteurs d'informations journalistiques",
+"placeAut":[{
+"place":"Montpellier",
+"country":"France",
+"location":{
+	"lat":"43.610769",
+	"lon":"3.876716"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 48.390394, u'lon': -4.486076}",
+"place": "Brest",
+"booktitle": "EGC",
+"idArt": "277",
+"authors": "['Benjamin Rosoor','Laurent Sebag','Sandra Bringay','Mathieu Roche']"
+}

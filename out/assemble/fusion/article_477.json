@@ -1,0 +1,22 @@
+{
+"year": "2010",
+"metaSession": "4",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1001349",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1001349",
+"abstract": "L'objectif de cet article est de montrer que l'utilisation de la règle dedécision du maximum de masse de croyance en lieu et place de celle du maximumde probabilité a posteriori peut permettre de réduire le taux d'erreur en classificationsupervisée. Nous proposons une technique efficace pour extraire, à partird'un vecteur de probabilités a posteriori, un vecteur de masses de croyance surlequel baser la décision par le maximum de masse de croyance. L'applicationde notre méthode dans le domaine de la classification automatique en stades desommeil montre une amélioration des performances pouvant atteindre 80% deréduction du taux d'erreur de classification.",
+"title": "Un modèle d'extraction de masses de croyance à partir de probabilités a posteriori pour une amélioration des performances en classification supervisée",
+"placeAut":[{
+"place":"Namur",
+"country":"Belgique",
+"location":{
+	"lat":"50.4673883",
+	"lon":"4.8719854"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 36.4, u'lon': 10.616667}",
+"place": "Hammamet",
+"booktitle": "EGC",
+"idArt": "477",
+"authors": "['Teh Amouh','Monique Noirhomme-Fraiture','Benoît Macq']"
+}

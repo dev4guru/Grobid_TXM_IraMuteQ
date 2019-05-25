@@ -1,0 +1,22 @@
+{
+"year": "2008",
+"metaSession": "1",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1000554",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1000554",
+"abstract": "Quotidiennement, plusieurs agences de presse publient des milliers d'articles contenant plusieurs événements de toutes sortes (politiques, économiques, culturels, etc.). Les preneurs de décision, se trouvent face à ce grand nombre d'événements dont seulement quelques uns les concernent. Le traitement automatique de tels événements devient de plus en plus nécessaires. Pour cela, nous proposons une approche, qui se base sur l'apprentissage automatique, et qui permet d'annoter les articles de presse pour générer un résumé automatique contenant les principaux événements. Nous avons validé notre approche par le développement du système AnnotEv.",
+"title": "Approche d'annotation automatique des événements",
+"placeAut":[{
+"place":"Carthage",
+"country":"Tunisie",
+"location":{
+	"lat":"36.8529199",
+	"lon":"10.3217245"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 43.6163539, u'lon': 7.0552218}",
+"place": "Sophia Antipolis",
+"booktitle": "EGC ",
+"idArt": "576",
+"authors": "['Rim Faiz','Aymen Elkhlifi']"
+}

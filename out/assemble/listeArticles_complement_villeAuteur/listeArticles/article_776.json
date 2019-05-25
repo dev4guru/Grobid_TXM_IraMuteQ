@@ -1,0 +1,14 @@
+{	 "idArt" : "776",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2006",
+	 "place" : "Lille",
+	 "location" : { "lat" :  50.62925, 
+		 "lon" : 3.057256 }, 
+	 "title" : "Approche entropique pour l'analyse de modèle de chroniques",
+	 "abstract" : "Cet article propose d'utiliser l'entropie informationnelle pouranalyser des modèles de chroniques découverts selon une approchestochastique (Bouché et Le Goc, 2005). Il décrit une adaptation de l'algorithmeTemporalID3 (Console et Picardi, 2003) permettant de découvrir des modèlesde chroniques à partir d'un ensemble d'apprentissage contenant des séquencesd'occurrences d'événements discrets. Ces séquences représentent des suitesd'alarmes générées par un système à base de connaissance de monitoring et dediagnostic de systèmes dynamiques. On montre sur un exemple que l'approcheentropique complète l'approche stochastique en identifiant les classesd'événements qui contribuent le plus significativement à la prédiction d'uneoccurrence d'une classe particulière.",
+	 "authors" : ["Nabil Benayadi","Marc Le Goc","Philippe Bouché"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1000397" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1000397" 
+} 
+ 

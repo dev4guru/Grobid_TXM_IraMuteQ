@@ -1,0 +1,9 @@
+{	 "idArt" : "653",
+	 "placeAut" : [ 
+		{ "place" : "Ottawa",
+		 "country" : "Canada",
+		 "location" : { "lat" :  45.4215296, 
+			 "lon" : -75.69719309999999 } }
+	 ]
+} 
+ 

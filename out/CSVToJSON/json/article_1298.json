@@ -1,0 +1,15 @@
+{
+"idArt": "1298",
+"series": "Revue des Nouvelles Technologies de l'Information",
+"booktitle": "EGC",
+"year": "2018",
+"title": "L'ontologie OntoBiotope pour l'étude de la biodiversité microbienne",
+"abstract": "L'intégration des données hétérogènes en Sciences de la Vie est unsujet de recherche majeur. L'importance et le volume considérable des informationssur les milieux de vie des microorganismes dans tous les domaines telsque la santé, l'agriculture ou l'environnement justifie le développement de traitementsautomatisés. Nous proposons ici l'ontologie OntoBiotope dont nous décrivonsles principes de construction ainsi que des exemples d'utilisation pourl'annotation et l'indexation sémantique des habitats microbiens décrits en languenaturelle dans les documents scientifiques.",
+"authors": "Claire Nédellec, Estelle Chaix, Robert Bossy, Louise Deléger, Sandra Dérozier, Jean-Baptiste Bohuon, Valentin Loux",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1002401",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1002401",
+"metaSession": "1",
+"place": "Paris",
+"Latitude": " 48.8572 ",
+"Longitude": "2.3526"
+}

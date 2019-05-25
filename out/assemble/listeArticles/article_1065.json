@@ -1,0 +1,14 @@
+{	 "idArt" : "1065",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2004",
+	 "place" : "Clermont-Ferrand",
+	 "location" : { "lat" :  45.77722199999999, 
+		 "lon" : 3.087025 }, 
+	 "title" : "Maintenance de bases de connaissances terminologiques",
+	 "abstract" : "L'acquisition des connaissances terminologiques de l'entreprise se fait souvent à partir des textes qu'elle utilise. Dans le cadre de ce travail, la base de connaissances terminologiques repose sur la modélisation des concepts-métier sous la forme d'une ontologie. Le problème de la maintenance de cette base et de cette ontologie doit alors être traité.Dans cet article, après avoir donné une définition d'une base de connaissances terminologiques (BCT) et des problèmes de diachronie, nous présentons notre modèle et notre méthode d'acquisition des connaissances terminologiques de l'entreprise. Nous exposons alors notre proposition pour maintenir au cours du temps la base de connaissances terminologiques ainsi construite.Nous illustrons ce travail sur une base de connaissance terminologique sur le cinéma d'animation en décrivant le problème de la maintenance dans une reconstitution historique de différents états de cette base lors de l'apparition des techniques numériques d'animation.",
+	 "authors" : ["Daniel Beauchêne","Christophe Roche","Cécile Million-Rousseau"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1000910" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1000910" 
+} 
+ 

@@ -1,0 +1,14 @@
+{	 "idArt" : "582",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC ",
+	 "year" : "2008",
+	 "place" : "Sophia Antipolis",
+	 "location" : { "lat" :  43.6163539, 
+		 "lon" : 7.0552218 }, 
+	 "title" : "Classification adaptative de séries temporelles : application à l'identification des gènes exprimés au cours du cycle cellulaire",
+	 "abstract" : "Ce travail s'inscrit dans le cadre de l'étude de la division cellulaire assurant la prolifération des cellules. Une meilleure compréhension de ce phénomène biologique nécessite l'identification des gènes caractérisant chaque phase du cycle cellulaire. Le procédé d'identification est généralement basé sur un ensemble de gènes dits gènes de référence, sélectionnés expérimentalement et considérés comme caractérisant les phases du cycle cellulaire. Les niveaux d'expression des gènes étudiés sont mesurés durant le cycle de la division cellulaire et permettent de construire des profils d'expression. Chaque gène étudié est affecté à la phase du cycle cellulaire correspondant au groupe de gènes de référence le plus similaire. Cette approche classique souffre de deux limites. D'une part les mesures de proximité les plus couramment utilisés entre profils d'expression de gènes sont basées sur les écarts en valeurs sans tenir compte de la forme des profils. D'autre part, dans la littérature, il n'y a pas consensus quant à l'ensemble des gènes de référence à considérer. Dans cet article, notre but est de proposer une classification adaptative, basée sur un indice de dissimilarité incluant les proximités en valeurs et en forme des profils d'expression de gènes, permettant d'identifier les phases d'expression des gènes étudiés, et de présenter un nouvel ensemble de gènes de référence validé par une connaissance biologique.",
+	 "authors" : ["Alpha Diallo","Ahlame Douzal-Chouakria","Françoise Giroud"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1000637" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1000637" 
+} 
+ 

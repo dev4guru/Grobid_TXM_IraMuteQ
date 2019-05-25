@@ -1,0 +1,22 @@
+{
+"year": "2010",
+"metaSession": "",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1001445",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1001445",
+"abstract": "",
+"title": "Etude comparative des langages de requêtes sémantiques pour l'extraction des liens complexes dans une base de connaissances",
+"placeAut":[{
+"place":"Tunis",
+"country":"Tunisie",
+"location":{
+	"lat":"36.8064948",
+	"lon":"10.1815316"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 36.4, u'lon': 10.616667}",
+"place": "Hammamet",
+"booktitle": "EGC",
+"idArt": "420",
+"authors": "['Thabet Slimani','Boutheina Ben Yaghlane']"
+}

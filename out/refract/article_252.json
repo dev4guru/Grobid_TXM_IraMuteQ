@@ -1,0 +1,22 @@
+{
+"year": "2012",
+"metaSession": "6",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1001202",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1001202",
+"abstract": "Dans cet article, nous nous intéressons à la recherche agrégée dansdes documents XML. Pour cela, nous proposons un modèle basé sur les réseauxbayésiens. Les relations de dépendances entre requête-termes d'indexation ettermes d'indexation-éléments sont quantifiées par des mesures de probabilité.Dans ce modèle, la requête de l'utilisateur déclenche un processus de propagationpour trouver des éléments. Ainsi, au lieu de récupérer une liste des élémentsqui sont susceptibles de répondre à la requête, notre objectif est d'agréger dansun agrégat des éléments pertinents, non-redondants et complémentaires. Nousavons évalué notre approche dans le cadre de la compagne d'évaluation INEX2009 et avons présenté quelques résultats expérimentaux mettant en évidencel'impact de l'agrégation de tels éléments.",
+"title": "Recherche d'Information Agrégée dans des documents XML basée sur les Réseaux Bayésiens",
+"placeAut":[{
+"place":"Toulouse",
+"country":"France",
+"location":{
+	"lat":"43.604652",
+	"lon":"1.444209"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 44.837789, u'lon': -0.57918}",
+"place": "Bordeaux",
+"booktitle": "EGC",
+"idArt": "252",
+"authors": "['Najeh Naffakhi','Mohand Boughanem','Rim Faiz']"
+}

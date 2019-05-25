@@ -1,0 +1,22 @@
+{
+"year": "2008",
+"metaSession": "0",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1000586",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1000586",
+"abstract": "Cet article propose une approche d'abstraction des séquences vidéo basée sur le soft computing. Etant donné une longueur cible du condensé vidéo, on cherche les segments vidéo qui couvrent le maximum du visuel de la vidéo originale en respectant la longueur du condensé.",
+"title": "Génération de séquence résumé par une nouvelle approche basée sur le Soft Computing",
+"placeAut":[{
+"place":"Rabat",
+"country":"Maroc",
+"location":{
+	"lat":"33.9715904",
+	"lon":"-6.8498129"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 43.6163539, u'lon': 7.0552218}",
+"place": "Sophia Antipolis",
+"booktitle": "EGC ",
+"idArt": "609",
+"authors": "['Youssef Hadi','Rachid El Meziane','Rachid Oulad Haj Thami']"
+}

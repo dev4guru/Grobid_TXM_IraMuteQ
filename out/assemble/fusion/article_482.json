@@ -1,0 +1,22 @@
+{
+"year": "2010",
+"metaSession": "",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1001414",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1001414",
+"abstract": "Les correspondances complexes ont été étudiées à plusieurs reprisesdans le domaine d'alignement de schémas de bases de données. Par contre,dans le domaine d'alignement des ontologies, elles ont été peu étudiées. Nousproposons, dans ce papier, une nouvelle approche de découverte de correspondancescomplexes entre deux ontologies. L'approche proposée est extensionnelle,terminologique et implicative. Dans cette approche, nous utilisons le modèledes règles d'association afin de découvrir des correspondances de typex &#8658; y1 &#8743; ... &#8743; yn entre deux ontologies.",
+"title": "Une nouvelle approche de découverte des correspondances complexes entre ontologies",
+"placeAut":[{
+"place":"Sfax",
+"country":"France",
+"location":{
+	"lat":"49.266512",
+	"lon":"4.0545669"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 36.4, u'lon': 10.616667}",
+"place": "Hammamet",
+"booktitle": "EGC",
+"idArt": "482",
+"authors": "['Fatma Kaâbi','Faïez Gargouri']"
+}

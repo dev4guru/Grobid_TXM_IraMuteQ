@@ -1,0 +1,14 @@
+{	 "idArt" : "423",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2010",
+	 "place" : "Hammamet",
+	 "location" : { "lat" :  36.4, 
+		 "lon" : 10.616667 }, 
+	 "title" : "Explication de décisions de réconciliation : approche fondée sur les réseaux de Petri colorés",
+	 "abstract" : "L'objectif des systèmes d'intégration de données est de faciliter l'exploitationet l'interprétation d'informations hétérogènes provenant de différentessources. Lorsque l'on doit intégrer de grands volumes de données, le recours àun expert n'est pas envisageable mais l'exploitation de processus d'intégrationautomatiques peut introduire des approximations ou des erreurs. Nous nous focalisonssur les résultats fournis par les méthodes de réconciliation de données.Ces dernières comparent les données entre elles et détectent celles qui réfèrent àla même entité du monde réel. Pour renforcer la confiance des utilisateurs dansles résultats retournés par ces méthodes, nous proposons dans cet article une approched'explication graphique fondée sur les réseaux de Petri colorés qui estparticulièrement adaptée aux approches de réconciliation globales, numériqueset guidées par une ontologie.",
+	 "authors" : ["Souhir Gahbiche","Nathalie Pernelle","Fatiha Saïs"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1001313" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1001313" 
+} 
+ 

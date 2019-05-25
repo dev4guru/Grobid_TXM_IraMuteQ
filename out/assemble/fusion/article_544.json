@@ -1,0 +1,22 @@
+{
+"year": "2009",
+"metaSession": "0",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1000792",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1000792",
+"abstract": "",
+"title": "Management des connaissances dans le domaine du patrimoine culturel",
+"placeAut":[{
+"place":"Lyon",
+"country":"France",
+"location":{
+	"lat":"45.764043",
+	"lon":"4.835659"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 48.5734053, u'lon': 7.752111299999999}",
+"place": "Strasbourg",
+"booktitle": "EGC",
+"idArt": "544",
+"authors": "['Stefan du Château','Danielle Boulanger','Eunika Mercier-Laurent']"
+}

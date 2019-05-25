@@ -1,0 +1,14 @@
+{	 "idArt" : "260",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2012",
+	 "place" : "Bordeaux",
+	 "location" : { "lat" :  44.837789, 
+		 "lon" : -0.57918 }, 
+	 "title" : "SweetDeki : le wiki sémantique couteau suisse du réseau social ISICIL",
+	 "abstract" : "Le projet ANR ISICIL 1 mixe les nouvelles applications virales duweb avec des représentations formelles et des processus d'entreprise pour les intégrerdans les pratiques de veille en entreprise. Les outils développés s'appuientsur les interfaces avancées des applications du web 2.0 (blog, wiki, social bookmarking,extensions de navigateurs) pour les interactions et sur les technologiesdu web sémantique pour l'interopérabilité et le traitement de l'information. Leprésent article décrit plus précisément le wiki sémantique développé dans lecadre de ce projet et son intégration au coeur du framework ISICIL",
+	 "authors" : ["Michel Buffa","Guillaume Husson","Nicolas Delaforge"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1001151" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1001151" 
+} 
+ 

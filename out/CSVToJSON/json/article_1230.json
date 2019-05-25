@@ -1,0 +1,15 @@
+{
+"idArt": "1230",
+"series": "Revue des Nouvelles Technologies de l'Information",
+"booktitle": "EGC",
+"year": "2017",
+"title": "Optimisation des performances dans les entrepôts de données NoSQL en colonnes",
+"abstract": "Le modèle NoSQL orienté colonnes propose un schéma de donnéesflexible et hautement dénormalisé. Dans cet article, nous proposonsune méthode d'implantation d'un entrepôt de données dans un systèmeNoSQL en colonnes. Notre méthode est basée sur une stratégie de regroupementdes attributs issus des tables de faits et de dimensions, sous formede familles de colonnes. Nous utilisons deux algorithmes OEP et k-means.Pour évaluer notre méthode, nous avons effectué plusieurs tests sur lebenchmark TPC-DS au sein du SGBD NoSQL orienté colonnes Hbase,avec une architecture de type MapReduce sur une plateforme Hadoop.",
+"authors": "Mohamed Boussahoua, Omar Boussaid",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1002270",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1002270",
+"metaSession": "1",
+"place": "Grenoble",
+"Latitude": " 45.188571 ",
+"Longitude": "5.724566"
+}

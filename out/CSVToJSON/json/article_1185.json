@@ -1,0 +1,15 @@
+{
+"idArt": "1185",
+"series": "Revue des Nouvelles Technologies de l'Information",
+"booktitle": "EGC",
+"year": "2016",
+"title": "Une méthode supervisée pour initialiser les centres des K-moyennes",
+"abstract": "Au cours des dernières années, la classification à base de clusterings'est imposée comme un sujet de recherche important. Cette approche vise àdécrire et à prédire un concept cible d'une manière simultanée. Partant du faitque le choix des centres pour l'algorithme des K-moyennes standard a un impactdirect sur la qualité des résultats obtenus, cet article vise alors à tester à quelpoint une méthode d'initialisation supervisée pourrait aider l'algorithme des Kmoyennesstandard à remplir la tâche de la classification à base des K-moyennes.",
+"authors": "Oumaima Alaoui Ismaili, Vincent Lemaire, Antoine Cornuéjols",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1002165",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1002165",
+"metaSession": "2",
+"place": "Reims",
+"Latitude": " 49.258410 ",
+"Longitude": "4.031777"
+}

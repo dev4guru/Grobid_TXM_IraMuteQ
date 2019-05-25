@@ -1,0 +1,15 @@
+{
+"idArt": "1147",
+"series": "Revue des Nouvelles Technologies de l'Information",
+"booktitle": "EGC",
+"year": "2016",
+"title": "La génération des résumés visuels de flux de données de capteurs météorologiques avec des chorèmes",
+"abstract": "This paper describes a new approach for the automatic generation of visual summariesdealing with cartographic visualization methods and modeling of data coming from sensors inreal time for meteorology. Indeed the concept of chorems seems to be an interesting candidateto visualize real time geographic database summaries.",
+"authors": "Zina Bouattou, Robert Laurini, Hafida Belbachir",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1002214",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1002214",
+"metaSession": "11",
+"place": "Reims",
+"Latitude": " 49.258372 ",
+"Longitude": "4.031739"
+}

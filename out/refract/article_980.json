@@ -1,0 +1,22 @@
+{
+"year": "2005",
+"metaSession": "0",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1000439",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1000439",
+"abstract": "",
+"title": "Les NTIC au services de la capitalisation des connaissances",
+"placeAut":[{
+"place":"Compiègne",
+"country":"France",
+"location":{
+	"lat":"49.417816",
+	"lon":"2.826145"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 48.856614, u'lon': 2.3522219}",
+"place": "Paris",
+"booktitle": "EGC",
+"idArt": "980",
+"authors": "Jean-Paul Barthès"
+}

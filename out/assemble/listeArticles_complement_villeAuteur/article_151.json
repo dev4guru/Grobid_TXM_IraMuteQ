@@ -1,0 +1,21 @@
+{	 "idArt" : "151",
+	 "placeAut" : [ 
+		{ "place" : "Nice",
+		 "country" : "France",
+		 "location" : { "lat" :  43.7101728, 
+			 "lon" : 7.261953199999994 } },
+		{ "place" : "Montpellier",
+		 "country" : "France",
+		 "location" : { "lat" :  43.610769, 
+			 "lon" : 3.8767159999999876 } },
+		{ "place" : "Paris",
+		 "country" : "France",
+		 "location" : { "lat" :  48.856614, 
+			 "lon" : 2.3522219000000177 } },
+		{ "place" : "Grenoble",
+		 "country" : "France",
+		 "location" : { "lat" :  45.188529, 
+			 "lon" : 5.724523999999974 } }
+	 ]
+} 
+ 

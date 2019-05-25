@@ -1,0 +1,9 @@
+{	 "idArt" : "598",
+	 "placeAut" : [ 
+		{ "place" : "Aubière",
+		 "country" : "France",
+		 "location" : { "lat" :  45.751175, 
+			 "lon" : 3.110678000000007 } }
+	 ]
+} 
+ 

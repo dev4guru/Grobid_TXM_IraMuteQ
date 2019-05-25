@@ -1,0 +1,13 @@
+{	 "idArt" : "115",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2014",
+	 "place" : "Rennes",
+	 "location" : { "lat" :  48.117266, 
+		 "lon" : -1.6777926 }, 
+	 "title" : "Intégration et visualisation de données liées thématiques sur un référentiel géographique",
+	 "abstract" : "De nombreuses ressources publiées sur le Web des données sont décritespar une composante qui désigne d'une manière directe ou indirecte unelocalisation géographique. Comme toute autre propriété, cette information delocalisation peut être mise à profit pour permettre l'interconnexion des donnéesavec d'autres sources. Elle permet en outre leur représentation cartographique.Cependant, les informations de localisation utilisées dans les sources de donnéeslinked data peuvent parfois s'avérer imprécises ou hétérogènes d'une source àl'autre. Ceci rend donc leur exploitation pour réaliser une interconnexion difficile,voire impossible. Dans cet article, nous proposons de pallier ces difficultésen ancrant les données linked data thématiques aux objets d'un référentielgéographique. Nous mettons à profit le référentiel géographique afin de mettreen correspondance des données thématiques dotées d'indications de localisationhétérogènes. Nous exploitons enfin les relations de correspondance créées entredonnées thématiques et référentiel géographique dans une application de visualisationcartographique des données.",
+	 "authors" : ["Abdelfettah Feliachi","Nathalie Abadie","Fayçal Hamdi"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1001912" 
+} 
+ 

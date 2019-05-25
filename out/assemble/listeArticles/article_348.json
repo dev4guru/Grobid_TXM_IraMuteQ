@@ -1,0 +1,14 @@
+{	 "idArt" : "348",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2011",
+	 "place" : "Brest",
+	 "location" : { "lat" :  48.390394, 
+		 "lon" : -4.486076 }, 
+	 "title" : "Prévision de trajectoires de cyclones à l'aide de forêts aléatoires avec arbres de régression",
+	 "abstract" : "Nous présentons une étude pour la prédiction des trajectoires de cyclones dans l'océan Atlantique Nord à partir de données issues d'images satellites. On y extrait des mesures de vitesses de vent, de vorticité, d'humidité (base JRA-25) et des mesures de latitude, de longitude et de vitesse de vent instantanée des cyclones toutes les 6 heures (base IBTrACS). Les modèles de référence à ce jour ne tiennent pas compte des corrélations entre les données et les prévisions ce qui limite leur intérêt pour certains utilisateurs. Nous proposons ainsi de prédire le déplacement en latitude et le déplacement en longitude au même instant à un horizon de 120 h toutes les 6 h à l'aide de forêts aléatoires avec arbres de régression. Sur le long terme, à partir de 18 h, la méthode proposée donne de meilleurs résultats que les méthodes existantes.",
+	 "authors" : ["Sterenn Liberge","Sileye O. Ba","Philippe Lenca","Ronan Fablet"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1001031" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1001031" 
+} 
+ 

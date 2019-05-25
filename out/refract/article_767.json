@@ -1,0 +1,22 @@
+{
+"year": "2006",
+"metaSession": "8",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1000358",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1000358",
+"abstract": "Le temps nécessaire pour écouter un flux audio est un facteur réduisant l'accès efficace àde grandes archives de parole. Une première approche, la structuration automatique des données,permet d'utiliser un moteur de recherche pour cibler plus rapidement l'information. Leslistes de résultats générées sont longues dans un souci d'exhaustivité. Alors que pour des documentstextuels, un coup d'oeil discrimine un résultat interessant d'un résultat non pertinant,il faut écouter l'audio dans son intégralité pour en capturer le contenu. Nous proposons doncd'utiliser le résumé automatique afin de structurer les résultats des recherches et d'en réduirela redondance.",
+"title": "Accès aux connaissances orales par le résumé automatique",
+"placeAut":[{
+"place":"Colombes",
+"country":"France",
+"location":{
+	"lat":"48.9220615",
+	"lon":"2.2533313"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 50.62925, u'lon': 3.057256}",
+"place": "Lille",
+"booktitle": "EGC",
+"idArt": "767",
+"authors": "['Benoît Favre','Jean-François Bonastre','Patrice Bellot','François Capman']"
+}

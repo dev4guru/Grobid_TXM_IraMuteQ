@@ -1,0 +1,22 @@
+{
+"year": "2005",
+"metaSession": "1",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1000311",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1000311",
+"abstract": "Notre travail de recherche consiste à représenter l'ontologie des modèles e-business e-BMO par le langage BM²L spécifié sur la base d'un méta-modèle XML. BM²L est comparé à d'autres langages de définition d'ontologie à savoir, RDF(S), DAML + OIL et OWL et ce, selon un framework établis sur les spécificités de cette ontologie. Aussi, introduisons nous une application Web e-BMH pour la conception et l'exploitation des modèles e-business conformément à l'ontologie.",
+"title": "Utilisation des technologies XML pour la formalisation de l'ontologie de modèles e-business",
+"placeAut":[{
+"place":"Lausanne",
+"country":"Suisse",
+"location":{
+	"lat":"46.5199617",
+	"lon":"6.6335971"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 48.856614, u'lon': 2.3522219}",
+"place": "Paris",
+"booktitle": "EGC",
+"idArt": "1018",
+"authors": "['Rim Djedidi Hannachi','Sarra Ben Lagha','Mohamed Ben Ahmed']"
+}

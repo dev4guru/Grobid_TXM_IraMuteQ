@@ -1,0 +1,22 @@
+{
+"year": "2004",
+"metaSession": "1",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1000914",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1000914",
+"abstract": "Les sous-ensembles flous peuvent être utilisés pour représenter des valeurs imprécises, comme un intervalle aux limites mal définies. Ils peuvent également servir à l'expression de préférences dans les critères de sélection de requêtes en bases de données. En représentation des connaissances, l'utilisation de hiérarchies de types est largement répandue afin de modéliser les relations existant entre les types d'objets d'un domaine donné. Nous nous intéressons aux sous-ensembles flous dont le domaine de définition est une hiérarchie d'éléments partiellement ordonnés par la relation sorte de, que nous appelons ontologie. Nous introduisons la notion de sous-ensemble flou défini sur une partie de l'ontologie, puis sa forme développée définie sur l'ensemble de l'ontologie, que nous appelons extension du sous-ensemble flou. Des classes d'équivalence de sous-ensembles flous définis sur une ontologie peuvent être caractérisées par un représentant unique que nous appelons sous-ensemble flou minimal. Nous concluons par un exemple d'application dans un système d'information relatif à la prévention du risque micro-biologique en sécurité alimentaire.",
+"title": "Sous-ensembles flous définis sur une ontologie",
+"placeAut":[{
+"place":"Paris",
+"country":"France",
+"location":{
+	"lat":"48.856614",
+	"lon":"2.3522219"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 45.77722199999999, u'lon': 3.087025}",
+"place": "Clermont-Ferrand",
+"booktitle": "EGC",
+"idArt": "1094",
+"authors": "['Rallou Thomopoulos','Patrice Buche','Ollivier Haemmerlé']"
+}

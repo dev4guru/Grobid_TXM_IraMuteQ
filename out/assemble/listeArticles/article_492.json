@@ -1,0 +1,14 @@
+{	 "idArt" : "492",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2009",
+	 "place" : "Strasbourg",
+	 "location" : { "lat" :  48.5734053, 
+		 "lon" : 7.752111299999999 }, 
+	 "title" : "Accompagner au début du 21ème siècle les organisations dans la mise en place d'une gestion des connaissances : retour d'expérience",
+	 "abstract" : "Cet article présente succinctement le retour d'expérience d'Ardansdans l'implantation de systèmes de gestion de connaissances dans des organisationstrès variées au début de ce 21ème siècle.",
+	 "authors" : ["Alain Berger","Jean-Pierre Cotton","Pierre Mariot"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1000811" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1000811" 
+} 
+ 

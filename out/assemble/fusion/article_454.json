@@ -1,0 +1,22 @@
+{
+"year": "2010",
+"metaSession": "4",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1001346",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1001346",
+"abstract": "La classification associative est une méthode de prédiction à base derègles issue de la fouille de règles d'association. Cette méthode est particulièrementintéressante car elle recherche de façon exhaustive les règles d'associationpertinentes qu'elle filtre pour ne garder que les règles d'association de classe(celles admettant pour conséquent une modalité de classe), qui sont utiliséescomme classifieur. Les connaissances produites sont ainsi directement interprétables.Des études antérieures montrent les inconvénients de cette approche,qu'il s'agisse de la génération massive de règles non utilisées ou de la mauvaiseprédiction de la classe minoritaire lorsque les classes sont déséquilibrées.Nous proposons une approche originale du type boosting de règles d'associationde classes qui utilise comme classifieur faible une base de règles significativesconstruites par un algorithme de génération d'itemsets fréquents qui se limiteà l'extraction des seules règles de classe significatives et qui prend en comptele déséquilibre des données. Des comparaisons avec d'autres méthodes de classificationassociative montrent que notre approche améliore la précision et lerappel.",
+"title": "Proposition d'une méthode de classification associative adaptative",
+"placeAut":[{
+"place":"Bron",
+"country":"France",
+"location":{
+	"lat":"45.733316",
+	"lon":"4.911927"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 36.4, u'lon': 10.616667}",
+"place": "Hammamet",
+"booktitle": "EGC",
+"idArt": "454",
+"authors": "['Emna Bahri','Stéphane Lallich']"
+}

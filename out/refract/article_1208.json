@@ -1,0 +1,15 @@
+{
+"idArt": "1208",
+"series": "Revue des Nouvelles Technologies de l'Information",
+"booktitle": "EGC",
+"year": "2017",
+"title": "Description interactive de l'intérêt de l'utilisateur via l'échantillonnage de motifs",
+"abstract": "La plupart des méthodes d'extraction de motifs requièrent que l'uti-lisateur formalise son intérêt avec une mesure d'intérêt et des seuils. L'utili-sateur est souvent incapable d'expliciter son intérêt mais il saura juger si unmotif donné est pertinent ou non. Dans cet article, nous proposons une nou-velle méthode de découverte de motifs interactive en supposant que seule unepartie des données est intéressante pour l'utilisateur. En intégrant le retour utili-sateur de motifs proposés un à un, notre méthode vise à échantillonner des mo-tifs avec une probabilité proportionnelle à leur fréquence d'apparition au seindes transactions implicitement préférées par l'utilisateur. Nous démontrons quenotre méthode identifie exactement les transactions implicitement préférées parl'utilisateur sous réserve de la consistance de ses retours. Des expérimentationsmontrent les bonnes performances de l'approche en terme de précision et rappel.",
+"authors": "Moditha Hewasinghage, Suela Isaj, Arnaud Giacometti, Arnaud Soulet",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1002332",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1002332",
+"metaSession": "13",
+"place": "Grenoble",
+"Latitude": " 45.188549 ",
+"Longitude": "5.724544"
+}

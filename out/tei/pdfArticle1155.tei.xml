@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/josuah/Bureau/grobid/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="fr">
+		<encodingDesc>
+			<appInfo>
+				<application version="0.5.5-SNAPSHOT" ident="GROBID" when="2019-04-04T12:42+0000">
+					<ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Nouvelle méthode de calcul de la réputation dans les forums de santé</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Amine</forename><surname>Abdaoui</surname></persName>
+							<email>abdaoui@lirmm.fr</email>
+							<affiliation key="aff0">
+								<address>
+									<addrLine>860 rue de St Priest</addrLine>
+									<postCode>34095, cedex 5</postCode>
+									<settlement>Montpellier</settlement>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Nouvelle méthode de calcul de la réputation dans les forums de santé</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<abstract>
+				<p>De plus en plus de forums, tels que Slashdot ou Stack Exchange, pro-posent des systèmes de réputations qui se basent sur le vote collaboratif. Les utilisateurs peuvent ainsi donner un score à chaque message posté selon sa per-tinence ou son utilité. Cependant, ces fonctionnalités de vote sont rarement uti-lisées dans de nombreuses communautés en ligne tels que les forums de santé. Dans ces forums, les utilisateurs préfèrent poster un nouveau message expri-mant de l&apos;accord ou du remerciement vis à vis des messages pertinents plutôt que de cliquer sur un bouton de vote. Dans ce travail, nous proposons d&apos;utiliser ces formes implicites d&apos;expression de la confiance pour estimer la réputation des utilisateurs dans les forums de santé.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="fr">
+	</text>
+</TEI>

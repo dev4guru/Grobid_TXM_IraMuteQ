@@ -1,0 +1,13 @@
+{	 "idArt" : "25",
+	 "placeAut" : [ 
+		{ "place" : "Evry",
+		 "country" : "France",
+		 "location" : { "lat" :  48.629828, 
+			 "lon" : 2.4417819999999892 } },
+		{ "place" : "Paris",
+		 "country" : "France",
+		 "location" : { "lat" :  48.856614, 
+			 "lon" : 2.3522219000000177 } }
+	 ]
+} 
+ 

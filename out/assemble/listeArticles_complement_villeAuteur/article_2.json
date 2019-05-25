@@ -1,0 +1,29 @@
+{
+    "idArt": "2",
+    "placeAut": [
+        {
+            "place": "Clermont-Ferrand",
+            "country": "France",
+            "location": {
+                "lat": 45.77722199999999,
+                "lon": 3.0870250000000397
+            }
+        },
+        {
+            "place": "Paris",
+            "country": "France",
+            "location": {
+                "lat": 48.856614,
+                "lon": 2.3522219000000177
+            }
+        },
+        {
+            "place": "Pavia",
+            "country": "Italie",
+            "location": {
+                "lat": 45.1847248,
+                "lon": 9.158206899999982
+            }
+        }
+    ]
+}

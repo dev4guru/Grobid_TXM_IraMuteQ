@@ -1,0 +1,22 @@
+{
+"year": "2010",
+"metaSession": "",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1001448",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1001448",
+"abstract": "",
+"title": "Détection des mouvements anormaux dans des vidéos",
+"placeAut":[{
+"place":"Lille",
+"country":"France",
+"location":{
+	"lat":"50.62925",
+	"lon":"3.057256"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 36.4, u'lon': 10.616667}",
+"place": "Hammamet",
+"booktitle": "EGC",
+"idArt": "417",
+"authors": "['Md. Haidar Sharif','Husam Alustwani','Ioan Marius Bilasco','Chabane Djeraba']"
+}

@@ -1,0 +1,13 @@
+{	 "idArt" : "130",
+	 "placeAut" : [ 
+		{ "place" : "Dublin",
+		 "country" : "Ireland",
+		 "location" : { "lat" :  53.3498053, 
+			 "lon" : -6.260309699999993 } },
+		{ "place" : "Dijon",
+		 "country" : "France",
+		 "location" : { "lat" :  47.322047, 
+			 "lon" : 5.041479999999979 } }
+	 ]
+} 
+ 

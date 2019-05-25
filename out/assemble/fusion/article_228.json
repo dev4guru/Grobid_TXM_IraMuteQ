@@ -1,0 +1,22 @@
+{
+"year": "2012",
+"metaSession": "2",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1001184",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1001184",
+"abstract": "Nous proposons dans ce papier une nouvelle méthode de détection degroupes outliers. Notre mesure nommée GOF (Group Outlier Factor) est estiméepar l'apprentissage non-supervisé. Nous l'avons intégré dans l'apprentissage descartes topologiques. Notre approche est basée sur la densité relative de chaquegroupe de données, et fournit simultanément un partitionnement des donnéeset un indicateur quantitatif (GOF) sur la particularité de chaque cluster ougroupe. Les résultats obtenus sont très encourageants et prometteurs pour continuerdans cette optique.",
+"title": "Détection de groupes outliers en classification non supervisée",
+"placeAut":[{
+"place":"Villejuif",
+"country":"France",
+"location":{
+	"lat":"48.792716",
+	"lon":"2.359279"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 44.837789, u'lon': -0.57918}",
+"place": "Bordeaux",
+"booktitle": "EGC",
+"idArt": "228",
+"authors": "['Amine Chaibi','Mustapha Lebbah','Hanane Azzag']"
+}

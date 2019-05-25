@@ -1,0 +1,14 @@
+{	 "idArt" : "940",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2005",
+	 "place" : "Paris",
+	 "location" : { "lat" :  48.856614, 
+		 "lon" : 2.3522219 }, 
+	 "title" : "Annotation de textes par extraction d'informations lexicosyntaxiques  et acquisition de schémas conceptuels de causalité",
+	 "abstract" : "Nous présentons la méthode INSYSE (INterface SYntaxe SEmantique) pour l'annotation de documents textuels. Notre objectif est de construire des annotations sémantiques de ces résumés pour interroger le corpus sur la fonction des gènes et leurs relations de causalité avec certaines maladies. Notre approche est semi-automatique, centrée sur (1) l'extraction d'informations lexico-syntaxiques à partir de certaines phrases du corpus comportant des lexèmes de causation, et (2) l'élaboration de règles basées sur des grammaires d'unification permettant d'acquérir à partir de ces informations des schémas conceptuels instanciés. Ceux-ci sont traduits en annotations RDF(S) sur la base desquelles le corpus de textes peut être interrogé avec le moteur de recherche sémantique Corese.",
+	 "authors" : ["Laurent Alamarguy","Rose Dieng-Kuntz","Catherine Faron-Zucker"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1000258" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1000258" 
+} 
+ 

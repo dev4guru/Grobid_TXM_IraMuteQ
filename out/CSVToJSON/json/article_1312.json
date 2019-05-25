@@ -1,0 +1,15 @@
+{
+"idArt": "1312",
+"series": "Revue des Nouvelles Technologies de l'Information",
+"booktitle": "EGC",
+"year": "2018",
+"title": "Prétraitement de données spatialement imprécises pour une classification supervisée basée sur les images satellitaires",
+"abstract": "Dans un problème de classification supervisée, les données d'apprentissageproviennent souvent d'inventaires acquis sur le terrain par des expertsdu domaine. Toutefois, la localisation de ces inventaires est approximative (enraison de la précision intrinsèque des GPS portables utilisés). Cette imprécisionspatiale est particulièrement problématique lorsque ces données sont utiliséespour entrainer un classifieur sur des images satellitaires très haute résolution(THR). En effet, la précision spatiale des inventaires peut être dans certains casbien inférieure à celles de ces images. Dans ce papier, nous proposons trois approchesvisant à améliorer la précision spatiale des données terrain via des prétraitements.Le principe est d'exploiter les images satellitaires THR disponiblespour corriger spatialement les données terrain. Nos expérimentations mettenten avant l'intérêt de ces pré-traitements sur un jeu de données constitué de 24inventaires d'habitats coralliens et une image satellitaire THR (WorldView-2).",
+"authors": "Jannaï Tokotoko, Frédéric Flouvat, Claire Goiran, Laetitia Hédouin, Antoine Collin, Nazha Selmaoui-Folcher",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1002377",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1002377",
+"metaSession": "5",
+"place": "Paris",
+"Latitude": " 48.8586 ",
+"Longitude": "2.3540"
+}

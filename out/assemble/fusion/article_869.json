@@ -1,0 +1,22 @@
+{
+"year": "2006",
+"metaSession": "2",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1000377",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1000377",
+"abstract": "Les techniques de Web Usage Mining existantes sont actuellementbasées sur un découpage des données arbitraire (e.g. un log par mois) ou guidépar des résultats supposés (e.g. quels sont les comportements des clients pourla période des achats de Noël ? ). Ces approches souffrent des deux problèmessuivants. D'une part, elles dépendent de cette organisation arbitraire des donnéesau cours du temps. D'autre part elles ne peuvent pas extraire automatiquementdes pics saisonniers dans les données stockées. Nous proposons d'exploiterles données pour découvrir de manière automatique des périodes denses decomportements. Une période sera considérée comme dense si elle contient aumoins un motif séquentiel fréquent pour l'ensemble des utilisateurs qui étaientconnectés sur le site à cette période.",
+"title": "Web Usage Mining : extraction de périodes denses à partir des logs",
+"placeAut":[{
+"place":"Sophia Antipolis",
+"country":"France",
+"location":{
+	"lat":"43.6163539",
+	"lon":"7.0552218"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 50.62925, u'lon': 3.057256}",
+"place": "Lille",
+"booktitle": "EGC",
+"idArt": "869",
+"authors": "['Florent Masseglia','Pascal Poncelet','Maguelonne Teisseire','Alice Marascu']"
+}

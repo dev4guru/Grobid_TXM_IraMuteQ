@@ -1,0 +1,15 @@
+{
+"idArt": "1173",
+"series": "Revue des Nouvelles Technologies de l'Information",
+"booktitle": "EGC",
+"year": "2016",
+"title": "Towards generic and efficient constraint-based mining, a constraint programming approach",
+"abstract": "In today's data-rich world, pattern mining techniques allow us to extract knowledge fromdata. However, such knowledge can take many forms and often depends on the application athand. This calls for generic techniques that can be used in a wide range of settings. In recentyears, constraint programming has been shown to offer a generic methodology that fits manypattern mining settings, including novel ones. Existing constraint programming solvers do notscale very well though. In this talk, I will review different ways in which this limitation hasbeen overcome. Often, this is through principled integration of techniques and data structuresfrom pattern mining into the constraint solvers.",
+"authors": "Tias Guns",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1002151",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1002151",
+"metaSession": "0",
+"place": "Reims",
+"Latitude": " 49.258398 ",
+"Longitude": "4.031765"
+}

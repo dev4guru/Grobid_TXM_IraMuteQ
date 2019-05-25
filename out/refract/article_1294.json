@@ -1,0 +1,15 @@
+{
+"idArt": "1294",
+"series": "Revue des Nouvelles Technologies de l'Information",
+"booktitle": "EGC",
+"year": "2018",
+"title": "Fouille de motifs temporels négatifs",
+"abstract": "Dans cet article nous étudions le problème de l'extraction de motifsfréquents contenant des événements positifs, des événements négatifs spécifiantl'absence d'événement ainsi que des informations temporelles sur le délai entreces événements. Nous définissons la sémantique de tels motifs et proposons laméthode NTGSP basée sur des approches de l'état de l'art. Les performancesde la méthode sont évaluées sur des données commerciales fournies par EDF(Électricité de France).",
+"authors": "Katerina Tsesmeli, Manel Boumghar, Thomas Guyet, Rene Quiniou, Laurent Pierre",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1002386",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1002386",
+"metaSession": "3",
+"place": "Paris",
+"Latitude": " 48.8568 ",
+"Longitude": "2.3522"
+}

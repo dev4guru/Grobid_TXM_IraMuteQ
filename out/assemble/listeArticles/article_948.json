@@ -1,0 +1,14 @@
+{	 "idArt" : "948",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2005",
+	 "place" : "Paris",
+	 "location" : { "lat" :  48.856614, 
+		 "lon" : 2.3522219 }, 
+	 "title" : "Caractérisation d'une région d'intérêt dans les images",
+	 "abstract" : "Une image est un support d'information qui a montré son efficacité. Néanmoins une image comporte souvent plusieurs zones, l'arrière plan et une zone d'intérêt privilégiée. La vision humaine permet la segmentation de manière naturelle et intégrant toute la connaissance que le sujet peut avoir de l'objectif visé par l'image. Nous proposons ici une méthode de détermination des régions d'intérêt d'une image numérique comme zones saillantes. Les lois de Zipf et Zipf inverse sont adaptées au traitement des images et permettent d'évaluer la complexité structurelle d'une image. Une comparaison des modèles locaux évalués sur des imagettes permet de mettre en évidence une région de l'image. Deux méthodes de classification ont été utilisées pour la détermination de la région d'intérêt : la partition d'un nuage de points représentant les caractéristiques associées aux imagettes, et les réseaux de neurones. Cette méthode de détection permet d'obtenir des zones d'intérêt conformes à la perception humaine. On opère une hiérarchisation sur les zones en fonction de la structuration de l'information élémentaire, les pixels.",
+	 "authors" : ["Yves Caron","Pascal Makris","Nicole Vincent"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1000338" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1000338" 
+} 
+ 

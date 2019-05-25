@@ -1,0 +1,13 @@
+{	 "idArt" : "694",
+	 "placeAut" : [ 
+		{ "place" : "Bobigny",
+		 "country" : "France",
+		 "location" : { "lat" :  48.908612, 
+			 "lon" : 2.439711999999986 } },
+		{ "place" : "Paris",
+		 "country" : "France",
+		 "location" : { "lat" :  48.856614, 
+			 "lon" : 2.3522219000000177 } }
+	 ]
+} 
+ 

@@ -1,0 +1,9 @@
+{	 "idArt" : "627",
+	 "placeAut" : [ 
+		{ "place" : "Barcelona",
+		 "country" : "Spain",
+		 "location" : { "lat" :  41.297445, 
+			 "lon" : 2.083294099999989 } }
+	 ]
+} 
+ 

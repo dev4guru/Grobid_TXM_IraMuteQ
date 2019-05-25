@@ -1,0 +1,13 @@
+{	 "idArt" : "92",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2014",
+	 "place" : "Rennes",
+	 "location" : { "lat" :  48.117266, 
+		 "lon" : -1.6777926 }, 
+	 "title" : "De l'ombre à la lumière : plus de visibilité sur l'Eclipse",
+	 "abstract" : "L'extraction de connaissances à partir de données issues du génie logicielest un domaine qui s'est beaucoup développé ces dix dernières années, avecnotamment la fouille de référentiels logiciels (Mining Software Repositories) etl'application de méthodes statistiques (partitionnement, détection d'outliers) àdes thématiques du processus de développement logiciel. Cet article présente ladémarche de fouille de données mise en oeuvre dans le cadre de Polarsys, ungroupe de travail de la fondation Eclipse, de la définition des exigences à la propositiond'un modèle de qualité dédié et à son implémentation sur un prototype.Les principaux concepts adoptés et les leçons tirées sont également passés enrevue.",
+	 "authors" : ["Boris Baldassari","Flavien Huynh","Philippe Preux"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1001967" 
+} 
+ 

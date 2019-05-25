@@ -1,0 +1,22 @@
+{
+"year": "2005",
+"metaSession": "",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1000208",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1000208",
+"abstract": "Les recherches en psychologie ont permis d'établir une relation entreémotions et prise de décision. La prise en compte de caractéristiques humainestelles que les émotions et la personnalité dans les processus d'interaction entreagents est au centre de ce travail. Il s'inscrit dans le cadre du projet GRACE(Groupes Relationnels d'Agents Collaborateurs Emotionnels)/ RIAM (Réseaudes Industries, de l'Audiovisuel et du Multimédia) .",
+"title": "Modélisation des connaissances émotionnelles par les cartes cognitives floues",
+"placeAut":[{
+"place":"Carquefou",
+"country":"France",
+"location":{
+	"lat":"47.296241",
+	"lon":"-1.486812"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 48.856614, u'lon': 2.3522219}",
+"place": "Paris",
+"booktitle": "AEGC",
+"idArt": "909",
+"authors": "['Nathalie Ronarc'h','Gaële Rozec','Fabrice Guillet','Alexis Nédélec','Serge Baquedano','Vincent Philippé']"
+}

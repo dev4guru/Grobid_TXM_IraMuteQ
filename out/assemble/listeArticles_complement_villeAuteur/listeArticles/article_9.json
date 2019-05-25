@@ -1,0 +1,13 @@
+{	 "idArt" : "9",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2015",
+	 "place" : "Luxembourg",
+	 "location" : { "lat" :  49.815273, 
+		 "lon" : 6.129582999999999 }, 
+	 "title" : "Big Data and the Dawn of Algorithms in Everything",
+	 "abstract" : "The mainstream adoption of the internet as a source for knowledge and interaction for the past decades has given rise to new data sources that are characterized by large sizes and rapid creation. In addition, sensory data from mobile devices and machinery are on the rise with similar characteristics. All these sources have the commonality that they will tell us something new or something more detailed than before. From a business standpoint these data sources holds the opportunity to create more customized services and improved products in practically anything, however, they also present a challenge since they are big and typically residing outside the traditional server structure of organizations. This talk will explore the challenges of integrating these new, so-called Big Data, in decision processes. Specifically, we will explore the paradigm shifts when external data become equally or more important than internal data. We will also explore the emerging shift in decision making becoming algorithmic as opposed to human discovery driven.",
+	 "authors" : ["Morten Middelfart"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1002057" 
+} 
+ 

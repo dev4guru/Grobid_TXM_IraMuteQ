@@ -1,0 +1,22 @@
+{
+"year": "2004",
+"metaSession": "8",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1001119",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1001119",
+"abstract": "Des relations entre gènes et protéines impliqués dans les cancers de la thyroïde ont été mises en évidence par l'analyse d'un important corpus de résumés de  la base de données bibliographique Medline. Une approche pluridisciplinaire (biologistes, cliniciens, linguistes et chercheurs en sciences de l'information) a permis l'indexation automatique et l'analyse de ce corpus. L'indexation contrôlée, structurée en classes sémantiques, à partir de vastes ressources hétérogènes (les bases biomédicales et génétiques UMLS et LocusLink), prend en compte la spécificité des termes : nomenclatures biochimiques, acronymes de gènes, aberrations chromosomiques ou encore variantes linguistiques de termes. Les deux méthodes de classification complémentaires appliquées révèlent un réseau lexical dense de gènes concurrents autour de trois principales pathologies de la thyroïde : les cancers médullaires, papillaires et des dysfonctionnements du système immunitaire. Les développements apportés aux outils de visualisation interactifs du serveur VISA de l'INIST facilitent lecture et navigation au sein des documents.",
+"title": "Relations entre gènes impliqués dans les cancers de la thyroïde",
+"placeAut":[{
+"place":"Marseille",
+"country":"France",
+"location":{
+	"lat":"43.296482",
+	"lon":"5.36978"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 45.77722199999999, u'lon': 3.087025}",
+"place": "Clermont-Ferrand",
+"booktitle": "EGC",
+"idArt": "1088",
+"authors": "['Jean Royauté','Claire François','Alain Zasadzinski','Dominique Besagni','Philippe Dessen','Sylvaine Le Minor','Marie-Thérèse Maunoury']"
+}

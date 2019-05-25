@@ -1,0 +1,17 @@
+{	 "idArt" : "965",
+	 "placeAut" : [ 
+		{ "place" : "Saint Etienne du Rouvray",
+		 "country" : "France",
+		 "location" : { "lat" :  49.380305, 
+			 "lon" : 1.108208999999988 } },
+		{ "place" : "Rouen",
+		 "country" : "France",
+		 "location" : { "lat" :  49.44323199999999, 
+			 "lon" : 1.0999709999999823 } },
+		{ "place" : "Toulouse",
+		 "country" : "France",
+		 "location" : { "lat" :  43.604652, 
+			 "lon" : 1.4442090000000007 } }
+	 ]
+} 
+ 

@@ -1,0 +1,22 @@
+{
+"year": "2015",
+"metaSession": "4",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1002075",
+"pdfarticle": "",
+"abstract": "Cet article présente un nouveau cadre pour la découverte de connaissances basé sur la notion de proportion analogique qui exprime l'égalité des rapports entre les attributs de deux paires d'éléments. Cette notion est développée dans le contexte des bases de données pour découvrir des parallèles dans les données. Dans un premier temps, nous donnons une définition formelle des proportions analogiques dans le cadre des bases de données relationnelles, puis nous étudions le problème de l'extraction des proportions analogiques. Nous montrons qu'il est possible de suivre une approche de clustering pour découvrir les classes d'équivalence de paires de n-uplets dans le même rapport de proportion analogique. Ce travail constitue unCet article présente un nouveau cadre pour la découverte de connaissances basé sur la notion de proportion analogique qui exprime l'égalité des rapports entre les attributs de deux paires d'éléments. Cette notion est développée dans le contexte des bases de données pour découvrir des parallèles dans les données. Dans un premier temps, nous donnons une définition formelle des proportions analogiques dans le cadre des bases de données relationnelles, puis nous étudions le problème de l'extraction des proportions analogiques. Nous montrons qu'il est possible de suivre une approche de clustering pour découvrir les classes d'équivalence de paires de n-uplets dans le même rapport de proportion analogique. Ce travail constitue une première étape vers l'extension des langages d'interrogation de base de données avec des requêtes « analogiques ».e première étape vers l'extension des langages d'interrogation de base de données avec des requêtes « analogiques ».",
+"title": "Découverte de proportions analogiques dans les bases de données : une première approche",
+"placeAut":[{
+"place":"Lannion",
+"country":"France",
+"location":{
+	"lat":"48.732084",
+	"lon":"-3.459144"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 49.815273, u'lon': 6.129582999999999}",
+"place": "Luxembourg",
+"booktitle": "EGC",
+"idArt": "21",
+"authors": "['William Correa Beltran','Hélène Jaudoin','Olivier Pivert']"
+}

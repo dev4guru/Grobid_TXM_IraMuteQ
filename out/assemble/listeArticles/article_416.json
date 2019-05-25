@@ -1,0 +1,14 @@
+{	 "idArt" : "416",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2010",
+	 "place" : "Hammamet",
+	 "location" : { "lat" :  36.4, 
+		 "lon" : 10.616667 }, 
+	 "title" : "Detecting Anomalies in Data Streams using Statecharts",
+	 "abstract" : "The environment around us is progressively equipped withvarious sensors, producing data continuously. The applications usingthese data face many challenges, such as data stream integration over anattribute (such as time) and knowledge extraction from raw data. In thispaper we propose one approach to face those two challenges. First, datastreams integration is performed using statecharts which represents aresume of data produced by the corresponding data producer. Second,we detect anomalous events over temporal relations among statecharts.We describe our approach in a demonstration scenario, that is using avisual tool called Patternator",
+	 "authors" : ["Vasile-Marian Scuturici","Dan-Mircea Suciu","Romain Vuillemot","Aris Ouksel","Lionel Brunie"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1001394" ,
+	 "pdfarticle" : "http://editions-rnti.fr/render_pdf.php?p=1001394" 
+} 
+ 

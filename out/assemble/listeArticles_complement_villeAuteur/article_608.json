@@ -1,0 +1,9 @@
+{	 "idArt" : "608",
+	 "placeAut" : [ 
+		{ "place" : "Sunnyvale",
+		 "country" : "USA",
+		 "location" : { "lat" :  37.36883, 
+			 "lon" : -122.0363496 } }
+	 ]
+} 
+ 

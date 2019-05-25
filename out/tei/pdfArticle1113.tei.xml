@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/josuah/Bureau/grobid/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="fr">
+		<encodingDesc>
+			<appInfo>
+				<application version="0.5.5-SNAPSHOT" ident="GROBID" when="2019-04-04T12:42+0000">
+					<ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Associer argumentation et simulation en aide à la décision : Illustration en agroalimentaire</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Rallou</forename><surname>Thomopoulos</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="institution">Université Laval</orgName>
+								<address>
+									<region>Québec</region>
+									<country key="CA">Canada</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Sébastien</forename><surname>Gaucel</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Bernard</forename><surname>Moulin</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="institution">Université Laval</orgName>
+								<address>
+									<region>Québec</region>
+									<country key="CA">Canada</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff0">
+								<orgName type="institution">INRA -UMR IATE</orgName>
+								<address>
+									<settlement>Montpellier</settlement>
+									<country>France (</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Associer argumentation et simulation en aide à la décision : Illustration en agroalimentaire</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<abstract>
+				<p>Prendre une décision impliquant plusieurs acteurs aux objectifs diver-gents nécessite de considérer des informations tant qualitatives-les préférences des acteurs sur les décisions possibles-que quantitatives-les paramètres servant d&apos;indicateurs pour les acteurs. Dans cet article nous nous intéressons à l&apos;as-sociation de ces deux types d&apos;approches. Le modèle qualitatif considéré est l&apos;ar-gumentation. Le modèle quantitatif simulant les scénarios découlant de chaque décision est la dynamique des systèmes. Cet article s&apos;intéresse aux éléments per-mettant de connecter les deux formalismes. Un exemple en agroalimentaire vient en appui à cette réflexion.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="fr">
+	</text>
+</TEI>

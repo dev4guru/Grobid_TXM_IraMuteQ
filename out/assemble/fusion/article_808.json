@@ -1,0 +1,22 @@
+{
+"year": "2006",
+"metaSession": "2",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1000402",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1000402",
+"abstract": "",
+"title": "Extension de l'algorithme CURE aux fouilles de données volumineuses",
+"placeAut":[{
+"place":"Illkirch",
+"country":"France",
+"location":{
+	"lat":"48.52854",
+	"lon":"7.711011"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 50.62925, u'lon': 3.057256}",
+"place": "Lille",
+"booktitle": "EGC",
+"idArt": "808",
+"authors": "['Jerzy Korczak','Aurélie Bertaux']"
+}

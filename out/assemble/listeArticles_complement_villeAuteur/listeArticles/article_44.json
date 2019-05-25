@@ -1,0 +1,13 @@
+{	 "idArt" : "44",
+	 "series" : "Revue des Nouvelles Technologies de l'Information",
+	 "booktitle" : "EGC",
+	 "year" : "2015",
+	 "place" : "Luxembourg",
+	 "location" : { "lat" :  49.815273, 
+		 "lon" : 6.129582999999999 }, 
+	 "title" : "Pour une meilleure exploitation de la classification croisée dans les systèmes de filtrage collaboratif",
+	 "abstract" : "Pour la prédiction automatique des items préférés par des utilisateurs sur le Web, différents systèmes de filtrage collaboratif ont été proposés. La plupart d'entre eux sont basés sur la factorisation matricielle et les approches de type k plus proches voisins. Malheureusement ces deux approches requièrent un temps de calcul important. Une partie de ces problèmes a pu être surmontée par la classification croisée ou co-clustering qui s'avère pertinente du fait qu'elle permet par nature une gestion simultanée des ensembles correspondant aux utilisateurs et aux items. Cependant, des travaux doivent encore être menés pour une meilleure prise en compte des données manquantes. Dans ce travail, nous proposons donc une gestion efficace des données non observées permettant une meilleure exploitation du potentiel de la classification croisée dans le domaine des systèmes de recommandation. Nous montrons de plus qu'elle permet d'obtenir des représentations à base de graphes bipartis facilitant l'interprétation interactive des affinités entre des groupes d'utilisateurs et des groupe d'items.",
+	 "authors" : ["Aghiles Salah","Nicoleta Rogovschi","François Role","Mohamed Nadif"],
+	 "pdf1page" : "http://editions-rnti.fr/render_pdf.php?p1&p=1002095" 
+} 
+ 

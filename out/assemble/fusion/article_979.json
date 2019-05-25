@@ -1,0 +1,22 @@
+{
+"year": "2005",
+"metaSession": "3",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1000361",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1000361",
+"abstract": "",
+"title": "La réussite universitaire : prédictions par génération de règles",
+"placeAut":[{
+"place":"Mons",
+"country":"Belgique",
+"location":{
+	"lat":"50.4542408",
+	"lon":"3.956659"
+}
+}],
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 48.856614, u'lon': 2.3522219}",
+"place": "Paris",
+"booktitle": "EGC",
+"idArt": "979",
+"authors": "['Nadine Meskens','Jean-Philippe Vandamme','Abdelhakim Artiba']"
+}
